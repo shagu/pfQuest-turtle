@@ -1,0 +1,12 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+  <Include file="..\db\items-turtle.lua"/>
+  <Include file="..\db\units-turtle.lua"/>
+  <Include file="..\db\objects-turtle.lua"/>
+  <Include file="..\db\refloot-turtle.lua"/>
+  <Include file="..\db\quests-itemreq-turtle.lua"/>
+  <Include file="..\db\quests-turtle.lua"/>
+  <Include file="..\db\zones-turtle.lua"/>
+  <Include file="..\db\minimap-turtle.lua"/>
+  <Include file="..\db\areatrigger-turtle.lua"/>
+  <Include file="..\db\meta-turtle.lua"/>
+</Ui>

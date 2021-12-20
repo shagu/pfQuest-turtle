@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffQuest |cffcccccc[TurtleWoW DB]
+## Author: Shagu
+## Notes: A TurtleWoW DB extension for pfQuest
+## Version: GIT
+## Dependencies: pfQuest
+
+init\data-turtle.xml
+init\enUS-turtle.xml
+
+patchtable.lua
