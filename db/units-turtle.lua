@@ -13,10 +13,10 @@ pfDB["units"]["data-turtle"] = {
 
   -- add turtle-wow Kheyna Spinpistol
   [81041] = {
-    ["fac"] = "H",
+    ["fac"] = "AH",
     ["lvl"] = "60",
     ["coords"] = {
-      [1] = { 59.3, 44.4, 17, 0 },
+      [1] = { 59.2, 44.4, 17, 0 },
     },
   },
 }

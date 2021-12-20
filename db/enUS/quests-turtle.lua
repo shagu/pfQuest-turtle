@@ -19,4 +19,9 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Investigate the mountain south of Ratchet.",
     ["D"] = "Hey, $r! In addition to the usual weapons in my stock, I have an opportunity for you. While I was doing my run from Ratchet to the Crossroads I saw a weird light on the mountain just south of Ratchet. There seems to be a ramp up just outside Ratchet, some raptors call the thing home though, so be careful. Now I don't know what it is, but you adventurin' types like to dive right in when it comes to dangerous situations right? It could be some HUGE deal like a demon cult or whatever for all I know and them doing nasty stuff to Ratchet would be very bad for MY business. Consider whatever spoils you find as payment.",
   },
+  [80396] = {
+    ["T"] = "A Bloody Good Deed",
+    ["O"] = "Kill 6 Kolkar Bloodchargers, 4 Kolkar Pack Runners and 4 Kolkar Marauders. Use the crystal to summon Kheyna Spinpistol again.",
+    ["D"] = "I am Kheyna Spinpistol. Mechanist, medic, and among other things. I am currently tracking a dangerous foe who threaten the lives of an untold number of innocents. I may ask for your help in dealing with this later… For now, I have a task for you, one that will have quite the generous reward! The nearby Kolkar tribe is preparing for a raid on the Crossroads. I know this because I've used one of my tools, and you could say I sneaked into their tent and heard their Khan ordering it. This can be avoided however. You'll save many lives if you go down there and put an end to them all. They're all around the Oasis to the west. Once you're done come back to me. If I am not here simply touch the crystal again, I will know someone is waiting for me. Now get out there and KILL them all!",
+  },  
 }
