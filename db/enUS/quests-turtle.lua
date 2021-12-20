@@ -14,4 +14,9 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Share a smoke with Shagu.",
     ["D"] = "Now that you've brought the herbs I can set up my hookah and truly enjoy the real good stuff. It is by the Earthmother's blessings that such a combination exists. I would like you to try this and see for yourself what the gifts of the Earthmother bestow! Sit down, sit down. Let us enjoy the smoke and bond with one another and of course with the Earthmother.",
   },
+  [80395] = {
+    ["T"] = "A Glittering Opportunity",
+    ["O"] = "Investigate the mountain south of Ratchet.",
+    ["D"] = "Hey, $r! In addition to the usual weapons in my stock, I have an opportunity for you. While I was doing my run from Ratchet to the Crossroads I saw a weird light on the mountain just south of Ratchet. There seems to be a ramp up just outside Ratchet, some raptors call the thing home though, so be careful. Now I don't know what it is, but you adventurin' types like to dive right in when it comes to dangerous situations right? It could be some HUGE deal like a demon cult or whatever for all I know and them doing nasty stuff to Ratchet would be very bad for MY business. Consider whatever spoils you find as payment.",
+  },
 }

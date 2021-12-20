@@ -39,4 +39,16 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 8,
     ["pre"] = { 40001, 40002 },
   },
+  -- A Glittering Opportunity
+  [80395] = {
+    ["start"] = {
+      ["U"] = { 3658 },
+    },
+    ["end"] = {
+      ["U"] = { 81041 },
+    },
+    ["lvl"] = 13,
+    ["min"] = 13,
+    ["next"] = 80396,
+  },
 }

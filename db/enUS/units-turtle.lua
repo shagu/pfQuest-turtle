@@ -4,4 +4,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow shagu
   [60300] = "Shagu",
+
+  -- add turtle-wow Kheyna Spinpistol
+  [81041] = "Kheyna Spinpistol",
 }
