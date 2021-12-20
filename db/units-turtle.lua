@@ -1,7 +1,7 @@
 pfDB["units"]["data-turtle"] = {
   -- remove easter-egg shagu
   [420] = "_",
-
+    },
   -- add turtle-wow shagu
   [60300] = {
     ["fac"] = "H",
@@ -13,8 +13,6 @@ pfDB["units"]["data-turtle"] = {
   [81041] = {
     ["fac"] = "H",
     ["lvl"] = "60",
-    ["coords"] = {
-      [1] = { 59.3, 44.4, 17, 0 },
+    ["coords"] = { 59.3, 44.4, 17, 0 },
     },
-  },
 }
