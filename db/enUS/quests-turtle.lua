@@ -68,7 +68,22 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Trader's Misfortune",
     ["O"] = "Kill Tazan and return to Wharfmaster Dizzywig in Ratchet.",
     ["D"] = "These pirates are an infestation to our port, even worse than the rats we have to exterminate each month. It's absolutely ridiculous, $N. What's even worse is the fact that some foolish trader decided to do business with them. Whatever idea crossed his small brain to do that I will never know. While you're out there hunting for pirates, be on the lookout for Tazan and take care of him as well. Come see me after and I'll be sure to reward you.",
-  },   
+  },
+  [80100] = {
+    ["T"] = "A New Ad-Venture",
+    ["O"] = "Gather 8 Whirling Whizmagigs from Whirling Whizz-Bots, then return to Nert Blastentom.",
+    ["D"] = "Alright, pal, listen up. I know this is your first mission for the Venture Company, so I’ll speak real slow. We’re up here to find a special treasure, y'hear? Supposed to be worth more than half the jewels in Undermine all by itself. Boss can’t wait to get his hands on it, but the last guys he sent up here never sent anything back. Thievin’ jerks think they’re gonna keep the boss’s treasure for themselves? Not if I have anything to say about it. Boss says don’t come home unless we get what we came for. We busted up a few gizmos on our flyer gettin’ down here, but luckily for us, it seems like those other guys left some of their bots behind. Run around and grab some whizmagigs from them, would ya?",
+  },
+  [80104] = {
+    ["T"] = "The Other White Mech",
+    ["O"] = "Collect 5 Mechanical Drumsticks from the mechanical chickens and return to Sprat Nozzleton.",
+    ["D"] = "If there’s one thing I like better than crackin' skulls for profit, it’s cookin’ up brand-new mechanical marvels. There’s a whole butcher’s shop of parts out there in those burnt woods, and buddy, my mouth is waterin’ for a big old mechanical feast! I don’t know why the other expedition would leave so much behind and I don’t care - bring me some of those parts!",
+  },
+  [80120] = {
+    ["T"] = "Garbage Man",
+    ["O"] = "Kazznik has asked you to collect the Trash littered throughout the worksite.",
+    ["D"] = "Hey, you! Yeah, I'm talkin' to you, pal! I've been picking up our crew's trash all day long and I could really use a break. Say, hows about you clean up for a while? I'll be over here in the shade takin' a quick snooze. When I wake up, I expect this place to be spotless. Now get to work!",
+  },
    [80311] = {
     ["T"] = "Mastering the Arcane",
     ["O"] = "Speak to Chok'Garok on a bank of Southfury River in the Barrens",

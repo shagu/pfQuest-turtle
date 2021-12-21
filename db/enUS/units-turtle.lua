@@ -8,6 +8,21 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow shagu
   [60300] = "Shagu",
 
+  -- add turtle-wow Nert Blastentom starter
+  [80100] = "Nert Blastentom",
+  
+  -- add turtle-wow Sprat Nozzleton
+  [80101] = "Sprat Nozzleton",
+
+  -- add turtle-wow Whirling Whizz-Bot
+  [80112] = "Whirling Whizz-Bot",
+
+  -- add turtle-wow Haywire Battlechicken
+  [80117] = "Haywire Battlechicken",
+
+  -- add turtle-wow Kazznik
+  [80131] = "Kazznik",
+
   -- add turtle-wow Chok'Garok
   [80831] = "Chok'Garok",
 

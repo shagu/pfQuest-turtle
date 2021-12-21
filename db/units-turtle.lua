@@ -20,6 +20,54 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- add turtle-wow Nert Blastentom starter
+  [80100] = {
+    ["fac"] = "H",
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 38.2, 33.1, 406, 0 },
+    },
+  },
+
+  -- add turtle-wow Sprat Nozzleton
+  [80101] = {
+    ["fac"] = "H",
+    ["lvl"] = "3",
+    ["coords"] = {
+      [1] = { 37.5, 33.0, 406, 0 },
+    },
+  },
+
+  -- add turtle-wow Whirling Whizz-Bot
+  [80112] = {
+    ["lvl"] = "1-2",
+    ["coords"] = {
+      [1] = { 38.6, 30.1, 406, 0 },
+	  [2] = { 39.0, 30.8, 406, 0 },
+	  [3] = { 39.1, 33.5, 406, 0 },
+	  [4] = { 37.0, 33.2, 406, 0 },
+    },
+  },
+
+  -- add turtle-wow Haywire Battlechicken
+  [80117] = {
+    ["lvl"] = "2",
+    ["coords"] = {
+      [1] = { 38.2, 30.5, 406, 0 },
+	  [2] = { 38.9, 30.6, 406, 0 },
+	  [3] = { 38.6, 34.0, 406, 0 },
+	  [4] = { 39.2, 34.9, 406, 0 },
+    },
+  },
+
+  -- add turtle-wow Kazznik
+  [80131] = {
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 38.3, 32.3, 406, 0 },
+    },
+  },
+
   -- add turtle-wow Chok'Garok
   [80831] = {
     ["fac"] = "H",
