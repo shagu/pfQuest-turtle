@@ -17,3 +17,6 @@ If you wish to add more content, feel free to contribute and send [Pull Requests
 3. Rename the folder "pfQuest-turtle-master" to "pfQuest-turtle"
 4. Copy "pfQuest-turtle" into Wow-Directory\Interface\AddOns
 5. Restart Wow
+
+## Pending Quest List
+https://docs.google.com/spreadsheets/d/1-DYHaEq8GD8lH10GJXZxD9iNLNWjl4XA32u_Ire11NY/edit?usp=sharing
