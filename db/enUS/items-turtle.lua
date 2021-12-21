@@ -1,3 +1,15 @@
 pfDB["items"]["enUS-turtle"] = {
-  [60000] = "Satchel of Mixed Herbs"
+  [51706] = "Country Pumpkin Seeds",
+  [51707] = "Mountain Berries Seeds",
+  [51708] = "Striped Melon Seeds",
+  [51716] = "Magic Mushroom Spores",
+  [51826] = "Squealer Thornmantle's Mane",
+  [51860] = "Sickly Gazelle Flesh Sample",
+  [60000] = "Satchel of Mixed Herbs",
+  [70040] = "Summer Dew",
+  [70041] = "Life's Dawn",
+  [70042] = "Vulpa Bloom",
+  [80862] = "Moontouched Wood",
+  [80863] = "Crystal of the Serpent",
+  [80864] = "Everchanging Essence",
 }
