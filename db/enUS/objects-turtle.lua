@@ -5,6 +5,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [1772003] = "Summer Dew",
   [1772004] = "Life's Dawn",
   [1772005] = "Vulpa Bloom",
+  [3000100] = "FM Acquisition, Blastentom's Property",
   [3000227] = "Trash",
   [3000228] = "Trash",
   [3000229] = "Trash",
