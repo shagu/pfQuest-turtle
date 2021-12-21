@@ -43,7 +43,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Down With the Sickness",
     ["O"] = "Collect 10 samples from the Sickly Gazelles wandering the Barrens.",
     ["D"] = "Even as I send you to discover the wondrous source of life here, there is foulness tainting the land. The gentle herds of gazelle are falling ill. We are stymied in our efforts to heal the sick and bring balance to the circle of life. I have sent word home to Thunder Bluff, and through my brethren there, Moonglade. We will have assistance from the Cenarion Circle soon. If you are eager to help, however, I will certainly use you! Go and track the poor beasts that lag behind their herds. You must hunt them before the lionesses bring down the sickly gazelles to feed their prides. Return to me with samples so that I may study what ails our animal friends.",
-  },  
+  },
   [60134] = {
     ["T"] = "Preventing Poison",
     ["O"] = "Vaccinate 10 Gazelle of the Barrens to protect them from harm.",
@@ -63,7 +63,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Troubles From Distant Lands",
     ["O"] = "Gather 3 types of healing herbs for Aneka Konko in Ratchet.",
     ["D"] = "I offer you humble greetings, denizen of these lands. It is remiss of me to ask this of you, but my people are in grave danger so I cannot withhold from inquiring. My name is Aneka Konko. I hail from Kamio, a land across the seas. Five years ago, we first saw the fish and snake people wash upon our shores. Their encroachments have only continued and our sacred Kami can no longer protect us. I have arrived to this land with a small entourage to seek the help of kind souls who could assist me. Our warriors are fighting to their last breath against the invaders, although, these days most of our warriors die not to the enemy, but to illness. We're ill equipped to treat the many injured. Our island is small and few of us possess the knowledge or reagents needed. When I first came here, I learned of three rare plants that possess immense healing properties. I beg of you to assist us. Retrieve these plants from the three oases in the Barrens. Each oasis contains one of these plants.",
-  },     
+  },
   [70052] = {
     ["T"] = "Trader's Misfortune",
     ["O"] = "Kill Tazan and return to Wharfmaster Dizzywig in Ratchet.",
@@ -153,7 +153,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Mastering the Arcane",
     ["O"] = "Speak to Chok'Garok on a bank of Southfury River in the Barrens",
     ["D"] = "<Ureda glances at you with dismay.> Your skills still require some honing, and your posture betrayes your arrogance. Typical of any new apprentice who bears overconfidence before his own wits. Not that it matters to me. It's your own problem. Any aspiring mage should have his spells ready at all times and think two steps ahead. That's why your lack of awareness should be compensated with at least something you could procure by yourself. There is a… mage who resides on the bank of Southfury River, not far from Thunder Ridge. The task you will recieve from this mage might be arduous at first glance, yet most likely will bear fruit if you put your brain into it.",
-  },     
+  },
    [80312] = {
     ["T"] = "Arcane Arms",
     ["O"] = "Bring Chok'Garok 5 pieces of Moontouched Wood, a Crystal of the Serpent, and an Everchanging Essence from Wailing Caverns.",
@@ -173,5 +173,5 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A Bloody Good Deed",
     ["O"] = "Kill 6 Kolkar Bloodchargers, 4 Kolkar Pack Runners and 4 Kolkar Marauders. Use the crystal to summon Kheyna Spinpistol again.",
     ["D"] = "I am Kheyna Spinpistol. Mechanist, medic, and among other things. I am currently tracking a dangerous foe who threaten the lives of an untold number of innocents. I may ask for your help in dealing with this later… For now, I have a task for you, one that will have quite the generous reward! The nearby Kolkar tribe is preparing for a raid on the Crossroads. I know this because I've used one of my tools, and you could say I sneaked into their tent and heard their Khan ordering it. This can be avoided however. You'll save many lives if you go down there and put an end to them all. They're all around the Oasis to the west. Once you're done come back to me. If I am not here simply touch the crystal again, I will know someone is waiting for me. Now get out there and KILL them all!",
-  },  
+  },
 }

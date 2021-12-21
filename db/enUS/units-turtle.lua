@@ -10,7 +10,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Nert Blastentom starter
   [80100] = "Nert Blastentom",
-  
+
   -- add turtle-wow Sprat Nozzleton
   [80101] = "Sprat Nozzleton",
 
@@ -58,7 +58,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Nert Blastentom durotar
   [80121] = "Nert Blastentom",
-  
+
   -- add turtle-wow Kazznik
   [80131] = "Kazznik",
 
@@ -70,10 +70,10 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Mysterious Stranger
   [81030] = "Mysterious Stranger",
-  
+
   -- add turtle-wow Kheyna Spinpistol
   [81041] = "Kheyna Spinpistol",
 
   -- add turtle-wow Aneka Konko
-  [90983] = "Aneka Konko",  
+  [90983] = "Aneka Konko",
 }

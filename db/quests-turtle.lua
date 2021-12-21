@@ -71,7 +71,7 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 178,
     ["lvl"] = 4,
     ["min"] = 3,
-    ["pre"] = { 376 },	
+    ["pre"] = { 376 },
   },
   -- Preventive Strike
   [60115] = {
@@ -82,8 +82,8 @@ pfDB["quests"]["data-turtle"] = {
       ["U"] = { 3209 },
     },
     ["obj"] = {
-	  ["I"] = { 51826 },
-	  
+      ["I"] = { 51826 },
+
     },
     ["race"] = 178,
     ["lvl"] = 5,
@@ -135,7 +135,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 14,
     ["min"] = 14,
     ["next"] = 60134,
-  },  
+  },
   -- Preventing Poison
   [60134] = {
     ["start"] = {
@@ -150,7 +150,7 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 178,
     ["lvl"] = 15,
     ["min"] = 15,
-    ["pre"] = { 60133 },	
+    ["pre"] = { 60133 },
   },
   -- Kodo Hunt
   [60138] = {
@@ -165,7 +165,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["race"] = 178,
     ["lvl"] = 11,
-    ["min"] = 10,	
+    ["min"] = 10,
   },
   -- Mother of the Hollow
   [60148] = {
@@ -181,7 +181,7 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 178,
     ["lvl"] = 5,
     ["min"] = 4,
-    ["pre"] = { 376, 380 },	
+    ["pre"] = { 376, 380 },
   },
   -- Troubles From Distant Lands
   [70048] = {
@@ -195,8 +195,8 @@ pfDB["quests"]["data-turtle"] = {
       ["I"] = { 70040, 70041, 70042 },
     },
     ["lvl"] = 13,
-    ["min"] = 12,	
-  },    
+    ["min"] = 12,
+  },
   -- Trader's Misfortune
   [70052] = {
     ["start"] = {
@@ -210,7 +210,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["race"] = 178,
     ["lvl"] = 13,
-    ["min"] = 12,	
+    ["min"] = 12,
   },
   -- A New Ad-Venture
   [80100] = {
@@ -315,7 +315,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 6,
     ["min"] = 4,
     ["next"] = 80107,
-	["pre"] = { 80105 },
+    ["pre"] = { 80105 },
   },
   -- Shadow On The Plateau
   [80107] = {
@@ -332,7 +332,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 6,
     ["min"] = 4,
     ["next"] = 80108,
-	["pre"] = { 80105, 80106 },
+    ["pre"] = { 80105, 80106 },
   },
   -- Me Not Any Kind Of Orc
   [80108] = {
@@ -349,7 +349,7 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 6,
     ["min"] = 4,
     ["next"] = 80109,
-	["pre"] = { 80105, 80106, 80107 },
+    ["pre"] = { 80105, 80106, 80107 },
   },
    -- Grease-stained Letter
   [80115] = {
@@ -363,7 +363,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 1,
     ["lvl"] = 2,
     ["min"] = 2,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
    -- Ooze-covered Letter
   [80116] = {
@@ -377,7 +377,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 8,
     ["lvl"] = 2,
     ["min"] = 2,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
    -- Leather-covered Letter
   [80117] = {
@@ -391,7 +391,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 4,
     ["lvl"] = 2,
     ["min"] = 2,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
    -- Fancy Letter
   [80118] = {
@@ -405,7 +405,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 128,
     ["lvl"] = 2,
     ["min"] = 2,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
   -- Awful-looking Letter
   [80119] = {
@@ -419,7 +419,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 256,
     ["lvl"] = 2,
     ["min"] = 2,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
   -- Garbage Man
   [80120] = {
@@ -451,7 +451,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 256,
     ["lvl"] = 6,
     ["min"] = 4,
-	["pre"] = { 80100 },
+    ["pre"] = { 80100 },
   },
   -- Mastering the Arcane
   [80311] = {
@@ -465,7 +465,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 128,
     ["lvl"] = 16,
     ["min"] = 14,
-    ["next"] = 80312,	
+    ["next"] = 80312,
   },
   -- Arcane Arms
   [80312] = {
@@ -482,7 +482,7 @@ pfDB["quests"]["data-turtle"] = {
     ["class"] = 128,
     ["lvl"] = 18,
     ["min"] = 14,
-    ["pre"] = { 80311 },	
+    ["pre"] = { 80311 },
   },
   -- Stay awhile and listen...
   [80388] = {
@@ -493,7 +493,7 @@ pfDB["quests"]["data-turtle"] = {
       ["U"] = { 81030 },
     },
     ["lvl"] = 1,
-    ["min"] = 1,	
+    ["min"] = 1,
   },
   -- A Glittering Opportunity
   [80395] = {
@@ -520,10 +520,10 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["obj"] = {
       ["U"] = { 3397, 3274, 3275 },
-    },	
+    },
     ["lvl"] = 13,
     ["min"] = 13,
     ["next"] = 80407,
-    ["pre"] = { 80395 },	
-  },  
+    ["pre"] = { 80395 },
+  },
 }
