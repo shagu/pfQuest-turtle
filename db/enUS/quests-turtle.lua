@@ -19,15 +19,35 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
     ["D"] = "Ish-ne-alo por-ah, young one! Sole reason you're here can only be the desire to learn how to foster your own garden and procure food where otherwise it wouldn't grow I believe? By the squint in your eyes I can see it is true. Very well. There's a particular type of seeds you will have to find first. Once you have'em all with you I shall teach you something not even hunters or trappers would know how to survive with less violence and killing. This is the Blessing that our tribes bear with pride and foster with care, a Blessing of the Earth-Mother herself. Come back to me when you have all the seeds I've mentioned in this parchment here. I have and will be expecting you … again. Winds be at your back.",
   },
+  [60107] = {
+    ["T"] = "Cold Feet",
+    ["O"] = "Retrieve Gretchen's slippers from the shiny footlocker north of Solliden Farmstead.",
+    ["D"] = "The damned cold won't leave me. I thank you for the pelts, $N but I wonder if I may trouble you again? I paid a helpful soul, Calvin, to go to Solliden Farmstead to retrieve my slippers before you happened along. He hasn't returned and I've heard that he may be less than honest. Undeath doesn't change an opportunist it seems. My slippers are in a footlocker at the farmstead. The reports I overheard about Scarlets in the area are the least concerning. The murlocs like anything shiny I've heard and I did keep that footlocker polished up...",
+  },
   [60112] = {
     ["T"] = "Fallen Adventurers",
     ["O"] = "Novice Elreth has asked you to kill Karrel Grayves, Daniel Ulfman and Stephen Bhartec. They were last seen at a camp near Deathknell's gate.",
     ["D"] = "While I'm bound to fulfill Marla's wish, I cannot help but think about Samuel's friends. They are damned into eternal service for the Scourge with their bodies and minds beyond recovery. Please, if you see them... lay them to rest.",
   },
+  [60113] = {
+    ["T"] = "Virulence",
+    ["O"] = "Apothecary Johaan has asked you to gather 5 Vials of Human Blood from the Tirisfal Farmers located in the Solliden Farmstead.",
+    ["D"] = "If my theories are correct, then human blood should react to the plague I'm concocting. While you're out gathering the Murloc scales, go to the Solliden Farmstead and bring blood from the Farmhands and Farmers.",
+  },
   [60115] = {
     ["T"] = "Preventive Strike",
     ["O"] = "Brave Windfeather has asked you to kill and bring the mane of whoever is protecting the battle plans. Then look around for the attack plans.",
     ["D"] = "I have another task for you, $N. While you're hunting Sharptusk, look for any signs of battle plans. It would give us a strategic advantage over them. If they are planning to attack us, then we best be ready for when they do. If I had to guess, they would probably hide it in a safe location like a Cave. Kill whoever is defending the plans and bring me their mane as proof.",
+  },
+  [60116] = {
+    ["T"] = "Paint the Roses Red",
+    ["O"] = "Eliminate the Scarlet forces outside the Monastery.",
+    ["D"] = "It's about time someone with some skills showed up around here! It's one thing to send fresh bodies after the lower Scarlet ranks, but I need an experienced $C if we're going to bring down the zealots on their own grounds. Hmm. I seem to recall you being quite the efficient killer. Let me see that you've still got what it takes to serve. Thin the ranks outside the Monastery!",
+  },
+  [60117] = {
+    ["T"] = "Scarlet with Rage",
+    ["O"] = "Speak to Deathguard Burgess in Brill.",
+    ["D"] = "You! $R! I wonder if you could do me a favor. Deathguard Burgess in Brill has been ranting about his station, and only having access to the inexperienced members of the horde. He has something that requires a more learned hand and he's prepared to pay.",
   },
   [60124] = {
     ["T"] = "Trapped in the Nightmare",
@@ -54,10 +74,20 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find a herd of kodo in the fields of Mulgore and defeat its Matriarch and Bull.",
     ["D"] = "The kodo is the mightiest of the beasts of Mulgore, and therefore the greatest of its hunts. You are ready, young $C, to hunt them yourself. You have probably already seen the kodo herds wandering Mulgore during your earlier travels. Find one of the herds, and challenge its matriarch and bull. Kodos are not aggressive creatures, but they are fearsome when provoked – you will need all the skills you have learned to overcome their elders, $R. Return to me when you have conquered them.",
   },
+  [60140] = {
+    ["T"] = "Don’t Lose (Part Of) Your Head",
+    ["O"] = "Bring 10 Linen Bandages to Austil de Mon, in the Gallows’ End Tavern in Brill. You can make the bandages with First Aid skill or buy them from another player.",
+    ["D"] = "Some people get all the luck! <Austil glares at Colman Farthing across the inn.> Oh, I lost my family, the plague took my home from me. On and on and on he goes! We get it! The plague took all of our homes and all of our families. But some of us at least came out of it with a jaw intact! <Austil cracks a bone back into place.> If you want to make yourself useful, bring me some bandages so I can hold what’s left of me together!",
+  },
   [60148] = {
     ["T"] = "Mother of the Hollow",
     ["O"] = "Executor Arren wants you to investigate the Night Web Hollow and kill their broodmother.",
     ["D"] = "We keep killing the spiders but we find that the number hasn't changed the next day. I think there's something off. Go down into the hollow and investigate. Come back in one piece and be rewarded. We suspect that they have a broodmother.",
+  },
+  [70040] = {
+    ["T"] = "Reinforcing The Sepulcher",
+    ["O"] = "Basil Frye wants you to bring 4 Runed Copper belts and 4 Heavy Copper Mauls to Edwin Harly in Silverpine Forest.",
+    ["D"] = "I never gave up on my dream, $N, my mission still stands even in death, I lived to forge and help our proud soldiers protect themselves, alas, you too will help me to do that. Our men face peril down to Silverpine Forest, the last of the Scourge, the magi of Dalaran and the foul beasts Arugal summoned upon our lands. I’d imagine the Sepulcher it’s short supplied, bring them these items. You will be expected. Upon delivery you will be rewarded with plans for a new set of armor, so you too will be ready to face our enemy.",
   },
   [70048] = {
     ["T"] = "Troubles From Distant Lands",

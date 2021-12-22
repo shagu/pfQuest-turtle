@@ -57,6 +57,22 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 60,
     ["min"] = 20,
   },
+  -- Cold Feet
+  [60107] = {
+    ["start"] = {
+      ["U"] = { 1521 },
+    },
+    ["end"] = {
+      ["U"] = { 1521 },
+    },
+    ["obj"] = {
+      ["I"] = { 51807 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 10,
+    ["min"] = 8,
+    ["pre"] = { 375 },
+  },
   -- Fallen Adventurers
   [60112] = {
     ["start"] = {
@@ -72,6 +88,22 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 4,
     ["min"] = 3,
     ["pre"] = { 376 },
+  },
+  -- Virulence
+  [60113] = {
+    ["start"] = {
+      ["U"] = { 1518 },
+    },
+    ["end"] = {
+      ["U"] = { 1518 },
+    },
+    ["obj"] = {
+      ["I"] = { 51822 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 8,
+    ["min"] = 6,
+    ["pre"] = { 367 },
   },
   -- Preventive Strike
   [60115] = {
@@ -89,6 +121,35 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 5,
     ["min"] = 3,
     ["pre"] = { 3376 },
+  },
+  -- Paint the Roses Red
+  [60116] = {
+    ["start"] = {
+      ["U"] = { 1652 },
+    },
+    ["end"] = {
+      ["U"] = { 1652 },
+    },
+    ["obj"] = {
+      ["U"] = { 4281, 4280, 4283 },
+
+    },
+    ["race"] = 178,
+    ["lvl"] = 29,
+    ["min"] = 27,
+    ["pre"] = { 60117 },
+  },
+  -- Scarlet with Rage
+  [60117] = {
+    ["start"] = {
+      ["U"] = { 6741 },
+    },
+    ["end"] = {
+      ["U"] = { 1652 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 29,
+    ["min"] = 27,
   },
   -- Trapped in the Nightmare (Alliance custom)
   [60124] = {
@@ -167,6 +228,21 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 11,
     ["min"] = 10,
   },
+  -- Don’t Lose (Part Of) Your Head
+  [60140] = {
+    ["start"] = {
+      ["U"] = { 2131 },
+    },
+    ["end"] = {
+      ["U"] = { 2131 },
+    },
+    ["obj"] = {
+      ["I"] = { 1251 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 6,
+    ["min"] = 5,
+  },
   -- Mother of the Hollow
   [60148] = {
     ["start"] = {
@@ -182,6 +258,20 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 5,
     ["min"] = 4,
     ["pre"] = { 376, 380 },
+  },
+  -- Reinforcing The Sepulcher
+  [70040] = {
+    ["start"] = {
+      ["U"] = { 4605 },
+    },
+    ["end"] = {
+      ["U"] = { 2140 },
+    },
+    ["obj"] = {
+      ["I"] = { 6214, 2857 },
+    },
+    ["lvl"] = 16,
+    ["min"] = 14,
   },
   -- Troubles From Distant Lands
   [70048] = {

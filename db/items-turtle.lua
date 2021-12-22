@@ -25,6 +25,19 @@ pfDB["items"]["data-turtle"] = {
       [9047] = 100.00,
     },
   },
+  -- Gretchen's Slippers
+  [51807] = {
+    ["O"] = {
+      [1000383] = 100.00,
+    },
+  },
+  -- Human Blood
+  [51822] = {
+    ["U"] = {
+      [1934] = 100.00,
+      [1935] = 100.00,
+    },
+  },
   -- Squealer Thornmantle's Mane
   [51826] = {
     ["U"] = {
