@@ -8,6 +8,24 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow shagu
   [60300] = "Shagu",
 
+  -- add turtle-wow Taupo Foreststrider
+  [70020] = "Taupo Foreststrider",
+
+  -- add turtle-wow Norvok Hawkspear
+  [70022] = "Norvok Hawkspear",
+
+  -- add turtle-wow Commander Grushak
+  [70023] = "Commander Grushak",
+
+  -- add turtle-wow Ashenvale Stalker
+  [70025] = "Ashenvale Stalker",
+
+  -- add turtle-wow Farseer Grimeye
+  [70027] = "Farseer Grimeye",
+
+  -- add turtle-wow Discover what's hiding in the Barrow Den
+  [70028] = "Discover what's hiding in the Barrow Den",
+
   -- add turtle-wow Nert Blastentom starter
   [80100] = "Nert Blastentom",
 
