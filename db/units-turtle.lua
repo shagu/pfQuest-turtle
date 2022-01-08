@@ -2,6 +2,15 @@ pfDB["units"]["data-turtle"] = {
   -- remove easter-egg shagu
   [420] = "_",
 
+  -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
+  [3884] = {
+    ["fac"] = "H",
+    ["lvl"] = "13",
+    ["coords"] = {
+      [1] = {47.6, 61.5, 215, 0 },
+    },
+  },
+
   -- add turtle-wow Kern Mosshoof
   [51532] = {
     ["fac"] = "H",
@@ -17,6 +26,33 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "9",
     ["coords"] = {
       [1] = { 45.0, 59.9, 215, 0 },
+    },
+  },
+
+  -- add turtle-wow Grubgar
+  [60510] = {
+    ["fac"] = "H",
+    ["lvl"] = "12",
+    ["coords"] = {
+      [1] = { 37.0, 22.5, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Modopo
+  [60538] = {
+    ["fac"] = "H",
+    ["lvl"] = "58",
+    ["coords"] = { 
+      [1]= { 53.1, 41.5, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Bristlefur
+  [60538] = {
+    ["fac"] = "H",
+    ["lvl"] = "58",
+    ["coords"] = { 
+      [1] = { 53.1, 41.4, 14, 0 },
     },
   },
 
@@ -269,6 +305,15 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- add turtle-wow Grand Taskmaster Nert Blastentom
+  [80178] = {
+    ["fac"] = "H",
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 58.7, 26.4, 14, 0 },
+    },
+  },
+
   -- add turtle-wow Chok'Garok
   [80831] = {
     ["fac"] = "H",
@@ -284,6 +329,23 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "60",
     ["coords"] = {
       [1] = { 37.2, 85.2, 1637, 0 },
+    },
+  },
+
+  -- add turtle-wow Knobby Tinfault
+  [80901] = {
+    ["lvl"] = "12",
+    ["coords"] = {
+      [1] = { 51.9, 24.4, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Miley Wildbit
+  [80902] = {
+    ["fac"] = "H",
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 51.3, 16.0, 14, 0 },
     },
   },
 
@@ -318,6 +380,193 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "14",
     ["coords"] = {
       [1] = { 62.5, 37.5, 17, 0 },
+    },
+  },
+
+  -- add turtle-wow Makura Thresher
+  [91193] = {
+    ["lvl"] = "7-8",
+    ["coords"] = {
+      [1] = { 62.6, 23.6, 14, 0 },
+      [2] = { 62.8, 24.5, 14, 0 },
+      [3] = { 64.3, 26.0, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Makura Oilclaw
+  [91194] = {
+    ["lvl"] = "8-9",
+    ["coords"] = {
+      [1] = { 63.1, 23.9, 14, 0 },
+      [2] = { 63.0, 24.4, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Wrix Ozzlenut
+  [91200] = {
+    ["fac"] = "H",
+    ["lvl"] = "36",
+    ["coords"] = {
+      [1] = { 58.3, 25.7, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Rugnar
+  [91203] = {
+    ["fac"] = "H",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 58.0, 26.6, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Oilworker Razlik
+  [91208] = {
+    ["fac"] = "H",
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 59.5, 24.6, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Technician Spuzzle
+  [91214] = {
+    ["fac"] = "H",
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 57.4, 25.8, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Hargosh
+  [91227] = {
+    ["fac"] = "H",
+    ["lvl"] = "13-14",
+    ["coords"] = {
+      [1] = { 59.1, 24.6, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Krez the Wise
+  [91232] = {
+    ["fac"] = "H",
+    ["lvl"] = "14",
+    ["coords"] = {
+      [1] = { 58.5, 27.4, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Tradesman Laz
+  [91237] = {
+    ["fac"] = "H",
+    ["lvl"] = "52",
+    ["coords"] = {
+      [1] = { 58.5, 25.7, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Technician Grimzlow
+  [91234] = {
+    ["fac"] = "H",
+    ["lvl"] = "14",
+    ["coords"] = {
+      [1] = { 57.4, 25.7, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Gowlfang
+  [91243] = {
+    ["fac"] = "H",
+    ["lvl"] = "6",
+    ["coords"] = {
+      [1] = { 58.8, 25.5, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Pazzle Brightwrench
+  [91259] = {
+    ["fac"] = "H",
+    ["lvl"] = "10",
+    ["coords"] = {
+      [1] = { 59.1, 26.00, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Shak 'The Hack'
+  [91260] = {
+    ["fac"] = "H",
+    ["lvl"] = "10",
+    ["coords"] = {
+      [1] = { 58.7, 24.7, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Miner Axel
+  [91272] = {
+    ["fac"] = "H",
+    ["lvl"] = "8",
+    ["coords"] = {
+      [1] = { 56.0, 25.4, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Big Fraggle
+  [91274] = {
+    ["fac"] = "H",
+    ["lvl"] = "12",
+    ["coords"] = {
+      [1] = { 56.2, 27.11, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Grimm Onearm
+  [91275] = {
+    ["fac"] = "H",
+    ["lvl"] = "12",
+    ["coords"] = {
+      [1] = { 57.5, 25.9, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Brizclang Spuckettool
+  [91280] = {
+    ["fac"] = "AH",
+    ["lvl"] = "10-14",
+    ["coords"] = { 
+      [1] = { 28.2, 76.8, 33, 0 },
+    },
+  },
+
+  -- add turtle-wow Sagepaw
+  [91291] = {
+    ["lvl"] = "23-24",
+    ["coords"] = {
+      [1] = { 63.8, 73.3, 11, 0 },
+    },
+  },
+
+  -- add turtle-wow Archivist Landas
+  [91293] = {
+    ["fac"] = "A",
+    ["lvl"] = "30",
+    ["coords"] = {
+      [1] = { 28.6, 88.2, 36, 0 },
+    },
+  },
+
+  -- add turtle-wow Shazknock
+  [91298] = {
+    ["lvl"] = "18",
+    ["coords"] = {
+      [1] = { 61.8, 3.9, 17, 0 },
+    },
+  },
+
+  -- add turtle-wow Foreman Klix
+  [91302] = {
+    ["lvl"] = "21-22",
+    ["coords"] = {
+      [1] = { 66.3, 55.2, 406, 0 },
     },
   },
 }
