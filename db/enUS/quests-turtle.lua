@@ -14,6 +14,176 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Share a smoke with Shagu.",
     ["D"] = "Now that you've brought the herbs I can set up my hookah and truly enjoy the real good stuff. It is by the Earthmother's blessings that such a combination exists. I would like you to try this and see for yourself what the gifts of the Earthmother bestow! Sit down, sit down. Let us enjoy the smoke and bond with one another and of course with the Earthmother.",
   },
+  [40274] = {
+    ["T"] = "A Bad Day to Fish!",
+    ["O"] = "Slay 8 Dreadmaw Crocolisks for Grubgar at Southfury River in Durotar.",
+    ["D"] = "The Southfury river wasn't always so bad, at one point it was swarming with scorpids, another with harpies, and now look at it! The crocolisks have been an utter annoyance to me and all I want to do today is fish. You think you could cull some of these beasts for me? At the least make it so I don't need to wield a weapon, and I can just relax? Before you ask, I've done enough fighting for one lifetime from the Dark Portal, to Lordaeron, and now here. Go out, and secure me just a days rest!",
+  },
+  [40298] = {
+    ["T"] = "Red Skies of Durotar",
+    ["O"] = "Bring 5 Chunks of Boar Meat, 3 Mutton Chops and 1 Bone Chew Toy to Bristlefur in Razor Hill.",
+    ["D"] = "The wyvern are native to Kalimdor and they can be found throughout several Horde lands. They have proven to be loyal companions for our wind riders. I remember the days when we first ensued the help of these beautiful creatures, in truth they have been gifts from the Earthmother to tighten the bond between the Tauren tribes and the Orcs that followed Thrall, it's not an exaggeration to say that without them the Horde wouldn't be where they are today. Bristlefur here is already tame, it will not attack you so let that thought go away. The truth is the poor girl seems to be bored and it also acts like hunger might be overwhelming her, and there might be the fact I did forget her favourite chewing bone back in Thunder Bluff. If you have the time, young <race>, I am more than sure she will take you to the skies if you were to find her a new toy and some food to sate her hunger.",
+  },
+  [40301] = {
+    ["T"] = "Baking Bread",
+    ["O"] = "Deliver the Sack of Flour to Innkeeper Gryshka in Orgrimmar.",
+    ["D"] = "Greetings friend, may I interest you in a loaf of bread? But if it's not bread you're looking for and wish for work, I might have a task for you. My friend, Gryshka, owns the inn of Orgrimmar, in many of her letters she wrote that she is unable to reproduce my special flour and can't provide her customers with Mulgore Spice Bread. It is by the Earthmother's love that adventurers such as you find their path to me or I'd never be able to communicate with her. If you wish to aid me, I will give you a sack of flour and the recipe for it, all you have to do is bring it to Gryshka. I hear our newest mischievous allies, the Goblins have raised a zeppelin tower close to Thunder Bluff, the villagers say it takes you straight to Durotar right over the Barrens. Here, let me get the sack, Gryshka will have a reward for you.",
+  },
+  [50305] = {
+    ["T"] = "Higher Stakes",
+    ["O"] = "Bring 8 Crocolisk Meat to Cook Torka in Razor Hill.",
+    ["D"] = "What now? Ah, it's you again. What eggs? Oh, right. Taillashers. So you want to cook something else besides eggs? I guess I can teach you something. Do you know where the Southfury River ends it's course? This is where you'll have to move. Why? I'm intending to higher the stakes here, whelp! Get me those crocolisk's meat and I'll teach you how to cook it properly! You'll find them all over the river so you better get movin' right away!",
+  },
+  [55000] = {
+    ["T"] = "Razlik's Tools",
+    ["O"] = "Find Razlik's lost tools on the Oil Platform east of the Port.",
+    ["D"] = "Hey, you! Yeah, you! I got a problem that I need fixing and I'll tell ya, it's not sitting around waiting to work again by itself, that's for sure! We're living paradise right now, but, you know how goblins work, eventually we'll be back on that oil platform, one way or another. Thing is, I got a set of tools up there, from way back in the Venture Co. days. I'm used to em, see, and the last thing I want is some sea sucker knocking em off into the water to be lost forever. Go up there, find my tools, and get a few silver, whaddya say, kid?",
+  },
+  [55001] = {
+    ["T"] = "The Oil Stops Flowing",
+    ["O"] = "Kill 5 Makrura Oilclaws and 5 Makrura Threshers at the oil platform east of the Port.",
+    ["D"] = "Damned, blasted, stupid, good for NOTHING. Isn't this just great? It's one thing after another with that oil platform, and I'm a week behind schedule! If you don't call havin' two workers get sucked into the ocean and your oil platform over-run by lobsters a nightmare, then I don't know where you're from pal! The oil needs to keep flowing, and if the boss finds out that this has gone on, he'll have my head! Maybe I could blame this on someone, but first things first, get on over there and clear some of those blasted creatures so we can kick that baby into overdrive and start catching up on all the lost work!",
+  },
+  [55002] = {
+    ["T"] = "Supplies to the Port!",
+    ["O"] = "Deliver the Sealed Trade Goods to the nearby Port Town of Sparkwater to the north-east of Razor Hill.",
+    ["D"] = "Supplies, supplies, supplies. It's all they ever want, those goblins! I send them four saw blades and the next thing I know they need six! I send them tin, and then they need iron. You would swear they went through more materials then the Horde Warmachine! I've got this shipment to run down, but I've got so much other work, if you could be of assistance it would be much appreciated, <race>. The Goblins have set up a new town up to the north east along the coast, you can't miss it. Just follow the smell of the smoke.",
+  },
+  [55003] = {
+    ["T"] = "A New Power Source",
+    ["O"] = "Gather six Energized Scales from Lightning Hides and Thunder Lizards at Thunder Ridge to the west.",
+    ["D"] = "As a technician, it's our job to keep everythin' runnin' ya see? Well, we've run into a small problem, and by a small problem, I mean a big problem! The Oil from the platform isn't coming in and we're barely making due with what we got! That and we're gonna run outta barrels of the juice soon. But, I got an idea anyway. There's a place not far from here to the west called Thunder Ridge, and it's got that name for a reason. The beasts there pack one HELL of a punch! Get me six of their energized scales, so I can tinker with them as a power source. Now, they're not gonna be givin' you their scales, so use some force!",
+  },
+  [55004] = {
+    ["T"] = "Adding a Little Sting",
+    ["O"] = "Collect 5 Chunk of Boar Meat and 5 Scorpid Stinger and bring them to Hargosh in Sparkwater Port.",
+    ["D"] = "Hail, it is in times of peace that the body is set to engage within past-times of enjoyment. One such enjoyment for these goblins is that of eating, and eat they do, <race>. As much as they eat, I am still competing with the others around me, and I'm hoping to set myself apart. I have been wanting to experiment with new recipes from around the Barrens, and while I may never get tired of roasted boar meat, there is more I can do to make my food even more alluring. All around Sparkwater Port there are Scorpids and Boars. Gather Chunks of Boar Meat and Scorpid Stingers from around the area and I will reward you for the effort.",
+  },
+  [55005] = {
+    ["T"] = "Prototype Thievery",
+    ["O"] = "Bring the Prototype Shredder X0-1 Schematic to Wrix Ozzlenut.",
+    ["D"] = "Sneed and I used to be close friends and colleagues back in Kezan, he was a great assistant. But it seems he wasn't satisfied with the silver I paid him, and he snatched MY prototype shredder schematic and ran off one night! Now that we're finally settling up here I had time to call in a few favors on where he ended up. He apparently got contracted by some \"Edwin\" guy and that's where the trail ran cold. Time is money, and his time ran out, find him and get back my plans, make him pay for doublecrossing me.",
+  },
+  [55006] = {
+    ["T"] = "Backup Capacitor",
+    ["O"] = "Bring the Megaflux Capacitor to Technician Grimzlow.",
+    ["D"] = "That was almost a disaster. We ran out of oil and almost used all of the power from the thunder lizard scales. What do you mean just work without power? Pal, most things here don't have a failsafe when the tap runs dry. Some things don't even have an off button! This town is a ticking timebomb. It'll blow up sky high if the oil platform is destroyed or overrun again, and I plan to have a backup plan. You see, I've heard some whispers that the gnomes invented some sort of capacitor that can power entire rigs for hours without end in an emergency, though I also heard Gnomeregan blew up and got radiated, and the capacitor went missing after that. That explains why nobody got their grubby hands on it yet. Venture there and see if you have any luck finding it, maybe bring your friends too, who knows what lurks down there.",
+  },
+  [55011] = {
+    ["T"] = "Employing the Cabal",
+    ["O"] = "Find Grimm Onearm in the Barrens.",
+    ["D"] = "Not good pal, not good at all! And here I thought we'd be safe and sound under the Horde's banner. There's rumors coming from the Undermine that Razdunk found out our location and might come knocking on our doors! Times are desperate enough for me to seek him... There's a crazy old goblin hiding somewhere in the Barrens. Knowing him and his folk, they definitely have a barrier over the blasted thing or I don't know whatever mages do to protect a place they own. There's a slim chance you might find him in the north, when you follow the road to Ashenvale. Give him this piece of paper and this sack of coins. I hate having to pay someone before they do something for me but this is a special case! I really hope you can find him, we definitely could use his help.",
+  },
+  [55012] = {
+    ["T"] = "Short Five Minute Adventure",
+    ["O"] = "Gather the required items from Sparkwater Port.",
+    ["D"] = "As you can see, my stupid shredder broke and I miss the parts to fix it! I also lost my wal... means of communication with my people back home! So, I gotta ask you to do a quick errand for me, yea? Should be easy enough. This new place, where Nert said him and the others settled in, should have everything you need. Oh come on, don't stare at me like that, YOU need my help more than I need yours, so travelling back there shouldn't be too much to ask. Don't worry, I can wait. Just get me some oil flasks, copper tubes and arcane dust, and I will work the rest of the magic.",
+  },
+  [55013] = {
+    ["T"] = "Shaking a Cold Arm",
+    ["O"] = "Report back to Nert Blastentom in Sparkwater Port.",
+    ["D"] = "With my Shredder fixed I can get back home and grab one of my dearest assistants to come aid the cause back in Sparkwater. Let Blastentom know I am coming, he better get a place for me to sleep ready and some good looking goblin babes. It's gonna be fun to work on some new projects, yeah, especially if it's all against that ugly toad Razdunk, bleh. Oh and do remind him, while I will be helping him, I don't owe anything to those Horde bastards!",
+  },
+  [55019] = {
+    ["T"] = "Missing Blood",
+    ["O"] = "Deliver Rugnar's Letter to Zuul in Stonard.",
+    ["D"] = "My brother has recently been dispatched out to the far reaches of our strength and posted within the encampment of Stonard. It's not for me to question the Warchief's desires but I still do worry for my bother's safety out there, even if he is strong and good of health. It has been months since we have last seen one another with all of the deployments, from one to the next, and now the Swamp of Sorrows of all places? The only thing that has me at peace is that he had been promoted to a position of some power within the garrison there. It's good knowing that maybe he is not on the very frontlines and is instead commanding his men. It's an odd thing to watch a younger brother become more important then you but, well, duty calls and we must all do our part. Please find Zuul within Stonard in the Swamp of Sorrows and deliver him this letter.",
+  },
+  [55020] = {
+    ["T"] = "Misgotten Honor",
+    ["O"] = "Speak to Dispatch Commander Ruag in the Stonard Keep.",
+    ["D"] = "Well, this is a little embarrasing, it seems my embellishments might have gotten to the wrong hands and led before me. I've always wanted to be more of a success in my brother's eyes, and whilst he has made a good living as a trader, I've served Orgrimmar for years only to remain a Grunt. <Zuul sighs.> I suppose I should come clean, it is honor that dictates I be honest, especially with those of my own kin. Lying to try and make appearances is what Alliance diplomat's would do, not the sons of Durotar. As much as I desire to go and apologize in person, I cannot. I have too many tasks to do in such a short time. Speak to my commander and let him know I desire leave to Durotar for a short time.",
+  },
+  [55021] = {
+    ["T"] = "Beyond the Walls",
+    ["O"] = "Kill 6 Young Sawtooth Crocolisks, 8 Sorrow Spinners, and 8 Swamp Jaguars, then return to Dispatch Commander Ruag.",
+    ["D"] = "So, Zuul sent you? He wants to leave Stonard, that's it? Heh, well I'll make you a deal <race>. Zuul has been an obedient grunt, one that listens well and does well when called upon, it's the only reason I'm offering this. You do a task for me, and I'll give him leave for a few days. The local wildlife has been a continuous thorn in our side. There is no other presence than the large beasts that dwell within the shadows beyond the light of our torches. I've had orcs go missing and not turn up late at night, and there is no doubt in my mind that the beasts outside our walls are responsible. Clear out the area outside our walls of what you find: jaguars, spiders and crocolisks. Make sure to thin their numbers.",
+  },
+  [55022] = {
+    ["T"] = "Taking Leave",
+    ["O"] = "Speak with Grunt Zuul.",
+    ["D"] = "Ahh... Fine, I'll put in the work to have Zuul dispatched, I cannot hold the title of Commander without honoring my word. Tell Zuul that he will have three days leave to Orgrimmar, on the fourth day I will make arrangements for him to return to Stonard. Advise him to make good use of these three days.",
+  },
+  [55023] = {
+    ["T"] = "Relief and Reprise",
+    ["O"] = "Travel to Sparkwater port and deliver Zuul's Note to Rugnar.",
+    ["D"] = "There is one last thing I require from you, friend, if you could but be of help a moment longer. I still may be here for a while longer waiting for my leave. If you could take this letter from me and deliver it to my brother letting him know I will be arriving soon, it would mean quite a lot to me. Thanks again, friend, Blood and Honor.",
+  },
+  [55026] = {
+    ["T"] = "It All Comes Sinking Down",
+    ["O"] = "Travel to the port of Booty Bay and speak with Baron Revilgaz.",
+    ["D"] = "Hey watch it, pal! You're looking at the Captain of the Brightwater, one of the finest, and most powerful vessels ever to sail the seas... at least by the Horde's standard! Ahh... She was a beauty, all before those damn Bloodsail Buccaneers gave us a volley on the starboard side and sank us. It wasn't even fair, really, a two-on-one engagement. My crew is still stuck out in Booty Bay hiding and I'm not sure exactly where they're at. I have a favor I can call in from an old pal Revilgaz, who is the baron there. Tell him I sent you, and locate my crew.",
+  },
+  [55027] = {
+    ["T"] = "Employed Help",
+    ["O"] = "Kill 5 Venture Co. Mechanics at the Oil Platform near Lake Nazferiti.",
+    ["D"] = "Before I give you the information I have, I want something in return. I'll honor that \"favor\" that he is calling it, but I need something done. The Venture Co. has been causing some issues around here, mostly in taking up my trade and getting some of it for themselves. That's where I need you to come in and be discreet. They've been messing with some of my operations, and I want to mess with some of their own, in secrecy of course. Travel far to the north-east by Lake Nazferiti. I've got it from reliable sources that they are setting up an oil platform there, kill some of the Mechanics they contracted to work on it. That should cost them a lot of time and money.",
+  },
+  [55028] = {
+    ["T"] = "The \"Hidden\" Crew",
+    ["O"] = "Find the crew of the Brightwater on the lower levels of Booty Bay.",
+    ["D"] = "Fine, let's fulfill this favor and move along. There are many more profitable and useful things we can both spend our time on. The crew of the Brightwater has been here the entire time, and I've known about it since the first night they showed up after that fireworks show of a battle. They haven't exactly done the best job of disguising who or what they are. That, and my contacts are very reliable. You'll find them on the lower levels of Booty Bay, where Wigcik stays. When you next see \"Captain\" Pazzle, tell him I've honored his silly favor.",
+  },
+  [55029] = {
+    ["T"] = "In Need of Information",
+    ["O"] = "Speak to Baron Revilgaz.",
+    ["D"] = "Oh the Captain sent you? Well isn't that a relief, it's been almost a week that we've been sitting around here with no word. I was about to start figuring out a way to get out of Booty Bay, but it seems like the only thing keeping us safe are the Bruisers. The Bloodsail Buccaneers have been wanting us dead ever since we sunk one of their ships in a battle. Lets just say they got lucky and ambushed us near Grom'gol! They want us all gone and won't stop until we are, it seems. The Bloodsails are a disorganized bunch, and not centrally commanded. Each encampment or ship has their own crew and their own leader, and this group hunting us is only doing so because we killed the man's brother. If anyone knows anything, it's Revilgaz.",
+  },
+  [55033] = {
+    ["T"] = "Kill-Kill Sagepaw!",
+    ["O"] = "Kill Sagepaw near the Mosshide Fen in the Wetlands.",
+    ["D"] = "Gowlfang strong Gnoll, fought-fought dragonmaw orc and many other baddies that were in the way of making Mosshide strong tribe! Now Gowlfang here, work with goblins yes yes. Gowlfang was almost tribe leader of Mosshide before filthy Sagepaw stole-stole position and kicked me from tribe! You help Gowlfang yes yes, kill-kill Sagepaw! He lurks near lake at bottom of dam-dam!",
+  },
+  [55034] = {
+    ["T"] = "Kill-Kill Mosshides!",
+    ["O"] = "Slay Mosshide Gnolls and retrieve 10 Mosshide Gnollbands for Gowlfang.",
+    ["D"] = "Friends betray Gowlfang because bad-bad leader says to, Mosshide no longer friend of Gowlfang, and Gowlfang kill-kill betrayers! Go to Mosshide Fen, in Wetlands yes yes, make sure they suffer, kill them good-good, hah! Bring me armbands to prove-prove you did good work and did what Gowlfang ask-ask, yes yes!",
+  },
+  --[[[55035] = {
+    ["T"] = "Hidden-Hidden Reward",
+    ["O"] = "Find the Hidden Mosshide Chest and claim its reward.",
+    ["D"] = "You did Gowlfang good-good, no other gnoll ever do for me like that before! I give you gift show that Mosshide good gnoll, strong gnolls! I bury-bury chest in hollowed out tree at bottom of dam, should be still there unless someone steal, you find, treasure for you, Gowlfang no need what inside, all for you.",
+  },]]
+  [55041] = {
+    ["T"] = "Wisdom of the Sages",
+    ["O"] = "Find the book \"Wisdom of the Sages\" and bring it to Krez the Wise.",
+    ["D"] = "You ever heard the saying \"knowledge is power\"? Well, a lot of my goblin kin have not. It is knowledge that I seek, and sell, to those who are interested in gaining some new skills. I've been after this old book for quite a while now, titled \"Wisdom of the Sages\". An archivist by the name of Landas is holding it. Problem is, this isn't just some guy with a book, he's one of them mages from Dalaran, and getting my hands on it isn't gonna be easy. They're pretty protective over their stuff, so that's where you come in. I got some info recently that he was in the heights overlooking the Hillsbrad Fields and the internment camp fairly close to Dalaran. Find him, and get me that book.",
+  },
+  [55042] = {
+    ["T"] = "Satisfaction for Shak",
+    ["O"] = "Kill Foreman Klix and bring his Studded Ring to Shak.",
+    ["D"] = "Long before I came to this place, I was quite a valuable member of the Venture Co. That was a long time ago though, and a different me, but if anything stuck, it's the stupid nickname I got. When I was one of the engineers, I was comissioned to make a design for a mega shredder to deforest Stonetalon. Turns out, another design was better than mine, and by quite a bit. I don't have a problem with that, but what I got a problem with is being fired from Foreman Klix for \"letting him down\". He called me a \"hack\", and now the nickname has stuck. Bastard's got what's coming to him. You'll find him out at the Windshear crag where I used to work at the old lumbermill. He's an old coot and I doubt he's moved on. Bring me his ring, it's this oversized studded thing he wears over his middle finger.",
+  },
+  [55043] = {
+    ["T"] = "The Brightwater Logs",
+    ["O"] = "Get the Brightwater Logbook from the sunken ship in Stranglethorn.",
+    ["D"] = "The Brightwater was a mighty vessel, such a shame it was sunk in a tragic manner, ambushed at sea by dastardly Bloodsail. I had to come to Sparkwater in a bit of a hurry and I need my Logbook from the wreckage. You see, it holds some private information that I wouldn't want to get in certain people's hands, understood? Head to Grom'gol in the jungles of Stranglethorn, and head just a bit south, at the bottom of the sea you'll find its wreckage and that of another pirate ship. Shouldn't be hard to find.",
+  },
+  [55044] = {
+    ["T"] = "Missing Worker!",
+    ["O"] = "Find Miner Axel.",
+    ["D"] = "This mining operation is tough work, and we don't always get the toughest workers, you catch my drift? I got a worker named Axel who has been slacking on delivering his ore. That, and he often dissapears during the day. I don't take well to lazy goons eating up my coin for doing nothing, so go and find him and get the copper I needed him to mine.",
+  },
+  [55045] = {
+    ["T"] = "Ore on Time",
+    ["O"] = "Bring 10 Copper Ore to Big Fraggle for Miner Axel.",
+    ["D"] = "Look, I meant to get the ore to him, I promise. It's just been rather stressful day after day to smash a pick against rock, I feel like I can do better things, you know? You mind doing me a favor and finding me 10 copper ore? Theres tons of it around the region here if you can mine, or if you know someone who can. It would get me all caught up on my shipments and dues and even have me a little ahead! I could really use the help. There's always the auction house if you don't know anyone and can't mine yourself.",
+  },
+  [55046] = {
+    ["T"] = "Agon Ore",
+    ["O"] = "Find Agon Ore from the Troggs in Agmond's End.",
+    ["D"] = "Out in the Badlands by Agmond's End is a special type of ore that has been pressured by the elementals there for some time. It's unique and rather hard to find. It can be used for a lot of things, but I'd like to hope it can be tested for use in a drill perhaps. In Agmond's End, a small camp of dwarves were over-run some time ago by troggs. I don't think the dwarves were even close enough to getting all of the ore and some trogg must have some of it. Head there and kill them until you find a piece of it, then bring it back.",
+  },
+  [55047] = {
+    ["T"] = "The Lucky Boots",
+    ["O"] = "Find Big Fraggle's Lucky Boots.",
+    ["D"] = "Believe it or not, I wasn't always a miner. Used to do a lot of piracy back in my day. I worked with the Southsea Pirates in taking over boats and just stealing what we wanted to. It was one hell of a life, but it came to an abrupt end when a friend of mine got killed in a dispute that another member caused. Let's just say I took off after that, and didn't look back. I had a pair of lucky boots during my days in the Southsea Pirates, had 'em most of my life actually from when I left Kezan. They should still be at the Hidden Cove in eastern Tanaris, in my sealed trunk in one of the bunkhouses. If you can find 'em, I'll pay you well.",
+  },
+  [55049] = {
+    ["T"] = "WANTED: Shazknock!",
+    ["O"] = "Find and slay Shazknock at Boulderlode Mine.",
+    ["D"] = "Shazknock is wanted for crimes against Sparkwater Port, sharing vital information and leaking trade secrets of the union to the Venture Co. He has secured himself a position as Manager with the information he has leaked. Find the man at his new position at Boulderlode Mine within the Great Hall there and bring his head to Tradesman Laz as proof for reward.",
+  },
   [60061] = {
     ["T"] = "You Reap What You Sow",
     ["O"] = "Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
@@ -49,6 +219,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak to Deathguard Burgess in Brill.",
     ["D"] = "You! $R! I wonder if you could do me a favor. Deathguard Burgess in Brill has been ranting about his station, and only having access to the inexperienced members of the horde. He has something that requires a more learned hand and he's prepared to pay.",
   },
+  [60121] = {
+    ["T"] = "The Mail Must Go Through",
+    ["O"] = "Deliver Rezlak's Shipment to Rezlak's cousin Kozish in Orgrimmar.",
+    ["D"] = "But ya know... I got a few more coins here to spare, and like I said I got an eye for talent. Now I know I want to hire more <race>s for later jobs, but there's still this one to finish. This shipment was contracted to get through. A goblin's reputation is ninety percent of his business! Whaddya say, pal? Mind hauling this stuff the rest of the way for me? My no good cousin should have made it to Orgrimmar hours ago. What? Yeah no, he had more precious cargo to deliver, why do you think I need you to take the rest? Kozish is probably drinking his paycheck at the first pub he saw. Check there. Time is money, friend, get to going.",
+  },
+  [60122] = {
+    ["T"] = "Out For Delivery",
+    ["O"] = "Deliver the rest of Rezlak's Shipment to Kaja in Orgrimmar.",
+    ["D"] = "Bah, I'm not going near that tauren. Ol' Kozish is NOT picking buckshot out of his bum to-DAY, nope! No way. I'm unemployed, remember? I don't got health insurance. You go.",
+  },
   [60124] = {
     ["T"] = "Trapped in the Nightmare",
     ["O"] = "Alanndarian Nightsong wants you to venture into the Wailing Caverns in the Northern Barrens and free Naralex from the Nightmare. Find his Disciple in the caverns to learn how. Return to her when you free Naralex.",
@@ -58,6 +238,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Serpentbloom",
     ["O"] = "Alanndarian Nightsong in Auberdine has tasked you with the collection on 10 Serpentblooms.",
     ["D"] = "Although your main quest is saving Naralex from the Nightmare, we might learn more about the corruption that befouls the caverns. Its told that a plant named Serpentbloom sprouted inside the caverns after Naralex's fall into eternal slumber, and that they hold the venom of a serpent. I want you to venture into the caverns and bring me 10 of these plants.",
+  },
+  [60131] = {
+    ["T"] = "Deep Blue Sea",
+    ["O"] = "Kill the Sand Shark off Durotar's eastern coast.",
+    ["D"] = "Greetings <race>! Much of Orgrimmar's food supply comes from the sea to the east. Grunts can assist with escorting the fishermen and crabbers through the scorpids, raptors, and those fanatical weaklings in the eastern cave but there is an issue in the depths that needs to be dealt with. Fishermen have reported an aggressive shark that shreds their nets and attacks their smaller boats. Crabbers won't even drop traps now for fear of getting eaten! Kill it <class>, take friends if needed but rid us of this menace before our food stores dwindle!",
   },
   [60133] = {
     ["T"] = "Down With the Sickness",
@@ -219,6 +404,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Join Nert Blastentom and travel to Durotar to join the Horde.",
     ["D"] = "There’s only one place in the world that would take in a bunch of smelly refugees with nothing to contribute, kid. The Horde. Yeah, I know they don’t like us. But they don’t like us less than our former associates, get it? We got a chance of winning them over, and there’s no way the Venture Co. is gonna get us if we’re holed up inside of Orgrimmar! It’s time to go straight, little buddy.",
   },
+  [80109] = {
+    ["T"] = "Zug-zug Or Somethin'",
+    ["O"] = "Collect 5 Chunks of Boar Meat and bring them to Cook Torka in Razor Hill.",
+    ["D"] = "Our situation ain't good. If the Horde won't help us, I don't know where else we could go. But I've got a plan, see. An old orc friend of mine is the cook in Razor Hill, the orc town just down below us. We write every now and then, and from what he tells me, the head of the guard there just goes nuts for roasted boar. Why don't you hunt some of the boar around here, take them to him? I bet he can put in a good word. And as any good goblin knows, one good word is all you need to take it all the way to the top!",
+  },
+  [80110] = {
+    ["T"] = "Green Goes Red",
+    ["O"] = "Bring Torka's Boarbecue Ribs to Gar'thok in Razor Hill and ask him to help you join the Horde.",
+    ["D"] = "I owe Nert a favor, but getting you into the Horde is a tall order! I know Gar'thok likes boar meat, but I'd like to think he's got a better head on his shoulders than to sign off on you as recruits just for a good lunch. Oh well. Knock yourself out, I guess. And tell Nert I said hi!",
+  },
   [80115] = {
     ["T"] = "Grease-stained Letter",
     ["O"] = "Read the Grease-stained Letter and speak to Grizzie the Enforcer.",
@@ -254,15 +449,25 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Collect a Howling Crystal from one of the creatures of the Grumbling Grove.",
     ["D"] = "Nert might be afraid of a little shadow magic, but not us, huh? It’s time for you learn some real demon-summoning. Yeah, I know we’re in the middle of a crisis, but there’s no time like the present! We’re warlocks! Crises are what we do! And besides, I’m contractually obligated to help you new enforcers out. So, here’s what you’re gonna do. You’re gonna go on Nert’s little expedition, but you’re gonna bring me something special. It looks like some of the creatures there have little shards of a purple crystal on them, and purple just so happens to be our favorite color. Bring me one back, and I’ll teach ya to summon an imp. How’s that?",
   },
-   [80311] = {
+  [80311] = {
     ["T"] = "Mastering the Arcane",
     ["O"] = "Speak to Chok'Garok on a bank of Southfury River in the Barrens",
     ["D"] = "<Ureda glances at you with dismay.> Your skills still require some honing, and your posture betrayes your arrogance. Typical of any new apprentice who bears overconfidence before his own wits. Not that it matters to me. It's your own problem. Any aspiring mage should have his spells ready at all times and think two steps ahead. That's why your lack of awareness should be compensated with at least something you could procure by yourself. There is a… mage who resides on the bank of Southfury River, not far from Thunder Ridge. The task you will recieve from this mage might be arduous at first glance, yet most likely will bear fruit if you put your brain into it.",
   },
-   [80312] = {
+  [80312] = {
     ["T"] = "Arcane Arms",
     ["O"] = "Bring Chok'Garok 5 pieces of Moontouched Wood, a Crystal of the Serpent, and an Everchanging Essence from Wailing Caverns.",
     ["D"] = "Ureda sends only worthy mages! Ureda is the worst! <The two heads stare at each other with a surprised look.> We know what you really need as a mage, and we know where to get parts. You bring us parts, and essence too, and we will make you a weapon, yes! Where you get parts? It's in the cave. Barrens! Yes, yes. Wailing Caverns, they call it. Caverns with druids and snakes! Yes. You find us Moontouched Wood, a Crystal of the Serpent, and Everchanging Essence. Yes, the essence! You bring it all to us, and we make it a worthy weapon! Yes, you'll be thankful!",
+  },
+  [80320] = {
+    ["T"] = "Burning Bridges",
+    ["O"] = "Kill Knobby Tinfault and bring anything he drops back to Miley.",
+    ["D"] = "Heya, <class>! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
+  },
+  [80384] = {
+    ["T"] = "Pinch of Salt",
+    ["O"] = "Lau'Tiki wants you to bring him 8 Crab Shells.",
+    ["D"] = "Dese crabs, troublemakers dey are! Cutting my nets with the claws, scaring all the fish away! Every time I chase them dey bury themselves to the sand, Lau'Tiki isn't as nimble as his younger years. About time for some revenge, pesky shell-walkers will get what dey deserve for messin' with Lau'Tiki! Hunt them, bring me their shells and I might let you in a little secret.",
   },
   [80388] = {
     ["T"] = "Stay awhile and listen...",
@@ -278,5 +483,10 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A Bloody Good Deed",
     ["O"] = "Kill 6 Kolkar Bloodchargers, 4 Kolkar Pack Runners and 4 Kolkar Marauders. Use the crystal to summon Kheyna Spinpistol again.",
     ["D"] = "I am Kheyna Spinpistol. Mechanist, medic, and among other things. I am currently tracking a dangerous foe who threaten the lives of an untold number of innocents. I may ask for your help in dealing with this later… For now, I have a task for you, one that will have quite the generous reward! The nearby Kolkar tribe is preparing for a raid on the Crossroads. I know this because I've used one of my tools, and you could say I sneaked into their tent and heard their Khan ordering it. This can be avoided however. You'll save many lives if you go down there and put an end to them all. They're all around the Oasis to the west. Once you're done come back to me. If I am not here simply touch the crystal again, I will know someone is waiting for me. Now get out there and KILL them all!",
+  },
+  [80399] = {
+    ["T"] = "Zalazane's Apprentice",
+    ["O"] = "After reading the letter you decide to find Zalazane's former apprentice by yourself and spare him of his head. Taking his head and Zalazane's mojo back to Master Gadrin in Sen'jin Village will earn you a reward.",
+    ["D"] = "That foolish mongrel Makasgar decided he no longer needs the aid of his master and has grown beyond my teachings. ... That mojo was required for a powerful ritual to help us take over the Sen'jin Village and later the whole of Durotar. Go do your master's bidding and bring me his head!",
   },
 }
