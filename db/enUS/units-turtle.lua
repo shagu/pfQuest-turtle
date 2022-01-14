@@ -5,15 +5,42 @@ pfDB["units"]["enUS-turtle"] = {
   -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
   [3884] = "Jhawna Oatwind",
 
+  -- add turtle-wow Godrick Bell
+  [50506] = "Godrick Bell",
+
+  -- add turtle-wow Gina Weller
+  [51261] = "Gina Weller",
+
+  -- add turtle-wow Throw a coin to the fountain
+  [51301] = "Throw a coin to the fountain",
+
+  -- add turtle-wow Teresa Palin
+  [51302] = "Teresa Palin",
+
   -- add turtle-wow Kern Mosshoof
   [51532] = "Kern Mosshoof",
+
+  -- add turtle-wow Snufflesnout
+  [51600] = "Snufflesnout",
 
   -- add turtle-wow shagu
   [60300] = "Shagu",
 
+  -- add turtle-wow Morpheus Ribcage
+  [60483] = "Morpheus Ribcage",
+
+  -- add turtle-wow Liott Maneskin
+  [60484] = "Liott Maneskin",
+
+  -- add turtle-wow Diane Willowfield
+  [60488] = "Diane Willowfield",
+
   -- add turtle-wow Grubgar
   [60510] = "Grubgar",
   
+  -- add turtle-wow Boltrus
+  [60513] = "Boltrus",
+
   -- add turtle-wow Modopo
   [60538] = "Modopo",
 
@@ -95,6 +122,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Grand Taskmaster Nert Blastentom
   [80178] = "Grand Taskmaster Nert Blastentom",
 
+  -- add turtle-wow Tirisfal Plagued Bear
+  [80466] = "Tirisfal Plagued Bear",
+
   -- add turtle-wow Chok'Garok
   [80831] = "Chok'Garok",
 
@@ -112,6 +142,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Kheyna Spinpistol
   [81041] = "Kheyna Spinpistol",
+
+  -- add turtle-wow Dark Ranger Lanissa
+  [81050] = "Dark Ranger Lanissa",
 
   -- add turtle-wow Aneka Konko
   [90983] = "Aneka Konko",
@@ -175,4 +208,109 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Foreman Klix
   [91302] = "Foreman Klix",
+
+  -- add turtle-wow Remnants Footman
+  [91352] = "Remnants Footman",
+
+  -- add turtle-wow Duchess Grelda
+  [91711] = "Duchess Grelda",
+
+  -- add turtle-wow Duke Nargelas
+  [91712] = "Duke Nargelas",
+
+  -- add turtle-wow Apothecary Volgrin
+  [91713] = "Apothecary Volgrin",
+
+  -- add turtle-wow Pack leader Sharn
+  [91715] = "Pack Leader Sharn",
+
+  -- add turtle-wow Chief Rnarl
+  [91716] = "Chief Rnarl",
+
+  -- add turtle-wow Belgar
+  [91717] = "Belgar",
+
+  -- add turtle-wow Storn
+  [91718] = "Storn",
+
+  -- add turtle-wow Duchess Faliona
+  [91721] = "Duchess Faliona",
+
+  -- add turtle-wow Father Brightcopf
+  [91726] = "Father Brightcopf",
+
+  -- add turtle-wow Butcher Reeves
+  [91727] = "Butcher Reeves",
+
+  -- add turtle-wow Marlow Neggle
+  [91728] = "Marlow Neggle",
+
+  -- add turtle-wow Pesterhide Forager
+  [91735] = "Pesterhide Forager",
+
+  -- add turtle-wow Pesterhide Gnoll
+  [91736] = "Pesterhide Gnoll",
+
+  -- add turtle-wow Pesterhide Warrior
+  [91737] = "Pesterhide Warrior",
+
+  -- add turtle-wow Pesterhide Mystic
+  [91738] = "Pesterhide Mystic",
+
+  -- add turtle-wow Tirisclaw Scavenger
+  [91739] = "Tirisclaw Scavenger",
+
+  -- add turtle-wow Tirisclaw Ravager
+  [91740] = "Tirisclaw Ravager",
+
+  -- add turtle-wow Tirisclaw Shadowcaster
+  [91741] = "Tirisclaw Shadowcaster",
+
+  -- add turtle-wow Bounty Hunter Knox
+  [91749] = "Bounty Hunter Knox",
+
+  -- add turtle-wow Deathguard Mike
+  [91752] = "Deathguard Mike",
+
+  -- add turtle-wow Vathras Millson
+  [91753] = "Vathras Millson",
+
+  -- add turtle-wow Wretched Farmhand
+  [91756] = "Wretched Farmhand",
+
+  -- add turtle-wow Wretched Guard
+  [91757] = "Wretched Guard",
+
+  -- add turtle-wow Necromancer Reginald
+  [91759] = "Necromancer Reginald",
+
+  -- add turtle-wow Tirisclaw Ambusher
+  [91760] = "Tirisclaw Ambusher",
+
+  -- add turtle-wow Remnants Sentry
+  [91772] = "Remnants Sentry",
+
+  -- add turtle-wow Remnants Scout
+  [91773] = "Remnants Scout",
+
+  -- add turtle-wow Captain Silas
+  [91974] = "Captain Silas",
+
+  -- add turtle-wow Remnants Priest
+  [91975] = "Remnants Priest",
+
+  -- add turtle-wow Barkeep Clemens
+  [91976] = "Barkeep Clemens",
+
+  -- add turtle-wow Remnants Farmer
+  [91980] = "Remnants Farmer",
+
+  -- add turtle-wow Remnants Militia
+  [91981] = "Remnants Militia", 
+
+  -- add turtle-wow Cragtusk Boar
+  [91987] = "Cragtusk Boar",
+
+  -- add turtle-wow Graypaw Wolf
+  [91989] = "Graypaw Wolf",
 }
