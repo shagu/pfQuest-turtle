@@ -14,10 +14,145 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Share a smoke with Shagu.",
     ["D"] = "Now that you've brought the herbs I can set up my hookah and truly enjoy the real good stuff. It is by the Earthmother's blessings that such a combination exists. I would like you to try this and see for yourself what the gifts of the Earthmother bestow! Sit down, sit down. Let us enjoy the smoke and bond with one another and of course with the Earthmother.",
   },
+  [40080] = {
+    ["T"] = "Into the Uplands",
+    ["O"] = "Deliver Volgrin's Parcel to Apothecary Volgrin near the entrance to the Tirisfal Uplands.",
+    ["D"] = "Hey there, traveler. I am looking for someone to deliver a parcel which I have needed to ship for some time now. I have not fulfilled my obligations with all of the comings and goings here at the sepulcher. Up north, past Valgan's and The Dead Field, is a passageway that leads into the Tirisfal Uplands. It is pressed against the mountains and somewhat hidden, but the keen eye should spot it. Once you make your way into the Uplands, I need this parcel delivered to Apothecary Volgrin. He should be located fairly close to the passage leading through the cliffs.",
+  },
+  [40081] = {
+    ["T"] = "Pesterhide Pests",
+    ["O"] = "Gather 7 Ragged Armbands from Pesterhide Gnolls for Deathguard Mike in Steepcliff Port.",
+    ["D"] = "The Pesterhide Gnolls have cut off the road between here and Glenshire! They have been foraging at a more growing rate, no doubt due to the lack of food around here. If we can't even control our roads, then what are we hoping to achieve here in the Uplands? I need you to handle this pest problem. Travel up the hill and go to the east. You should find the Pesterhide all over the Jagged Hills. Kill them and bring their Ragged Armbands to me.",
+  },
+  [40082] = {
+    ["T"] = "Pestering the Pesterhide",
+    ["O"] = "Bring the paw of Belgar and Chief Rnarl to Deathguard Mike in Steepcliff Port.",
+    ["D"] = "From atop of The Jagged Hills, Chief Rnarl rules over the conjoined tribes of the Pesterhide. He has been rather tenacious, even when we tried to deal with him in the past. If we truly wish to scatter the Pesterhide Gnolls and send them into chaos, then we will need to strike at the heart of their leadership. Chief Rnarl has been the one to unite the gnolls, and without him, they will crumble. While you are there, be sure to kill Belgar as well. He is a shaman that has strengthened the critters and spurred their actions even more. When these two fall, the packs will scatter. Bring me both of their paws, and you will receive a reward in silver.",
+  },
+  [40086] = {
+    ["T"] = "A Friend in Glenshire",
+    ["O"] = "Deliver Marlow's Ore Shipment to Marlow Neggle located in Glenshire.",
+    ["D"] = "You look like you know your way around the world just by walking with such a knowing foot. I need someone like you. I've got a friend located in Glenshire. It's far to the west of Tirisfal and into the Uplands. He needs some metal delivered, and you look like just the person. You can find the entrance to the west of Solliden's Farmstead. Go through the gate and follow the road straight until you reach Glenshire. It may not be the safest road, but you can handle that. There might be a fork in the road, I think you take a left... if I remember correctly. Marlow Neggle should be located in town somewhere there. Take this shipment to him.",
+  },
+  [40087] = {
+    ["T"] = "Crumblepoint Tower",
+    ["O"] = "Slay 6 Tirisclaw Ravagers and 4 Tirislcaw Shadowcasters at Crumblepoint Tower before returning to Volgrin.",
+    ["D"] = "I have no idea how they managed to slip past our forces in the Silverpine, but these Worgen came in great numbers. Without the tower in our control, our ability to monitor activity in the southern Tirisfal Uplands is reduced, which is why I could use the help of an adventurer like you. Help us reclaim it. <Volgrin sizes you up from the top down.> You didn't run. Well, consider me impressed. Good, then head above and kill those flea-ridden wretches.",
+  },
+  [40088] = {
+    ["T"] = "Head of the Pack",
+    ["O"] = "Bring the head of the Pack Leader Sharn and slay 5 Tirisclaw Ambushers and 4 Tirisclaw Scavengers before returning to Volgrin.",
+    ["D"] = "With their forces at the tower weakened, it is time for us to kill their leader. Yes, when I say us, I mean you. Their leader recently invaded the mine, and he took his bigger worgen down there with him. The Gracestone mine is a top priority. Without its resources, Glenshire doesn't stand a chance against the humans, not to mention that the mines provide a perfect ambush point for worgen to attack any travelers between Silverpine and the Uplands. Go down there and bring me the head of their leader. Oh, and feel free to kill as many of his followers as you can.",
+  },
+  [40096] = {
+    ["T"] = "Outnumbered",
+    ["O"] = "Slay 8 Remnants Scouts in the Whispering Forest and return to Duke Nargelas.",
+    ["D"] = "Ah, you look like someone who can get things done, <class>. Listen closely, as I do not like to repeat myself. The humans outnumber us five to one. However, they are not aware of this yet, and I would like to keep it that way. My servants informed me that the Lordaeron scouts are heading towards Glenshire from the north. And you, my friend, are going to make sure that they never return to their masters.",
+  },
+  [40097] = {
+    ["T"] = "In the Dark",
+    ["O"] = "Slay 10 Remnant Sentries at the Shateridge Tower and return to Duke Nargelas.",
+    ["D"] = "With their scouts gone, we can finally go on the offensive. But before we can orchestrate an attack on their main camp, we need to reduce their ability to monitor our movement. Just north of the Whispering Woods, there is a tower called Shatteridge. The Remnant's Sentries have made that tower their center of operation, and they are there to warn their main base of any potential danger. Their numbers at the Shatteridge are great, which is precisely the reason why they won't expect a single, yet powerful foe to attack them directly. So are you up to the task?",
+  },
+  [40098] = {
+    ["T"] = "Rightful Heir",
+    ["O"] = "Talk to Duchess Grelda in her manor and give her the letter from Duke Nargelas.",
+    ["D"] = "I'm glad I was right about you. With the imminent danger out of the way, it is time for you to learn about the House Darlthos. Before the Scourge ravaged these lands, our house was one of the most prominent houses in all of Lordaeron. Yet now, we are divided, for my sister-in-law acts as a ruler to those still living. And therein lies our problem, for my wife is the only true heir to this land. You are certainly capable, which is why you have earned the right to an audience with Duchess Grelda. Follow the road south of Glenshire past the gates of the Tirisfal Uplands, and you will find my wife in manor alongside the road. Oh, and make sure to give this letter to her. It's a... let's say, a recommendation of sorts.",
+  },
+  [40999] = {
+    ["T"] = "Attack from the Inside",
+    ["O"] = "Poison 6 Grain Crates, and slay 10 Remnants Farmers and 7 Remnants Militia on Garricks Stead before returning to Duchess Grelda.",
+    ["D"] = "Are you aware of how the plague designed by the Cult of the Damned works? No? Well, it doesn't matter. What you need to know is that I have made something similar, though not as powerful as the original one. This vial contains a plague that will severely reduce the life expectancy of the living who consume it. Now, that is the part where you, my dear, come in. I need you to head north, past the Whispering Forest, to a farmstead called Garricks Stead. There, you will slip a bit of this liquid onto the human's supplies. And make sure that there are no witnesses.",
+  },
+  [40136] = {
+    ["T"] = "Dwindling Supplies",
+    ["O"] = "I have been tasked by Butcher Reeves to bring 8 Chunk of Meat.",
+    ["D"] = "You there! Yes, you. New in town, ay? Look, I'm not sure if you are aware, but we are currently at war with the Humans, and as you can imagine, it has taken quite a toll on our dwindling supplies. That is why I'm looking for someone to collect boar meat from the local Cragtusk Boars. So, feeling up for it?",
+  },
+  [40137] = {
+    ["T"] = "Strike Them Down",
+    ["O"] = "I have been tasked by Butcher Reeves to kill 10 Graypaw Wolfs.",
+    ["D"] = "Just a person that I need. Listen. A few months ago, a pack of wolves inhabited the cave just north of here. At first, we thought it was just a small number of them, so we didn't pay those beasts much attention. Being busy with war and all. But they have become aggressive of late and even got bold enough to attack residents of Glenshire. So how about this, you go and cull their numbers and in the meantime, I will try to gather some coins from the residents for you, deal?",
+  },
+  [40139] = {
+    ["T"] = "Reaperence Of The Damned",
+    ["O"] = "Father Brightcopf wants me to put a stop to the Scourge's advances on the Corinth Farm.",
+    ["D"] = "I hope that you have come to assist us. We are currently beset by the enemies on every side and could surely use any help that we can get. West of here is a farm where a large battle occurred recently between our troops and Humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone who is willing to put a stop to the Scourge advances.",
+  },
+  [40140] = {
+    ["T"] = "Cleaning The Farm",
+    ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
+    ["D"] = "With the bulk of the undead gone, it is time to face the one responsible for taking our new troops from us. Go to the Corinth Farm once again and kill the Necromancer responsible for this. And be careful if the Necromancer is capable of summoning a small army of undead he is certainly not someone who should be underestimated.",
+  },
+  [40220] = {
+    ["T"] = "Batskin Letter",
+    ["O"] = "Speak with Morpheus Ribcage.",
+    ["D"] = "While you were aiding with the tasks of the Forsaken a fellow by the name of Morpheus Ribcage gave me this letter to be seen by your eyes only, you should find him close to the Graveyard.",
+  },
+  [40248] = {
+    ["T"] = "Taming the Beast I",
+    ["O"] = "Use the Taming Rod to tame a Decrepit Darkhound. Practice your skills, then return the Taming Rod to Liott Maneskin in Brill.",
+    ["D"] = "As once people of Lordaeron, we have ventured into the forests before, I suppose you are no stranger to the wolves we once had to fear in the midst of the night. Even these wolves were plagued and corrupted by the Scourge, as you may see, I carry one at my side currently. Blackpaw here is a darkhound, one I've been able to tame without the need of any special skill. Regarding our condition, some beasts will still be approachable as they wouldn't mind the actual smell of death, but others will probably attempt to have a bite out of you, for that, I have something I will bestow upon you at the end of this training since you must be able to tame a beast without it as well. Now go, and return with a Darkhound.",
+  },
+  [40249] = {
+    ["T"] = "Taming the Beast II",
+    ["O"] = "Use the Taming Rod to tame a Greater Duskbat. Practice your skills, then return the Taming Rod to Liott Maneskin in Brill.",
+    ["D"] = "The darkhound wasn't quite the hardest beast to tame, but I admire you for doing it. The next beast you will be tasked to tame is a duskbat, these can grow very huge in size, we use them as means of transportation when they grow in size. The bat also has a very specific screech that would even affect the undead, remember this as you go on in this world, every beast has its own way of fighting, although nature itself tends to adapt to an abomination such as you, the beasts will not. You must focus on training with them, at your side, learn from one another. Do not ever believe that you aren't able to learn new things, as long as your mind still reigns over your body, you will be able to do to great things. Tame a duskbat, train with it, and then return to me.",
+  },
+  [40250] = {
+    ["T"] = "Taming the Beast III",
+    ["O"] = "Use the Taming Rod to tame a Plagued Bear. Practice your skills, then return the Taming Rod to Liott Maneskin in Brill.",
+    ["D"] = "As I've mentioned before, our lands barely has any kind of alive creature, your next task will once again have you tame a beast that such as yourself fell prey to the Scourge. Lordaeron used to have brown bears, they'd often come from Silverpine in the summer, hiding in our forests, those that remained behind are now, here forever. Dealing with an undead pet is quite harder since like yourself they are no longer part of the cycle of life and death. Lost and unaware. As you grow in skill, so will your beasts and you will be able to train them in the future, remember that it takes time and dedication to train something that is no longer alive, but you already knew that as you'd need that for yourself. The bear is a strong companion, they will stand in front of you and deal with your enemy will you stand back from afar and shoot them down, find one and bring it back to me.",
+  },
+  [40260] = {
+    ["T"] = "A Dark Ranger's Mastery",
+    ["O"] = "Speak with Dark Ranger Lanissa in Brill.",
+    ["D"] = "Ah, a very promising hunter you are, but I am afraid there's nothing left that I could teach you, as you've kept doing your tasks to serve the Forsaken and our queen, I suppose it's time for you to advance to Brill. After you're done with all your tasks here, seek Dark Ranger Lanissa, she will be in a tent in the town of Brill. She will teach you whatever you need to know to continue your mission, these dark rangers were brought with our Lady Sylvannas from Quel'thalas, as per their name they are very skilled when it comes to marksmanship. Farewell, and remember to stick to the shadows, for the Forsaken.",
+  },
+  [40261] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Speak with Liott Maneskin in Brill.",
+    ["D"] = "Hail aspiring hunter. By now you should be able to train a beast and claim it as your own, I am afraid I will not be the one to aid you with that although I have played a role in your training. You must speak to Liott Maneskin, it seems others such as you have found a way to enthrall a creature as your own.",
+  },
+  [40262] = {
+    ["T"] = "Taming the Beast IV",
+    ["O"] = "Talk to Diane Willowfield in the War Quarter of the Undercity to learn how to train your pet.",
+    ["D"] = "You have learned how to tame a beast using your own skills, you must also know how to train it. Before we move with that, I want you to know this. Some beasts do not accept the undead as their masters, either because you seem a delicious snack or since their natural mechanism advises them not to. Luckily with the aid of the Cult of Forgotten Shadow, we hunters were thought a small incantation that would soothe the mind of the beast, and it would merely alter the thought that you’d be alive. Only use this incantation on pets that will not accept an undead master! Now, as I’ve mentioned before, on your countless adventures that are to follow, you will gain skills and you must train your pet to do so as well, I am afraid I am not able to teach you how to do that, but I know who can. Travel to the Undercity, in the War Quarter speak to Diane Willowfield, she will be the one to instruct the basics of the pet training. It has been my utmost pleasure to teach you.",
+  },
+  [40263] = {
+    ["T"] = "A Demonstration of Skill",
+    ["O"] = "Hunt Boltrus and bring his head back to Dark Ranger Lanissa in Brill.",
+    ["D"] = "Dark Ranger Lanissa advised me to put you on this path after you've finished your training. Both she and I wish for you to hunt a particular Scourge fiend, his name is Boltrus, he hides in Balnir Farmstead, inside the barn. Boltrus used to be the servant of our great mayor, here in Brill, the mayor asked us to put an end to his suffering, as it didn't seem Boltrus was sane anymore. He used to be sweet with one of the farmstead girls, and it seems that his only memory clings to the nights they spent in that barn. Hunt him down and bring his head back to Dark Ranger Lanissa, then you will be rewarded.",
+  },
   [40274] = {
     ["T"] = "A Bad Day to Fish!",
     ["O"] = "Slay 8 Dreadmaw Crocolisks for Grubgar at Southfury River in Durotar.",
     ["D"] = "The Southfury river wasn't always so bad, at one point it was swarming with scorpids, another with harpies, and now look at it! The crocolisks have been an utter annoyance to me and all I want to do today is fish. You think you could cull some of these beasts for me? At the least make it so I don't need to wield a weapon, and I can just relax? Before you ask, I've done enough fighting for one lifetime from the Dark Portal, to Lordaeron, and now here. Go out, and secure me just a days rest!",
+  },
+  [40277] = {
+    ["T"] = "Fall Of The Usurper",
+    ["O"] = "Slay Duchess Faliona, Captain Silas, 8 Remnants Footman 4 Remnants Priest and return to Duchess Grelda.",
+    ["D"] = "With their forces weakened, it is as good as time as any to attack them directly. Before I changed into \"this\" <Duchess points at her undead features>. I was one of the commanders of the forces here in Tirisfal Uplands. That's why I know that even weakened their camp will prove to be a difficult challenge. I recommend that you find those willing to aid you when you launch an attack on their base. Beware that your primary goal is to end the lives of both Silas, the captain that is currently leading the human forces, and my usurper sister Faliona. Do this for me, and I promise that you will be well rewarded.",
+  },
+  [40278] = {
+    ["T"] = "Darlthos Heritage",
+    ["O"] = "Bring the box to Vathras Millson in Steepcliff Port.",
+    ["D"] = "<race>, I have a task for you. A rather important one. <Nargelas shows you a well-decorated jewelry box>. In here lays a key to respect and right to rule the Tirisfal Uplands. You see, before the scourge invaded, my wife Grelda was supposed to inherit these lands from her father. On the coronation day, the contents of this box were supposed to pass on into her possession. Many moons have passed, and yet my courtiers and I had no luck in opening the lock on this thing. But during my research, a name came up. Vathras Millson. A historian or some such, but I heard that he specializes in these kinds of things. That is why I need you to head to Steepcliff Port and find him. I heard he owns an Inn now. Oh, and do be careful. The box is worth more than your life.",
+  },
+  [40279] = {
+    ["T"] = "A Different Type of Lock",
+    ["O"] = "Return the Box to Duke Nargelas in Glenshire and inform him about your findings.",
+    ["D"] = "Do you realize what you are holding in your hands! <Vathras carefully snatches the box from you>. My, my, I wanted to inspect this beauty for a long time. No one aside from the royal family of House Darlthos has ever seen the contents of this box before. But what is this? <Vathras carefully inspects the sigil of the House Darlthos on top of the box> Ah, a shame. You see this sigil. It is an old yet powerful lock that protects the box from being harmed and opened in any way other than through the incantation and use of a special item by which it was sealed. Skilled as I'm without the before mentioned method I will not be able to assist the Duke with this task. Send the Duke my regards and wish him luck in his endeavors, will you?",
+  },
+  [40280] = {
+    ["T"] = "Ways of Magic",
+    ["O"] = "Take the Box and letter to Pierce Shackleton in Undercity Magic Quarter.",
+    ["D"] = "Let me think for a second. Hmm... Why yes. <Nargelas starts writing a letter> I have an acquaintance of sorts in Undercity. The name is Pierce Shackelton calls himself a mage and is probably held up in the Magic Quarter. He owns me a favor, or rather he owns my wife a favor. Take this letter to him along with the box and find out what can be done with it.",
+  },
+  [40281] = {
+    ["T"] = "Into The Jaws",
+    ["O"] = "Find Melenas's belongings in the Shadowfang Keep Library and return them to Pierce.",
+    ["D"] = "I have certainly not seen this kind of lock for quite a while. And now I can see why House Darlthos surrounded this whole ordeal in secrecy. What we have here is a type of blood magic, tho not as dangerous as some of it can be, it certainly requires the blood of the family member to activate it. The issue is that not many know how to wield this magic. The last mage I knew who used this type of magic is long dead. Melenas used to have a section of his own in a library deep in the Shadowfang Keep. Perhaps there you can find something of use to learn how to open this box. But beware, that place is overrun by the savage Worgen, so it is better if I hold on to this box until your return. We wouldn't want to lose both you and the box should you fail, right?",
   },
   [40298] = {
     ["T"] = "Red Skies of Durotar",
@@ -28,6 +163,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Baking Bread",
     ["O"] = "Deliver the Sack of Flour to Innkeeper Gryshka in Orgrimmar.",
     ["D"] = "Greetings friend, may I interest you in a loaf of bread? But if it's not bread you're looking for and wish for work, I might have a task for you. My friend, Gryshka, owns the inn of Orgrimmar, in many of her letters she wrote that she is unable to reproduce my special flour and can't provide her customers with Mulgore Spice Bread. It is by the Earthmother's love that adventurers such as you find their path to me or I'd never be able to communicate with her. If you wish to aid me, I will give you a sack of flour and the recipe for it, all you have to do is bring it to Gryshka. I hear our newest mischievous allies, the Goblins have raised a zeppelin tower close to Thunder Bluff, the villagers say it takes you straight to Durotar right over the Barrens. Here, let me get the sack, Gryshka will have a reward for you.",
+  },
+  [40318] = {
+    ["T"] = "A Call to Aid",
+    ["O"] = "Deliver Captain Silas' Letter to General Marcus Jonathan in Stormwind.",
+    ["D"] = "An outsider, you're the first in quite a long time, welcome to The Remnants Camp. To state that our situation is bad would be an understatement of the highest regard. We are all that remains bearing the crest of Lordaeron as a sigil, tucked away within a remote corner of the Uplands. As the leader of the Remnants, and the commander of the Army of Lordaeron I would ask a favor from you. I have prepared a letter to be sent to Stormwind, one of the final bastions of human power. Take it to General Marcus Jonathan, Lordaeron demands soldiers, and supplies.",
+  },
+  [40319] = {
+    ["T"] = "A Call to Aid",
+    ["O"] = "Deliver Marcus Jonathan's Letter to Captain Silas at the Remnants Camp in Tirisfal Uplands.",
+    ["D"] = "Supplies, soldiers? Where am I supposed to get these, much less how am I supposed to send them so far north? Things must be desperate if a Captain of the Army of Lordaeron claims to be the Leader of the Alliance. I have prepared my response, and sadly there is no way to meet his request, as stretched thin as we are. Bring this back to him, and may the light bless those that remain there.",
+  },
+  [40320] = {
+    ["T"] = "A Call to Aid",
+    ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
+    ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
+  },
+  [50300] = {
+    ["T"] = "In Service of the Light",
+    ["O"] = "Talk to Brother Crowley at the Stormwind City Cathedral.",
+    ["D"] = "You look like a brave hero, <name>. Brother Crowley wants me to find the most devout ones who want to do the good work of the Light, he said. He seemed pretty excited about it, too. You should go talk to him! He's in the lower part of the Cathedral.",
   },
   [50305] = {
     ["T"] = "Higher Stakes",
@@ -184,6 +339,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find and slay Shazknock at Boulderlode Mine.",
     ["D"] = "Shazknock is wanted for crimes against Sparkwater Port, sharing vital information and leaking trade secrets of the union to the Venture Co. He has secured himself a position as Manager with the information he has leaked. Find the man at his new position at Boulderlode Mine within the Great Hall there and bring his head to Tradesman Laz as proof for reward.",
   },
+  [60040] = {
+    ["T"] = "Delicious Pumpkin Pie",
+    ["O"] = "Bring 1 Delicious Pumpkin Pie to Gina Weller in Goldshire.",
+    ["D"] = "I swear I could eat an ogre right now! Are you going to the Stonefield farm by any chance? If so, could you ask for one of those famous Elwynn Pumpkin Pies from Gramma Stonefield for me? The farm is due south-west from here. If you go by the road then you can't miss it. Come back when you have that pie, please!",
+  },
+  [60041] = {
+    ["T"] = "The Pumpkin Thieves",
+    ["O"] = "Bring back 15 Elwynn Pumpkins to Gramma Stonefield.",
+    ["D"] = "This is outrageous! The nerve! First, they only sneak around and startle your herds. Then they sneak into your barn. And what's next?! Rob our houses? Kill us all in out sleep?! What do you think the guards do with this situation, hm? NOTHING! These gnolls are getting bolder with each week and we need our fields protected! Guards are of no help here, unfortunately for us, but I see you have some of that bristling force in your sights. Perhaps you'll be able to help me and in the end help yourself too! Last I've seen these mongrels fly away toward Goldshire. Doubt guards will be of any help on this matter. Perhaps someone at the Eastvale Logging Camp could help with our trouble… Ask folks at the camp! I tell you, these gnolls have stolen my pumpkins! Of course, they have no idea how to cook besides crudely charring anything with camp fire from time to time. They have no idea what you could make out of our sweet pumpkins! Barbarians!",
+  },
+  [60042] = {
+    ["T"] = "Gnoll Bounty",
+    ["O"] = "Kill 10 Riverpaw Runts and 10 Riverpaw Outrunners.",
+    ["D"] = "So it's Mildred who's asking you to help? Of course, I'll help! I was always fond of the Stonefields. Pumpkins, huh? Well, the only gnolls I know that camp not so far away from here are the Riverpaw Gnolls. They are the leftovers of a tribe led by a mighty gnoll known all over Elwynn – Fedfennel. Rumor has it he's been eaten by his own rivals. I digress, however. The camp is most likely further up to the north from Stone Cairn Lake. I heard that even our brave guards dare not to go that far in the forest. Perhaps, while you're at the searching campaign for stolen pumpkins, you could help the Eastvale Logging Camp as well? These gnolls won't be willing to part that easily with what they've stolen, so I assume you'll have to claw it out of their dead cold paws. Do us all good and cull out s'more of these bastards while you're there? One brigade less and we'll have a week of sound sleep by nights.",
+  },
+  [60050] = {
+    ["T"] = "Lucky Coin",
+    ["O"] = "Drop a coin to the Trade District Fountain in the Stormwind City for Teresa.",
+    ["D"] = "Hey… uhm, excuse me, I have a request for you. Hah, I've said that! I'm so nervous to pick on people leaving the Abbey, but for me it's the only way I could possibly ask for one thing I desire to do… Oh, the request, of course! You see, I love to visit Stormwind City from time to time when I'm on my trade trip to the Gallina Winery and I always walk by the Trade District Fountain which stands right next to the Bank. Could you, just for me, toss a coin with a wish for my short by return to Stormwind for good? I heard … I heard a wish with a small donation might make it happen. One more thing, please send my greetings to Suzetta Gallina!",
+  },
   [60061] = {
     ["T"] = "You Reap What You Sow",
     ["O"] = "Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
@@ -264,10 +439,25 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring 10 Linen Bandages to Austil de Mon, in the Gallows’ End Tavern in Brill. You can make the bandages with First Aid skill or buy them from another player.",
     ["D"] = "Some people get all the luck! <Austil glares at Colman Farthing across the inn.> Oh, I lost my family, the plague took my home from me. On and on and on he goes! We get it! The plague took all of our homes and all of our families. But some of us at least came out of it with a jaw intact! <Austil cracks a bone back into place.> If you want to make yourself useful, bring me some bandages so I can hold what’s left of me together!",
   },
+  [60141] = {
+    ["T"] = "Duty to the Light",
+    ["O"] = "Objectives: Bring 8 pieces of Rockhide Boar Meat to Eldrin in the Eastvale Logging Camp.",
+    ["D"] = "To the nobles of Stormwind, a Paladin is an elite soldier, whose glory comes from deeds on the battlefield. But we who follow the light know better. To the poor of the kingdom, we are often the only source of comfort and aid. It is these simple tasks of assistance and caring that separate a true Paladin from some fool with a cudgel. There is a struggling family in the Eastvale Logging Camp that is in need of help to get through the year. I had hoped to help myself, but I cannot leave Goldshire, not with so many threats around us. If you would aid them in my stead, hunt the Rockhide Boars found south of the road and bring their meat to the logging camp.",
+  },
+  [60145] = {
+    ["T"] = "Down in the Ridge",
+    ["O"] = "We also got reports of a kobold much larger than the others, hiding deep in the Echo Ridge. Even its mere existence poses a threat to the abbey. Go down into the Echo Ridge and kill it. You will be justly rewarded.",
+    ["D"] = "Kill Snufflesnout, then report back to Marshal McBride in Northshire Abbey.",
+  },
   [60148] = {
     ["T"] = "Mother of the Hollow",
     ["O"] = "Executor Arren wants you to investigate the Night Web Hollow and kill their broodmother.",
     ["D"] = "We keep killing the spiders but we find that the number hasn't changed the next day. I think there's something off. Go down into the hollow and investigate. Come back in one piece and be rewarded. We suspect that they have a broodmother.",
+  },
+  [60154] = {
+    ["T"] = "Jasperlode Infestation",
+    ["O"] = "Go to the Jasperlode Mine northeast of Goldshire and clear out the spider infestation.",
+    ["D"] = "After your scouting mission at the Jasperlode Mine, I've gotten reports that a stray brood of spiders from Duskwood has made the depths of the mine their home while using the kobolds to feed and increase their population. Kobolds, the Defias, and now spiders? We cannot afford to spread out our men thinner than they already are. Go back to the mine and clear out the infestation before they spread all over the forest!",
   },
   [70020] = {
     ["T"] = "A Brother’s Worried Mind",
@@ -488,5 +678,10 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Zalazane's Apprentice",
     ["O"] = "After reading the letter you decide to find Zalazane's former apprentice by yourself and spare him of his head. Taking his head and Zalazane's mojo back to Master Gadrin in Sen'jin Village will earn you a reward.",
     ["D"] = "That foolish mongrel Makasgar decided he no longer needs the aid of his master and has grown beyond my teachings. ... That mojo was required for a powerful ritual to help us take over the Sen'jin Village and later the whole of Durotar. Go do your master's bidding and bring me his head!",
+  },
+  [80755] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Speak with Diane Willowfield to learn the ability to train and feed your pets.",
+    ["D"] = "You now have the power to tame a pet, but you must also gain the skills to train it.",
   },
 }
