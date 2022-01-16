@@ -1,4 +1,5 @@
 pfDB["objects"]["enUS-turtle"] = {
+  [1000082] = "Stolen Elwynn Pumpkin",
   [1000250] = "Razlik's Tools",
   [1000370] = "Ripe Garden Pumpkin",
   [1000371] = "Garden Berry Bush",
@@ -10,6 +11,8 @@ pfDB["objects"]["enUS-turtle"] = {
   [1772003] = "Summer Dew",
   [1772004] = "Life's Dawn",
   [1772005] = "Vulpa Bloom",
+  [2010841] = "Dirt Mound",
+  [2010856] = "Melenas' Belongings",
   [3000100] = "FM Acquisition, Blastentom's Property",
   [3000227] = "Trash",
   [3000228] = "Trash",
