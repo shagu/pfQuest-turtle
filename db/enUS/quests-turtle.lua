@@ -459,6 +459,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak to Deathguard Burgess in Brill.",
     ["D"] = "You! $R! I wonder if you could do me a favor. Deathguard Burgess in Brill has been ranting about his station, and only having access to the inexperienced members of the horde. He has something that requires a more learned hand and he's prepared to pay.",
   },
+  [60119] = {
+    ["T"] = "Wayne Manners",
+    ["O"] = "Kill 15 Crushridge Ogres, Kill 15 Crushridge Brutes.",
+    ["D"] = "Excuse me, $R. I hope I'm not bothering you but I'd ask you a courtesy if you've the time. I lived in Strahnbrad a lifetime ago and my manor fell to ruin before the third war when the orcs came. There were a few items left behind that would serve me in this unlife so I sent someone for them. The troll I sent has since returned with my heirlooms but I overheard her warning Melisara of the ogres in the area. Melisara has arranged for the maulers within the ruins of Alterac to be destroyed but has no interest in the weaker ogres in the surrounding caves. I have access to ample means to reward you if you would thin their numbers.",
+  },
   [60121] = {
     ["T"] = "The Mail Must Go Through",
     ["O"] = "Deliver Rezlak's Shipment to Rezlak's cousin Kozish in Orgrimmar.",
