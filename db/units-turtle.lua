@@ -76,10 +76,28 @@ pfDB["units"]["data-turtle"] = {
 
   -- add turtle-wow Godrick Bell
   [50506] = {
-    ["fac"] = "AH",
+    ["fac"] = "A",
     ["lvl"] = "4-7",
     ["coords"] = {
       [1] = { 33.1, 47.4, 85, 0 }
+    },
+  },
+
+  -- add turtle-wow Benjamin Bradley
+  [50507] = {
+    ["fac"] = "A",
+    ["lvl"] = "4-7",
+    ["coords"] = {
+      [1] = { 33.1, 47.4, 85, 0 }
+    },
+  },
+
+  -- add turtle-wow Undead Slayer
+  [50508] = {
+    ["fac"] = "H",
+    ["lvl"] = "5-7",
+    ["coords"] = {
+      [1] = { 62.9, 10.1, 130, 0 }
     },
   },
 
@@ -136,6 +154,74 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- add turtle-wow Stone Guardian
+  [60402] = {
+    ["lvl"] = "58-60",
+    ["coords"] = {
+      [1] = { 54.9, 8.1, 490, 0 },
+      [2] = { 58.9, 8.1, 490, 0 },
+      [3] = { 60.9, 8.1, 490, 0 },
+    },
+  },
+
+  -- add turtle-wow Dietmar Onlooker
+  [60404] = {
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 70.2, 40.6, 8, 0 },
+    },
+  },
+
+  -- add turtle-wow Zokk Flamefist
+  [60405] = {
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 69.9, 40.6, 8, 0 },
+    },
+  },
+
+  -- add turtle-wow Wahjez'fon
+  [60406] = {
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 69.7, 40.8, 8, 0 },
+    },
+  },
+
+  -- add turtle-wow Jovany Staunch
+  [60407] = {
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 70.1, 40.8, 8, 0 },
+    },
+  },
+
+  -- add turtle-wow Logrash
+  [60408] = {
+    ["fac"] = "H",
+    ["lvl"] = "50",
+    ["coords"] = {
+      [1] = { 58.8, 5.8, 17, 0 },
+    },
+  },
+
+  -- add turtle-wow Naxiar
+  [60409] = {
+    ["lvl"] = "60",
+    ["coords"] = {
+      [1] = { 81.1, 75.0, 331, 0 },
+    },
+  },
+
+  -- add turtle-wow Re’than
+  [60410] = {
+    ["fac"] = "H",
+    ["lvl"] = "55",
+    ["coords"] = {
+      [1] = { 72.0, 84.3, 8, 0 },
+    },
+  },
+
   -- add turtle-wow Morpheus Ribcage
   [60483] = {
     ["fac"] = "H",
@@ -160,6 +246,24 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "10",
     ["coords"] = {
       [1] = { 54.6, 37.3, 1497, 0 },
+    },
+  },
+
+  -- add turtle-wow Shizwackle Tangrig
+  [60500] = {
+    ["fac"] = "AH",
+    ["lvl"] = "15",
+    ["coords"] = {
+      [1] = { 60.8, 39.7, 17, 0 },
+    },
+  },
+
+  -- add turtle-wow Conservationist Yalus
+  [60507] = {
+    ["fac"] = "A",
+    ["lvl"] = "30",
+    ["coords"] = {
+      [1] = { 36.1, 7.1, 406, 0 },
     },
   },
 
@@ -522,6 +626,14 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "5",
     ["coords"] = {
       [1] = { 51.3, 16.0, 14, 0 },
+    },
+  },
+
+  -- add turtle-wow Ostarius
+  [80935] = {
+    ["lvl"] = "63",
+    ["coords"] = {
+      [1] = { 35.6, 81.4, 440, 0 },
     },
   },
 
