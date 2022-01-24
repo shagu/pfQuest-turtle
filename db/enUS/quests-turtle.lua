@@ -59,10 +59,50 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Talk to Duchess Grelda in her manor and give her the letter from Duke Nargelas.",
     ["D"] = "I'm glad I was right about you. With the imminent danger out of the way, it is time for you to learn about the House Darlthos. Before the Scourge ravaged these lands, our house was one of the most prominent houses in all of Lordaeron. Yet now, we are divided, for my sister-in-law acts as a ruler to those still living. And therein lies our problem, for my wife is the only true heir to this land. You are certainly capable, which is why you have earned the right to an audience with Duchess Grelda. Follow the road south of Glenshire past the gates of the Tirisfal Uplands, and you will find my wife in manor alongside the road. Oh, and make sure to give this letter to her. It's a... let's say, a recommendation of sorts.",
   },
-  [40999] = {
+  [40099] = {
     ["T"] = "Attack from the Inside",
     ["O"] = "Poison 6 Grain Crates, and slay 10 Remnants Farmers and 7 Remnants Militia on Garricks Stead before returning to Duchess Grelda.",
     ["D"] = "Are you aware of how the plague designed by the Cult of the Damned works? No? Well, it doesn't matter. What you need to know is that I have made something similar, though not as powerful as the original one. This vial contains a plague that will severely reduce the life expectancy of the living who consume it. Now, that is the part where you, my dear, come in. I need you to head north, past the Whispering Forest, to a farmstead called Garricks Stead. There, you will slip a bit of this liquid onto the human's supplies. And make sure that there are no witnesses.",
+  },
+  [40108] = {
+    ["T"] = "The Lone Wolf",
+    ["O"] = "Sage Truth Seeker wants you to search for the Farseer Logrash in the Northern part of Barrens.",
+    ["D"] = "The time has come $N. A new path has been shown to me by The Earth Mother. What was once lost must be found again. The shards of this vision still echo in my mind $C. Travel to the North Barrens and seek out a powerful Farseer Logrash amongst the mountains west of Durotar. Only with his help will we be able to locate the missing plates of Uldum. go now, and my The Earth Mother guide your path.",
+  },
+  [40109] = {
+    ["T"] = "Scars of the Past",
+    ["O"] = "Kill Naxiar in the Eastern Ashenvale and bring back the wolf totem to Logrash in Barrens.",
+    ["D"] = "Four years ago, I was betrayed by my own people for refusing to do the very same thing that doomed us in the first place, drinking the blood of a demon Mannaroth. If not for my companion Korvir and Truthseeker, my body would have rotted away in the forests of Ashenvale. <Logrash caresses the scars on his chest with a painful expression>. The spirits whisper of a Demon scum called Naxiar hiding around the eastern lakes of Ashenvale. If you wish to have my aid, I need you to kill him and retrieve my wolf totem.",
+  },
+  [40110] = {
+    ["T"] = "Unseen Enemy",
+    ["O"] = "Logrash wants you to travel to Thunder Bluff and bring the Inscribed Boar Pelt to Sage Truth Seeker.",
+    ["D"] = "This totem will help me enter a deeper state of trance and allow me to commune with the spirits of old. With their help, we might be able to locate your missing plates. <Logrash begins his ritual, and his eyes turn pale>. Bah, I forgot how taxing this ritual is. The plates you seek are immensely powerful $N, show this message to the Truthseeker he will understand where to send you next. But be warned, it appears that we are not the only ones looking for the plates. Someone or something dark is on the trail as well.",
+  },
+  [40111] = {
+    ["T"] = "In a Rush",
+    ["O"] = "Disable 6 Altar Guardians at Titans Ruined Altar in North Un'goro Crater and bring the Plate of Uldum to Sage Truthseeker at Thunder Bluff.",
+    ["D"] = "The path ahead is clear now, friend. With both locations revealed, it is time to act. I will gather a war party of Horde's finest warriors to secure one of the plates at The Swamp of Sorrows while you make your way to the northern mountains of Un'goro Crater and recover the other plate. <Sage rubs his chin>. But the grave news Logrash spoke of still trouble my mind. Be careful, friend, and may the Earthmother watch over you.",
+  },
+  [40112] = {
+    ["T"] = "Disturbing Silence",
+    ["O"] = "Sage Truthseeker wants you to search for his missing War Party in the Eastern part of The Swamp of Sorrows.",
+    ["D"] = "While I'm glad to see you return, I feel a disturbance in the air. The war party that I have to send to The Swamp of Sorrows has not returned, nor did they send any message. Logrash's warning still circles my mind. $N you have done so much already for us, but I would ask you to check on the war party. The location Logrash marked for us points us towards the southeastern part of the swamps along the mountains. Maybe this is just an old man worrying, but I cannot shake this feeling of unease.",
+  },
+  [40113] = {
+    ["T"] = "Might of the Horde",
+    ["O"] = "Slay 4 Twilight Cultists, and retrieve the Second Plate of Uldum north of the Temple of Old. Return to Sage Truthseeker with the second plate and news of his expedition.",
+    ["D"] = "Hahaha, this be not the death I thought I would end up with, but Bwonsamdi appears to have other plans for me. <Cough, cough>. I lived a life with no regrets $N, until now. I ask this of you, friend. Go north of here after those bastards and show them that if it be the war they seek, then the Horde will stand against them. Lok-Tar... Ogar.",
+  },
+  [40114] = {
+    ["T"] = "Uldum Awaits",
+    ["O"] = "Head to the Valley of the Watcher in Tanaris and activate the Pedestal in front of the gate by using the Plates of Uldum.",
+    ["D"] = "The time has come, it is as the Earthmother told me. We have no idea what we might find in Uldum. And if there are dangerous factions that seek to enter as well. Then all the more reason for us to take extreme precautions. I urge you to avoid the mistake I have made with the war party. Before you go, find trustworthy allies who would accompany you to the gates. There is no telling what awaits you there. And I. I will be working on putting our friends to rest. It is the least I can do to atone for my mistake. Go now, and may the winds be ever at your back.",
+  },
+  [40115] = {
+    ["T"] = "Guardian of the Gate",
+    ["O"] = "Defeat Ostarius. Return to the Thunder Bluff and inform Sage Truthseeker about the events that occurred at the gate.",
+    ["D"] = "As you place the plates on the pedestal, a sudden burst of light suddenly surrounds the pedestal Initiating unlock sequence. Plates present, scanning for item validation. Plates authentication complete, unlocking the gates. Activating Gate Keeper to greet the guests.",
   },
   [40136] = {
     ["T"] = "Dwindling Supplies",
@@ -84,10 +124,20 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
     ["D"] = "With the bulk of the undead gone, it is time to face the one responsible for taking our new troops from us. Go to the Corinth Farm once again and kill the Necromancer responsible for this. And be careful if the Necromancer is capable of summoning a small army of undead he is certainly not someone who should be underestimated.",
   },
+  [40216] = {
+    ["T"] = "The Venture Co. Shakedown",
+    ["O"] = "Travel to The Sludge Fen and slay 10 Venture Co. Drudgers and 10 Venture Co. Mercenaries for Shizwackle Tangrig.",
+    ["D"] = "Howdy there, don't suppose you're looking to help out a goblin who has a deep need for revenge huh? You see, I used to help out the Venture Co. back in my hayday, and honestly, it was a big mistake. They offered me the deal of a lifetime for my friendship, to supply them with some metal under the table for big profit. Now, I think its in a goblins blood to follow the smell of gold,but I was robbed, and hoodwinked. I put my butt on the line for those guys, and they up and haven't even contacted me since, I want you to give them a message, no one screws with Shizwackle and lives to tell about it. I do have a reputation to keep if I ever want to survive out here after all. Head up to The Sludge Fen far to the north, kill their Drudgers and Mercenaries, its with my metal they started this refinery there, maybe when they have less workers they will pay attention.",
+  },
   [40220] = {
     ["T"] = "Batskin Letter",
     ["O"] = "Speak with Morpheus Ribcage.",
     ["D"] = "While you were aiding with the tasks of the Forsaken a fellow by the name of Morpheus Ribcage gave me this letter to be seen by your eyes only, you should find him close to the Graveyard.",
+  },
+  [40227] = {
+    ["T"] = "Conserving Stonetalon Peak",
+    ["O"] = "Collect a single Pristine Twilight Fang for Conservationist Yalus in Stonetalon Peak.",
+    ["D"] = "Welcome to Stonetalon Peak, a place of harmony with nature, Keeper Albagorm has done well in maintaining the region despite setbacks. I have been working tirelessly for sometime in maintaining the wildlife around here, and I have been having some issues. The Twilight Runners of the Peak have been growing more hostile with time, and I fear they may out hunt some of the other wildlife present here. I require from them a single Pristine Twilight Fang, which will be used to conduct research to find any sort of genetic problem, disease, or corruption that may be gripping the population. You can find them about Stonetalon Peak, be quick.",
   },
   [40248] = {
     ["T"] = "Taming the Beast I",
@@ -183,6 +233,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "In Service of the Light",
     ["O"] = "Talk to Brother Crowley at the Stormwind City Cathedral.",
     ["D"] = "You look like a brave hero, <name>. Brother Crowley wants me to find the most devout ones who want to do the good work of the Light, he said. He seemed pretty excited about it, too. You should go talk to him! He's in the lower part of the Cathedral.",
+  },
+  [50301] = {
+    ["T"] = "In Service of the Light",
+    ["O"] = "Speak with Godrick Bell at Solliden's Farmstead in Tirisfal Glades.",
+    ["D"] = "Our righteous duty is not for the faint of heart, adventurer. Many critics come with the banner that we carry, but in the end, we know we are doing what is just. When Lordaeron was destroyed, the Light guided us into assembly to reclaim the land that once was ours and purge it of the vile Scourge threat. Our methods are decisive and more than anyone in the Alliance is willing to do. You must be prepared to make sacrifices if you are to join our ranks, $C. If you're ready and willing, then I will arrange a caravan that will take you to Tirisfal Glades where you can find Godrick Bell. He will initiate you, thereby pledging your life in service to the Light. I've arranged a ride to go to Tirisfal for you and the other recruits. Are you ready to depart?",
+  },
+  [50302] = {
+    ["T"] = "Light's Chosen Champion.",
+    ["O"] = "Kill 15 Undead Slayers at Solliden's Farmstead in Tirisfal Glades.",
+    ["D"] = "It is time to prove your loyalties to the Crusade, recruit. Look around you. This farmland was once home to bountiful fields of crops and grain. Now, it is a place of death and despair. How could it have devolved to such a point, you might wonder? The Scourge. Their goal is to extinguish the Light from this world, and we are all that stands in their way. By being here, you have chosen your destiny to protect all that is righteous. Their horrid presence taints the land around us. Exterminate them.",
+  },
+  [50303] = {
+    ["T"] = "Before the Storm",
+    ["O"] = "Speak to Benjamin Bradley at the Scarlet Outpost near the Scarlet Monastery.",
+    ["D"] = "You have humbly accepted our burden to purge the Scourge, yet you lack the proper coat of arms to show for it. Go see Benjamin Bradley and he will assist with fitting you into a tabard that will signify your standing with the Scarlet Crusade. Wear our colors proudly, recruit.",
   },
   [50305] = {
     ["T"] = "Higher Stakes",
@@ -434,6 +499,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find a herd of kodo in the fields of Mulgore and defeat its Matriarch and Bull.",
     ["D"] = "The kodo is the mightiest of the beasts of Mulgore, and therefore the greatest of its hunts. You are ready, young $C, to hunt them yourself. You have probably already seen the kodo herds wandering Mulgore during your earlier travels. Find one of the herds, and challenge its matriarch and bull. Kodos are not aggressive creatures, but they are fearsome when provoked – you will need all the skills you have learned to overcome their elders, $R. Return to me when you have conquered them.",
   },
+  [60139] = {
+    ["T"] = "No More-pid!",
+    ["O"] = "Kill 10 Armored Scorpid. Stomping on their tails is not required, but may make you feel better.",
+    ["D"] = "Why in the name of Doomhammer did we have to settle in a desert? Scorpids! Every time I leave Razor Hill, scorpids! In my tent, in my shoes, in my armor, scorpids! I can defeat them easily - I am no weakling - but every time they sting me I have to drink a healing potion or walk all the way back to town to find a healer. I'm sick of it! You seem like a study warrior. Will you go out and kill every scorpid you can find? Then stomp on their tails a little? It's your duty to the Horde to stomp on every tail! You can find the scorpid all over northern Durotar... whether you want to or not.",
+  },
   [60140] = {
     ["T"] = "Don’t Lose (Part Of) Your Head",
     ["O"] = "Bring 10 Linen Bandages to Austil de Mon, in the Gallows’ End Tavern in Brill. You can make the bandages with First Aid skill or buy them from another player.",
@@ -449,15 +519,35 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "We also got reports of a kobold much larger than the others, hiding deep in the Echo Ridge. Even its mere existence poses a threat to the abbey. Go down into the Echo Ridge and kill it. You will be justly rewarded.",
     ["D"] = "Kill Snufflesnout, then report back to Marshal McBride in Northshire Abbey.",
   },
+  [60147] = {
+    ["T"] = "Stalking the Felstalkers",
+    ["O"] = "Kill 10 Felstalkers. Return to Zureetha Fargaze outside the Den.",
+    ["D"] = "You've fought the vile familiars outside the coven, but the taint in the valley trails deeper. You must go inside the coven and slay the felstalkers. Return and you'll be rewarded.",
+  },
   [60148] = {
     ["T"] = "Mother of the Hollow",
     ["O"] = "Executor Arren wants you to investigate the Night Web Hollow and kill their broodmother.",
     ["D"] = "We keep killing the spiders but we find that the number hasn't changed the next day. I think there's something off. Go down into the hollow and investigate. Come back in one piece and be rewarded. We suspect that they have a broodmother.",
   },
+  [60150] = {
+    ["T"] = "Bristleback Aggression",
+    ["O"] = "Grull Hawkwind in Camp Narache wants you to kill 6 Bristleback Quilboars and 4 Bristleback Shamans.",
+    ["D"] = "The quilboar activity in the Brambleblade Valley has been increasing lately, we suspect that they're preparing for an attack on Camp Narache. Go to the ravine and thin their numbers, they fight without honor and deserve none.",
+  },
   [60154] = {
     ["T"] = "Jasperlode Infestation",
     ["O"] = "Go to the Jasperlode Mine northeast of Goldshire and clear out the spider infestation.",
     ["D"] = "After your scouting mission at the Jasperlode Mine, I've gotten reports that a stray brood of spiders from Duskwood has made the depths of the mine their home while using the kobolds to feed and increase their population. Kobolds, the Defias, and now spiders? We cannot afford to spread out our men thinner than they already are. Go back to the mine and clear out the infestation before they spread all over the forest!",
+  },
+  [70002] = {
+    ["T"] = "The Guidance of a Mad Man",
+    ["O"] = "Venture to the Tainted Scar and find Daio the Decrepit.",
+    ["D"] = "We have kept a close eye on your growth $N. You have outwitted several demons under your command, conquered many foes, and kept a lot of allies at your side. There is very little any of us may teach you at the moment, you have gone above and beyond any of our expectations. However, there is someone that may yet have something to teach you about the ways of the warlock. Venture to the Blasted Lands and seek the one called Daio, there is a slight chance you might've already met.",
+  },
+  [70003] = {
+    ["T"] = "Draining the Soulflayer",
+    ["O"] = "Slay Hakkar the Soulflayer and bring the Well Essence back to Daio the Decrepit.",
+    ["D"] = "Your task will not be an easy one but the reward will be worth the trouble. The Jungle trolls of Stranglethorn Vale are attempting to bring back their God to life, Hakkar the Soulflayer, I assume someone already had tasked you to put a stop to them. What I ask is a bit different, bring me back his essence, you will know what I am talking about as you will see it. You will need this Essence for what I am gonna teach you, know that it will be of great use to you and your allies. Now go, gather your allies, summon your demons and conquer that old pathetic God.",
   },
   [70020] = {
     ["T"] = "A Brother’s Worried Mind",

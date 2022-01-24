@@ -8,6 +8,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Godrick Bell
   [50506] = "Godrick Bell",
 
+  -- add turtle-wow Undead Slayer
+  [50508] = "Undead Slayer",
+
   -- add turtle-wow Gina Weller
   [51261] = "Gina Weller",
 
@@ -26,6 +29,30 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow shagu
   [60300] = "Shagu",
 
+  -- add turtle-wow Stone Guardian
+  [60402] = "Stone Guardian",
+
+  -- add turtle-wow Dietmar Onlooker
+  [60404] = "Dietmar Onlooker",
+
+  -- add turtle-wow Zokk Flamefist
+  [60405] = "Zokk Flamefist",
+
+  -- add turtle-wow Wahjez'fon
+  [60406] = "Wahjez'fon",
+
+  -- add turtle-wow Jovany Staunch
+  [60407] = "Jovany Staunch",
+
+  -- add turtle-wow Logrash
+  [60408] = "Logrash",
+
+  -- add turtle-wow Naxiar
+  [60409] = "Naxiar",
+
+  -- add turtle-wow Re’than
+  [60410] = "Re’than",
+
   -- add turtle-wow Morpheus Ribcage
   [60483] = "Morpheus Ribcage",
 
@@ -34,6 +61,12 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Diane Willowfield
   [60488] = "Diane Willowfield",
+
+  -- add turtle-wow Shizwackle Tangrig
+  [60500] = "Shizwackle Tangrig",
+
+  -- add turtle-wow Conservationist Yalus
+  [60507] = "Conservationist Yalus",
 
   -- add turtle-wow Grubgar
   [60510] = "Grubgar",
@@ -136,6 +169,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Miley Wildbit
   [80902] = "Miley Wildbit",
+
+  -- add turtle-wow Ostarius
+  [80935] = "Ostarius",
 
   -- add turtle-wow Mysterious Stranger
   [81030] = "Mysterious Stranger",
