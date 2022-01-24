@@ -1449,6 +1449,21 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 29,
     ["min"] = 27,
   },
+  -- Wayne Manners
+  [60119] = {
+    ["start"] = {
+      ["U"] = { 2395 },
+    },
+    ["end"] = {
+      ["U"] = { 2395 },
+    },
+    ["obj"] = {
+      ["U"] = { 2252, 2253 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 35,
+    ["min"] = 30,
+  },
   -- The Mail Must Go Through
   [60121] = {
     ["start"] = {
