@@ -14,6 +14,71 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Share a smoke with Shagu.",
     ["D"] = "Now that you've brought the herbs I can set up my hookah and truly enjoy the real good stuff. It is by the Earthmother's blessings that such a combination exists. I would like you to try this and see for yourself what the gifts of the Earthmother bestow! Sit down, sit down. Let us enjoy the smoke and bond with one another and of course with the Earthmother.",
   },
+  [40014] = {
+    ["T"] = "Titiki's Hunt",
+    ["O"] = "Slay Giant Plains Creeper for 5 Greater Venom Sacs.",
+    ["D"] = "The trolls were once the greatest hunters on Azeroth. There are tales of our legends that last even today, mon! The humans once feared us. We were close to defeating them and the elves, but that is another story for another time. The hunt must always continue for us, and you will help me. Prove yourself by hunting the deadliest of Arathi's creatures. The Plains Creeper be a deadly foe with venom strong enough to cripple the senses of even giants! It creeps within the shadows and strikes with a quickness that be matched by little within the Arathi Highlands If you wish to best this creature, then you must be careful in your actions, $N. Bring me 5 Greater Venom Sacs from Giant Plains Creepers in Arathi.",
+  },
+  [40015] = {
+    ["T"] = "The Hunt for Heketh",
+    ["O"] = "Slay Heketh within Arathi Highlands, and then return to Titiki.",
+    ["D"] = "You have done well in proving yourself, but now the real challenge begins, mon. The biggest of the Greater Plains Creepers be that of Heketh, a fearsome foe with great agility, power, and cunning. To defeat Heketh, you will need to have your wits about you. The beast can be found just west of Go'Shek Farm. Find him, and slay him for the Wildtusk!",
+  },
+  [40016] = {
+    ["T"] = "Gortog's Beads",
+    ["O"] = "Smash Ogres at the Boulderfist Outpost and retrieve Gortog's Beads",
+    ["D"] = "Gortog was once member of Boulderfist Ogres. We smash anyone who stop us! Gortog spoke out against leader about fighting Horde, and was kicked out of Boulderfist. Gortog did stupid, but Gortog still want Ogre Beads given to me for smashing. One of Boulderfist Ogres at Outpost still have, I know it. It is just southwest of here. Go smash Boulderfists and get my beads back! They are important!",
+  },
+  [40017] = {
+    ["T"] = "Preparing for War",
+    ["O"] = "Collect 10 Arathi Raptor Hides from Raptor's in Arathi.",
+    ["D"] = "Dere be a war, $R, between us and the Witherbark. We must prepare for it. Yin'do be telling me to create as much armor as I can for the upcoming battle, but my supplies are limited. If we are to survive against a stronger foe, then we need all the help we can get, especially from sturdy armor. I need you to gather me Arathi Raptor Hide from the beasts down south from the mountains. It be the strongest hide from the creatures in the region.",
+  },
+  [40018] = {
+    ["T"] = "War on the Witherbark",
+    ["O"] = "Kill 14 Witherbark Raiders, 8 Witherbark Soothsayers, and 5 Witherbark Rogues.",
+    ["D"] = "The Witherbark be a brutal enemy—one that attacked in the dark of night and had no mercy for our kind. We were lucky to escape. It seems as though they are biding their strength for the next attack, and we will not let it be so. We are heavily outnumbered and need to reduce their ranks. Head to the Ruins of Zul'Rasaz through the trail to the northwest. Kill them, and show them that the spirits be on our side—that we be the masters of these heights.",
+  },
+  [40019] = {
+    ["T"] = "The Wildtusk Charms",
+    ["O"] = "Collect 5 Wildtusk Charms from the Ruins of Zul'Rasaz.",
+    ["D"] = "The spirits be watching us, always watching. They be upset at our abandoning the charms in Zul'Rasaz, and it feels as if their judgments could lead to the voodoo abandoning us at any time. Without the Voodoo or the Spirits, we be lost—and I mean lost—from the afterlife and this life both. The spirits abandoned the Witherbark long ago, and it be the only reason we still alive! We need to recover the charms, and quickly. Within our old home, the Ruins of Zul'Rasaz to the northwest, be the Wildtusk Charms. Collect me five of them to please the spirits before we anger them!",
+  },
+  [40020] = {
+    ["T"] = "The Chief's Necklace",
+    ["O"] = "Find Yin'dos necklace in the Ruins of Zul'Rasaz.",
+    ["D"] = "In the chaos of the battle for Zul'Rasaz, items were abandoned that are important to many. When we were forced to retreat, I left behind a valuable family necklace that means the world to me, mon. It was handed down from my father, and his father before him, all the way down to me. It dates back to the Troll Wars long, long ago. I cannot stand by while my necklace lays in the Ruins of Zul'Rasaz. You must get it for me! You can find the ruins of my old city by following a trail outside of the town to the northwest. Once in Zul'Rasaz, you can find my necklace in a hut at the top of the ruins there, in the heights near the Rasaz trails.",
+  },
+  [40021] = {
+    ["T"] = "The Speaker's Betrayal",
+    ["O"] = "Bring the head of Speaker Gan'to to Chief Yin'do.",
+    ["D"] = "My people once held great power and lived in a city secluded within the mountains. A traitor, Speaker Gan'to, betrayed us and told the location of our ancestral home to the Witherbark in order to gain favor. Innocents were slaughtered, and I can still hear the cries of battle in the late hours of that horrific night. Words cannot express the hatred I be having for this troll I once called a friend for the bloodshed he has brought. You will kill him, and bring his head to me once you are done. You will find him in the Ruins of Zul'Rasaz to the northwest of here. Take the trail once you leave town and you will find it... When you find Speaker Gan'to, make he sure he suffers.",
+  },
+  [40022] = {
+    ["T"] = "The Witherbark Warleader",
+    ["O"] = "Bring the head of Warleader Kin'toza to Chief Yin'do.",
+    ["D"] = "If there is ever a chance for my people to return to Zul'Rasaz, then the Warleader must be killed. The troll who lead the attack is Kin'toza, a powerful Warleader who came from Shandra'Alor. With his Warband, he was able to kill many of my people and claim Zul'Rasaz for himself. I want you to avenge the dead, and to scatter the Witherbark leadership. Bring me the head of Kin'toza, it will be a symbol of hope for my people, and a chance to retake Zul'Rasaz one day from those who stole it. You will find him at the ruins of my old city.",
+  },
+  [40023] = {
+    ["T"] = "Assisting Lord Rog",
+    ["O"] = "Speak with Lord Rog.",
+    ["D"] = "The Wildtusk have always held good relations with the elemental beings. It is up to us, the speakers, to commune with the spirits and elements alike. Lord Rog be troubled by disturbances that go beyond Wildtusk Village. We don't have the strength or the means to help him, but perhaps you can, mon? The elements do not reach out often, so we cannot miss this opportunity. Speak with Lord Rog and see if you can help in our stead.",
+  },
+  [40024] = {
+    ["T"] = "Lord Rog's Exiles",
+    ["O"] = "Gather 5 Inner Binding Bracers from Rock Elementals at the Circle of Inner Binding in Arathi Highlands.",
+    ["D"] = "My kind have become disconnected from the Elemental Plane here within the Arathi Highlands. Foreign disturbances and the death of our leaders have left us disillusioned and waning in our powers. I have no control over the elementals that I was charged with, and I believe there is more at play here. To the southwest is the Circle of Inner Binding. It is where my followers are scattered. Go there, and take from them the Inner Binding Bracers they possess. They will not give them to you willingly, so you must destroy them.",
+  },
+  [40025] = {
+    ["T"] = "Inner Binding Purification",
+    ["O"] = "Gather 5 Life Roots, 10 Solid Stones, and 3 Wild Steelblooms, and bring them to Speaker Ganz'ih.",
+    ["D"] = "With Ganz'ih's remark, it would appear these bracers have become corrupted. Someone is taking advantage of our weakened status and turning my kind to nefarious means. We must cleanse these bracers of their taint, and to do so, I require natural materials. You can find them in this world, and they should do well in purifying the taint. Bring Speaker Ganz'ih five Life Roots, ten Solid Stones, and three Wild Steelblooms. He will be preparing the materials for me.",
+  },
+  [40026] = {
+    ["T"] = "Lord Rog's Favor",
+    ["O"] = "Wait for Lord Rog to purify the bracers.",
+    ["D"] = "It is done. I have gotten all of the materials prepared and given them to Lord Rog. He shall begin the purification of his bracers. We have done well. Let us wait until he is done.",
+  },
   [40080] = {
     ["T"] = "Into the Uplands",
     ["O"] = "Deliver Volgrin's Parcel to Apothecary Volgrin near the entrance to the Tirisfal Uplands.",
@@ -47,7 +112,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40096] = {
     ["T"] = "Outnumbered",
     ["O"] = "Slay 8 Remnants Scouts in the Whispering Forest and return to Duke Nargelas.",
-    ["D"] = "Ah, you look like someone who can get things done, <class>. Listen closely, as I do not like to repeat myself. The humans outnumber us five to one. However, they are not aware of this yet, and I would like to keep it that way. My servants informed me that the Lordaeron scouts are heading towards Glenshire from the north. And you, my friend, are going to make sure that they never return to their masters.",
+    ["D"] = "Ah, you look like someone who can get things done, $C. Listen closely, as I do not like to repeat myself. The humans outnumber us five to one. However, they are not aware of this yet, and I would like to keep it that way. My servants informed me that the Lordaeron scouts are heading towards Glenshire from the north. And you, my friend, are going to make sure that they never return to their masters.",
   },
   [40097] = {
     ["T"] = "In the Dark",
@@ -124,6 +189,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
     ["D"] = "With the bulk of the undead gone, it is time to face the one responsible for taking our new troops from us. Go to the Corinth Farm once again and kill the Necromancer responsible for this. And be careful if the Necromancer is capable of summoning a small army of undead he is certainly not someone who should be underestimated.",
   },
+  [40181] = {
+    ["T"] = "Taking over Faldir's Cove",
+    ["O"] = "Invade Faldir's Cove and kill everything in your way.",
+    ["D"] = "Now that we've let 'em know who they be dealin' with it's also time to hit 'em when they'd less expect. I hear thar be some fools that set anchor in to Faldir's Cove in Arathi Highlands. I wants ye to scuttle 'em, all of 'em.",
+  },
   [40216] = {
     ["T"] = "The Venture Co. Shakedown",
     ["O"] = "Travel to The Sludge Fen and slay 10 Venture Co. Drudgers and 10 Venture Co. Mercenaries for Shizwackle Tangrig.",
@@ -187,7 +257,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40278] = {
     ["T"] = "Darlthos Heritage",
     ["O"] = "Bring the box to Vathras Millson in Steepcliff Port.",
-    ["D"] = "<race>, I have a task for you. A rather important one. <Nargelas shows you a well-decorated jewelry box>. In here lays a key to respect and right to rule the Tirisfal Uplands. You see, before the scourge invaded, my wife Grelda was supposed to inherit these lands from her father. On the coronation day, the contents of this box were supposed to pass on into her possession. Many moons have passed, and yet my courtiers and I had no luck in opening the lock on this thing. But during my research, a name came up. Vathras Millson. A historian or some such, but I heard that he specializes in these kinds of things. That is why I need you to head to Steepcliff Port and find him. I heard he owns an Inn now. Oh, and do be careful. The box is worth more than your life.",
+    ["D"] = "$R, I have a task for you. A rather important one. <Nargelas shows you a well-decorated jewelry box>. In here lays a key to respect and right to rule the Tirisfal Uplands. You see, before the scourge invaded, my wife Grelda was supposed to inherit these lands from her father. On the coronation day, the contents of this box were supposed to pass on into her possession. Many moons have passed, and yet my courtiers and I had no luck in opening the lock on this thing. But during my research, a name came up. Vathras Millson. A historian or some such, but I heard that he specializes in these kinds of things. That is why I need you to head to Steepcliff Port and find him. I heard he owns an Inn now. Oh, and do be careful. The box is worth more than your life.",
   },
   [40279] = {
     ["T"] = "A Different Type of Lock",
@@ -207,12 +277,17 @@ pfDB["quests"]["enUS-turtle"] = {
   [40298] = {
     ["T"] = "Red Skies of Durotar",
     ["O"] = "Bring 5 Chunks of Boar Meat, 3 Mutton Chops and 1 Bone Chew Toy to Bristlefur in Razor Hill.",
-    ["D"] = "The wyvern are native to Kalimdor and they can be found throughout several Horde lands. They have proven to be loyal companions for our wind riders. I remember the days when we first ensued the help of these beautiful creatures, in truth they have been gifts from the Earthmother to tighten the bond between the Tauren tribes and the Orcs that followed Thrall, it's not an exaggeration to say that without them the Horde wouldn't be where they are today. Bristlefur here is already tame, it will not attack you so let that thought go away. The truth is the poor girl seems to be bored and it also acts like hunger might be overwhelming her, and there might be the fact I did forget her favourite chewing bone back in Thunder Bluff. If you have the time, young <race>, I am more than sure she will take you to the skies if you were to find her a new toy and some food to sate her hunger.",
+    ["D"] = "The wyvern are native to Kalimdor and they can be found throughout several Horde lands. They have proven to be loyal companions for our wind riders. I remember the days when we first ensued the help of these beautiful creatures, in truth they have been gifts from the Earthmother to tighten the bond between the Tauren tribes and the Orcs that followed Thrall, it's not an exaggeration to say that without them the Horde wouldn't be where they are today. Bristlefur here is already tame, it will not attack you so let that thought go away. The truth is the poor girl seems to be bored and it also acts like hunger might be overwhelming her, and there might be the fact I did forget her favourite chewing bone back in Thunder Bluff. If you have the time, young $R, I am more than sure she will take you to the skies if you were to find her a new toy and some food to sate her hunger.",
   },
   [40301] = {
     ["T"] = "Baking Bread",
     ["O"] = "Deliver the Sack of Flour to Innkeeper Gryshka in Orgrimmar.",
     ["D"] = "Greetings friend, may I interest you in a loaf of bread? But if it's not bread you're looking for and wish for work, I might have a task for you. My friend, Gryshka, owns the inn of Orgrimmar, in many of her letters she wrote that she is unable to reproduce my special flour and can't provide her customers with Mulgore Spice Bread. It is by the Earthmother's love that adventurers such as you find their path to me or I'd never be able to communicate with her. If you wish to aid me, I will give you a sack of flour and the recipe for it, all you have to do is bring it to Gryshka. I hear our newest mischievous allies, the Goblins have raised a zeppelin tower close to Thunder Bluff, the villagers say it takes you straight to Durotar right over the Barrens. Here, let me get the sack, Gryshka will have a reward for you.",
+  },
+  [40302] = {
+    ["T"] = "Torta's Egg",
+    ["O"] = "Find Torta's Egg in Zoram Strand.",
+    ["D"] = "Hello there adventurer! As you may know the Darkmoon Faire moves from Kalimdor to Eastern Kingdoms each week. In fact we are able to move through most cities without the faction barrier. With the new boat from Darkshore to Stormwind we have drastically changed our route. To quickly be done with the explanation, this week we camped close to Zoram's Strand at night before reaching Darkshore, and one of those Nagas stole a very precious gift I once got in Tanaris! Ah yes, it was in my days of searching for wonders and mystery that I found a curious turtle close to the shores, her name was Torta, and she could speak! Imagine, a speaking turtle, how marvelous! She asked me to find her husband, Tooga. Apparently he got lost a lot, but he also was able to speak! Never in my life have I seen such a thing. But sadly they didn't wish to join the Faire, however Torta offered me one of her eggs and that's the precious gift I am talking about, I think it was about to hatch too. Please, bring back my egg.",
   },
   [40318] = {
     ["T"] = "A Call to Aid",
@@ -232,7 +307,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [50300] = {
     ["T"] = "In Service of the Light",
     ["O"] = "Talk to Brother Crowley at the Stormwind City Cathedral.",
-    ["D"] = "You look like a brave hero, <name>. Brother Crowley wants me to find the most devout ones who want to do the good work of the Light, he said. He seemed pretty excited about it, too. You should go talk to him! He's in the lower part of the Cathedral.",
+    ["D"] = "You look like a brave hero, $N. Brother Crowley wants me to find the most devout ones who want to do the good work of the Light, he said. He seemed pretty excited about it, too. You should go talk to him! He's in the lower part of the Cathedral.",
   },
   [50301] = {
     ["T"] = "In Service of the Light",
@@ -267,7 +342,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [55002] = {
     ["T"] = "Supplies to the Port!",
     ["O"] = "Deliver the Sealed Trade Goods to the nearby Port Town of Sparkwater to the north-east of Razor Hill.",
-    ["D"] = "Supplies, supplies, supplies. It's all they ever want, those goblins! I send them four saw blades and the next thing I know they need six! I send them tin, and then they need iron. You would swear they went through more materials then the Horde Warmachine! I've got this shipment to run down, but I've got so much other work, if you could be of assistance it would be much appreciated, <race>. The Goblins have set up a new town up to the north east along the coast, you can't miss it. Just follow the smell of the smoke.",
+    ["D"] = "Supplies, supplies, supplies. It's all they ever want, those goblins! I send them four saw blades and the next thing I know they need six! I send them tin, and then they need iron. You would swear they went through more materials then the Horde Warmachine! I've got this shipment to run down, but I've got so much other work, if you could be of assistance it would be much appreciated, $R. The Goblins have set up a new town up to the north east along the coast, you can't miss it. Just follow the smell of the smoke.",
   },
   [55003] = {
     ["T"] = "A New Power Source",
@@ -277,7 +352,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [55004] = {
     ["T"] = "Adding a Little Sting",
     ["O"] = "Collect 5 Chunk of Boar Meat and 5 Scorpid Stinger and bring them to Hargosh in Sparkwater Port.",
-    ["D"] = "Hail, it is in times of peace that the body is set to engage within past-times of enjoyment. One such enjoyment for these goblins is that of eating, and eat they do, <race>. As much as they eat, I am still competing with the others around me, and I'm hoping to set myself apart. I have been wanting to experiment with new recipes from around the Barrens, and while I may never get tired of roasted boar meat, there is more I can do to make my food even more alluring. All around Sparkwater Port there are Scorpids and Boars. Gather Chunks of Boar Meat and Scorpid Stingers from around the area and I will reward you for the effort.",
+    ["D"] = "Hail, it is in times of peace that the body is set to engage within past-times of enjoyment. One such enjoyment for these goblins is that of eating, and eat they do, $R. As much as they eat, I am still competing with the others around me, and I'm hoping to set myself apart. I have been wanting to experiment with new recipes from around the Barrens, and while I may never get tired of roasted boar meat, there is more I can do to make my food even more alluring. All around Sparkwater Port there are Scorpids and Boars. Gather Chunks of Boar Meat and Scorpid Stingers from around the area and I will reward you for the effort.",
   },
   [55005] = {
     ["T"] = "Prototype Thievery",
@@ -317,7 +392,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [55021] = {
     ["T"] = "Beyond the Walls",
     ["O"] = "Kill 6 Young Sawtooth Crocolisks, 8 Sorrow Spinners, and 8 Swamp Jaguars, then return to Dispatch Commander Ruag.",
-    ["D"] = "So, Zuul sent you? He wants to leave Stonard, that's it? Heh, well I'll make you a deal <race>. Zuul has been an obedient grunt, one that listens well and does well when called upon, it's the only reason I'm offering this. You do a task for me, and I'll give him leave for a few days. The local wildlife has been a continuous thorn in our side. There is no other presence than the large beasts that dwell within the shadows beyond the light of our torches. I've had orcs go missing and not turn up late at night, and there is no doubt in my mind that the beasts outside our walls are responsible. Clear out the area outside our walls of what you find: jaguars, spiders and crocolisks. Make sure to thin their numbers.",
+    ["D"] = "So, Zuul sent you? He wants to leave Stonard, that's it? Heh, well I'll make you a deal $R. Zuul has been an obedient grunt, one that listens well and does well when called upon, it's the only reason I'm offering this. You do a task for me, and I'll give him leave for a few days. The local wildlife has been a continuous thorn in our side. There is no other presence than the large beasts that dwell within the shadows beyond the light of our torches. I've had orcs go missing and not turn up late at night, and there is no doubt in my mind that the beasts outside our walls are responsible. Clear out the area outside our walls of what you find: jaguars, spiders and crocolisks. Make sure to thin their numbers.",
   },
   [55022] = {
     ["T"] = "Taking Leave",
@@ -467,7 +542,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [60121] = {
     ["T"] = "The Mail Must Go Through",
     ["O"] = "Deliver Rezlak's Shipment to Rezlak's cousin Kozish in Orgrimmar.",
-    ["D"] = "But ya know... I got a few more coins here to spare, and like I said I got an eye for talent. Now I know I want to hire more <race>s for later jobs, but there's still this one to finish. This shipment was contracted to get through. A goblin's reputation is ninety percent of his business! Whaddya say, pal? Mind hauling this stuff the rest of the way for me? My no good cousin should have made it to Orgrimmar hours ago. What? Yeah no, he had more precious cargo to deliver, why do you think I need you to take the rest? Kozish is probably drinking his paycheck at the first pub he saw. Check there. Time is money, friend, get to going.",
+    ["D"] = "But ya know... I got a few more coins here to spare, and like I said I got an eye for talent. Now I know I want to hire more $Rs for later jobs, but there's still this one to finish. This shipment was contracted to get through. A goblin's reputation is ninety percent of his business! Whaddya say, pal? Mind hauling this stuff the rest of the way for me? My no good cousin should have made it to Orgrimmar hours ago. What? Yeah no, he had more precious cargo to deliver, why do you think I need you to take the rest? Kozish is probably drinking his paycheck at the first pub he saw. Check there. Time is money, friend, get to going.",
   },
   [60122] = {
     ["T"] = "Out For Delivery",
@@ -487,7 +562,12 @@ pfDB["quests"]["enUS-turtle"] = {
   [60131] = {
     ["T"] = "Deep Blue Sea",
     ["O"] = "Kill the Sand Shark off Durotar's eastern coast.",
-    ["D"] = "Greetings <race>! Much of Orgrimmar's food supply comes from the sea to the east. Grunts can assist with escorting the fishermen and crabbers through the scorpids, raptors, and those fanatical weaklings in the eastern cave but there is an issue in the depths that needs to be dealt with. Fishermen have reported an aggressive shark that shreds their nets and attacks their smaller boats. Crabbers won't even drop traps now for fear of getting eaten! Kill it <class>, take friends if needed but rid us of this menace before our food stores dwindle!",
+    ["D"] = "Greetings $R! Much of Orgrimmar's food supply comes from the sea to the east. Grunts can assist with escorting the fishermen and crabbers through the scorpids, raptors, and those fanatical weaklings in the eastern cave but there is an issue in the depths that needs to be dealt with. Fishermen have reported an aggressive shark that shreds their nets and attacks their smaller boats. Crabbers won't even drop traps now for fear of getting eaten! Kill it $C, take friends if needed but rid us of this menace before our food stores dwindle!",
+  },
+  [60132] = {
+    ["T"] = "They're In The Way!",
+    ["O"] = "Kill 20 Plains Creepers in Arathi Highlands.",
+    ["D"] = "<Mu'uta stares into the distance, one hand rubbing a massive scar on his face and the other holding his bow at his side.> A spider, $C. A spider caused this wound. Not inflicted it, mind you, but caused it. <He lowers his hand and his one functioning eye fixes on you.> I was hunting raptors. I need their feathers, the butcher needs the meat, the claws can be used as weapons, they're good creatures. A worthy opponent. If you misstep, into a web in my case, they'll leave their mark. <He grimaces and points at his scarred face.> Spiders, on the other hand, are useless. Their web is too sticky to use for armor or fletching, their carapace too brittle to make decent armor. They're in the way, $C. Kill them.",
   },
   [60133] = {
     ["T"] = "Down With the Sickness",
@@ -747,7 +827,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [80320] = {
     ["T"] = "Burning Bridges",
     ["O"] = "Kill Knobby Tinfault and bring anything he drops back to Miley.",
-    ["D"] = "Heya, <class>! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
+    ["D"] = "Heya, $C! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
   },
   [80384] = {
     ["T"] = "Pinch of Salt",
