@@ -62,6 +62,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Diane Willowfield
   [60488] = "Diane Willowfield",
 
+  -- add turtle-wow Garfield Sparkblast
+  [60496] = "Garfield Sparkblast",
+
   -- add turtle-wow Shizwackle Tangrig
   [60500] = "Shizwackle Tangrig",
 
@@ -233,6 +236,12 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Brizclang Spuckettool
   [91280] = "Brizclang Spuckettool",
 
+  -- add turtle-wow Lord Rog
+  [91289] = "Lord Rog",
+
+  -- add turtle-wow Chief Yin'do
+  [91290] = "Chief Yin'do",
+
   -- add turtle-wow Sagepaw
   [91291] = "Sagepaw",
 
@@ -247,6 +256,24 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Remnants Footman
   [91352] = "Remnants Footman",
+
+  -- add turtle-wow Raz'Dag
+  [91400] = "Raz'Dag",
+
+  -- add turtle-wow Daffar
+  [91401] = "Daffar",
+
+  -- add turtle-wow Jinz'ah 
+  [91402] = "Jinz'ah ",
+
+  -- add turtle-wow Speaker Ganz'ih
+  [91411] = "Speaker Ganz'ih",
+
+  -- add turtle-wow Gortog
+  [91412] = "Gortog",
+
+  -- add turtle-wow Titiki
+  [91415] = "Titiki",
 
   -- add turtle-wow Duchess Grelda
   [91711] = "Duchess Grelda",
@@ -328,6 +355,24 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Remnants Scout
   [91773] = "Remnants Scout",
+
+  -- add turtle-wow Witherbark Raider
+  [91784] = "Witherbark Raider",
+
+  -- add turtle-wow Witherbark Rogue
+  [91785] = "Witherbark Rogue",
+
+  -- add turtle-wow Witherbark Soothsayer
+  [91786] = "Witherbark Soothsayer",
+
+  -- add turtle-wow Warleader Kintoza
+  [91789] = "Warleader Kintoza",
+
+  -- add turtle-wow Speaker Gan'to
+  [91790] = "Speaker Gan'to",
+
+  -- add turtle-wow Heketh
+  [91791] = "Heketh",
 
   -- add turtle-wow Captain Silas
   [91974] = "Captain Silas",
