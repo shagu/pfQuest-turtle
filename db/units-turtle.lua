@@ -222,6 +222,50 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- add turtle-wow Ghoststalker
+  [60420] = {
+    ["lvl"] = "22",
+    ["coords"] = {
+      [1] = { 58.4, 35.5, 331, 0 },
+      [1] = { 16.2, 37.0, 331, 0 },
+    },
+  },
+
+  -- add turtle-wow Thistlefur Recluse
+  [60469] = {
+    ["lvl"] = "19",
+    ["coords"] = {
+      [1] = { 36.6, 45.6, 331, 0 },
+    },
+  },
+
+  -- add turtle-wow Old Greypaw
+  [60470] = {
+    ["fac"] = "AH",
+    ["lvl"] = "20",
+    ["coords"] = {
+      [1] = { 43.0, 97.8, 148, 0 },
+    },
+  },
+
+  -- add Faldan Moonshatter
+  [60471] = {
+    ["fac"] = "A",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 37.7, 50.11, 331, 0 },
+    },
+  },
+
+  -- add Hadanos Greenblade
+  [60472] = {
+    ["fac"] = "A",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 27.23, 36.94, 331, 0 },
+    },
+  },
+
   -- add turtle-wow Morpheus Ribcage
   [60483] = {
     ["fac"] = "H",
@@ -843,6 +887,33 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- add Grol the Exile
+  [91285] = {
+    ["fac"] = "AH",
+    ["lvl"] = "25",
+    ["coords"] = {
+      [1] = { 56.08, 59.24, 331, 0 },
+    },
+  },
+
+  -- add Daela Evermoon
+  [91287] = {
+    ["fac"] = "A",
+    ["lvl"] = "25-29",
+    ["coords"] = {
+      [1] = { 26.4, 21.9, 331, 0 },
+    },
+  },
+
+  -- add Ardaen Evermoon
+  [91288] = {
+    ["fac"] = "A",
+    ["lvl"] = "25-29",
+    ["coords"] = {
+      [1] = { 26.67, 22.03, 331, 0 },
+    },
+  },
+
   -- add turtle-wow Lord Rog
   [91289] = {
     ["fac"] = "AH",
@@ -1383,6 +1454,12 @@ pfDB["units"]["data-turtle"] = {
       [13] = { 30.7, 4.7, 130, 0 },
       [14] = { 31.1, 4.2, 130, 0 },
       [15] = { 31.4, 4.7, 130, 0 },
+    },
+  },
+
+  -- add turtle-wow Master Raxxieth
+  [92110] = {
+    ["lvl"] = "38",
     },
   },
 }

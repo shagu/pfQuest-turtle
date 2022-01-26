@@ -53,6 +53,21 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Re’than
   [60410] = "Re’than",
 
+  -- add turtle-wow Ghoststalker
+  [60420] = "Ghoststalker",
+
+  -- add turtle-wow Thistlefur Recluse
+  [60469] = "Thistlefur Recluse",
+
+  -- add turtle-wow Old Greypaw
+  [60470] = "Old Greypaw",
+
+  -- add turtle-wow Faldan Moonshatter
+  [60471] = "Faldan Moonshatter",
+
+  -- add turtle-wow Hadanos Greenblade
+  [60472] = "Hadanos Greenblade",
+
   -- add turtle-wow Morpheus Ribcage
   [60483] = "Morpheus Ribcage",
 
@@ -236,6 +251,15 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Brizclang Spuckettool
   [91280] = "Brizclang Spuckettool",
 
+  -- add turtle-wow Grol the Exile
+  [91285] = "Grol the Exile",
+
+  -- add turtle-wow Daela Evermoon
+  [91287] = "Daela Evermoon",
+
+  -- add turtle-wow Ardaen Evermoon
+  [91288] = "Ardaen Evermoon",
+
   -- add turtle-wow Lord Rog
   [91289] = "Lord Rog",
 
@@ -394,4 +418,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Graypaw Wolf
   [91989] = "Graypaw Wolf",
+
+  -- add turtle-wow Master Raxxieth
+  [92110] = "Master Raxxieth",
 }
