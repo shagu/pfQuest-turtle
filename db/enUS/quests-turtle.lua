@@ -169,6 +169,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Defeat Ostarius. Return to the Thunder Bluff and inform Sage Truthseeker about the events that occurred at the gate.",
     ["D"] = "As you place the plates on the pedestal, a sudden burst of light suddenly surrounds the pedestal Initiating unlock sequence. Plates present, scanning for item validation. Plates authentication complete, unlocking the gates. Activating Gate Keeper to greet the guests.",
   },
+  [40120] = {
+    ["T"] = "Aggresive Wildlife",
+    ["O"] = "Bring 5 Ghostpaw Wolf Pelts to Ardaen.",
+    ["D"] = "The encroaching wildlife has become a problem for both myself and my wife. In the past, we lived at peace with the animals of the forest, though it now seems we must always be wary of our moves and watch the forests for the eyes of stalking predators. The Ghostpaw have been especially troublesome and have for days now stalked our house for signs of weakness. I have given them none, but I fear that something may be driving the wildlife to act in a much more aggressive manner. Regardless, gather me five of their pelts. Thin the numbers so that they are not so brazen in their attacks. You can find Ghostpaw Wolves all around the forest.",
+  },
+  [40121] = {
+    ["T"] = "Alpha Aggression",
+    ["O"] = "Kill Ghoststalker and bring his paw to Ardaen Evermoon.",
+    ["D"] = "The alpha of the Ghostpaw Wolves in the area is named Ghoststalker. He is a ferocious beast that leads packs of wolves in the region with dangerous intent. If a balance of nature is to be brought, then the beast must be slain. You should find him in the hills northwest of Lake Falathim and southeast of the Zoram Strand. I wish you luck in your hunt. Ghoststalker is a clever beast that has eluded me to this day.",
+  },
   [40136] = {
     ["T"] = "Dwindling Supplies",
     ["O"] = "I have been tasked by Butcher Reeves to bring 8 Chunk of Meat.",
@@ -189,10 +199,40 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
     ["D"] = "With the bulk of the undead gone, it is time to face the one responsible for taking our new troops from us. Go to the Corinth Farm once again and kill the Necromancer responsible for this. And be careful if the Necromancer is capable of summoning a small army of undead he is certainly not someone who should be underestimated.",
   },
+  [40145] = {
+    ["T"] = "Mysteries of the Grove",
+    ["O"] = "Speak with Feran Strongwind outside of Splintertree Post.",
+    ["D"] = "I have heard rumblings from some of the druids in the region of an elvish grove hidden away that has been corrupted. Suppose such darkness can lurk and remain undisturbed. In that case, it could mean horrible things for the forest and nature itself. I have a scout who has recently checked up on such a disturbance. I would like his report before dedicating resources to eliminating corruption within Ashenvale. You can find him just down the road to the southwest, at a small camp. He goes by the name Feran Strongwind, and he will tell you what he knows.",
+  },
+  [40146] = {
+    ["T"] = "Feran's Report",
+    ["O"] = "Bring Feran's Report to Loruk Foreststrider.",
+    ["D"] = "Loruk may not like the news I am about to deliver to him. It is news of madness and chaos. Upon studying the hidden grove, I found crater marks from infernals and furbolgs enraged by corruption. It seems the elven druids could not stop whatever lurks deep inside, and I did not risk my life to learn more. Whatever is inside of there certainly is powerful enough to corrupt the very forest. Take this report to Loruk. It has all of the details of my findings.",
+  },
+  [40147] = {
+    ["T"] = "Rooting Out Evil",
+    ["O"] = "Venture into the Crescent Grove and root out the evil inside.",
+    ["D"] = "This report is chilling. Something is going on within the Crescent Grove, and it must be stopped. If we do not end the corruption, it could spread as far as Mulgore and beyond. We must do our part for the greater good of nature itself as druids. I must ask you to delve into the very depths of the Crescent Grove. You can find it to the southwest, near Mystral Lake. The cave entrance is just above the waterfall. There should be a pathway up. I recommend you find a band of those heroic enough to travel with you. There is no telling what lies ahead.",
+  },
   [40181] = {
     ["T"] = "Taking over Faldir's Cove",
     ["O"] = "Invade Faldir's Cove and kill everything in your way.",
     ["D"] = "Now that we've let 'em know who they be dealin' with it's also time to hit 'em when they'd less expect. I hear thar be some fools that set anchor in to Faldir's Cove in Arathi Highlands. I wants ye to scuttle 'em, all of 'em.",
+  },
+  [40192] = {
+    ["T"] = "In Search of Corruption",
+    ["O"] = "Search the furbolg camps across the water for clues of their corruption.",
+    ["D"] = "There was a time in which the Kaldorei and the Furbolgs lived in harmony, they were our ally against the darkness, and worked with us to keep the balance in nature. We traded, we offered assistance to one another, and we even fought aside one another. That time has passed, and it seems with each passing day more and more furbolg abandon their homes to join the larger tribes. These large tribes of furbolg have collected to gather strength and deem the outside world as hostile entirely. In the end, they have become nothing but ruthless stalkers, murderers and agents of madness. This change has only puzzled us druids, and has brought up more questions then answers. Hopefully today we can find some. Across the water to the north are some of their camps, abandoned by their kind. I want you to search them, and try to find some clues as to why they would potentially be corrupted.",
+  },
+  [40193] = {
+    ["T"] = "Ashenvale Corruption",
+    ["O"] = "Deliver Faldan's Message to Arch Druid Fandral Staghelm in Darnassus.",
+    ["D"] = "There is a corruption lingering within the forest of Ashenvale, while I cannot pinpoint exactly where it is, or what is causing it. The signs of the furbolg being reduced to a state of madness only boldens my thought, and hearing reports of what lurks within the forest to the east only haunts my mind. If there is anything that can be done, it would be that of Arch Druid Fandral Staghelm in Darnassus. He has led our people to a new beginning, and perhaps it will be him that can solve the corruption present here in Ashenvale. I have prepared this letter for him, please, deliver it with urgency, for the stake of all beauty in Ashenvale could be at stake.",
+  },
+  [40197] = {
+    ["T"] = "Old Greypaw",
+    ["O"] = "Speak with Old Greypaw within Ashenvale for Daela Evermoon.",
+    ["D"] = "For many long years our neighbor was that of a furbolg, he has grown aged over the last few years but was extremely wise. Old Greypaw often kept to himself, and minded his own business, often venturing over for a night time talk if he so needed the company. As of lately I fear for his mental health, the other furbolg of the forest have begun to act irrationally, and I fear Greypaw may be succumbing to a similar fate. He has not stopped by in months, and has kept to his home to the north. He has been aggresive to either me or Ardaen approaching and wishing to talk, but perhaps you may be able to speak with him, and ask if he is doing okay. It would certainly ease my mind to know an old friend is well.",
   },
   [40216] = {
     ["T"] = "The Venture Co. Shakedown",
@@ -208,6 +248,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Conserving Stonetalon Peak",
     ["O"] = "Collect a single Pristine Twilight Fang for Conservationist Yalus in Stonetalon Peak.",
     ["D"] = "Welcome to Stonetalon Peak, a place of harmony with nature, Keeper Albagorm has done well in maintaining the region despite setbacks. I have been working tirelessly for sometime in maintaining the wildlife around here, and I have been having some issues. The Twilight Runners of the Peak have been growing more hostile with time, and I fear they may out hunt some of the other wildlife present here. I require from them a single Pristine Twilight Fang, which will be used to conduct research to find any sort of genetic problem, disease, or corruption that may be gripping the population. You can find them about Stonetalon Peak, be quick.",
+  },
+  [40230] = {
+    ["T"] = "Saltspittle Raiders",
+    ["O"] = "Gather 5 Saltspittle Fins and recover the Greenblade Book.",
+    ["D"] = "Lake Falathim was a place I spent much of my youth, it was a place of relaxation and good times. Only now it is taken over by the Saltspittle, who attacked with ferocity and no remorse. Some died during the attack, but I was lucky to escape. When I was about to leave I left behind an item that is most valueable to me. My Uncle who died during the Battle of Hyjal left me a book in my possession. It is one he wrote about both his technique in battle and his experiences regarding war. I've found much knowledge and wisdom from that book, and I desire to know everything that he had jotted down before his passing. Travel to Lake Falathim to the south west, and find my belongings. While you are there, make sure to get revenge, and slay the Saltspittle, their fins should do fine.",
   },
   [40248] = {
     ["T"] = "Taming the Beast I",
@@ -423,6 +468,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "In Need of Information",
     ["O"] = "Speak to Baron Revilgaz.",
     ["D"] = "Oh the Captain sent you? Well isn't that a relief, it's been almost a week that we've been sitting around here with no word. I was about to start figuring out a way to get out of Booty Bay, but it seems like the only thing keeping us safe are the Bruisers. The Bloodsail Buccaneers have been wanting us dead ever since we sunk one of their ships in a battle. Lets just say they got lucky and ambushed us near Grom'gol! They want us all gone and won't stop until we are, it seems. The Bloodsails are a disorganized bunch, and not centrally commanded. Each encampment or ship has their own crew and their own leader, and this group hunting us is only doing so because we killed the man's brother. If anyone knows anything, it's Revilgaz.",
+  },
+  [55032] = {
+    ["T"] = "Reduced to Madness",
+    ["O"] = "Travel to Greenpaw village and slay 3 Foulweald Shamans.",
+    ["D"] = "My people have been reduced to madness, insanity and a bloodlust for riddled fever dreams of nothingness. It is like a shadow clouds their minds, and blocks all clarity from being perceived. Do you know the pain of not knowing those you once knew? To look upon the face of a friend and recognize nothing from them but utter savagery as if they were speaking a foreign language? My kin are lost, and it hurts me greatly to admit that I no longer have a home within these forests. Something must be done to stop the madness, and to end it all. Travel to the Greenpaw Village just south of here, and rid my once home of the Foulweald Shamans that lurk there. They are nothing of what they once were, and perpetuate the horrors.",
   },
   [55033] = {
     ["T"] = "Kill-Kill Sagepaw!",
