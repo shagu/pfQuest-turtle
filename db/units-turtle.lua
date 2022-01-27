@@ -1460,6 +1460,5 @@ pfDB["units"]["data-turtle"] = {
   -- add turtle-wow Master Raxxieth
   [92110] = {
     ["lvl"] = "38",
-    },
   },
 }
