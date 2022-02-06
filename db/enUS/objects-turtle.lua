@@ -1,4 +1,5 @@
 pfDB["objects"]["enUS-turtle"] = {
+  [1000000] = "Pile of Wood",
   [1000082] = "Stolen Elwynn Pumpkin",
   [1000250] = "Razlik's Tools",
   [1000370] = "Ripe Garden Pumpkin",

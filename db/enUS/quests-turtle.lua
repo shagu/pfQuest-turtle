@@ -349,6 +349,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
     ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
   },
+  [50230] = {
+    ["T"] = "Night's Exploration",
+    ["O"] = "Bring a rope from Jaquilina, oil from Booty Bay and a club from around the camp to Nesingwary's Expedition for S. J. Erlgadin.",
+    ["D"] = "Come here, adventurer! I see that you are a capable person so I'll teach you something useful since fate brought us together. You could benefit from out here in the jungle! If you bring me a tight rope from Jaquilina there, some oil from the goblins of Booty Bay and a thick club you will find around the camp, then I will let you in on a unique way on how to construct a proper torch in no time that you could use in your travels for either a night's exploration or to safeguard yourself against wild animals. See the ones near our camp? They never go out!",
+  },
   [50300] = {
     ["T"] = "In Service of the Light",
     ["O"] = "Talk to Brother Crowley at the Stormwind City Cathedral.",
