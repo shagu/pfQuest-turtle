@@ -1116,6 +1116,17 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 11,
     ["pre"] = { 40318, 40319 },
   },
+  -- Night's Exploration
+  [50230] = {
+    ["start"] = {
+      ["U"] = { 718 },
+    },
+    ["end"] = {
+      ["U"] = { 718 },
+    },
+    ["lvl"] = 15,
+    ["min"] = 5
+  },
   -- In Service of the Light (1 of 2)
   [50300] = {
     ["start"] = {

@@ -1,4 +1,7 @@
 pfDB["items"]["enUS-turtle"] = {
+  [50231] = "Coil of Sturdy Rope",
+  [50232] = "Cheap Goblin's Oil",
+  [50233] = "Wooden Club",
   [51325] = "Elwynn Pumpkin",
   [51330] = "Delicious Pumpkin Pie",
   [51425] = "Teresa's Copper Coin",

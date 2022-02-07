@@ -1,4 +1,22 @@
 pfDB["items"]["data-turtle"] = {
+  -- Coil of Sturdy Rope
+  [50231] = {
+    ["V"] = {
+      [2483] = 0,
+    },
+  },
+  -- Cheap Goblin\'s Oil
+  [50232] = {
+    ["V"] = {
+      [2685] = 0,
+    },
+  },
+  -- Wooden Club
+  [50233] = {
+    ["O"] = {
+      [1000000] = 100.00,
+    },
+  },
   -- Elwynn Pumpkin
   [51325] = {
     ["O"] = {
