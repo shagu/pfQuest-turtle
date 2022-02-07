@@ -1456,9 +1456,11 @@ pfDB["units"]["data-turtle"] = {
       [15] = { 31.4, 4.7, 130, 0 },
     },
   },
-
   -- add turtle-wow Master Raxxieth
   [92110] = {
     ["lvl"] = "38",
+    ["coords"] = {
+	  [1] = { 51.5, 78.5, 331, 0 },
+	},
   },
 }

@@ -418,6 +418,33 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Graypaw Wolf
   [91989] = "Graypaw Wolf",
+  
+  -- add turtle-wow Groveweald Warrior
+  [92100] = "Groveweald Warrior",
+  
+  -- add turtle-wow Groveweald Shaman
+  [92101] = "Groveweald Shaman",
+  
+  -- add turtle-wow Groveweald Pathfinder
+  [92102] = "Groveweald Pathfinder",
+  
+  -- add turtle-wow Groveweald Warder
+  [92103] = "Groveweald Warder",
+  
+  -- add turtle-wow Groveweald Ursa
+  [92104] = "Groveweald Ursa",
+  
+  -- add turtle-wow Elder 'One Eye'
+  [92105] = "Elder 'One Eye'",
+  
+  -- add turtle-wow Elder Blackmaw
+  [92106] = "Elder Blackmaw",
+  
+  -- add turtle-wow Grovetender Engryss
+  [92107] = "Grovetender Engryss",
+  
+  -- add turtle-wow Graypaw Wolf
+  [91989] = "Graypaw Wolf",
 
   -- add turtle-wow Master Raxxieth
   [92110] = "Master Raxxieth",
