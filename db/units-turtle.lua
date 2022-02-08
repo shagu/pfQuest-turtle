@@ -1,5 +1,5 @@
 pfDB["units"]["data-turtle"] = {
-  -- remove easter-egg shagu
+  -- remove Shagu
   [420] = "_",
 
   -- move Harlan Bagley
@@ -74,7 +74,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Godrick Bell
+  -- Godrick Bell
   [50506] = {
     ["fac"] = "A",
     ["lvl"] = "4-7",
@@ -83,7 +83,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Benjamin Bradley
+  -- Benjamin Bradley
   [50507] = {
     ["fac"] = "A",
     ["lvl"] = "4-7",
@@ -92,7 +92,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Undead Slayer
+  -- Undead Slayer
   [50508] = {
     ["fac"] = "H",
     ["lvl"] = "5-7",
@@ -101,7 +101,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Gina Weller
+  -- Gina Weller
   [51261] = {
     ["fac"] = "A",
     ["lvl"] = "25",
@@ -119,7 +119,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Teresa Palin
+  -- Teresa Palin
   [51302] = {
     ["fac"] = "A",
     ["lvl"] = "25",
@@ -128,7 +128,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Kern Mosshoof
+  -- Kern Mosshoof
   [51532] = {
     ["fac"] = "H",
     ["lvl"] = "25",
@@ -137,7 +137,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Snufflesnout
+  -- Snufflesnout
   [51600] = {
     ["lvl"] = "4-5",
     ["coords"] = {
@@ -145,7 +145,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow shagu
+  -- Shagu
   [60300] = {
     ["fac"] = "H",
     ["lvl"] = "9",
@@ -154,7 +154,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Stone Guardian
+  -- Stone Guardian
   [60402] = {
     ["lvl"] = "58-60",
     ["coords"] = {
@@ -164,7 +164,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Dietmar Onlooker
+  -- Dietmar Onlooker
   [60404] = {
     ["lvl"] = "60",
     ["coords"] = {
@@ -172,7 +172,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Zokk Flamefist
+  -- Zokk Flamefist
   [60405] = {
     ["lvl"] = "60",
     ["coords"] = {
@@ -180,7 +180,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Wahjez'fon
+  -- Wahjez'fon
   [60406] = {
     ["lvl"] = "60",
     ["coords"] = {
@@ -188,7 +188,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Jovany Staunch
+  -- Jovany Staunch
   [60407] = {
     ["lvl"] = "60",
     ["coords"] = {
@@ -196,7 +196,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Logrash
+  -- Logrash
   [60408] = {
     ["fac"] = "H",
     ["lvl"] = "50",
@@ -205,7 +205,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Naxiar
+  -- Naxiar
   [60409] = {
     ["lvl"] = "60",
     ["coords"] = {
@@ -213,7 +213,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Re’than
+  -- Re’than
   [60410] = {
     ["fac"] = "H",
     ["lvl"] = "55",
@@ -222,7 +222,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Ghoststalker
+  -- Ghoststalker
   [60420] = {
     ["lvl"] = "22",
     ["coords"] = {
@@ -231,7 +231,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Thistlefur Recluse
+  -- Thistlefur Recluse
   [60469] = {
     ["lvl"] = "19",
     ["coords"] = {
@@ -239,7 +239,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Old Greypaw
+  -- Old Greypaw
   [60470] = {
     ["fac"] = "AH",
     ["lvl"] = "20",
@@ -266,7 +266,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Morpheus Ribcage
+  -- Morpheus Ribcage
   [60483] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -275,7 +275,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Liott Maneskin
+  -- Liott Maneskin
   [60484] = {
     ["fac"] = "H",
     ["lvl"] = "15",
@@ -284,7 +284,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Diane Willowfield
+  -- Diane Willowfield
   [60488] = {
     ["fac"] = "H",
     ["lvl"] = "10",
@@ -293,7 +293,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Garfield Sparkblast
+  -- Garfield Sparkblast
   [60496] = {
     ["fac"] = "AH",
     ["lvl"] = "54",
@@ -302,7 +302,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Shizwackle Tangrig
+  -- Shizwackle Tangrig
   [60500] = {
     ["fac"] = "AH",
     ["lvl"] = "15",
@@ -311,7 +311,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Conservationist Yalus
+  -- Conservationist Yalus
   [60507] = {
     ["fac"] = "A",
     ["lvl"] = "30",
@@ -320,7 +320,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Grubgar
+  -- Grubgar
   [60510] = {
     ["fac"] = "H",
     ["lvl"] = "12",
@@ -329,7 +329,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Boltrus
+  -- Boltrus
   [60513] = {
     ["lvl"] = "12",
     ["coords"] = {
@@ -337,7 +337,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Modopo
+  -- Modopo
   [60538] = {
     ["fac"] = "H",
     ["lvl"] = "58",
@@ -346,7 +346,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Bristlefur
+  -- Bristlefur
   [60538] = {
     ["fac"] = "H",
     ["lvl"] = "58",
@@ -355,7 +355,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Taupo Foreststrider
+  -- Taupo Foreststrider
   [70020] = {
     ["fac"] = "H",
     ["lvl"] = "29",
@@ -364,7 +364,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Norvok Hawkspear
+  -- Norvok Hawkspear
   [70022] = {
     ["fac"] = "H",
     ["lvl"] = "34",
@@ -373,7 +373,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Commander Grushak
+  -- Commander Grushak
   [70023] = {
     ["fac"] = "H",
     ["lvl"] = "33",
@@ -382,7 +382,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Ashenvale Stalker
+  -- Ashenvale Stalker
   [70025] = {
     ["lvl"] = "27",
     ["coords"] = {
@@ -407,7 +407,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Farseer Grimeye
+  -- Farseer Grimeye
   [70027] = {
     ["fac"] = "H",
     ["lvl"] = "38",
@@ -416,7 +416,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Discover what's hiding in the Barrow Den
+  -- Discover what's hiding in the Barrow Den
   [70028] = {
     ["fac"] = "H",
     ["lvl"] = "38",
@@ -425,7 +425,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Nert Blastentom starter
+  -- Nert Blastentom starter
   [80100] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -434,7 +434,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Sprat Nozzleton
+  -- Sprat Nozzleton
   [80101] = {
     ["fac"] = "H",
     ["lvl"] = "3",
@@ -443,7 +443,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Grizzie the Enforcer
+  -- Grizzie the Enforcer
   [80104] = {
     ["fac"] = "H",
     ["lvl"] = "11",
@@ -452,7 +452,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Mayten Boomrifle
+  -- Mayten Boomrifle
   [80105] = {
     ["fac"] = "H",
     ["lvl"] = "8",
@@ -461,7 +461,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Leyti Quicktongue
+  -- Leyti Quicktongue
   [80106] = {
     ["fac"] = "H",
     ["lvl"] = "8",
@@ -470,7 +470,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Amri Demondeal
+  -- Amri Demondeal
   [80107] = {
     ["fac"] = "H",
     ["lvl"] = "9",
@@ -479,7 +479,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Wizette Icewhistle
+  -- Wizette Icewhistle
   [80108] = {
     ["fac"] = "H",
     ["lvl"] = "10",
@@ -488,7 +488,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Whirling Whizz-Bot
+  -- Whirling Whizz-Bot
   [80112] = {
     ["lvl"] = "1-2",
     ["coords"] = {
@@ -499,7 +499,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Plateau Vulture
+  -- Plateau Vulture
   [80113] = {
     ["lvl"] = "2-3",
     ["coords"] = {
@@ -516,7 +516,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Stonetalon Environmentalist
+  -- Stonetalon Environmentalist
   [80114] = {
     ["lvl"] = "3",
     ["coords"] = {
@@ -526,7 +526,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Highpeak Lasher
+  -- Highpeak Lasher
   [80115] = {
     ["lvl"] = "3",
     ["coords"] = {
@@ -535,7 +535,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Risen Oilblaze
+  -- Risen Oilblaze
   [80116] = {
     ["lvl"] = "4",
     ["coords"] = {
@@ -547,7 +547,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Haywire Battlechicken
+  -- Haywire Battlechicken
   [80117] = {
     ["lvl"] = "2",
     ["coords"] = {
@@ -558,7 +558,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Animated Shredder
+  -- Animated Shredder
   [80118] = {
     ["lvl"] = "5",
     ["coords"] = {
@@ -567,7 +567,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Muttering Vulture
+  -- Muttering Vulture
   [80119] = {
     ["lvl"] = "4",
     ["coords"] = {
@@ -579,7 +579,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tomb Shadow
+  -- Tomb Shadow
   [80120] = {
     ["lvl"] = "6",
     ["coords"] = {
@@ -587,7 +587,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Nert Blastentom durotar
+  -- Nert Blastentom durotar
   [80121] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -596,7 +596,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Kazznik
+  -- Kazznik
   [80131] = {
     ["lvl"] = "5",
     ["coords"] = {
@@ -604,7 +604,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Grand Taskmaster Nert Blastentom
+  -- Grand Taskmaster Nert Blastentom
   [80178] = {
     ["fac"] = "H",
     ["lvl"] = "60",
@@ -613,7 +613,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tirisfal Plagued Bear
+  -- Tirisfal Plagued Bear
   [80466] = {
     ["lvl"] = "7-9",
     ["coords"] = {
@@ -647,7 +647,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Chok'Garok
+  -- Chok'Garok
   [80831] = {
     ["fac"] = "H",
     ["lvl"] = "10",
@@ -656,7 +656,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Ureda
+  -- Ureda
   [80857] = {
     ["fac"] = "H",
     ["lvl"] = "60",
@@ -665,7 +665,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Knobby Tinfault
+  -- Knobby Tinfault
   [80901] = {
     ["lvl"] = "12",
     ["coords"] = {
@@ -673,7 +673,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Miley Wildbit
+  -- Miley Wildbit
   [80902] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -682,7 +682,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Ostarius
+  -- Ostarius
   [80935] = {
     ["lvl"] = "63",
     ["coords"] = {
@@ -690,7 +690,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Mysterious Stranger
+  -- Mysterious Stranger
   [81030] = {
     ["fac"] = "AH",
     ["lvl"] = "60",
@@ -706,7 +706,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Kheyna Spinpistol
+  -- Kheyna Spinpistol
   [81041] = {
     ["fac"] = "AH",
     ["lvl"] = "60",
@@ -715,7 +715,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Dark Ranger Lanissa
+  -- Dark Ranger Lanissa
   [81050] = {
     ["fac"] = "H",
     ["lvl"] = "24",
@@ -724,7 +724,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Aneka Konko
+  -- Aneka Konko
   [90983] = {
     ["fac"] = "AH",
     ["lvl"] = "14",
@@ -733,7 +733,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Makura Thresher
+  -- Makura Thresher
   [91193] = {
     ["lvl"] = "7-8",
     ["coords"] = {
@@ -743,7 +743,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Makura Oilclaw
+  -- Makura Oilclaw
   [91194] = {
     ["lvl"] = "8-9",
     ["coords"] = {
@@ -752,7 +752,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Wrix Ozzlenut
+  -- Wrix Ozzlenut
   [91200] = {
     ["fac"] = "H",
     ["lvl"] = "36",
@@ -761,7 +761,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Rugnar
+  -- Rugnar
   [91203] = {
     ["fac"] = "H",
     ["lvl"] = "35",
@@ -770,7 +770,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Oilworker Razlik
+  -- Oilworker Razlik
   [91208] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -779,7 +779,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Technician Spuzzle
+  -- Technician Spuzzle
   [91214] = {
     ["fac"] = "H",
     ["lvl"] = "5",
@@ -788,7 +788,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Hargosh
+  -- Hargosh
   [91227] = {
     ["fac"] = "H",
     ["lvl"] = "13-14",
@@ -797,7 +797,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Krez the Wise
+  -- Krez the Wise
   [91232] = {
     ["fac"] = "H",
     ["lvl"] = "14",
@@ -806,7 +806,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tradesman Laz
+  -- Tradesman Laz
   [91237] = {
     ["fac"] = "H",
     ["lvl"] = "52",
@@ -815,7 +815,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Technician Grimzlow
+  -- Technician Grimzlow
   [91234] = {
     ["fac"] = "H",
     ["lvl"] = "14",
@@ -824,7 +824,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Gowlfang
+  -- Gowlfang
   [91243] = {
     ["fac"] = "H",
     ["lvl"] = "6",
@@ -833,7 +833,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pazzle Brightwrench
+  -- Pazzle Brightwrench
   [91259] = {
     ["fac"] = "H",
     ["lvl"] = "10",
@@ -842,7 +842,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Shak 'The Hack'
+  -- Shak 'The Hack'
   [91260] = {
     ["fac"] = "H",
     ["lvl"] = "10",
@@ -851,7 +851,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Miner Axel
+  -- Miner Axel
   [91272] = {
     ["fac"] = "H",
     ["lvl"] = "8",
@@ -860,7 +860,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Big Fraggle
+  -- Big Fraggle
   [91274] = {
     ["fac"] = "H",
     ["lvl"] = "12",
@@ -869,7 +869,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Grimm Onearm
+  -- Grimm Onearm
   [91275] = {
     ["fac"] = "H",
     ["lvl"] = "12",
@@ -878,7 +878,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Brizclang Spuckettool
+  -- Brizclang Spuckettool
   [91280] = {
     ["fac"] = "AH",
     ["lvl"] = "10-14",
@@ -914,7 +914,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Lord Rog
+  -- Lord Rog
   [91289] = {
     ["fac"] = "AH",
     ["lvl"] = "42-44",
@@ -923,7 +923,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Chief Yin'do
+  -- Chief Yin'do
   [91290] = {
     ["lvl"] = "55",
     ["coords"] = {
@@ -931,7 +931,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Sagepaw
+  -- Sagepaw
   [91291] = {
     ["lvl"] = "23-24",
     ["coords"] = {
@@ -939,7 +939,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Archivist Landas
+  -- Archivist Landas
   [91293] = {
     ["fac"] = "A",
     ["lvl"] = "30",
@@ -948,7 +948,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Shazknock
+  -- Shazknock
   [91298] = {
     ["lvl"] = "18",
     ["coords"] = {
@@ -956,7 +956,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Foreman Klix
+  -- Foreman Klix
   [91302] = {
     ["lvl"] = "21-22",
     ["coords"] = {
@@ -964,7 +964,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Footman
+  -- Remnants Footman
   [91352] = {
     ["fac"] = "A",
     ["lvl"] = "18-20",
@@ -975,7 +975,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Raz'Dag
+  -- Raz'Dag
   [91400] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -984,7 +984,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Daffar
+  -- Daffar
   [91401] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -993,7 +993,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Jinz'ah
+  -- Jinz'ah
   [91402] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -1002,7 +1002,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Speaker Ganz'ih
+  -- Speaker Ganz'ih
   [91411] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -1011,7 +1011,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Gortog
+  -- Gortog
   [91412] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -1020,7 +1020,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Titiki
+  -- Titiki
   [91415] = {
     ["fac"] = "H",
     ["lvl"] = "40-50",
@@ -1029,7 +1029,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Duchess Grelda
+  -- Duchess Grelda
   [91711] = {
     ["fac"] = "H",
     ["lvl"] = "25",
@@ -1038,7 +1038,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Duke Nargelas
+  -- Duke Nargelas
   [91712] = {
     ["fac"] = "H",
     ["lvl"] = "50",
@@ -1047,7 +1047,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Apothecary Volgrin
+  -- Apothecary Volgrin
   [91713] = {
     ["fac"] = "H",
     ["lvl"] = "30",
@@ -1056,7 +1056,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pack Leader Sharn
+  -- Pack Leader Sharn
   [91715] = {
     ["lvl"] = "18",
     ["coords"] = {
@@ -1064,7 +1064,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Chief Rnarl
+  -- Chief Rnarl
   [91716] = {
     ["lvl"] = "20",
     ["coords"] = {
@@ -1072,7 +1072,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Belgar
+  -- Belgar
   [91717] = {
     ["lvl"] = "18",
     ["coords"] = {
@@ -1080,7 +1080,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Storn
+  -- Storn
   [91718] = {
     ["lvl"] = "19",
     ["coords"] = {
@@ -1088,7 +1088,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Duchess Faliona
+  -- Duchess Faliona
   [91721] = {
     ["fac"] = "A",
     ["lvl"] = "19",
@@ -1097,7 +1097,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Father Brightcopf
+  -- Father Brightcopf
   [91726] = {
     ["fac"] =  "H",
     ["lvl"] = "32",
@@ -1106,7 +1106,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Butcher Reeves
+  -- Butcher Reeves
   [91727] = {
     ["fac"] = "H",
     ["lvl"] = "30",
@@ -1115,7 +1115,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Marlow Neggle
+  -- Marlow Neggle
   [91728] = {
     ["fac"] = "H",
     ["lvl"] = "14",
@@ -1124,7 +1124,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pesterhide Forager
+  -- Pesterhide Forager
   [91735] = {
     ["lvl"] = "15-16",
     ["coords"] = {
@@ -1139,7 +1139,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pesterhide Gnoll
+  -- Pesterhide Gnoll
   [91736] = {
     ["lvl"] = "16-18",
     ["coords"] = {
@@ -1149,7 +1149,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pesterhide Warrior
+  -- Pesterhide Warrior
   [91737] = {
     ["lvl"] = "17-19",
     ["coords"] = {
@@ -1159,7 +1159,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Pesterhide Mystic
+  -- Pesterhide Mystic
   [91738] = {
     ["lvl"] = "16-18",
     ["coords"] = {
@@ -1171,7 +1171,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tirisclaw Scavenger
+  -- Tirisclaw Scavenger
   [91739] = {
     ["lvl"] = "14-16",
     ["coords"] = {
@@ -1180,7 +1180,7 @@ pfDB["units"]["data-turtle"] = {
     }
   },
 
-  -- add turtle-wow Tirisclaw Ravager
+  -- Tirisclaw Ravager
   [91740] = {
     ["lvl"] = "14-15",
     ["coords"] = {
@@ -1191,7 +1191,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tirisclaw Shadowcaster
+  -- Tirisclaw Shadowcaster
   [91741] = {
     ["lvl"] = "14",
     ["coords"] = {
@@ -1202,7 +1202,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Bounty Hunter Knox
+  -- Bounty Hunter Knox
   [91749] = {
     ["fac"] = "H",
     ["lvl"] = "34",
@@ -1211,7 +1211,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Deathguard Mike
+  -- Deathguard Mike
   [91752] = {
     ["fac"] = "H",
     ["lvl"] = "55",
@@ -1220,7 +1220,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Vathras Millson
+  -- Vathras Millson
   [91753] = {
     ["fac"] = "H",
     ["lvl"] = "55",
@@ -1229,7 +1229,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Wretched Farmhand
+  -- Wretched Farmhand
   [91756] = {
     ["lvl"] = "15-17",
     ["coords"] = {
@@ -1244,7 +1244,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Wretched Guard
+  -- Wretched Guard
   [91757] = {
     ["lvl"] = "16-18",
     ["coords"] = {
@@ -1256,7 +1256,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Necromancer Reginald
+  -- Necromancer Reginald
   [91759] = {
     ["lvl"] = "20",
     ["coords"] = {
@@ -1264,7 +1264,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Tirisclaw Ambusher
+  -- Tirisclaw Ambusher
   [91760] = {
     ["lvl"] = "16",
     ["coords"] =  {
@@ -1274,7 +1274,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Sentry
+  -- Remnants Sentry
   [91772] = {
     ["fac"] = "A",
     ["lvl"] = "15-17",
@@ -1287,7 +1287,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Scout
+  -- Remnants Scout
   [91773] = {
     ["fac"] = "A",
     ["lvl"] = "15-17",
@@ -1300,7 +1300,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Witherbark Raider
+  -- Witherbark Raider
   [91784] = {
     ["lvl"] = "34-36",
     ["coords"] = {
@@ -1313,7 +1313,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Witherbark Rogue
+  -- Witherbark Rogue
   [91785] = {
     ["lvl"] = "35-37",
     ["coords"] = {
@@ -1325,7 +1325,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Witherbark Soothsayer
+  -- Witherbark Soothsayer
   [91786] = {
     ["lvl"] = "34-36",
     ["coords"] = {
@@ -1338,7 +1338,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Warleader Kintoza
+  -- Warleader Kintoza
   [91789] = {
     ["lvl"] = "40",
     ["coords"] = {
@@ -1346,7 +1346,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Speaker Gan'to
+  -- Speaker Gan'to
   [91790] = {
     ["lvl"] = "39",
     ["coords"] = {
@@ -1354,7 +1354,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Heketh
+  -- Heketh
   [91791] = {
     ["lvl"] = "39",
     ["coords"] = {
@@ -1362,7 +1362,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Captain Silas
+  -- Captain Silas
   [91974] = {
     ["fac"] = "A",
     ["lvl"] = "20",
@@ -1371,7 +1371,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Priest
+  -- Remnants Priest
   [91975] = {
     ["fac"] = "A",
     ["lvl"] = "18-20",
@@ -1380,7 +1380,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Barkeep Clemens
+  -- Barkeep Clemens
   [91976] = {
     ["fac"] = "A",
     ["lvl"] = "15",
@@ -1389,7 +1389,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Farmer
+  -- Remnants Farmer
   [91980] = {
     ["fac"] = "A",
     ["lvl"] = "14-15",
@@ -1399,7 +1399,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Remnants Militia
+  -- Remnants Militia
   [91981] = {
     ["fac"] = "A",
     ["lvl"] = "15-17",
@@ -1412,7 +1412,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Cragtusk Boar
+  -- Cragtusk Boar
   [91987] = {
     ["lvl"] = "14-17",
     ["coords"] = {
@@ -1435,7 +1435,7 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add turtle-wow Graypaw Wolf
+  -- Graypaw Wolf
   [91989] = {
     ["lvl"] = "16-18",
     ["coords"] = {
@@ -1456,7 +1456,7 @@ pfDB["units"]["data-turtle"] = {
       [15] = { 31.4, 4.7, 130, 0 },
     },
   },
-  -- add turtle-wow Master Raxxieth
+  -- Master Raxxieth
   [92110] = {
     ["lvl"] = "38",
     ["coords"] = {
