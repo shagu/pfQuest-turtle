@@ -109,6 +109,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring the head of the Pack Leader Sharn and slay 5 Tirisclaw Ambushers and 4 Tirisclaw Scavengers before returning to Volgrin.",
     ["D"] = "With their forces at the tower weakened, it is time for us to kill their leader. Yes, when I say us, I mean you. Their leader recently invaded the mine, and he took his bigger worgen down there with him. The Gracestone mine is a top priority. Without its resources, Glenshire doesn't stand a chance against the humans, not to mention that the mines provide a perfect ambush point for worgen to attack any travelers between Silverpine and the Uplands. Go down there and bring me the head of their leader. Oh, and feel free to kill as many of his followers as you can.",
   },
+  [40089] = {
+    ["T"] = "The Rampant Groveweald",
+    ["O"] = "Venture into the Crescent Grove and collect 8 Groveweald Badges from the furbolgs inside for Grol the Exile.",
+    ["D"] = "The Foulweald have long since lost their minds, set into a state of delusion and ferocity. When the tribe began to lose itself, many set out toward the Crescent Grove to the south in hopes of escaping the madness. I placed my hopes in my people, but still, I lost them to insanity. The furbolg who traveled to Crescent Grove may have sought refuge and a new place to call home, but they did not escape that which sent the Foulweald into madness. They, too, have become aggressive, irrational, and uncaring for the world around them. Many of those I called friends, those I called family, went to the Groveweald, and they are nothing how I remember them. The Groveweald must be stopped. Gather what mercenaries or fellow adventurers you can, and brave to the Crescent Grove. Slay them and gather their Groveweald Badges as proof of the deed. You must do it for the good of the forest, and for the good of my people.",
+  },
+  [40090] = {
+    ["T"] = "The Unwise Elders",
+    ["O"] = "Bring the paws of Elder 'One Eye' and Elder Blackmaw from within the Crescent Grove to Grol the Exile.",
+    ["D"] = "The elders of the Foulweald were smart enough to leave once things had taken a turn for the worse. They helped lead the fleeing tribes of Furbolg into the Crescent Grove to the south. It is there that they slipped into madness and further drove the tribes under their watchful gaze into a deep craze. They are seen as spiritual leaders and the word of truth and a guide for the furbolgs there. Their delusions and madness have only spurred the Groveweald to become an ever-greater threat to those around them and have led to even more misery to nature in Ashenvale. If the Groveweald is to be stopped, the Elders must cease their whisperings into the Grovetenders' ears. I doubt he will let you stop them, and he will also need to be destroyed. Bring me the paw of Elder 'One Eye' and Elder Blackmaw as proof of their demise, and you shall be rewarded for ending this cycle of destruction.",
+  },
   [40096] = {
     ["T"] = "Outnumbered",
     ["O"] = "Slay 8 Remnants Scouts in the Whispering Forest and return to Duke Nargelas.",
