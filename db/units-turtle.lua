@@ -341,7 +341,7 @@ pfDB["units"]["data-turtle"] = {
   [60538] = {
     ["fac"] = "H",
     ["lvl"] = "58",
-    ["coords"] = { 
+    ["coords"] = {
       [1]= { 53.1, 41.5, 14, 0 },
     },
   },
@@ -350,7 +350,7 @@ pfDB["units"]["data-turtle"] = {
   [60538] = {
     ["fac"] = "H",
     ["lvl"] = "58",
-    ["coords"] = { 
+    ["coords"] = {
       [1] = { 53.1, 41.4, 14, 0 },
     },
   },
@@ -882,7 +882,7 @@ pfDB["units"]["data-turtle"] = {
   [91280] = {
     ["fac"] = "AH",
     ["lvl"] = "10-14",
-    ["coords"] = { 
+    ["coords"] = {
       [1] = { 28.2, 76.8, 33, 0 },
     },
   },
@@ -918,7 +918,7 @@ pfDB["units"]["data-turtle"] = {
   [91289] = {
     ["fac"] = "AH",
     ["lvl"] = "42-44",
-    ["coords"] = { 
+    ["coords"] = {
       [1] = { 48.9, 28.9, 45, 0 },
     },
   },
@@ -1037,7 +1037,7 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 42.0, 10.3, 130, 0 },
     },
   },
-  
+
   -- add turtle-wow Duke Nargelas
   [91712] = {
     ["fac"] = "H",

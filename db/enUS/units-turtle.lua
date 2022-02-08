@@ -88,7 +88,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Grubgar
   [60510] = "Grubgar",
-  
+
   -- add turtle-wow Boltrus
   [60513] = "Boltrus",
 
@@ -287,7 +287,7 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Daffar
   [91401] = "Daffar",
 
-  -- add turtle-wow Jinz'ah 
+  -- add turtle-wow Jinz'ah
   [91402] = "Jinz'ah ",
 
   -- add turtle-wow Speaker Ganz'ih
@@ -411,38 +411,38 @@ pfDB["units"]["enUS-turtle"] = {
   [91980] = "Remnants Farmer",
 
   -- add turtle-wow Remnants Militia
-  [91981] = "Remnants Militia", 
+  [91981] = "Remnants Militia",
 
   -- add turtle-wow Cragtusk Boar
   [91987] = "Cragtusk Boar",
 
   -- add turtle-wow Graypaw Wolf
   [91989] = "Graypaw Wolf",
-  
+
   -- add turtle-wow Groveweald Warrior
   [92100] = "Groveweald Warrior",
-  
+
   -- add turtle-wow Groveweald Shaman
   [92101] = "Groveweald Shaman",
-  
+
   -- add turtle-wow Groveweald Pathfinder
   [92102] = "Groveweald Pathfinder",
-  
+
   -- add turtle-wow Groveweald Warder
   [92103] = "Groveweald Warder",
-  
+
   -- add turtle-wow Groveweald Ursa
   [92104] = "Groveweald Ursa",
-  
+
   -- add turtle-wow Elder 'One Eye'
   [92105] = "Elder 'One Eye'",
-  
+
   -- add turtle-wow Elder Blackmaw
   [92106] = "Elder Blackmaw",
-  
+
   -- add turtle-wow Grovetender Engryss
   [92107] = "Grovetender Engryss",
-  
+
   -- add turtle-wow Graypaw Wolf
   [91989] = "Graypaw Wolf",
 
