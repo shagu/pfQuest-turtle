@@ -6,7 +6,9 @@ This AddOn is a [pfQuest](https://github.com/shagu/pfQuest) extension, which add
 If you wish to add more content, feel free to contribute and send [Pull Requests](https://github.com/shagu/pfQuest-turtle/pulls).
 
 ## Install
-1. Download **[Latest Version](https://github.com/shagu/pfQuest-turtle/archive/master.zip)**
+*The latest version of [pfQuest](https://shagu.org/pfQuest) is required for this module to work.*
+
+1. Download **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "pfQuest-turtle-master" to "pfQuest-turtle"
 4. Copy "pfQuest-turtle" into Wow-Directory\Interface\AddOns
