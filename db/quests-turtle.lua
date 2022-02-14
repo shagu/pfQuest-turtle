@@ -773,32 +773,32 @@ pfDB["quests"]["data-turtle"] = {
     ["start"] = {
       ["U"] = { 60465 },
     },
-    ["ends"] = {
+    ["end"] = {
       ["U"] = { 60482 },
     },
     ["lvl"] = 11,
     ["min"] = 5,
-    ["next"] = 40202,
+    ["next"] = { 40202 },
   },
   -- Tasala's Word
   [40202] = {
     ["start"] = {
       ["U"] = { 60482 },
     },
-    ["ends"] = {
+    ["end"] = {
       ["U"] = { 60465 },
     },
     ["lvl"] = 11,
     ["min"] = 5,
-    ["next"] = 40203,
-    ["pre"] = 40201,
+    ["next"] = { 40203 },
+    ["pre"] = { 40201 },
   },
   -- Rooting Out Corruption
   [40203] = {
     ["start"] = {
       ["U"] = { 60465 },
     },
-    ["ends"] = {
+    ["end"] = {
       ["U"] = { 60465 },
     },
     ["obj"] = {
@@ -806,7 +806,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 11,
     ["min"] = 5,
-    ["pre"] = 40202,
+    ["pre"] = { 40202 },
   },
   -- A Meeting With Adaena
   [40204] = {
@@ -818,7 +818,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 11,
     ["min"] = 5,
-    ["next"] = 40205,
+    ["next"] = { 40205 },
   },
   -- Securing Darnassus
   [40205] = {
@@ -833,6 +833,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 11,
     ["min"] = 5,
+    ["pre"] = { 40204 },
   },
   -- The Venture Co. Shakedown
   [40216] = {
