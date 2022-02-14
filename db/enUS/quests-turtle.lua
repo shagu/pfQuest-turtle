@@ -244,6 +244,31 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak with Old Greypaw within Ashenvale for Daela Evermoon.",
     ["D"] = "For many long years our neighbor was that of a furbolg, he has grown aged over the last few years but was extremely wise. Old Greypaw often kept to himself, and minded his own business, often venturing over for a night time talk if he so needed the company. As of lately I fear for his mental health, the other furbolg of the forest have begun to act irrationally, and I fear Greypaw may be succumbing to a similar fate. He has not stopped by in months, and has kept to his home to the north. He has been aggresive to either me or Ardaen approaching and wishing to talk, but perhaps you may be able to speak with him, and ask if he is doing okay. It would certainly ease my mind to know an old friend is well.",
   },
+  [40201] = {
+    ["T"] = "Unforseen Consequences",
+    ["O"] = "Speak with Tasala Whitefeather in Teldrassi",
+    ["D"] = "I spent much time among the keepers at the Stonetalon Peak, it was a time of tranquility, and to find true balance with nature. In my time there I learned much about the power of nature, and how best to wield it in the need to conserve, and protect nature. It is when I began my practice here within Teldrassil did my efforts begin to falter, and my work bring complications. It would appear the land itself holds some taint that I cannot put my hands upon. My efforts in controlling nature have been much tougher, and being able to simply grasp it has, been straining. One of my Protectors here has withered away and has fallen free from my control. I ask of you to speak with Tasala Whitefeather, one who once lead the harpies within the region, she is free from the evil that grips her kind, and should know more about the one I seek. You should find her just down the hill to the north, follow the road and you will see her near the cliffs edge.",
+  },
+  [40202] = {
+    ["T"] = "Tasala's Word",
+    ["O"] = "Return the information to Malos Lunarspear in Teldrassil.",
+    ["D"] = "The forests of Teldrassil have been growing more and more shrouded in a mist that haunts one end to the other. A shadow lurks unseen that has made my sisters impatient, and aggresive. If Malos can concluded his research, then this will only be of help to me as well. I have seen this treant that he speaks about, withered and twisted, wandering the forests down below this cliffside. It looks haunted as if nature itself has twisted its very mind, and made it hostile to the world. It walks from the eastern side of the Wellspring Lake, up and down the hillside. Bring this information to Malos, perhaps he may make use of it.",
+  },
+  [40203] = {
+    ["T"] = "Rooting Out Corruption",
+    ["O"] = "Destroy the Distorted Treant, and bring its Withered Roots to Malos Lunarspear in Teldrassil.",
+    ["D"] = "There is only one course of action left, the Treant must be dispatched, lest it cause harm to any of our kind, or that of nature. From its corrupted form take a sample of its Withered Roots. With the information Tasala has offered, we can deduce that it should be walking upon the eastern side of the Wellspring Lake. Search with caution and make sure to keep your guard up, if it is hostile, then no doubt it will only offer aggresion should you interact with it. Be swift, the treant could hold answers that tackle the very heart of problems here in Teldrassil.",
+  },
+  [40204] = {
+    ["T"] = "A Meeting With Adaena",
+    ["O"] = "Speak with Adaena Oakleaf in Teldrassil.",
+    ["D"] = "Greetings traveler, High Sentinel Adaena Oakleaf has been seeking assistance with affairs here within Teldrassil. She has called any fit and willing to assist with problems within our very borders. If you're looking to help out within Teldrassil, then there would be no better place to do so. Adaena Oakleaf can be found just up the path behind me atop of the gateway into Darnassus.",
+  },
+  [40205] = {
+    ["T"] = "Securing Darnassus",
+    ["O"] = "Slay 10 Gnarlpine Avengers and 5 Gnarlpine Pathfinders for Adaena Oakleaf in Teldrassil.",
+    ["D"] = "The Furbolg of Teldrassil have become a more active threat then I would have ever imagined. I had simply envisioned them as our ally to stand against whatever would come to bring harm to Teldrassil, not to be fighting against them. Moon Priestess Amara has tasked herself with patrolling the roads to keep traveler's safe but I fear it is not enough. If we wish to secure our borders we must take a more proactive approach, and stop the buildup of a much larger threat. The Furbolg have been gathering to the south east for some time now. It shouldn't be long now until they are bold enough to begin probing attacks against Dolanaar, or Shadowglen. Should they succeed, their courage will only be bolstered to do even greater harm. Travel to Gnarlpine Hold, and slay the Pathstalkers and Avengers there to keep Darnassus safe.",
+  },
   [40216] = {
     ["T"] = "The Venture Co. Shakedown",
     ["O"] = "Travel to The Sludge Fen and slay 10 Venture Co. Drudgers and 10 Venture Co. Mercenaries for Shizwackle Tangrig.",
@@ -574,6 +599,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Retrieve Gretchen's slippers from the shiny footlocker north of Solliden Farmstead.",
     ["D"] = "The damned cold won't leave me. I thank you for the pelts, $N but I wonder if I may trouble you again? I paid a helpful soul, Calvin, to go to Solliden Farmstead to retrieve my slippers before you happened along. He hasn't returned and I've heard that he may be less than honest. Undeath doesn't change an opportunist it seems. My slippers are in a footlocker at the farmstead. The reports I overheard about Scarlets in the area are the least concerning. The murlocs like anything shiny I've heard and I did keep that footlocker polished up...",
   },
+  [60111] = {
+    ["T"] = "A Decisive Blow",
+    ["O"] = "Moon Priestess Amara has asked you to kill Agal in the cave below the road to Darnassus and Greenpaw inside Ban'ethil Barrow Den.",
+    ["D"] = "You have proven yourself capable enough in assisting us to deal with their leaders, Agal and Greenpaw, $C. Our scouts have pinpointed their locations. First is Agal, who orchestrates the ambushes from below the road in a cave. Second is Greenpaw, a powerful shaman who terrorizes Ban'ethil Barrow Den from within. They are surrounded by their respective underlings. I suggest you bring an ally or prepare yourself to fight your way through them alone. No matter your decision, may Elune protect you. ",
+  },
   [60112] = {
     ["T"] = "Fallen Adventurers",
     ["O"] = "Novice Elreth has asked you to kill Karrel Grayves, Daniel Ulfman and Stephen Bhartec. They were last seen at a camp near Deathknell's gate.",
@@ -663,6 +693,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Duty to the Light",
     ["O"] = "Objectives: Bring 8 pieces of Rockhide Boar Meat to Eldrin in the Eastvale Logging Camp.",
     ["D"] = "To the nobles of Stormwind, a Paladin is an elite soldier, whose glory comes from deeds on the battlefield. But we who follow the light know better. To the poor of the kingdom, we are often the only source of comfort and aid. It is these simple tasks of assistance and caring that separate a true Paladin from some fool with a cudgel. There is a struggling family in the Eastvale Logging Camp that is in need of help to get through the year. I had hoped to help myself, but I cannot leave Goldshire, not with so many threats around us. If you would aid them in my stead, hunt the Rockhide Boars found south of the road and bring their meat to the logging camp.",
+  },
+  [60143] = {
+    ["T"] = "Brannol’s Sewing Kit",
+    ["O"] = "Recover Brannol's Sewing Kit and return it to him in Dolanaar.",
+    ["D"] = "Have you ever stood at the edge of Teldrassil and looked out over the Veiled Sea? It's a magnificent sight, $N - you should try it sometime! I used to take my sewing kit to the waterfalls near Wellspring Lake, right as they pour over the side of the trunk, to do my work in peace and serenity. But last time I was there, I was attacked by a group of maddened timberlings and driven off without my kit! Those tools have been with me a long time, and I can't bear to think of them tumbling over the side and into the sea and being lost forever. Would you recover them for me, please?",
   },
   [60145] = {
     ["T"] = "Down in the Ridge",

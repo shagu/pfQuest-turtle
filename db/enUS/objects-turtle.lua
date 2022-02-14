@@ -7,6 +7,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [1000372] = "Ripe Garden Watermelon",
   [1000380] = "Gryphon Chew Toy",
   [1000383] = "Seaweed-covered Footlocker",
+  [1000395] = "Brannol's Sewing Kit",
   [1000502] = "Brightwater Lockbox",
   [1000503] = "Sealed Trunk",
   [1000504] = "WANTED!",

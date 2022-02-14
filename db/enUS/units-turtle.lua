@@ -2,6 +2,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- remove easter-egg shagu
   [420] = "_",
 
+  -- add Vanilla Brannol Eaglemoon (new quest in turtle-wow)
+  [3611] = "Brannol Eaglemoon",
+
   -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
   [3884] = "Jhawna Oatwind",
 
@@ -56,6 +59,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Ghoststalker
   [60420] = "Ghoststalker",
 
+  -- add turtle-wow Malos Lunarspear
+  [60465] = "Malos Lunarspear",
+  
   -- add turtle-wow Thistlefur Recluse
   [60469] = "Thistlefur Recluse",
 
@@ -67,6 +73,18 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- add turtle-wow Hadanos Greenblade
   [60472] = "Hadanos Greenblade",
+
+  -- add turtle-wow Adaena Oakleaf
+  [60473] = "Adaena Oakleaf",
+
+  -- add turtle-wow Sentinel Danala
+  [60474] = "Sentinel Danala",
+
+  -- add turtle-wow Distorted Treant
+  [60475] = "Distorted Treant",
+
+  -- add turtle-wow Tesala Whitefeather
+  [60482] = "Tesala Whitefeather",
 
   -- add turtle-wow Morpheus Ribcage
   [60483] = "Morpheus Ribcage",

@@ -768,6 +768,72 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 19,
     ["min"] = 10,
   },
+  -- Unforseen Consequences
+  [40201] = {
+    ["start"] = {
+      ["U"] = { 60465 },
+    },
+    ["ends"] = {
+      ["U"] = { 60482 },
+    },
+    ["lvl"] = 11,
+    ["min"] = 5,
+    ["next"] = 40202,
+  },
+  -- Tasala's Word
+  [40202] = {
+    ["start"] = {
+      ["U"] = { 60482 },
+    },
+    ["ends"] = {
+      ["U"] = { 60465 },
+    },
+    ["lvl"] = 11,
+    ["min"] = 5,
+    ["next"] = 40203,
+    ["pre"] = 40201,
+  },
+  -- Rooting Out Corruption
+  [40203] = {
+    ["start"] = {
+      ["U"] = { 60465 },
+    },
+    ["ends"] = {
+      ["U"] = { 60465 },
+    },
+    ["obj"] = {
+      ["U"] = { 60475 },
+    },
+    ["lvl"] = 11,
+    ["min"] = 5,
+    ["pre"] = 40202,
+  },
+  -- A Meeting With Adaena
+  [40204] = {
+    ["start"] = {
+      ["U"] = { 60474 },
+    },
+    ["end"] = {
+      ["U"] = { 60473 },
+    },
+    ["lvl"] = 11,
+    ["min"] = 5,
+    ["next"] = 40205,
+  },
+  -- Securing Darnassus
+  [40205] = {
+    ["start"] = {
+      ["U"] = { 60473 },
+    },
+    ["end"] = {
+      ["U"] = { 60473 },
+    },
+    ["obj"] = {
+      ["U"] = { 2013, 2012 },
+    },
+    ["lvl"] = 11,
+    ["min"] = 5,
+  },
   -- The Venture Co. Shakedown
   [40216] = {
     ["start"] = {
@@ -1789,6 +1855,21 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 8,
     ["pre"] = { 375 },
   },
+  -- A Decisive Blow
+  [60111] = {
+    ["start"] = {
+      ["U"] = { 2151 },
+    },
+    ["end"] = {
+      ["U"] = { 2151 }
+    },
+    ["obj"] = {
+      ["U"] = { 2162, 1993 }
+    },
+    ["lvl"] = 10,
+    ["min"] = 9,
+    ["pre"] = { 487 },
+  },
   -- Fallen Adventurers
   [60112] = {
     ["start"] = {
@@ -2064,6 +2145,20 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 77,
     ["lvl"] = 9,
     ["min"] = 8,
+  },
+-- Brannol's Sewing Kit
+  [60143] = {
+    ["start"] = {
+      ["U"] = { 3611 },
+    },
+    ["end"] = {
+      ["U"] = { 3611 },
+    },
+    ["obj"] = {
+      ["I"] = { 51870 },
+    },
+    ["lvl"] = 10,
+    ["min"] = 9,
   },
   -- Down in the Ridge
   [60145] = {
