@@ -504,6 +504,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find the Hidden Mosshide Chest and claim its reward.",
     ["D"] = "You did Gowlfang good-good, no other gnoll ever do for me like that before! I give you gift show that Mosshide good gnoll, strong gnolls! I bury-bury chest in hollowed out tree at bottom of dam, should be still there unless someone steal, you find, treasure for you, Gowlfang no need what inside, all for you.",
   },]]
+  [55036] = {
+    ["T"] = "Where's My Yeti Fur?!",
+    ["O"] = "Speak with Tarlo Farcrack in Tarren Mill.",
+    ["D"] = "Hey bub, I got a late shipment that I need DEALT with, and by \"dealt with\" I mean fixed as soon as possible. Tarlo Farcrack is gonna be out of a job once I get my damned Yeti Fur. I sent him out there almost a week ago, and he promised it would be here by now. If there's one thing you should learn about Sparkwater, it's that you don't make promises to Laz that you can't keep. Head on down to Tarren Mill in the Hillsbrad Foothills and solve this Yeti issue. Then, when it's done, tell Tarlo HE'S done.",
+  },
+  [55037] = {
+    ["T"] = "Filling Back-Orders",
+    ["O"] = "Gather 10 Yeti Fur and return to Tarlo Farcrack.",
+    ["D"] = "I'm in need of some help here, a whole damn lot of help! I was supposed to recieve an order of Yeti Fur from a trusted source but they upped and went AWOL on me! Look pal, if you can help me keep my knees, and not go missing from Azeroth, that would be a huge help. To the south west is a cave full of yeti, damn near packed with them. Get me ten Yeti Fur, it should be more then enough to bring back to Laz. And please, be quick, we don't got all day here!",
+  },
+  [55038] = {
+    ["T"] = "A Late Delivery",
+    ["O"] = "Bring Tarlo's Crate to Tradesman Laz.",
+    ["D"] = "There, it's all packaged up and good to go. Please, take this crate to Tradesman Laz in Sparkwater Port, and give him my apologies for the lateness. I included a small cut of money there for him as well for being late! Thanks again for all the help, I would have been much worse off without you.",
+  },
   [55041] = {
     ["T"] = "Wisdom of the Sages",
     ["O"] = "Find the book \"Wisdom of the Sages\" and bring it to Krez the Wise.",

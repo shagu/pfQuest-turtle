@@ -939,6 +939,15 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- Tarlo Farcrack
+  [91292] = {
+    ["fac"] = "H",
+    ["lvl"] = "24",
+    ["coords"] = {
+      [1] = { 60, 23.9, 267, 0 },
+    },
+  },
+
   -- Archivist Landas
   [91293] = {
     ["fac"] = "A",
