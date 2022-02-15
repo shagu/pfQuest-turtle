@@ -2,9 +2,6 @@ pfDB["units"]["enUS-turtle"] = {
   -- remove easter-egg shagu
   [420] = "_",
 
-  -- add Vanilla Brannol Eaglemoon (new quest in turtle-wow)
-  [3611] = "Brannol Eaglemoon",
-
   -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
   [3884] = "Jhawna Oatwind",
 

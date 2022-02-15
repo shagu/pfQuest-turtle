@@ -47,15 +47,6 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
-  -- add Vanilla Brannol Eaglemoon (new quest in turtle-wow)
-  [3611] = {
-    ["fac"] = "A",
-    ["lvl"] = "16",
-    ["coords"] = {
-      [1] = { 56.1 , 60.3, 141, 0 },
-    },
-  },
-
   -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
   [3884] = {
     ["fac"] = "H",
