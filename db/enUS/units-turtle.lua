@@ -56,6 +56,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Ghoststalker
   [60420] = "Ghoststalker",
 
+  -- add Malos Lunarspear
+  [60465] = "Malos Lunarspear",
+
   -- Thistlefur Recluse
   [60469] = "Thistlefur Recluse",
 
@@ -67,6 +70,18 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Hadanos Greenblade
   [60472] = "Hadanos Greenblade",
+
+  -- add Adaena Oakleaf
+  [60473] = "Adaena Oakleaf",
+
+  -- add Sentinel Danala
+  [60474] = "Sentinel Danala",
+
+  -- add Distorted Treant
+  [60475] = "Distorted Treant",
+
+  -- add Tesala Whitefeather
+  [60482] = "Tesala Whitefeather",
 
   -- Morpheus Ribcage
   [60483] = "Morpheus Ribcage",

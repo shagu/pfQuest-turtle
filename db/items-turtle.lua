@@ -104,6 +104,12 @@ pfDB["items"]["data-turtle"] = {
       [524] = 100.00,
     },
   },
+  -- Brannol's Sewing Kit
+  [51870] = {
+    ["O"] = {
+      [1000395] = 100.00,
+    },
+  },
   -- Shabby Letter
   [59990] = {
     ["U"] = {
@@ -294,6 +300,12 @@ pfDB["items"]["data-turtle"] = {
   [60263] = {
     ["O"] = {
       [2010839] = 100.00,
+    },
+  },
+  -- Withered Roots
+  [60276] = {
+    ["U"] = {
+      [60475] = 100.00,
     },
   },
   -- Batskin Letter
