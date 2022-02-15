@@ -13,6 +13,7 @@ If you wish to add more content, feel free to contribute and send [Pull Requests
 3. Rename the folder "pfQuest-turtle-master" to "pfQuest-turtle"
 4. Copy "pfQuest-turtle" into Wow-Directory\Interface\AddOns
 5. Restart Wow
+6. Open the pfQuest settings and click [Reset Cache]. *(Only required if you had pfQuest running before)*
 
 ## Contribute
 This project always needs **your** help: If you find a quest that doesn't work for you, please consider looking it up, adding it, and then create a pull request towards this repository. The database format in use, is similar to the pfQuest databases. It uses the same table patching mechanism as in the "pfQuest-tbc" database.
