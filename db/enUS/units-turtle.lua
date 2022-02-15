@@ -269,6 +269,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add turtle-wow Sagepaw
   [91291] = "Sagepaw",
 
+  -- add turtle-wow Tarlo Farcrack
+  [91292] = "Tarlo Farcrack",
+
   -- add turtle-wow Archivist Landas
   [91293] = "Archivist Landas",
 
