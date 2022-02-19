@@ -404,6 +404,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Sanv K'la
   [91781] = "Sanv K'la",
 
+  -- Akh Z'ador
+  [91782] = "Akh Z'ador",
+
   -- Witherbark Raider
   [91784] = "Witherbark Raider",
 
