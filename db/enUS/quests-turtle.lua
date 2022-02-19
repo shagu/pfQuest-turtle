@@ -79,6 +79,46 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Wait for Lord Rog to purify the bracers.",
     ["D"] = "It is done. I have gotten all of the materials prepared and given them to Lord Rog. He shall begin the purification of his bracers. We have done well. Let us wait until he is done.",
   },
+  [40027] = {
+    ["T"] = "The Sanv Charm",
+    ["O"] = "Head to the Misty Valley and find the Sanv Charm.",
+    ["D"] = "The world we come from is a hellish place. One filled with danger, with demons, and hostile to life in all ways imaginable. Food was scarce, and water even scarcer. I led my people to the safety of this world through our magic by way of the Rift. In the ancient days, my people created a charm that attuned them to the old world, and it held great magic. This allowed for Riftwalking, the ability to travel great distances. Much of this skill is lost to us now. From stories told to me by the older generations, it was much more powerful than the primitive means we currently use. The Sanv Charm, a powerful item, was lost on one of my trips to the Misty Valley. I have been attempting to communicate with a Riftseeker that was from the Harborage. As I was attempting communication in the valley, swampwalkers approached and attacked me. I was unable to gather the charm, so I left it in a small chest and fled for my life. Get it for me. It is of great importance.",
+  },
+  [40028] = {
+    ["T"] = "The Horn of Garek'sa",
+    ["O"] = "Find the Horn of Garek'sa for Har Na'lan at the Fallow Sanctuary.",
+    ["D"] = "I was once the master hunter of the tribe long ago. I stalked the paths of Outland with efficiency and defeated many fearsome foes. Both orc and beast alike were slain by my swift arrows and deadly proficiency. But, I am no longer Har Na'lan the great hunter, I am Har Na'lan the old. I can feel age slowing me down, and even the local wildlife has been a challenge. Over six hundred years ago, I slew my most fearsome foe, a mighty Ravager by the name of Garek'sa. The Ravagers were mostly extinct with the coming demons and through age. But Garek'sa lived on as a mighty, and fearsome foe, as large as the biggest of our huts. With two quick arrows to its neck and a slash to its abdomen, I slew the creature and took its horn as a trophy. It is a shame to say, when we left the Fallow Sanctuary to the east, I had no time to gather my possessions, and my horn was left behind. Get it for me, please and I shall reward you greatly.",
+  },
+  [40029] = {
+    ["T"] = "Hunting the Hunters",
+    ["O"] = "Slay 8 Lost One Muckdwellers and 3 Lost One Hunters.",
+    ["D"] = "The lost ones of Fallow Sanctuary are a menace to the Harborage. Every day, we must live in fear that they attack in their state of madness. We do not have the Draenei to fight them off should they ever gather into a large enough force. The Muckdwellers have been scouting the Harborage for days now, and I sense that they may be preparing for something. I ask you to help us slay the maddened ones and give us a chance of survival. You will find them to the east, but be careful. They are extremely hostile.",
+  },
+  [40030] = {
+    ["T"] = "Noboru the Cudgel",
+    ["O"] = "Find and slay Noboru the Cudgel, and bring Noboru's Cudgel to Magtoor.",
+    ["D"] = "There is one we fear. His name is Noboru the Cudgel, and he roams with a band of thugs who terrorize us at every opportunity. He is a skilled warrior from our old tribe on Outland. Very few in the village can stand up to him and his goons both. Noboru has enacted great brutality on the Harborage and killed members of our tribe without any sign of remorse. Noboru must be stopped. You must kill him for the bloodshed to end. He wields a Cudgel, and it is from this brutal weapon he has gained his nickname. Defeat him and bring us his weapon so that we may still survive on this foreign world.",
+  },
+  [40031] = {
+    ["T"] = "Leather, a Draenic Luxury",
+    ["O"] = "Gather 10 Sawtooth Leather for Masat T'andr.",
+    ["D"] = "It is good to work with leather again. On our old planet of Outland, we had scarce access to this resource. It was considered a rarity, a luxury there with the lack of beasts and lack of water. Our planet was once as dense and populated as this world until the demons came, and the waters dried. It is like we live in a paradise on Azeroth. I had my doubts about Sanv K'la and his plan at first, but it seems like this land is much more promising than I had imagined. I would ask you, outsider, to gather leather for me from the Young Sawtooth Crocolisks. It is thick but still stretchable in its quality and has made good use for our purposes. With the lost ones of Fallow Sanctuary lurking about, it has been more dangerous to get.",
+  },
+  [40032] = {
+    ["T"] = "Draenic Communication",
+    ["O"] = "Gather 6 Tangled Essence and a Marsh Murloc Eye for Sanv K'la.",
+    ["D"] = "Akh Z'ador is a Riftseeker who led us to this world. He was one of the few of our kind that knew the magic of our ancient ancestors. He was skilled enough to bring our entire tribe here, and that of the Fallow Sanctuary, with the help of the other lesser Riftseekers. A few weeks ago, he attempted to return to the old world in search of more exiles to bring to th Harborage. I suspect something went terribly wrong, for I could not detect his presence upon our old world with the Sanv Charm. You see, the magic he is using is old, and somewhat unstable. We barely understand its usage, and only the bright minds like Akh Z'ador can manipulate it enough to travel. I need you to gather materials in order to cast a spell to find his location and see perhaps where it is he has gone. Local materials should work just fine. Gather six Tangled Essence from the Tangled Horrors to the east, and a Marsh-Murloc Eye from Murlocs at the coast.",
+  },
+  [40033] = {
+    ["T"] = "Finding Akh Z'ador",
+    ["O"] = "Find Akh Z'ador.",
+    ["D"] = "My strength is sapped. I feel aged and weak, but I saw a city. A city that was submerged beneath the waves, as if the tides themselves had come and drowned it all. There were tall cliffs, massive in scale, and it seemed as if the spirits there wallowed in misery. Red leaves fell from the trees and a strong magic lingered and pulsated as if it wanted me gone. It weakened me and made it hard to focus. I am certain that Akh Z'ador is on this world right now. He must have faced something on the Outland and been forced to leave. That, or his rift's instability sent him to this foreign landscape. This is but all I can remember, outsider. It seemed as if whatever resided there was strong—much stronger than the wildlife here. Much stronger than even you. I beg of you to try to find Akh Z'ador wherever he may be, no matter long it takes you.",
+  },
+  [40077] = {
+    ["T"] = "Sorrowmoss Mushrooms!",
+    ["O"] = "Collect 10 Sorrowmoss Mushrooms for 'Sly' Duncan.",
+    ["D"] = "Howdy, partner! Don't see many new faces here, especially in this old, beaten-up castle! Surely you've heard the rumors of brave defenders holding off the orcs for days on end before being destroyed! What a tale. I could also tell you stories about the mushrooms in Swamp of Sorrows, especially Sorrowmoss Mushrooms! Sorrowmoss Mushrooms only grow within this region. They have a certain... \"taste\" to them once you figure out how to cook them properly—because if you don't, well, it's deadly! I have a few friends from my old hometown who would love to try some. You'll be a pal and help me get them, right? All I need is ten. That should do just nicely partner!",
+  },
   [40080] = {
     ["T"] = "Into the Uplands",
     ["O"] = "Deliver Volgrin's Parcel to Apothecary Volgrin near the entrance to the Tirisfal Uplands.",
@@ -268,6 +308,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Securing Darnassus",
     ["O"] = "Slay 10 Gnarlpine Avengers and 5 Gnarlpine Pathfinders for Adaena Oakleaf in Teldrassil.",
     ["D"] = "The Furbolg of Teldrassil have become a more active threat then I would have ever imagined. I had simply envisioned them as our ally to stand against whatever would come to bring harm to Teldrassil, not to be fighting against them. Moon Priestess Amara has tasked herself with patrolling the roads to keep traveler's safe but I fear it is not enough. If we wish to secure our borders we must take a more proactive approach, and stop the buildup of a much larger threat. The Furbolg have been gathering to the south east for some time now. It shouldn't be long now until they are bold enough to begin probing attacks against Dolanaar, or Shadowglen. Should they succeed, their courage will only be bolstered to do even greater harm. Travel to Gnarlpine Hold, and slay the Pathstalkers and Avengers there to keep Darnassus safe.",
+  },
+  [40206] = {
+    ["T"] = "Collecting Mushrooms",
+    ["O"] = "Collect 10 Sorrowmoss Mushrooms for Thultash in Stonard.",
+    ["D"] = "The Swamps are ridden with insect, fungus, and predator. It is only a few of these that can be enjoyable in meals. Deep within the swamps are a special kind of mushroom, one that I have tinkered with in the past! It can be used as a poison, though in small doses can add quite a lot to meals, or if prepared correctly, the ill-effects of its poison can be negated. Sorrowmoss Mushrooms can be found across the entirety of the swamp, most often beneath the heavy canopy of trees or along the snaking rivers, but not always. Go out into the Swamp of Sorrows and collect me 10 Sorrowmoss Mushroom, I wish to dabble more with the fungus.",
+  },
+  [40207] = {
+    ["T"] = "A Pinch of Venom",
+    ["O"] = "Collect 5 Deathstrike Venom for Thultash in Stonard.",
+    ["D"] = "The Deathstrike Tarantula are a formidable foe out within the swamps that lurk just southeast of Stonard. They can be found creeping about the swamps and laying traps for those they hunt. It is from these Tarantula that I ask you to gather their poison. I have been attempting to mix the tang of poison, once nullified, into food. In truth, I do have ulterior motives of attempting make such recipes work. Perhaps one day I may be a known cook within Orgrimmar, and not stuck to the Sawamp of Sorrow. Travel into the swamp, and collect me 5 Deathstrike Venom!",
+  },
+  [40208] = {
+    ["T"] = "The Magic of Dragons",
+    ["O"] = "Bring a Glittering Green Scale to Thultazor in Stonard.",
+    ["D"] = "I have long pondered the presence of the green dragonflight gathered about the temple sunken at the center of the lake. They have prowled and patrolled with adamant defence, and left us curious as to what may lay inside. As much as such mysteries make my mind go wild with curiosity, I am not an adventurous soul as to find out why they are guarding it. I have been working with magical goods for most of my life, and have been dying to get my hands on a Glittering Green Scale. One that has been enfused by the power of Ysera and charged by her will. I must admit, it may be hard to come across one. Travel to the Pool of Tears, and hunt Green Dragonkin, look upon their corpses for a single Glittering Green Scale, entwined with powerful magic, and bring it to me.",
+  },
+  [40209] = {
+    ["T"] = "The Hunt for Sorrowclaw",
+    ["O"] = "Bring the Paw of Sorrowclaw to Zun'dartha in Stonard.",
+    ["D"] = "Many long months I have spent in this hellscape hunting for a large jaguar. I have given it the nickname Sorrowclaw, for its ferocity and where it comes from. I have attempted to catch it, fight it, and even stalk Sorrowclaw, but every time I have been outsmarted. It is as if the beast is three steps ahead of me at all times and I long to see its terror within the swamp come to an end. Perhaps you are a better hunter then me, and perhaps you can track down Sorrowclaw, and slay the beast once and for all. I assure you, it will not be an easy task, and I recommend you bring help should you truly wish to take after where I have failed.",
   },
   [40216] = {
     ["T"] = "The Venture Co. Shakedown",

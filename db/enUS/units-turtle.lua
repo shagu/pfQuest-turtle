@@ -92,6 +92,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Diane Willowfield
   [60488] = "Diane Willowfield",
 
+  -- Sorrowclaw
+  [60494] = "Sorrowclaw",
+
   -- Garfield Sparkblast
   [60496] = "Garfield Sparkblast",
 
@@ -398,6 +401,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Remnants Scout
   [91773] = "Remnants Scout",
 
+  -- Sanv K'la
+  [91781] = "Sanv K'la",
+
   -- Witherbark Raider
   [91784] = "Witherbark Raider",
 
@@ -415,6 +421,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Heketh
   [91791] = "Heketh",
+
+  -- Har Na'lan
+  [91796] = "Har Na'lan",
 
   -- Captain Silas
   [91974] = "Captain Silas",
@@ -436,6 +445,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Graypaw Wolf
   [91989] = "Graypaw Wolf",
+
+  -- 'Sly' Duncan <Mushroom Seller>
+  [92022] = "'Sly' Duncan",
 
   -- Groveweald Warrior
   [92100] = "Groveweald Warrior",
