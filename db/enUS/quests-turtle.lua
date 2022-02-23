@@ -414,6 +414,31 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Melenas's belongings in the Shadowfang Keep Library and return them to Pierce.",
     ["D"] = "I have certainly not seen this kind of lock for quite a while. And now I can see why House Darlthos surrounded this whole ordeal in secrecy. What we have here is a type of blood magic, tho not as dangerous as some of it can be, it certainly requires the blood of the family member to activate it. The issue is that not many know how to wield this magic. The last mage I knew who used this type of magic is long dead. Melenas used to have a section of his own in a library deep in the Shadowfang Keep. Perhaps there you can find something of use to learn how to open this box. But beware, that place is overrun by the savage Worgen, so it is better if I hold on to this box until your return. We wouldn't want to lose both you and the box should you fail, right?",
   },
+  [40282] = {
+    ["T"] = "Darlthos Legacy",
+    ["O"] = "Bring the scroll and the box to Duchess Grelda at the Mannor alongside the southern road from Tirisfal Uplands.",
+    ["D"] = "All this knowledge, just left to rot. You, my friend, have brought me a valuable gift. But I digress. You probably just want to find out how to open that box. Let's see. <Pierce rummages through Melenas's belongings until he finds an old scroll>. There you are. Hah, it is easier to do than I thought. <Pierce hands you a scroll>. You will need to take these instructions to Duchess Grelda as her blood is required to open the box. Oh yes, the box. Here I told you that I would keep it safe. I heard that the Duchess is currently residing in a manor alongside the southern road from Tirisfal Uplands. Be well, and if you ever feel like you want to delve into another dangerous place to recover old magical goods, do let me know.",
+  },
+  [40283] = {
+    ["T"] = "Azsharan Front",
+    ["O"] = "Slay 6 Lingering Highborne, 10 Spitelash Serpent Guard, and 8 Spitelash Siren for Dag'grak Bloodfist at Bloodfist Point in Azshara.",
+    ["D"] = "It may not look like it, <class>, but we are in middle of a warzone. Highborne ghosts that linger in the forests clash with the Naga, for reasons I don't understand, and I don't want to.n One thing I know, that they are a danger for our outpost. They may be fighting each other for now, but it won't last forever. We should strike now, when they are weak.n Go to Ruins of Eldranath. Kill the Naga, eliminate the Highborne. Show them, that Bloodfist Point is to be reckoned with.",
+  },
+  [40284] = {
+    ["T"] = "Blood and Glory!",
+    ["O"] = "Obtain 12 Legashi Horns for Daggrak Bloodfist at Bloodfist Point in Azshara.",
+    ["D"] = "South of Bloodfist Point, Satyrs have created an encampment. It has been a splinter in the eye for Bloodfist Point since the first day we arrived. Go, annihilate them, and bring me their horns. Do not be merciful, as they wouldn't be for you. Kill all of them, leave no vile Satyr standing.",
+  },
+  [40290] = {
+    ["T"] = "Food for Bloodfist Point",
+    ["O"] = "Obtain 10 Stag Meat from the Mosshoof.",
+    ["D"] = "Bah! You, yes, you $C! Why are you standing there like a drunk peon? You want to stay here, get to work! We need hides, weapons, wood, everything! But don't worry, old Nulda won't force you to build a second Orgrimmar here. Let's start small, bring me some meat from the local stag, let us see what you are made of.",
+  },
+  [40291] = {
+    ["T"] = "Claws for Bloodfist Point",
+    ["O"] = "Obtain 16 Thunderhead Claws.",
+    ["D"] = "Anyone could kill a stag, they are but deers with sharp horns! Hippogryph, on the other hand, is a different thing. Do you think you have what it takes? If so then bring me a handful of Thunderhead Claws. Thunderheads are local Hippogryphs, so wild and ferocious, that even the accursed Elves stay away from them, their claws would make great improvised weapons should things get rough.",
+  },
   [40298] = {
     ["T"] = "Red Skies of Durotar",
     ["O"] = "Bring 5 Chunks of Boar Meat, 3 Mutton Chops and 1 Bone Chew Toy to Bristlefur in Razor Hill.",
