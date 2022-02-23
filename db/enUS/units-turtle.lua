@@ -452,6 +452,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- 'Sly' Duncan <Mushroom Seller>
   [92022] = "'Sly' Duncan",
 
+  -- Dag'grak Bloodfist
+  [92024] = "Dag'grak Bloodfist",
+
   -- Groveweald Warrior
   [92100] = "Groveweald Warrior",
 
@@ -481,4 +484,7 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Master Raxxieth
   [92110] = "Master Raxxieth",
+
+  -- Nulda
+  [92202] = "Nulda",
 }
