@@ -1567,11 +1567,25 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 58.9, 30.8, 41, 0 },
     },
   },
+  -- Dag'grak Bloodfist
+  [92024] = {
+    ["lvl"] = "58",
+    ["coords"] = {
+      [1] = { 53.88, 10.46, 16, 0 },
+    },
+  },
   -- Master Raxxieth
   [92110] = {
     ["lvl"] = "38",
     ["coords"] = {
       [1] = { 51.5, 78.5, 331, 0 },
+    },
+  },
+  -- Nulda
+  [92202] = {
+    ["lvl"] = "52",
+    ["coords"] = {
+      [1] = { 53.22, 10.49, 16, 0 },
     },
   },
   -- Turtle WoW Stormwind NPC Locations
