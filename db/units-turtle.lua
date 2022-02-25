@@ -421,6 +421,15 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 53.1, 41.4, 14, 0 },
     },
   },
+  
+  -- Melyndella
+  [66002] = {
+    ["fac"] = "AH",
+    ["lvl"] = "15",
+    ["coords"] = {
+      [1] = { 46.0, 60.9, 215, 0 },
+    },
+  },
 
   -- Taupo Foreststrider
   [70020] = {
