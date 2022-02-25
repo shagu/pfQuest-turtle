@@ -79,6 +79,7 @@ pfDB["items"]["enUS-turtle"] = {
   [60466] = "Captain Silas' Letter",
   [60467] = "Marcus Jonathan's Letter",
   [60468] = "Graypaw Flank",
+  [60513] = "Prairie Stalker Pelt",
   [70021] = "Bog Creature Core",
   [70022] = "Ashenvale Bear Pelt",
   [70026] = "Diathorus's Head",

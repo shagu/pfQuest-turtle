@@ -115,6 +115,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Bristlefur
   [60539] = "Bristlefur",
+  
+  -- Melyndella
+  [66002] = "Melyndella",
 
   -- Taupo Foreststrider
   [70020] = "Taupo Foreststrider",

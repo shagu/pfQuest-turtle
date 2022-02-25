@@ -469,6 +469,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
     ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
   },
+  [40363] = {
+    ["T"] = "New Bonds",
+    ["O"] = "Kill 5 Galak Centaurs in Mulgore.",
+    ["D"] = "Hello, I am Melyndella! I come from the verdant woodlands of Moonglade. Ever since the Tauren have joined the Cenarion Circle, I have been wanting to get to know them. However, it has been terribly hard to gain their trust! Many locals have accused us Dryads of being Centaur or otherwise associated with them. The Galak clan have caused a lot of pain to this land. Please, help weaken them so I can earn the trust of the village.",
+  },
+  [40364] = {
+    ["T"] = "An Understanding of Peace",
+    ["O"] = "Speak to Gennia Runetotem.",
+    ["D"] = "Thank you for your help, <name>. Now that the Centaurs pose less of a threat, there is more of an opportunity to learn about the Tauren. Perhaps you can speak to Gennia Runetotem? She is a Druid trainer in the village and has been kind to me, I believe she can help!",
+  },
+  [40365] = {
+    ["T"] = "A Trial of Peace",
+    ["O"] = "Collect 8 Prairie Stalker Pelt and return it to Melyndella.",
+    ["D"] = "Word of Melyndella and your deeds against the Centaurs has spread, but slaying our enemies is not enough to befriend us. She must show respect and understanding towards our traditions. Venture forth into the northern Prairie across the lake, and acquire for me eight pelts from Prairie Stalkers. Bring them to her, she will know what to do.",
+  },
+  [40366] = {
+    ["T"] = "A Harmonious Offering",
+    ["O"] = "Deliver the Blessed Prairie Pelts to Waya Tallgrain and listen to his response. Return to Melyndella with the good news.",
+    ["D"] = "I believe I have the answer, <name>! I have blessed these pelts and bundled them up. Take them to the Innkeeper's Assistant - I have learned her name is Waya Tallgrain - and let her know they are my offering to the village.",
+  },
   [50230] = {
     ["T"] = "Night's Exploration",
     ["O"] = "Bring a rope from Jaquilina, oil from Booty Bay and a club from around the camp to Nesingwary's Expedition for S. J. Erlgadin.",
