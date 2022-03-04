@@ -349,6 +349,31 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 5 Saltspittle Fins and recover the Greenblade Book.",
     ["D"] = "Lake Falathim was a place I spent much of my youth, it was a place of relaxation and good times. Only now it is taken over by the Saltspittle, who attacked with ferocity and no remorse. Some died during the attack, but I was lucky to escape. When I was about to leave I left behind an item that is most valueable to me. My Uncle who died during the Battle of Hyjal left me a book in my possession. It is one he wrote about both his technique in battle and his experiences regarding war. I've found much knowledge and wisdom from that book, and I desire to know everything that he had jotted down before his passing. Travel to Lake Falathim to the south west, and find my belongings. While you are there, make sure to get revenge, and slay the Saltspittle, their fins should do fine.",
   },
+  [40243] = {
+    ["T"] = "The Keepers Charge",
+    ["O"] = "Slay 5 Storm Bay Warrior, 5 Wave Thrasher, and 3 Makrinni Scrabbler",
+    ["D"] = "For thousands of years I have kept my watch over this place, I have seen the world change around me, and most of the old city be swept beneath the waves. The Magic that once ran through this place has been dampened, and is almost non-existant. With the rising waters my studies have been increasingly difficult, to keep watch over this tower is to protect it, and with the growing threat of the invasive ocean species my time has been more toward survival then study. I ask for assistance in this matter, slay the murloc, the hydra and the crab beast around the area to preserve this tower if even for a moment longer.",
+  },
+  [40244] = {
+    ["T"] = "The Keepers Possession",
+    ["O"] = "Search the shoreline for the lost Eldara Chest.",
+    ["D"] = "Many months ago, an object of great importance was lost to me. I was fishing along the coastline and studying the patterns of magic behind the tower, a storm had begun to set in, and was getting quite intense. As I packed my belongings and prepared to leave I was ambushed by both murloc and thrasher alike, in the chaos a chest was swept out into the sea. I may have defeated my foes but I could not find the chest, I could only assume it was washed ashore in the heavy storm. Check along the north western shore, it was where the current would take it, try and recover this chest.",
+  },
+  [40245] = {
+    ["T"] = "The Eldarath Harmonization Gem",
+    ["O"] = "Search for Nahjaz the Raider, kill him, and reclaim the Eldarath Harmonization Gem for Keeper Iselus at the Tower of Eldara in Azshara.",
+    ["D"] = "I have communed with those closest to me once again, and I am thankful they are safe. More work needs to be done, and hopefully you can be of assistance to me. The Eldarath Harmonization Gem was stolen a long time ago, a band of Naga Raiders led by one named Najhaz. He was able to break my seal upon the tower door and take the Harmonization Gem before I could return to stop him. If we Keepers of Azshara are ever meant to travel long distances within the area, this Gem will need to be returned. No doubt that Nahjaz the Raider will be among his kin along the shore to the west, kill him, and reclaim the Harmonization Gem for me.",
+  },
+  [40246] = {
+    ["T"] = "Aged Deep-Rod",
+    ["O"] = "Find an Aged Deep-Rod from Legash Satyrs for Keeper Iselus at the Tower of Eldara in Azshara.",
+    ["D"] = "The Harmonization Gem is something I had figured I would never retrieve, and now with it, we can begin to make a staff that can transport you to the others. I have lost full communication with them for some time, and even relaying messages, well, is a long process. The Satyrs of Legash are a recent arrival, and they hold some magical ability. They have been known to carry Aged Deep-Rods, of which I will need one, being I do not have the materials readily available to enchant or imbue a staff for our purposes. You can find those demons to the north west, find from them an Aged Deep-Rod, one of them must carry one.",
+  },
+  [40247] = {
+    ["T"] = "Staff of Eldara",
+    ["O"] = "Wait for Keeper Iselus to craft the Staff of Eldara.",
+    ["D"] = "With the Eldarath Harmonization Gem, and the Aged Deep-Rod I can begin to construct a Staff of Eldara, it will take some channeling of my energy, and the tower to attune it with the region. I simply ask for your patience as I bind the two together.",
+  },
   [40248] = {
     ["T"] = "Taming the Beast I",
     ["O"] = "Use the Taming Rod to tame a Decrepit Darkhound. Practice your skills, then return the Taming Rod to Liott Maneskin in Brill.",
@@ -363,6 +388,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Taming the Beast III",
     ["O"] = "Use the Taming Rod to tame a Plagued Bear. Practice your skills, then return the Taming Rod to Liott Maneskin in Brill.",
     ["D"] = "As I've mentioned before, our lands barely has any kind of alive creature, your next task will once again have you tame a beast that such as yourself fell prey to the Scourge. Lordaeron used to have brown bears, they'd often come from Silverpine in the summer, hiding in our forests, those that remained behind are now, here forever. Dealing with an undead pet is quite harder since like yourself they are no longer part of the cycle of life and death. Lost and unaware. As you grow in skill, so will your beasts and you will be able to train them in the future, remember that it takes time and dedication to train something that is no longer alive, but you already knew that as you'd need that for yourself. The bear is a strong companion, they will stand in front of you and deal with your enemy will you stand back from afar and shoot them down, find one and bring it back to me.",
+  },
+  [40252] = {
+    ["T"] = "The Way-Stones of Old",
+    ["O"] = "Find the Way-Stone at the Temple of Arkkoran, activate it, and speak with Keeper Laena in Azshara.",
+    ["D"] = "The Way-Stones once allowed us Keepers to travel great distances with ease, they were plentiful within the city, and now very few of them remain. To the south west is the Temple of Arkkoran as it is now known, this used to be a place of great magical energy. Within one of the exterior towers lays a Way-Stone, its energy linked to Keeper Laena. Go and find the Way-Stone, and press the staff against the crystal, you will find yourself transported across Azshara, and before another of my kind.",
+  },
+  [40253] = {
+    ["T"] = "Restoring the Ley Lines",
+    ["O"] = "Enter the Temple of Zin-Malor and find the Ashan Stone, and activate the dormant Ley-Lines for Keeper Laena in Azshara.",
+    ["D"] = "Welcome to my humble abode, I have kept my duty upon this spire and will continue to do so. Now that the Way-Stones are restablished we can begin to make our presence within the region more known. To the southwest is the Temple of Zin-Malor, nestled within the Ruins of Eldarath, it is currently inhabited by the twisted Naga. Within the Temple of Zin-Malor lays secrets that they will never figure out, and that I need you to uncover. Deep inside the Temple, you will find a distinct stone, etched with bright runes of an even more ancient language. This stone, is known as the Ashan Stone, when you see it, speak the following 'Tizah Ashan Dal'asha'. This magic will once again invigor the long inactive Ley-Lines that stretch through Azshara.",
+  },
+  [40254] = {
+    ["T"] = "Keeping Secrets",
+    ["O"] = "Travel to Dire Maul, and slay the great evil being that the Highborne are leeching energy upon, gather from it Pure Ley Essence, and return to Keeper Laena in Azshara.",
+    ["D"] = "Our next course of action requires us to be more bold. If we are to deactivate many of the buried secrets of the lost city then we must gather a great source of Ley Energy to channel. Deep within the depths of Dire Maul my Highborne kin have been utilizating a great mass of arcane power. This arcane power from what I can detect is keeping a being of great evil contained. I believe they are using this being to feed whatever magical addiction they may be consumed by. Venture into the depths of Dire Maul, and slay this creature that is being imprisoned, it should hold Pure Ley Essence, of which we can use to direct a spell out into the buried city. With the activation of the Ashan Stone, we will need to be quick, so do not waste time.",
   },
   [40260] = {
     ["T"] = "A Dark Ranger's Mastery",
@@ -429,6 +469,31 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Obtain 12 Legashi Horns for Daggrak Bloodfist at Bloodfist Point in Azshara.",
     ["D"] = "South of Bloodfist Point, Satyrs have created an encampment. It has been a splinter in the eye for Bloodfist Point since the first day we arrived. Go, annihilate them, and bring me their horns. Do not be merciful, as they wouldn't be for you. Kill all of them, leave no vile Satyr standing.",
   },
+  [40285] = {
+    ["T"] = "A Blademaster's Request",
+    ["O"] = "Speak with the 'keeper' on the far eastern coast of Azshara, and return to Katokar with news.",
+    ["D"] = "My name is Katokar. Katokar Bladewind. I was a Blademaster of the Burning Blade. Now, I am a Blademaster of the Horde. I came to Azshara to avenge the death of a fallen comrade. During the Third War, he was here, fighting the Burning Legion. In the end, we won. Archimonde was defeated. But my friend died in a glorious battle. I have killed hundreds of demons since I came here, yet I am still restless. I need to find a Blade that belonged to him, he was a Blademaster like myself. A Blademaster has to be buried with his blade. Yet, my progress thus far has been fruitless. I found his broken corpse near the eastern shore, I know of a great tower watched by a keeper on the far eastern coast of Azshara, perhaps he may know more.",
+  },
+  [40286] = {
+    ["T"] = "The Search for the Blade",
+    ["O"] = "Search for the sword that could have belonged to a fallen Blademaster inside the Temple of Arrkoran.",
+    ["D"] = "The Temple of Arrkoran... <Katokar would seem almost distant for a moment as his mind thought>. This must be the place <name>, it must be. I have no other leads, venture deep within the Temple, and seek out his blade, if it is anywhere, then it must be there. You can find this temple far to the south east, it is massive, and cannot be missed. Be careful in your searching, I am sure a terrible evil lurks inside.",
+  },
+  [40287] = {
+    ["T"] = "The Search for the Edge",
+    ["O"] = "Search the Shattered Strand in search of the second part of the Blade for Katokar Bladewind at Bloodfist Point.",
+    ["D"] = "Our Blades, they do not break easily. It was cut into two pieces on purpose. From all of the possible forces in Azshara, only the Naga have the technology to do so. Maybe, just maybe, they still have the second part If it is anywhere, it must be located on the Shattered Strand, no doubt kept as some trophy, or prized possesion. Locate it, and bring back the edge of the sword to me!",
+  },
+  [40288] = {
+    ["T"] = "Refueling the Blade",
+    ["O"] = "Gather 10 Fel Conduits from demons in Felwood for Katokar Bladewind at Bloodfist Point in Azshara.",
+    ["D"] = "Now, there is one last step, the Blade needs to be reforged. We will need a powerful conduit, a source of unimaginable fel energy to make the blade whole again. This is the way of the Blademaster. Venture to the forests of Felwood where demons still lurk. Gather their Fel energies and return to me, so we can reforge the Blade. The demonic sanctuary of Jaedenar will be a place that holds such energies, look there.",
+  },
+  [40289] = {
+    ["T"] = "To Honor the Forgotten",
+    ["O"] = "Speak with Katokar Bladewind, and utter the name of the dead to honor them.",
+    ["D"] = "The last thing I require from you is to honor the dead, you have done much work, work that I could not fulfill, so I ask you to honor the forgotten for me. I will work to reforge the blade, though it will take quite a while until it is perfectly balanced. Speak with me, and utter the name of the fallen so that his spirit may walk freely amongst his fellow warriors, so that you may pass on his warrior spirit. He was named 'Tak'gar Deephate'.",
+  },
   [40290] = {
     ["T"] = "Food for Bloodfist Point",
     ["O"] = "Obtain 10 Stag Meat from the Mosshoof.",
@@ -438,6 +503,36 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Claws for Bloodfist Point",
     ["O"] = "Obtain 16 Thunderhead Claws.",
     ["D"] = "Anyone could kill a stag, they are but deers with sharp horns! Hippogryph, on the other hand, is a different thing. Do you think you have what it takes? If so then bring me a handful of Thunderhead Claws. Thunderheads are local Hippogryphs, so wild and ferocious, that even the accursed Elves stay away from them, their claws would make great improvised weapons should things get rough.",
+  },
+  [40292] = {
+    ["T"] = "Disturbance in the Air",
+    ["O"] = "Gather 5 Mosshorn Antlers and 12 Highborne Essences for Farseer Yhargosh at Bloodfist Point in Azshara.",
+    ["D"] = "Hail, <class>, do you feel it? The magic, crackling around us, ever powerful, even after thousands of years. This place used to be Zin-Azshari, capital of the Night Elf Empire. Now, its nothing more than a wasteland, occupied by the Naga or even more sinister forces. However, I had a vision, great disturbance comes to this place, and if we do not stop it, the consequences will be... dire. Unfortunately, my vision was unclear, enveloped in the mists. I need to enter a shamanistic trance to see clearly. Yet, I lack proper ingredients to enter such a state. I would gather them myself, but I cannot leave the outpost for now. I dont need much, only Mosshorn Antlers to pulverize, and a dozen Highborne Essence from the Highborne spirits.",
+  },
+  [40293] = {
+    ["T"] = "Ritual of the Farseer",
+    ["O"] = "Wait until Farseer Yharg'osh finishes the ritual.",
+    ["D"] = "I am ready, <class>. Let us go outside to commune with the spirits.",
+  },
+  [40294] = {
+    ["T"] = "Dragons of Azshara?",
+    ["O"] = "Tell Talom Stridecloud about the Farseer's vision.",
+    ["D"] = "During my vision, I saw a great Dragon, flying over Azshara. I don't know much about them, but our Druid friends here in Bloodfist Point should be more knowledgeable. Share my vision with them, they will know what to do next.",
+  },
+  [40295] = {
+    ["T"] = "Mystery of Lake Mennar",
+    ["O"] = "Scout Lake Mennar.",
+    ["D"] = "We came to Azshara to heal these lands from remnants of the Legion's corruption. What we found here however, was different than expected. You see, young <race>, demonic corruption is not the biggest problem here. The land cries out for help. Some kind of evil forces have settled near Lake Mennar. They drain the very essence of the Earth, consuming magic and nature alike. Nagas or satyrs are not that powerful, they could not do that. Blue Dragonfilght, on the other hand.n Please, go and see what is happening at Lake Mennar, the future of Azshara may be in your hands.",
+  },
+  [40296] = {
+    ["T"] = "Report to the Archdruid",
+    ["O"] = "Report to Hamuul Runetotem.",
+    ["D"] = "Archdruid Runetotem needs to hear about this! He will know what to do and how we should approach them. Go, fly to Thunder Bluff and tell the Archdruid about what you have seen here. Make haste, time is of the essence.",
+  },
+  [40297] = {
+    ["T"] = "Stop the Dragonflight",
+    ["O"] = "Slay Tarangos.",
+    ["D"] = "The Blue Dragonflight has been in Azshara since time immemorial, but their recent actions seem strange. They had been there to safeguard ancient artifacts, not drain the leylines of life and magic. In better, simpler times, I would advise you to contact them and try to negotiate. Those times are over, and we need to act. Go back to Azshara and gather a strong party. Venture to Lake Mennar, and slay their kin. This will thin the numbers in their ranks, and we will have time to prepare a better response to their actions. A sad thing that the Dragonflight has begun to mess with the very ways of Azsharas natural magic. When it is done, return to Yhargosh at Bloodfist Point.",
   },
   [40298] = {
     ["T"] = "Red Skies of Durotar",

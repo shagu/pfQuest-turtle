@@ -5,6 +5,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- add Vanilla Jhawna Oatwind (new quest in turtle-wow)
   [3884] = "Jhawna Oatwind",
 
+  -- Immol'thar
+  [11496] = "Immol'thar",
+
   -- Godrick Bell
   [50506] = "Godrick Bell",
 
@@ -104,8 +107,14 @@ pfDB["units"]["enUS-turtle"] = {
   -- Conservationist Yalus
   [60507] = "Conservationist Yalus",
 
+  -- Najhaz the Raider
+  [60509] = "Najhaz the Raider",
+
   -- Grubgar
   [60510] = "Grubgar",
+
+  -- Keeper Laena
+  [60512] = "Keeper Laena",
 
   -- Boltrus
   [60513] = "Boltrus",
@@ -347,6 +356,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Duchess Faliona
   [91721] = "Duchess Faliona",
 
+  -- Keeper Iselus
+  [91722] = "Keeper Iselus",
+
   -- Father Brightcopf
   [91726] = "Father Brightcopf",
 
@@ -482,11 +494,17 @@ pfDB["units"]["enUS-turtle"] = {
   -- Grovetender Engryss
   [92107] = "Grovetender Engryss",
 
-  -- Graypaw Wolf
-  [91989] = "Graypaw Wolf",
-
   -- Master Raxxieth
   [92110] = "Master Raxxieth",
+
+  -- Katokar Bladewind
+  [92196] = "Katokar Bladewind",
+
+  -- Yharg'osh
+  [92197] = "Yharg'osh",
+
+  -- Talom Stridecloud
+  [92199] = "Talom Stridecloud",
 
   -- Nulda
   [92202] = "Nulda",
