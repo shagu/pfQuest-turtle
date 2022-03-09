@@ -1,4 +1,20 @@
 pfDB["quests"]["data-turtle"] = {
+  -- Seeping Corruption remake
+  [3568] = {
+    ["start"] = {
+      ["U"] = { 8390 },
+    },
+    ["end"] = {
+      ["U"] = { 8390 },
+    },
+    ["obj"] = {
+      ["A"] = { 10691, 10692, 10693, 10694 },
+    },
+    ["race"] = 178,
+    ["lvl"] = 52,
+    ["min"] = 45,
+    ["next"] = { 3569 },
+  },
   -- Puffing Peace
   [40001] = {
     ["start"] = {
