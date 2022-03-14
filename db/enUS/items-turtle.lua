@@ -69,6 +69,7 @@ pfDB["items"]["enUS-turtle"] = {
   [60330] = "Taming Rod",
   [60331] = "Taming Rod",
   [60332] = "Pure Ley Essence",
+  [60335] = "Blackrock Signet",
   [60337] = "Boltrus's Head",
   [60374] = "Volgrin's Parcel",
   [60375] = "Ragged Armband",
