@@ -404,6 +404,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Travel to Dire Maul, and slay the great evil being that the Highborne are leeching energy upon, gather from it Pure Ley Essence, and return to Keeper Laena in Azshara.",
     ["D"] = "Our next course of action requires us to be more bold. If we are to deactivate many of the buried secrets of the lost city then we must gather a great source of Ley Energy to channel. Deep within the depths of Dire Maul my Highborne kin have been utilizating a great mass of arcane power. This arcane power from what I can detect is keeping a being of great evil contained. I believe they are using this being to feed whatever magical addiction they may be consumed by. Venture into the depths of Dire Maul, and slay this creature that is being imprisoned, it should hold Pure Ley Essence, of which we can use to direct a spell out into the buried city. With the activation of the Ashan Stone, we will need to be quick, so do not waste time.",
   },
+  [40256] = {
+    ["T"] = "Blackrock and Roll",
+    ["O"] = "Gather 20 Blackrock Signet's from Blackrock Orcs for Tarsokk in Flame Crest.",
+    ["D"] = "The Blackrock Clan belongs to the Old Horde, a very large and dangerous enemy to Orgrimmar. Do not be fooled by the distance between the Blackrock Mountain and Orgrimmar. Should the Blackrock Clan ever gain a sizeable amount of strength, they will come to destroy us as well. The Old Horde consists of many factions that remained here on the Eastern Kingdoms during their fights in the First and Second War's and are a grizzled enemy that should not be underestimated. I have been sent here directly from Orgrimmar to be a damper on the Blackrock Clan, and you shall help. It is the honor of the Horde that is at stake after all. Gather me 20 Blackrock Signet's, they are worn by all of the Blackrock Clan in the region, kill them, and obtain these signets.",
+  },
+  [40257] = {
+    ["T"] = "Blackrock Slayers",
+    ["O"] = "Kill 10 Blackrock Slayer's and return to Tarsokk in Flame Crest.",
+    ["D"] = "The Slayers of the Blackrock Clan are a most fearsome foe. They have been known in the past for cleavage down entire regiments of human footmen during the old war. It is them I fear more then many on the field of battle. They must be dealt with and be dealt with quickly, you shall find them all over the Burning Steppes, mostly concentrated to the west at the Blackrock Stronghold, but you may also see them in the Pillar of Ash as well. Go with honor, and kill them in the name of Thrall.",
+  },
   [40260] = {
     ["T"] = "A Dark Ranger's Mastery",
     ["O"] = "Speak with Dark Ranger Lanissa in Brill.",

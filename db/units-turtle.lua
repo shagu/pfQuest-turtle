@@ -1517,6 +1517,15 @@ pfDB["units"]["data-turtle"] = {
     },
   },
 
+  -- Tarsokk
+  [91891] = {
+    ["fac"] = "H",
+    ["lvl"] = "55",
+    ["coords"] = {
+      [1] = { 65.7, 24.1, 46, 0 },
+    },
+  },
+
   -- Captain Silas
   [91974] = {
     ["fac"] = "A",

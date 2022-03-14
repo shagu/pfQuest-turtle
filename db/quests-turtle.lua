@@ -1266,6 +1266,34 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 45,
     ["pre"] = { 40253},
   },
+  -- Blackrock and Roll
+  [40256] = {
+    ["start"] = {
+      ["U"] = { 91891 },
+    },
+    ["end"] = {
+      ["U"] = { 91891 },
+    },
+    ["obj"] = {
+      ["I"] = { 60335 },
+    },
+    ["lvl"] = 57,
+    ["min"] = 48,
+  },
+  -- Blackrock Slayers
+  [40257] = {
+    ["start"] = {
+      ["U"] = { 91891 },
+    },
+    ["end"] = {
+      ["U"] = { 91891 },
+    },
+    ["obj"] = {
+      ["U"] = { 7027 },
+    },
+    ["lvl"] = 57,
+    ["min"] = 48,
+  },
   -- A Dark Ranger's Mastery
   [40260] = {
     ["start"] = {
@@ -1538,7 +1566,7 @@ pfDB["quests"]["data-turtle"] = {
     ["pre"] = { 40287 },
     ["next"] = { 40289 },
   },
-  -- Refueling the Blade
+  -- To Honor the Forgotten
   [40289] = {
     ["start"] = {
       ["U"] = { 92196 },
