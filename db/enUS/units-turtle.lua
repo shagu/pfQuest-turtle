@@ -254,6 +254,9 @@ pfDB["units"]["enUS-turtle"] = {
   -- Hargosh
   [91227] = "Hargosh",
 
+  -- Krez the Wise
+  [91232] = "Krez the Wise",
+
   -- Technician Grimzlow
   [91234] = "Technician Grimzlow",
 
@@ -442,6 +445,9 @@ pfDB["units"]["enUS-turtle"] = {
 
   -- Har Na'lan
   [91796] = "Har Na'lan",
+
+  -- Tarsokk
+  [91891] = "Tarsokk",
 
   -- Captain Silas
   [91974] = "Captain Silas",
