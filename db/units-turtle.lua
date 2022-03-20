@@ -397,7 +397,6 @@ pfDB["units"]["data-turtle"] = {
       [1]= { 53.1, 41.5, 14, 0 },
     },
   },
-  
   -- Melyndella
   [66002] = {
     ["fac"] = "AH",
@@ -5666,6 +5665,13 @@ pfDB["units"]["data-turtle"] = {
     ["fac"] = "A",
     ["lvl"] = "52",
   },
+  -- Corrupted Mottled Boar
+  [3225] = {
+    ["lvl"] = "10-11",
+    ["coords"] = {
+      [1] = { 36.85, 40.09, 14, 0 },
+    },
+  },
   -- Corrupted Scorpid
   [3226] = {
     ["lvl"] = "10-11",
@@ -5686,13 +5692,6 @@ pfDB["units"]["data-turtle"] = {
       [5] = { 44.04, 17.63, 14, 0 },
     },
   },
-  -- Corrupted Mottled Boar
-  [3225] = {
-    ["lvl"] = "10-11",
-    ["coords"] = {
-      [1] = { 36.85, 40.09, 14, 0 },
-    },
-  },
   -- Corrupted Surf Crawler
   [3228] = {
     ["lvl"] = "10-11",
@@ -5707,6 +5706,95 @@ pfDB["units"]["data-turtle"] = {
     ["coords"] = {
       [1] = { 34.24, 52.69, 14, 0 },
       [2] = { 34.51, 25.94, 14, 0 },
+    },
+  },
+  -- Kor'ghan
+  [3189] = {
+    ["fac"] = "H",
+    ["lvl"] = "7",
+    ["coords"] = {
+      [1] = { 56.67, 73.74, 14, 0 },
+      [2] = { 47.23, 53.65, 1637, 0 },
+    },
+  },
+  -- Professor Malkovich
+  [50002] = {
+    ["fac"] = "H",
+    ["lvl"] = "25",
+    ["coords"] = {
+      [1] = { 51.1992, 69.9802, 1497, 0 },
+    },
+  },
+  -- Bristlefur
+  [60539] = {
+    ["fac"] = "H",
+    ["lvl"] = "58",
+    ["coords"] = {
+      [1] = { 53.0591, 41.3711, 14, 0 },
+    },
+  },
+  -- Pezzik Villamar
+  [70060] = {
+    ["fac"] = "H",
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 53.2, 43.4, 14, 0 },
+    },
+  },
+  -- Annoying Peasant
+  [50003] = {
+    ["lvl"] = "5",
+    ["coords"] = {
+      [1] = { 52.867, 75.1355, 1497, 0 },
+    },
+  },
+  -- Suspicious Defias Footpad
+  [50006] = {
+    ["fac"] = "A",
+    ["lvl"] = "15",
+    ["coords"] = {
+      [1] = { 43.02, 73.12, 40, 0 },
+    },
+  },
+  -- Suspicious Dark Iron Dwarf
+  [50007] = {
+    ["fac"] = "A",
+    ["lvl"] = "30",
+    ["coords"] = {
+      [1] = { 48.83, 16.66, 11, 0 },
+    },
+  },
+  -- Suspicious Southsea Pirate
+  [50008] = {
+    ["fac"] = "A",
+    ["lvl"] = "15",
+    ["coords"] = {
+      [1] = { 6.612, 59.83, 11, 0 },
+      [2] = { 63.27, 43.46, 17, 0 },
+    },
+  },
+  -- Suspicious Dalaran Wizard
+  [50009] = {
+    ["fac"] = "A",
+    ["lvl"] = "20",
+    ["coords"] = {
+      [1] = { 58.71, 77.49, 130, 0 },
+    },
+  },
+  -- Suspicious Stonesplinter Trogg
+  [50010] = {
+    ["fac"] = "A",
+    ["lvl"] = "15",
+    ["coords"] = {
+      [1] = { 26.87, 55.53, 38, 0 },
+    },
+  },
+  -- Suspicious Syndicate Highwayman
+  [50011] = {
+    ["fac"] = "A",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 34.06, 27.28, 45, 0 },
     },
   },
 }

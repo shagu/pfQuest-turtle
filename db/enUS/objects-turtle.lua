@@ -33,4 +33,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [3000228] = "Trash",
   [3000229] = "Trash",
   [3000284] = "Mysterious Glittering Object",
+  [276] = "Shimmerweed Basket",
+  [1000045] = "Shimmerweed Bush",
+  [1772001] = "Oil Canister",
 }

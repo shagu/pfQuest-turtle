@@ -1184,4 +1184,44 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak with Diane Willowfield to learn the ability to train and feed your pets.",
     ["D"] = "You now have the power to tame a pet, but you must also gain the skills to train it.",
   },
+  [807] = {
+    ["T"] = "Durotar Scouring",
+    ["O"] = "Bring 5 Scorched Hearts to Orgnil Soulscar in Razor Hill.",
+    ["D"] = "My scouts report that some of the Durotar wildlife have become infected with a demonic taint. They were seen to the north and west. They wander among their brethren as normal beasts, but evil powers flow through them, and burning within each one is a heart scorched by black magic. These beasts must be destroyed! If you find such an animal while you explore Durotar, kill it and collect its Scorched Heart. Bring the hearts to me and I will have them studied, then destroyed.",
+  },
+  [814] = {
+    ["T"] = "Work for Food",
+    ["O"] = "Bring 10 Chunks of Boar Meat to Cook Torka in Razor Hill.",
+    ["D"] = "Cook and clean--that's all I do! You want to eat, you get me some more meat! I don't have all day to hunt and prepare food for all these louses. You got to learn to pull your own weight around here if you wanna be treated equal. Get me some Chunks of Boar Meat if you want to make yourself useful... or you don't want to starve to death.",
+  },
+  [810] = {
+    ["T"] = "Study to Survive",
+    ["O"] = "Bring 6 Small Scorpid Carapaces to Kor'ghan in Sen'jin Village.",
+    ["D"] = "You would do well to learn how dangerous this land can be, <class>. The wildlife here can teach us such things... if we are wise and observant. The scorpids are a perfect example of survival in Durotar. If you are to survive, it would be wise to take on some of their characteristics as your own. Their hardened carapaces can protect you from the harshness of the sun, or even a deadly weapon. Bring me 6 Small Scorpid Carapaces from the Clattering Scorpids, <name>, and I shall see about rewarding you justly.",
+  },
+  [811] = {
+    ["T"] = "Unity is Strength",
+    ["O"] = "Bring 8 Large Scorpid Carapaces to Kor'ghan in Sen'jin Village.",
+    ["D"] = "One of the other traits of the scorpids is their fierce loyalty. They will protect one another if they are in danger--you've probably already seen this behavior in your first scorpid hunt. You would do well to heed that lesson and adapt it for yourself: we are stronger as one; we are weak when we are divided into many. Bring me 8 Large Scorpid Carapaces from the Armored Scorpids and I shall reward you for learning this wisdom.",
+  },
+  [820] = {
+    ["T"] = "What Do You Rely On?",
+    ["O"] = "Bring 8 Shimmerweed to Master Vornal in Sen'jin Village.",
+    ["D"] = "Truly a spirit of strength resides in your body--or maybe it was only luck, yes? That is what the young rely on these days: luck... and the generosity of those more powerful than they. Not many take the time to find their own path. It's always begging for help... always the reward, and never the quest. I'm sure you'll be the same. But there is hope. I need one other thing for my potion, <name>: 8 shimmerweed herbs. They can be found in Thunder Ridge to the northwest of Razor Hill.",
+  },
+  [50000] = {
+    ["T"] = "Professor Malkovich",
+    ["O"] = "Talk to Professor Malkovich at the bottom of the Apothecarium in Undercity.",
+    ["D"] = "Professor Malkovich is an old friend of mine. He told me to send him someone interested in anatomy.",
+  },
+  [70051] = {
+    ["T"] = "Oil-Stained Gold",
+    ["O"] = "Bring 5 Barrels of Oil to Pezzik Villamar in Razor Hill.",
+    ["D"] = "Psst, bub. Come here for a second, will ya? Hey, how you doing today? Listen here, boss. I got myself some lucrative information to share with you. You see, there's these sunken ships, some old Alliance boats that supposedly still got some fuel left in them. They're just sitting there right off the coast. And, ya know, fuel is sort of a valuable commodity for us goblins when it comes to engineering. Anyway, let's get to the point. Bring me whatever you manage to salvage from the shipwrecks and I'll be sure to make it worth your while.",
+  },
+  [50002] = {
+    ["T"] = "The Human Anatomy",
+    ["O"] = "Get rid of the Annoying Peasant and bring his head to Professor Malkovich.",
+    ["D"] = "Being an undead for so long has made me forget some things about human anatomy. Since we have an annoying specimen in the room next to us, how about you get rid of him and bring me his head? That way I can study it without him screaming. Don't worry, he's already out of the cage.",
+  },
 }
