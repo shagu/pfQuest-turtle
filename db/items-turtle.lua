@@ -822,4 +822,84 @@ pfDB["items"]["data-turtle"] = {
       [14834] = 100.00,
     },
   },
+  -- Scorched Heart
+  [4868] = {
+    ["U"] = {
+      [3225] = 100.00,
+      [3226] = 100.00,
+      [3227] = 100.00,
+      [3228] = 100.00,
+      [3231] = 100.00,
+    },
+  },
+  -- Small Scorpid Carapace
+  [51000] = {
+    ["U"] = {
+      [3125] = 100.00,
+    },
+  },
+  -- Large Scorpid Carapace
+  [51001] = {
+    ["U"] = {
+      [3126] = 100.00,
+    },
+  },
+  -- Shimmerweed
+  [2676] = {
+    ["U"] = {
+      [1397] = 100.00,
+    },
+    ["O"] = {
+      [276] = 100.00,
+      [1000045] = 100.00,
+    },
+  },
+  -- Oil Canister
+  [70031] = {
+    ["O"] = {
+      [1772001] = 100.00,
+    },
+  },
+  -- Intact Human Head
+  [50063] = {
+    ["U"] = {
+      [50003] = 100.00,
+    },
+  },
+  -- Knowledge: Defias Disguise
+  [5126] = {
+    ["V"] = {
+      ["50006"] = 1,
+    },
+  },
+  -- Knowledge: South Seas Pirate Disguise
+  [5127] = {
+    ["V"] = {
+      ["50008"] = 1,
+    },
+  },
+  -- Knowledge: Dark Iron Dwarf Disguise
+  [5129] = {
+    ["V"] = {
+      ["50007"] = 1,
+    },
+  },
+  -- Knowledge: Dalaran Wizard Disguise
+  [5130] = {
+    ["V"] = {
+      ["50009"] = 1,
+    },
+  },
+  -- Knowledge: Stonesplinter Disguise
+  [5131] = {
+    ["V"] = {
+      ["50010"] = 1,
+    },
+  },
+  -- Knowledge: Syndicate Disguise
+  [5132] = {
+    ["V"] = {
+      ["50011"] = 1,
+    },
+  },
 }
