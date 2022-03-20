@@ -50,9 +50,12 @@ updatecheck:SetScript("OnEvent", function()
       count = count + 1
     end
 
+    pfQuest:Debug("TurtleWoW loaded with |cff33ffcc" .. count .. "|r quests.")
+
     -- check if the last count differs to the current amount of quests
     if not pfQuest_turtlecount or pfQuest_turtlecount ~= count then
       -- remove quest cache to force reinitialisation of all quests.
+      pfQuest:Debug("New quests found. Reloading |cff33ffccCache|r")
       pfQuest_questcache = {}
     end
 
