@@ -1224,4 +1224,69 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Get rid of the Annoying Peasant and bring his head to Professor Malkovich.",
     ["D"] = "Being an undead for so long has made me forget some things about human anatomy. Since we have an annoying specimen in the room next to us, how about you get rid of him and bring me his head? That way I can study it without him screaming. Don't worry, he's already out of the cage.",
   },
+  [55048] = {
+    ["T"] = "WANTED: Hole Escapee",
+    ["O"] = "Find the prisoner Baxxil at Farwatch Post in the Barrens.",
+    ["D"] = "To those reading this message, a local prisoner named Baxxil has recently escaped from the hole after something of a tunneling incident, and escaped off the coast. He has been reported and sighted at Far Watch Post to the west in the Barrens, along the river of Durotar. Justice must be dealt. Bring this prisoner back dead or alive, and return to Hizzle!",
+  },
+  [80219] = {
+    ["T"] = "KABOOM!",
+    ["O"] = "Bring Vanessa Clang 20 Heavy Dynamite.",
+    ["D"] = "If there's one thing a goblin is always in need of, it's dynamite! Whether it's used to excavate, blow up enemies, or just to watch things go KABOOM! Anyways, bring me 20 heavy dynamite and I'll be sure to put in a good word for you. Be sure to bring me quality dynamite too. I don't care where you find it either, unless you were to find it off the corpse of a gnome. In that case, be sure to wipe it down with disinfectant before you bring it to me. Gnomes have a characteristically unpleasant odor that I find, quite frankly, to be repulsive.",
+  },
+  [80386] = {
+    ["T"] = "A Gizmo a Day...",
+    ["O"] = "Bring 20 Whirring Bronze Gizmos to Vanessa Clang in Mudsprocket.",
+    ["D"] = "I never thought we'd have a fresh start, and not in my wildest dreams I'd think we'd do that under the Horde's flag, but what do you know, here we are. We currently are a small group of goblins that ran away with only scraps and dust in our pockets, but slowly we will make a name for ourselves, and if you want, you can be part of that. The Labor Union grows day by day, goblins come our way to find a new meaning in life under the Horde's gaze, but we lack both means and resources. If you wish to be part of the Union's future bring me a handful of Whirring Bronze Gizmos whenever you can. You will eventually get paid.",
+  },
+  [60120] = {
+    ["T"] = "Triggered!",
+    ["O"] = "Find Kaja's Ammunition from Ammo Crates in Razorwind Canyon.",
+    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. <name>, I gotta have it back!",
+  },
+  [80305] = {
+    ["T"] = "Quark's Shack",
+    ["O"] = "Go to the Valley of Honor and search for Quark's Shack.",
+    ["D"] = "Hey kid, enjoying yourself? Nah, you're really not. I can see it on your face. This place is pretty run-down and boring with no real stuff to do, eh? Well, if you're looking for some action, coin-action, mind you, then I got something for ya! But, you know, info doesn't come cheap, now does it? How about a silver coin to loosen up my tongue? <The goblin waits with an open hand while grinning at you.> Well, now that we are friends, I suppose I can let you in on this little something. Something that I've heard around town. See, there's this bar that just opened up in the Valley of Honor. Quite ironic, don't you think? I heard a goblin named Quark opened up a shop, but it's supposed to be a membership-only enterprise. I wouldn't bother going there myself, but I heard there's good money to be made! Now, that'll be fifty copper for the intel. Have a nice day, pal.",
+  },
+  [80300] = {
+    ["T"] = "A Tusken Affair",
+    ["O"] = "Talk to the mage trainer Deino in the Valley of Spirits in Orgrimmar.",
+    ["D"] = "Greetings, mon! I got an offer for you. Some of my brothers and I are setting up a new settlement in Kalimdor. It will be far away from home, but the threat of the undead and the Alliance can't be ignored. However, we are running into some difficulties doing that. If you can spare the time, we need your help. Talk to Deino in Orgrimmar. She is the mage trainer in the Valley of Spirits. You be getting a nice reward for your time, too!",
+  },
+  [80306] = {
+    ["T"] = "What's Yours is Ours",
+    ["O"] = "Speak to Agne to roll the dice.",
+    ["D"] = "Hey pal, watch it! Oh, what's this? A proper customer, eh? Welcome to Quark's Shack. You here for business or pleasure? You see, this here is a bar of mine made for coin connoisseurs, so if you're here, then it's time to grab some quick coin and also have some fun you're at it. If you're looking to gamble, then speak to Agne. She handles the bones. What, you never rolled the dice before? Nah, no need to worry about your coins, pal. You'll make back your losses in no time! Now, if you need anything to widen your eyes and numb your thoughts, come back and see me.",
+  },
+  [80307] = {
+    ["T"] = "Yet Another Smoke Cloud Above Orgrimmar",
+    ["O"] = "Speak to Innkeeper Wiley about Quark's cargo.",
+    ["D"] = "Enjoying yourself, boss? Good, good. Now, you see, that was a free trial. Doesn't really matter to me if you won or not, but I did say ‘coin connoisseurs', so you really gotta pay a membership fee. Hey, hey, where're you goin' man? Come on, don't be like that. I might be willing to give you a membership card if you repay me with some favors. See, I ordered some new goods from the Undermine for our hookahs. This cargo is very important and valuable. I will throw in some coins, too, which you are more than welcome to keep spending in my bar, if you go and fetch my goods for me. Now, the cargo should arrive at Ratchet right around today, so if you'd get a move on, I'd really appreciate it.",
+  },
+  [80301] = {
+    ["T"] = "Lighting the Pyres",
+    ["O"] = "Light 3 Spirit Pyres inside of the tomb.",
+    ["D"] = "Ah, good. What a beauty you are, <race>. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, <race>! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
+  },
+  [80308] = {
+    ["T"] = "Tobacco Thieves",
+    ["O"] = "Retrieve 20 Tobacco Crates.",
+    ["D"] = "So... we may have a slight pirate “infestation” problem. While cargo was being delivered from the Undermine, these damn pirates raided the boat and looted it. The crew escaped safely, but more importantly, the cargo was all gone! It's a lot of wasted coin. Quark is expecting a big shipment, but a lot of it has either been smoked or lost to the sea. Just try to get whatever you can back and I might be able to fudge some numbers. You'll find the pirates to the south, down the coastline. Quark's waiting for that cargo, so you'd better hurry. Something's better than nothing.",
+  },
+  [80321] = {
+    ["T"] = "The Lies that Bind Us",
+    ["O"] = "Give Knobby's Belt to Kiro in the Valley of Honor.",
+    ["D"] = "You're the one that helped Miley find this, yeah? <Gazlowe holds up the belt you found in Dustwind Cave.> I've had a bit of diggin' done and I know who made it. Name's Kiro in Orgrimmar. Nice enough gal, even if she's a tad aggressive. I'm sure it's a long shot, but I need you to check with her and find out if she knows anything about this inscription. I've already had it deciphered, but Kiro might know more.",
+  },
+  [80322] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "Take Knobby's Belt and 20 silver to Vrang Wildgore in the Barrens.",
+    ["D"] = "Hah! No leatherworker made these marks. This is fel magic. There's an outcast located in the Barrens. It's a blacksmith from our world. He has a gift when it comes to fel magic; he can sense the origin. You'll need payment if you seek him out, and you'll need luck on your side. Some of us don't like reliving our past. The taint that was in our blood haunts him still, as it does for many of us. Leave me be, now. Seek Vrang west of the road along the Barrens' northern foothills.",
+  },
+  [80323] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "Return to Gazlowe with Knobby's Belt.",
+    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, <class>. I don't need the wrath of Neeru or his minions targeting me.",
+  },
 }

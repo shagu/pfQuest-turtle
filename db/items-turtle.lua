@@ -80,7 +80,7 @@ pfDB["items"]["data-turtle"] = {
       [1935] = 100.00,
     },
   },
-  -- Squealer Thornmantle's Mane
+  -- "Squealer" Thornmantle's Mane
   [51826] = {
     ["U"] = {
       [3229] = 100.00,
@@ -901,5 +901,20 @@ pfDB["items"]["data-turtle"] = {
     ["V"] = {
       ["50011"] = 1,
     },
+  },
+  -- Kaja's Ammo
+  [51845] = {
+    ["O"] = {
+      [1000389] = 100.00,
+    },
+  },
+  -- Tobacco Crate
+  [80401] = {
+    ["O"] = {
+      [3000235] = 100.00,
+    },
+  },
+  -- Sack of Flour
+  [60444] = {
   },
 }
