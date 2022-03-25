@@ -196,4 +196,12 @@ pfDB["units"]["enUS-turtle"] = {
   [5435] = "Sand Shark",
   [3229] = "\"Squealer\" Thornmantle",
   [91249] = "Hizzle",
+  [80603] = "The Rov",
+  [80604] = "Sturk the Rat",
+  [80605] = "Odo",
+  [80965] = "Lake Toad",
+  [80802] = "Warleader Wetnose",
+  [91729] = "Harry Upperson",
+  [91761] = "Rogue Enforcer",
+  [91762] = "Rogue Conjurer",
 }

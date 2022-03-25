@@ -40,4 +40,8 @@ pfDB["objects"]["enUS-turtle"] = {
   [3000242] = "Spirit Pyre",
   [3000235] = "Quark's Cargo",
   [2010700] = "Shagu's Shisha",
+  [3000236] = "Sturk's Chest",
+  [3000280] = "Rosemary",
+  [2010855] = "Arcane Goods",
+  [2010824] = "Grain Sack",
 }

@@ -139,4 +139,10 @@ pfDB["items"]["enUS-turtle"] = {
   [51845] = "Kaja's Ammo",
   [80401] = "Tobacco Crate",
   [60444] = "Sack of Flour",
+  [80402] = "Sturk's Income Book",
+  [80403] = "Bloodsail Marked Letter",
+  [80420] = "Rosemary Flower",
+  [80421] = "Toad Oil",
+  [60381] = "Arcane Goods",
+  [60378] = "Salorn's Ring",
 }

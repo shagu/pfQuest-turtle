@@ -239,11 +239,6 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "I have been tasked by Butcher Reeves to kill 10 Graypaw Wolfs.",
     ["D"] = "Just a person that I need. Listen. A few months ago, a pack of wolves inhabited the cave just north of here. At first, we thought it was just a small number of them, so we didn't pay those beasts much attention. Being busy with war and all. But they have become aggressive of late and even got bold enough to attack residents of Glenshire. So how about this, you go and cull their numbers and in the meantime, I will try to gather some coins from the residents for you, deal?",
   },
-  [40139] = {
-    ["T"] = "Reaperence Of The Damned",
-    ["O"] = "Father Brightcopf wants me to put a stop to the Scourge's advances on the Corinth Farm.",
-    ["D"] = "I hope that you have come to assist us. We are currently beset by the enemies on every side and could surely use any help that we can get. West of here is a farm where a large battle occurred recently between our troops and Humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone who is willing to put a stop to the Scourge advances.",
-  },
   [40140] = {
     ["T"] = "Cleaning The Farm",
     ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
@@ -1288,5 +1283,45 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Lies That Bind Us",
     ["O"] = "Return to Gazlowe with Knobby's Belt.",
     ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, <class>. I don't need the wrath of Neeru or his minions targeting me.",
+  },
+  [80309] = {
+    ["T"] = "Odo's Gut Feeling",
+    ["O"] = "Inspect the cargo and the bar to find incriminating documents.",
+    ["D"] = "'Ey, mon, come 'ere real quick, Odo's got sum words fo' ya. I see ya be crawlin' 'round Quark's gamblin' bar and I be havin' this feelin' in me gut that be tellin' me somethin' be at work 'ere. I be thinkin' where entry = he be doin' sumthin' under tha' table, mon. A goblin ya can trust be as rare as a beautiful troll woman, and let me tell ya, they do be pretty ugly. So, would ya keep an eye open for ol' Odo? This be official business, and I be payin' ya. Jus' go check tha' cargo and maybe sum paperwork, and keep an eye on tha' mon called Sturk. He be an associate of Quark. If anythin' where entry = I think he be the one smugglin' stuff.",
+  },
+  [80310] = {
+    ["T"] = "Quark's Justice",
+    ["O"] = "Arrest the rat. Speak to The Rov about security details.",
+    ["D"] = "That damn rat. He stole from me, did he now? I'm handing him over, but before that, I want you to stare that mongrel in the eyes and tell him that he got caught. Beat him to a pulp, and then hand him over to Odo. After you're done, speak to The Rov. I want you to tell him to keep watch and tighten up the security around here. Can't just go around having thieves in my own shack, ya know? When you're all done, come back to me and there'll be a reward in it for ya.",
+  },
+  [80304] = {
+    ["T"] = "The Means To Heal",
+    ["O"] = "Collect 10 Rosemary Flowers and 10 Toad Oils, then bring everything to Warleader Wetnose.",
+    ["D"] = "Greetings, mon. You back to being useful, then? Perfect timing. Ol' Wetnose got a job for ya! We trolls, not just us forest trolls, but all trolls, got an ability that regenerates wounds, ya?But sometimes, even that fails during battle, and we don't know much about how it be happening. Sometimes it be working, sometimes it be not! Your mission is to go grab some stuff for me that turns into some healing salve... like the potions—but better! There be this purple flowa growing around Ashenvale. I think some call it rosemary, but we be calling it useful. Grab a handful and bring ‘em back to me. But wait, there's also a catch. The mix we need is a special kind of oil, mon, so you be going to squeeze some toads for their juices! They can be found around the lake close to the cave that leads to Stonetalon. Careful, some toads have nasty skin, and you might end up infected. Don't worry, mon, Guay'jin will cleanse you!",
+  },
+  [40138] = {
+    ["T"] = "Bandit Lord",
+    ["O"] = "I need to find and kill Storn in the cave near Rogue Heights.",
+    ["D"] = "You look like someone who can get things done. I have a proposition for you. You see, I have been hunting a man by the name of Storn for a while now. However, he was always surrounded by his minions and was untouchable. But it appears that he had a falling out with his men, and he has since been in hiding. Good thing is that I know he is hiding in a cave close to Rogue Heights in the eastern hills of Tirisfal Uplands. The bad thing is that I need to wait for my client to get here, and she has a habit of leaving early if I do not meet her at her specific time. This is why I need someone to go and hunt Storn for me. So what do you say? You get me Storn's head, and I will split the reward for the bounty with you.",
+  },
+  [40083] = {
+    ["T"] = "The Rogue Heights",
+    ["O"] = "Travel to the Rogue Heights and slay 6 Rogue Enforcers and 6 Rogue Conjurers for Harry Upperson in Glenshire.",
+    ["D"] = "When Lordaeron was on the brink of collapse, I found myself with a band of wandering wizards and footpads who had a knack for arcane magic. They called themselves the Rogue Wizards, and I met my end with them. Those I considered friends left me for dead without even attempting to help me as I lay trapped beneath a fallen tree. I desire to punish these people, and you will help me do as much! I have sensed for some time now a growing power lingering on the Rogue Heights. They are no doubt plotting something, as I feel this arcane power has grown. We need to deal with them before they grow too strong to murder. You can find them just to the northeast of Glenshire. There is a small pathway through the Rogue Heights. Travel there and slay them for me.",
+  },
+  [40084] = {
+    ["T"] = "Magical Interference",
+    ["O"] = "Travel to the Rogue Heights and put an end to the Kirin Tor's influence once and for all.",
+    ["D"] = "I've been puzzled for a long time as to why the magic they now wield has been so familiar—it lays just on the tip of my finger. As you were dealing with the rabble of enforcers and conjurers, I studied harder and came up with an answer. The magic is that of the Kirin Tor, I am certain. I spent quite a bit of time in my living life around mages of Dalaran, and now that I think back, checking my books, I am certain. If Dalaran is here, then that means they must be attempting to check us in our expansion within Tirisfal Uplands. Return to the Rogue Heights and scour the hillside. Check for any source of the Kirin Tor's presence and put an end to it. We cannot have our enemies doing as they please freely within the countryside.",
+  },
+  [40085] = {
+    ["T"] = "Stealing Arcane Goods",
+    ["O"] = "Steal Arcane Goods from the camps within the Rogue Heights for Harry Upperson in Glenshire.",
+    ["D"] = "No doubt the Rogue Wizards have stashed all manner of arcane trinkets and items up in the Rogue Heights. If we want to limit their abilities severely, we will need to take these items from them. As a side effect, we may bolster our knowledge. Return to the Rogue Heights and steal arcane goods found amongst their camps. Return them to me, and I will make sure you are well compensated.",
+  },
+  [40139] = {
+    ["T"] = "Reappearance of the Damned",
+    ["O"] = "Father Brightcopf wants to put a stop to Scourge's advances on the Corinth Farm.",
+    ["D"] = "Welcome to the Glenshire. I hope that you have come to assist us. The enemies on every side beset us, and we could surely use any help we could get. West of here is a farm where a large battle occurred recently between our troops and humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone willing to put a stop to the Scourge advances.",
   },
 }
