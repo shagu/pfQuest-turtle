@@ -5,6 +5,7 @@
 ## Notes: A TurtleWoW DB extension for pfQuest
 ## Version: GIT
 ## Dependencies: pfQuest
+## SavedVariables: pfQuest_turtlecount
 
 init\data-turtle.xml
 init\enUS-turtle.xml
