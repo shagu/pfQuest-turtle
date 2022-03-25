@@ -36,4 +36,12 @@ pfDB["objects"]["enUS-turtle"] = {
   [276] = "Shimmerweed Basket",
   [1000045] = "Shimmerweed Bush",
   [1772001] = "Oil Canister",
+  [1000389] = "Kaja's Ammunition Crate",
+  [3000242] = "Spirit Pyre",
+  [3000235] = "Quark's Cargo",
+  [2010700] = "Shagu's Shisha",
+  [3000236] = "Sturk's Chest",
+  [3000280] = "Rosemary",
+  [2010855] = "Arcane Goods",
+  [2010824] = "Grain Sack",
 }

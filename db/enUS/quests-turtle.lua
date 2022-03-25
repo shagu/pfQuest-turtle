@@ -239,11 +239,6 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "I have been tasked by Butcher Reeves to kill 10 Graypaw Wolfs.",
     ["D"] = "Just a person that I need. Listen. A few months ago, a pack of wolves inhabited the cave just north of here. At first, we thought it was just a small number of them, so we didn't pay those beasts much attention. Being busy with war and all. But they have become aggressive of late and even got bold enough to attack residents of Glenshire. So how about this, you go and cull their numbers and in the meantime, I will try to gather some coins from the residents for you, deal?",
   },
-  [40139] = {
-    ["T"] = "Reaperence Of The Damned",
-    ["O"] = "Father Brightcopf wants me to put a stop to the Scourge's advances on the Corinth Farm.",
-    ["D"] = "I hope that you have come to assist us. We are currently beset by the enemies on every side and could surely use any help that we can get. West of here is a farm where a large battle occurred recently between our troops and Humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone who is willing to put a stop to the Scourge advances.",
-  },
   [40140] = {
     ["T"] = "Cleaning The Farm",
     ["O"] = "I was tasked with killing the Necromancer responsible for resurrecting the undead on Corinth Farm.",
@@ -1223,5 +1218,110 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Human Anatomy",
     ["O"] = "Get rid of the Annoying Peasant and bring his head to Professor Malkovich.",
     ["D"] = "Being an undead for so long has made me forget some things about human anatomy. Since we have an annoying specimen in the room next to us, how about you get rid of him and bring me his head? That way I can study it without him screaming. Don't worry, he's already out of the cage.",
+  },
+  [55048] = {
+    ["T"] = "WANTED: Hole Escapee",
+    ["O"] = "Find the prisoner Baxxil at Farwatch Post in the Barrens.",
+    ["D"] = "To those reading this message, a local prisoner named Baxxil has recently escaped from the hole after something of a tunneling incident, and escaped off the coast. He has been reported and sighted at Far Watch Post to the west in the Barrens, along the river of Durotar. Justice must be dealt. Bring this prisoner back dead or alive, and return to Hizzle!",
+  },
+  [80219] = {
+    ["T"] = "KABOOM!",
+    ["O"] = "Bring Vanessa Clang 20 Heavy Dynamite.",
+    ["D"] = "If there's one thing a goblin is always in need of, it's dynamite! Whether it's used to excavate, blow up enemies, or just to watch things go KABOOM! Anyways, bring me 20 heavy dynamite and I'll be sure to put in a good word for you. Be sure to bring me quality dynamite too. I don't care where you find it either, unless you were to find it off the corpse of a gnome. In that case, be sure to wipe it down with disinfectant before you bring it to me. Gnomes have a characteristically unpleasant odor that I find, quite frankly, to be repulsive.",
+  },
+  [80386] = {
+    ["T"] = "A Gizmo a Day...",
+    ["O"] = "Bring 20 Whirring Bronze Gizmos to Vanessa Clang in Mudsprocket.",
+    ["D"] = "I never thought we'd have a fresh start, and not in my wildest dreams I'd think we'd do that under the Horde's flag, but what do you know, here we are. We currently are a small group of goblins that ran away with only scraps and dust in our pockets, but slowly we will make a name for ourselves, and if you want, you can be part of that. The Labor Union grows day by day, goblins come our way to find a new meaning in life under the Horde's gaze, but we lack both means and resources. If you wish to be part of the Union's future bring me a handful of Whirring Bronze Gizmos whenever you can. You will eventually get paid.",
+  },
+  [60120] = {
+    ["T"] = "Triggered!",
+    ["O"] = "Find Kaja's Ammunition from Ammo Crates in Razorwind Canyon.",
+    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. <name>, I gotta have it back!",
+  },
+  [80305] = {
+    ["T"] = "Quark's Shack",
+    ["O"] = "Go to the Valley of Honor and search for Quark's Shack.",
+    ["D"] = "Hey kid, enjoying yourself? Nah, you're really not. I can see it on your face. This place is pretty run-down and boring with no real stuff to do, eh? Well, if you're looking for some action, coin-action, mind you, then I got something for ya! But, you know, info doesn't come cheap, now does it? How about a silver coin to loosen up my tongue? <The goblin waits with an open hand while grinning at you.> Well, now that we are friends, I suppose I can let you in on this little something. Something that I've heard around town. See, there's this bar that just opened up in the Valley of Honor. Quite ironic, don't you think? I heard a goblin named Quark opened up a shop, but it's supposed to be a membership-only enterprise. I wouldn't bother going there myself, but I heard there's good money to be made! Now, that'll be fifty copper for the intel. Have a nice day, pal.",
+  },
+  [80300] = {
+    ["T"] = "A Tusken Affair",
+    ["O"] = "Talk to the mage trainer Deino in the Valley of Spirits in Orgrimmar.",
+    ["D"] = "Greetings, mon! I got an offer for you. Some of my brothers and I are setting up a new settlement in Kalimdor. It will be far away from home, but the threat of the undead and the Alliance can't be ignored. However, we are running into some difficulties doing that. If you can spare the time, we need your help. Talk to Deino in Orgrimmar. She is the mage trainer in the Valley of Spirits. You be getting a nice reward for your time, too!",
+  },
+  [80306] = {
+    ["T"] = "What's Yours is Ours",
+    ["O"] = "Speak to Agne to roll the dice.",
+    ["D"] = "Hey pal, watch it! Oh, what's this? A proper customer, eh? Welcome to Quark's Shack. You here for business or pleasure? You see, this here is a bar of mine made for coin connoisseurs, so if you're here, then it's time to grab some quick coin and also have some fun you're at it. If you're looking to gamble, then speak to Agne. She handles the bones. What, you never rolled the dice before? Nah, no need to worry about your coins, pal. You'll make back your losses in no time! Now, if you need anything to widen your eyes and numb your thoughts, come back and see me.",
+  },
+  [80307] = {
+    ["T"] = "Yet Another Smoke Cloud Above Orgrimmar",
+    ["O"] = "Speak to Innkeeper Wiley about Quark's cargo.",
+    ["D"] = "Enjoying yourself, boss? Good, good. Now, you see, that was a free trial. Doesn't really matter to me if you won or not, but I did say ‘coin connoisseurs', so you really gotta pay a membership fee. Hey, hey, where're you goin' man? Come on, don't be like that. I might be willing to give you a membership card if you repay me with some favors. See, I ordered some new goods from the Undermine for our hookahs. This cargo is very important and valuable. I will throw in some coins, too, which you are more than welcome to keep spending in my bar, if you go and fetch my goods for me. Now, the cargo should arrive at Ratchet right around today, so if you'd get a move on, I'd really appreciate it.",
+  },
+  [80301] = {
+    ["T"] = "Lighting the Pyres",
+    ["O"] = "Light 3 Spirit Pyres inside of the tomb.",
+    ["D"] = "Ah, good. What a beauty you are, <race>. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, <race>! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
+  },
+  [80308] = {
+    ["T"] = "Tobacco Thieves",
+    ["O"] = "Retrieve 20 Tobacco Crates.",
+    ["D"] = "So... we may have a slight pirate “infestation” problem. While cargo was being delivered from the Undermine, these damn pirates raided the boat and looted it. The crew escaped safely, but more importantly, the cargo was all gone! It's a lot of wasted coin. Quark is expecting a big shipment, but a lot of it has either been smoked or lost to the sea. Just try to get whatever you can back and I might be able to fudge some numbers. You'll find the pirates to the south, down the coastline. Quark's waiting for that cargo, so you'd better hurry. Something's better than nothing.",
+  },
+  [80321] = {
+    ["T"] = "The Lies that Bind Us",
+    ["O"] = "Give Knobby's Belt to Kiro in the Valley of Honor.",
+    ["D"] = "You're the one that helped Miley find this, yeah? <Gazlowe holds up the belt you found in Dustwind Cave.> I've had a bit of diggin' done and I know who made it. Name's Kiro in Orgrimmar. Nice enough gal, even if she's a tad aggressive. I'm sure it's a long shot, but I need you to check with her and find out if she knows anything about this inscription. I've already had it deciphered, but Kiro might know more.",
+  },
+  [80322] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "Take Knobby's Belt and 20 silver to Vrang Wildgore in the Barrens.",
+    ["D"] = "Hah! No leatherworker made these marks. This is fel magic. There's an outcast located in the Barrens. It's a blacksmith from our world. He has a gift when it comes to fel magic; he can sense the origin. You'll need payment if you seek him out, and you'll need luck on your side. Some of us don't like reliving our past. The taint that was in our blood haunts him still, as it does for many of us. Leave me be, now. Seek Vrang west of the road along the Barrens' northern foothills.",
+  },
+  [80323] = {
+    ["T"] = "The Lies That Bind Us",
+    ["O"] = "Return to Gazlowe with Knobby's Belt.",
+    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, <class>. I don't need the wrath of Neeru or his minions targeting me.",
+  },
+  [80309] = {
+    ["T"] = "Odo's Gut Feeling",
+    ["O"] = "Inspect the cargo and the bar to find incriminating documents.",
+    ["D"] = "'Ey, mon, come 'ere real quick, Odo's got sum words fo' ya. I see ya be crawlin' 'round Quark's gamblin' bar and I be havin' this feelin' in me gut that be tellin' me somethin' be at work 'ere. I be thinkin' where entry = he be doin' sumthin' under tha' table, mon. A goblin ya can trust be as rare as a beautiful troll woman, and let me tell ya, they do be pretty ugly. So, would ya keep an eye open for ol' Odo? This be official business, and I be payin' ya. Jus' go check tha' cargo and maybe sum paperwork, and keep an eye on tha' mon called Sturk. He be an associate of Quark. If anythin' where entry = I think he be the one smugglin' stuff.",
+  },
+  [80310] = {
+    ["T"] = "Quark's Justice",
+    ["O"] = "Arrest the rat. Speak to The Rov about security details.",
+    ["D"] = "That damn rat. He stole from me, did he now? I'm handing him over, but before that, I want you to stare that mongrel in the eyes and tell him that he got caught. Beat him to a pulp, and then hand him over to Odo. After you're done, speak to The Rov. I want you to tell him to keep watch and tighten up the security around here. Can't just go around having thieves in my own shack, ya know? When you're all done, come back to me and there'll be a reward in it for ya.",
+  },
+  [80304] = {
+    ["T"] = "The Means To Heal",
+    ["O"] = "Collect 10 Rosemary Flowers and 10 Toad Oils, then bring everything to Warleader Wetnose.",
+    ["D"] = "Greetings, mon. You back to being useful, then? Perfect timing. Ol' Wetnose got a job for ya! We trolls, not just us forest trolls, but all trolls, got an ability that regenerates wounds, ya?But sometimes, even that fails during battle, and we don't know much about how it be happening. Sometimes it be working, sometimes it be not! Your mission is to go grab some stuff for me that turns into some healing salve... like the potions—but better! There be this purple flowa growing around Ashenvale. I think some call it rosemary, but we be calling it useful. Grab a handful and bring ‘em back to me. But wait, there's also a catch. The mix we need is a special kind of oil, mon, so you be going to squeeze some toads for their juices! They can be found around the lake close to the cave that leads to Stonetalon. Careful, some toads have nasty skin, and you might end up infected. Don't worry, mon, Guay'jin will cleanse you!",
+  },
+  [40138] = {
+    ["T"] = "Bandit Lord",
+    ["O"] = "I need to find and kill Storn in the cave near Rogue Heights.",
+    ["D"] = "You look like someone who can get things done. I have a proposition for you. You see, I have been hunting a man by the name of Storn for a while now. However, he was always surrounded by his minions and was untouchable. But it appears that he had a falling out with his men, and he has since been in hiding. Good thing is that I know he is hiding in a cave close to Rogue Heights in the eastern hills of Tirisfal Uplands. The bad thing is that I need to wait for my client to get here, and she has a habit of leaving early if I do not meet her at her specific time. This is why I need someone to go and hunt Storn for me. So what do you say? You get me Storn's head, and I will split the reward for the bounty with you.",
+  },
+  [40083] = {
+    ["T"] = "The Rogue Heights",
+    ["O"] = "Travel to the Rogue Heights and slay 6 Rogue Enforcers and 6 Rogue Conjurers for Harry Upperson in Glenshire.",
+    ["D"] = "When Lordaeron was on the brink of collapse, I found myself with a band of wandering wizards and footpads who had a knack for arcane magic. They called themselves the Rogue Wizards, and I met my end with them. Those I considered friends left me for dead without even attempting to help me as I lay trapped beneath a fallen tree. I desire to punish these people, and you will help me do as much! I have sensed for some time now a growing power lingering on the Rogue Heights. They are no doubt plotting something, as I feel this arcane power has grown. We need to deal with them before they grow too strong to murder. You can find them just to the northeast of Glenshire. There is a small pathway through the Rogue Heights. Travel there and slay them for me.",
+  },
+  [40084] = {
+    ["T"] = "Magical Interference",
+    ["O"] = "Travel to the Rogue Heights and put an end to the Kirin Tor's influence once and for all.",
+    ["D"] = "I've been puzzled for a long time as to why the magic they now wield has been so familiar—it lays just on the tip of my finger. As you were dealing with the rabble of enforcers and conjurers, I studied harder and came up with an answer. The magic is that of the Kirin Tor, I am certain. I spent quite a bit of time in my living life around mages of Dalaran, and now that I think back, checking my books, I am certain. If Dalaran is here, then that means they must be attempting to check us in our expansion within Tirisfal Uplands. Return to the Rogue Heights and scour the hillside. Check for any source of the Kirin Tor's presence and put an end to it. We cannot have our enemies doing as they please freely within the countryside.",
+  },
+  [40085] = {
+    ["T"] = "Stealing Arcane Goods",
+    ["O"] = "Steal Arcane Goods from the camps within the Rogue Heights for Harry Upperson in Glenshire.",
+    ["D"] = "No doubt the Rogue Wizards have stashed all manner of arcane trinkets and items up in the Rogue Heights. If we want to limit their abilities severely, we will need to take these items from them. As a side effect, we may bolster our knowledge. Return to the Rogue Heights and steal arcane goods found amongst their camps. Return them to me, and I will make sure you are well compensated.",
+  },
+  [40139] = {
+    ["T"] = "Reappearance of the Damned",
+    ["O"] = "Father Brightcopf wants to put a stop to Scourge's advances on the Corinth Farm.",
+    ["D"] = "Welcome to the Glenshire. I hope that you have come to assist us. The enemies on every side beset us, and we could surely use any help we could get. West of here is a farm where a large battle occurred recently between our troops and humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone willing to put a stop to the Scourge advances.",
   },
 }
