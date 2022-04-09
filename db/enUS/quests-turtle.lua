@@ -554,6 +554,76 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Torta's Egg in Zoram Strand.",
     ["D"] = "Hello there adventurer! As you may know the Darkmoon Faire moves from Kalimdor to Eastern Kingdoms each week. In fact we are able to move through most cities without the faction barrier. With the new boat from Darkshore to Stormwind we have drastically changed our route. To quickly be done with the explanation, this week we camped close to Zoram's Strand at night before reaching Darkshore, and one of those Nagas stole a very precious gift I once got in Tanaris! Ah yes, it was in my days of searching for wonders and mystery that I found a curious turtle close to the shores, her name was Torta, and she could speak! Imagine, a speaking turtle, how marvelous! She asked me to find her husband, Tooga. Apparently he got lost a lot, but he also was able to speak! Never in my life have I seen such a thing. But sadly they didn't wish to join the Faire, however Torta offered me one of her eggs and that's the precious gift I am talking about, I think it was about to hatch too. Please, bring back my egg.",
   },
+  [40304] = {
+    ["T"] = "The Depths of Karazhan I",
+    ["O"] = "Search for the Pendant of Ardan, rumored to be held by the ogre Var'zhog, collect it, and return to Kor'gan in Stonard.",
+    ["D"] = "I have been sent by a council of mages from Orgrimmar to look into the growing power that emits from Karazhan. I have done much research into the tower itself and the artifacts that once belonged in the ruins around it. I have some hunches, the first of which is that the energy that me, and the other mages have felt is coming from beneath Karazhan. In an old, and decrepid series of catacombs underneath the tower. If I am correct, then we will need an old Pendant which holds power enough to re-energize a key created by Medivh. This artifact is known as the Pendant of Ardan, thought lost for some years now. My only hint is that of the ogres of Deadwind Pass, of which, their leader Var'zhog has begun to exhibit magical prowess. Find Var'zhog, and from him, reclaim the Pendant of Ardan.",
+  },
+  [40305] = {
+    ["T"] = "The Depths of Karazhan II",
+    ["O"] = "Gather 8 Ghostly Substance from the ghosts around Karazhan, and return to Kor'gan at Stonard.",
+    ["D"] = "With the Pendant of Ardan in our hands we can turn our attention to the tower itself, and what magic has begun to raise more ghosts around it. As of recently, the dead have begun to materialize, spirits and echoes of the past clinging around the tower as if they were still alive. Travel to the ruins around Karazhan, and from the ghosts and dead bring me 8 Ghostly Substance. It is from this substance I will be able to check what magic lingers upon the ethereal beings. Be careful, for there are also rumors of a Dark Reaver who guards the entrance to Karazhan.",
+  },
+  [40306] = {
+    ["T"] = "The Depths of Karazhan III",
+    ["O"] = "Bring Kor'gan's Crate to Gunther Arcanus at Brightwater Lake.",
+    ["D"] = "<A look of annoyance would cover Kor'gan as his attempts to study the Ghostly Substance fail>. It would appear that what we are dealing with is beyond my power, it is intense in arcane energy, with something else that is not familiar to me... There is one I know who may be of assistance, who was a member of the Kirin Tor in life, his name is Gunther Arcanus. He lives within the center of Brightwater Lake in Tirisfal Glades, just northeast of Brill. With his knowledge within Dalaran, perhaps he can be of more assistance, seek him out and give him this crate.",
+  },
+  [40307] = {
+    ["T"] = "The Depths of Karazhan IV",
+    ["O"] = "Return to Kor'gan in Stonard with the information given by Gunther Arcanus.",
+    ["D"] = "My my... Such potent energy, I had always guessed that Karazhan had natural ley energy, infact it was rumored within Dalaran. Kor'gan was correct to bring these samples to me, they will make good for future projects. The energy that lingers beneath the arcane is that of necromancy, and quite potent necromancy at that. Long ago I spent quite some time at Karazhan, I was under mission from the Kirin Tor to look into the natural energy that lingered there. This is no doubt the work of Alarus, a student of Medivh for a brief period of time, he spent much of his later days attending to the Crypts that stretched far beneath the tower. If your task is to enter those catacombs, you will need to reforge the key. It requires a Mark of Karazhan, held by few who were given entrance into the tower, as well as the key itself. Bring this information to Kor'gan, perhaps he will find a solution to this problem.",
+  },
+  [40308] = {
+    ["T"] = "The Depths of Karazhan V",
+    ["O"] = "Gather the Old Crypt Key, and the Mark of Karazhan from around the ruins of Karazhan for Kor'gan in Stonard.",
+    ["D"] = "If we are to reforge the key, then we will need the items that Gunther Arcanus had hinted to. I have no doubts in my mind that both of these items can be found lingering around the tower. The first item we shall acquire is the key itself, there are rumors of a sickly, pale human who emerges when not a living soul is about, to tend the grounds around Karazhan. It would be from him, that the Old Crypt Key can be found, find him, and claim it for our purposes, he should be around. Lastly, a Mark of Karazhan will be required, of which there are not many left on this mortal world. I have heard tales of a Captain lingering in the caves of The Master's Cellar. Captain Rothynn and his twin brother were both given one long ago, he should still have one. When these items are obtained, return to me, and I can forge the key.",
+  },
+  [40309] = {
+    ["T"] = "The Depths of Karazhan VI",
+    ["O"] = "Wait for Kor'gan to reforge the Karazhan Crypt Key.",
+    ["D"] = "Now then, you have done your deeds with honor intact, it is my time to uphold my end of the bargain. It will take some time, and great concentration, but I will work to reforge the Karazhan Crypt Key. With everything in place, it should allow entry into the Crypts of Karazhan! Now, step back, and behold my power!",
+  },
+  [40310] = {
+    ["T"] = "The Depths of Karazhan VII",
+    ["O"] = "Venture forth into the Karazhan Crypts, once inside slay Alarus, the watcher of the Crypts for Kor'gan in Stonard.",
+    ["D"] = "There is only one step left for us, as honorable members of the Horde. We must step forth into the darkness, and vanquish this evil before it grows even stronger. If we were to let the humans deal with this, who knows if they could even stop it? As Grom Hellscream slayed Mannoroth, we too much look upon something terrible and destroy it from this world. I ask of you to venture into the Karazhan Crypts, and put an end to this madness, for the good of this world. This will not be a task you can handle alone, make sure you bring strong allies to journey with you.",
+  },
+  [40311] = {
+    ["T"] = "The Mystery of Karazhan I",
+    ["O"] = "Search for the Pendant of Ardan, rumored to be held by the ogre Var'zhog, collect it, and return to Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "I have ventured to this rather decrepid, and lonely place to investigate the mysteries surrounding Karazhan. It has long since loomed over this land with a great power emitting from it. While the tower is impressive, it does not boast the power it once held under the rule of Medivh. My analysis of the tower is that the growing power does not come from above, but below. There have always been tales of a crypt that stretched deep beneath Karazhan, perhaps they may be true. The first thing I ask of you is to search for a long lost pendant, rumored to have been taken from the ruins of Karazhan some time ago. It will be needed to magically attune the key for our purposes. My suspicion is that the ogre's of the region have taken hold of it. An ogre magi by the name of Var'zhog has grown to some renown as of recently, no doubt he holds the pendant.",
+  },
+  [40312] = {
+    ["T"] = "The Mystery of Karazhan II",
+    ["O"] = "Slay the ghosts around Karazhan and collect 8 Ghostly Substance for Magus Ariden Dusktower within Deadwind Pass.",
+    ["D"] = "With the Pendant of Ardan secured we can begin to look towards other leads, as of recent many more ghosts have begun to sprout up around the tower of Karazhan. It isn't every day that the dead begin to walk again within the ethereal form after all. I ask of you to venture around the ruins of Karazhan and slay the ethereal dead, and from them, collect 8 Ghostly Substance. It is from this substance that I will be able to check to see the magical potency, or what kind of magic has driven these souls to stir from death. Watch your footing, for the Dark Reaver of Karazhan has been known to watch over the gatehouse of the tower.",
+  },
+  [40313] = {
+    ["T"] = "The Mystery of Karazhan III",
+    ["O"] = "Take Ariden's Crate to Archmage Ansirem Runeweaver in Dalaran.",
+    ["D"] = "The energy of the substance is intense, and would take me considerable time to unweave. My master Archmage Ansirem Runeweaver within Dalaran is well versed within such magic, and would have a much easier time. I ask of you to bring him the Ghostly Substance and figure out the true potency and origin of the magic contained. Perhaps then, we can figure out how to best deal with the foreign energy lingering beneath Karazhan.",
+  },
+  [40314] = {
+    ["T"] = "The Mystery of Karazhan IV",
+    ["O"] = "Return to Ariden Dusktower with the information Ansirem Runeweaver has provided.",
+    ["D"] = "I have taken the time to study what has been provided, and based off the sample he has sent there is no doubt about the power that has produced such a energy. The magic that is present within the substance is that of necromancy, with a touch of arcane. There is one who could be capable of such magic. One who studied beneath Medivh for a short period of time, and took to keeping watch of the Crypt itself, he went by the name Alarus. If it truly is him, then he has mastered his magic, and is extremely capable, and even more dangerous. Whatever lingers beneath Karazhan must be stopped , especially with Karazhan itself holding so much potency of magic. If this darkness is resting beneath Karazhan, then it must be within the Crypts directly beneath it. Return to Ariden Dusktower, and let him know everything.",
+  },
+  [40315] = {
+    ["T"] = "The Mystery of Karazhan V",
+    ["O"] = "Slay Captain Rothynn to collect the Mark of Karazhan, and retrieve the Old Crypt Key from Groundskeeper Jacoby for Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "If Ansirem Runeweaver is correct, then Alarus must be stopped at all costs. To reforge the key to enter the crypt we will require a few items from the souls lingering within the ruins around Karazhan. First, we will need a Mark of Karazhan, an object magically enchanted with the ley energy of the tower. It is said that the twins Andreon and Rothynn were both granted one upon being accepted into the tower guard. Whilst Andreon's whereabouts are unknown, Rothynn's spirit still haunts the caverns of the Master's Cellar. Finally, there is Groundskeeper Jacoby, one who still to this day lives and tends to the grounds. A man who only appears when not a living soul is looking, only to flee and hide when the living linger. It is from him that the key itself will be collected, so hunt him down. When everything is collected, I can begin to infuse the key with the power it once held, to allow access to the Karazhan Crypt.",
+  },
+  [40316] = {
+    ["T"] = "The Mystery of Karazhan VI",
+    ["O"] = "Wait for Magus Ariden Dusktower to enfuse the energies of Karazhan into the key.",
+    ["D"] = "With the power of the Pendant of Ardan, and the items you have obtained I will begin to channel the energies of Karazhan into the dormant key. With familiar energies it should break the magical seal upon the lock and grant entrance. I will need some time to concentrate, so please, give me a moment to work the complicated magic.",
+  },
+  [40317] = {
+    ["T"] = "The Mystery of Karazhan VII",
+    ["O"] = "Venture forth into the Karazhan Crypts, once inside slay Alarus, the watcher of the Crypts for Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "With the key created the door to the Karazhan Crypts is now open. I ask of you a great importance, to venture into the depths beneath Karazhan and slay Alarus in the name of all that is good. To do such a task will require aid, for you will not be able to take this charge on your own. Hire a band of mercenaries, or gather folk of a good merit to join you, and rid the world of this evil so that it cannot spread further harm. The Kirin Tor is with you in spirit, the fate of many are on your shoulders brave one.",
+  },
   [40318] = {
     ["T"] = "A Call to Aid",
     ["O"] = "Deliver Captain Silas' Letter to General Marcus Jonathan in Stormwind.",
@@ -568,6 +638,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A Call to Aid",
     ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
     ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
+  },
+  [40340] = {
+    ["T"] = "Corrupted Sand",
+    ["O"] = "Collect a Corrupted Sand for Dronormu in the Caverns of Time.",
+    ["D"] = "The time ways have been under assault for some time now. The Infinite Dragonflight has begun to work against us in every way that they can imagine. It is from these shattered timeways that Corrupted Sand is formed. Corrupted Sand can be purified by us here in the Caverns of Time. If you so happen to get some Corrupted Sand, bring it to me, we would be very pleased to purify it.",
+  },
+  [40341] = {
+    ["T"] = "Sand in Bulk",
+    ["O"] = "Collect 10 Corrupted Sand for Dronormu in the Caverns of Time.",
+    ["D"] = "The Purification can be a lengthy process on Corrupted Sand, it is often preferred by us to get it in large quantities. If you can retrieve 10 Corrupted Sand for me, it would make my life, and the life of my kin that much easier. The time ways certainly are full of it, it just takes a brave soul to venture there and reclaim it for us. Perhaps you are that brave soul, and perhaps you may gather it for us.",
+  },
+  [40342] = {
+    ["T"] = "The Bronze Betrayal",
+    ["O"] = "Slay Chronar, and bring his head to Tyvadrius in the Caverns of Time.",
+    ["D"] = "Long ago I was tasked with the defence of the time ways, me and another took our oaths together. I dare not speak their name, for they are a traitor to the Bronze Dragonflight, and now consort with the Infinite. They work against everything they vowed to upkeep, and are actively destroying all of our work. They go by the name Chronar, a twisted husk of what they once used to be. Prided by the values of our kin, and our honor, but no longer. Venture into the Black Morass, and find Chronar, bring me his vile head as proof, and I shall reward you with a gift most precious to me.",
   },
   [40363] = {
     ["T"] = "New Bonds",
@@ -1173,6 +1258,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Zalazane's Apprentice",
     ["O"] = "After reading the letter you decide to find Zalazane's former apprentice by yourself and spare him of his head. Taking his head and Zalazane's mojo back to Master Gadrin in Sen'jin Village will earn you a reward.",
     ["D"] = "That foolish mongrel Makasgar decided he no longer needs the aid of his master and has grown beyond my teachings. ... That mojo was required for a powerful ritual to help us take over the Sen'jin Village and later the whole of Durotar. Go do your master's bidding and bring me his head!",
+  },
+  [80604] = {
+    ["T"] = "A Journey Into The Caverns",
+    ["O"] = "Travel to the Caverns of Time and speak to Chromie.",
+    ["D"] = "Our enemy is no longer in this time, but I have reason to believe they are in the past. I will tell you more but not here, you never know who might be listening. Travel to the Caverns of Time in Tanaris. I have given you authorization to enter since you are involved in this matter. Once you arrive talk to me again.",
+  },
+  [80605] = {
+    ["T"] = "The First Opening of The Dark Portal",
+    ["O"] = "Enter the Timeways into Black Morass's past and slay Antnormi. Bring her head to Kheyna.",
+    ["D"] = "Roughly seventeen years ago, Medivh the last guardian under the control of Sargeras opened the Dark Portal, and let the Orcish Horde into this world. We have detected a temporal anomaly in the area consistent with the same energy that Kheyna and Antnormi had. Kheyna is all but certain that Antnormi is behind this, please take the timeway to the right and stop Antnormi before she damages history, I will oversee the situation from here. Before you doubt whether this is a bad thing, the Orcs were instrumental in defeating the Legion, I assure you, the outcome if they didn't arrive is catastrophic!",
   },
   [80755] = {
     ["T"] = "Training the Beast",
