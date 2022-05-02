@@ -657,22 +657,22 @@ pfDB["quests"]["enUS-turtle"] = {
   [40363] = {
     ["T"] = "New Bonds",
     ["O"] = "Kill 5 Galak Centaurs in Mulgore.",
-    ["D"] = "Hello, I am Melyndella! I come from the verdant woodlands of Moonglade. Ever since the Tauren have joined the Cenarion Circle, I have been wanting to get to know them. However, it has been terribly hard to gain their trust! Many locals have accused us Dryads of being Centaur or otherwise associated with them. The Galak clan have caused a lot of pain to this land. Please, help weaken them so I can earn the trust of the village.",
+    ["D"] = "Do not be alarmed, I am an exile of the Galak that seeks refuge and mean you no harm. I accompanied my brethren here with the intent to raid, but upon seeing the tauren and their peaceful life free from the pains of our clan life - I began to yearn for their freedom. If we weaken the Galak's attack on the tauren, perhaps I can earn their trust.",
   },
   [40364] = {
-    ["T"] = "An Understanding of Peace",
+    ["T"] = "Seeking Acceptance",
     ["O"] = "Speak to Gennia Runetotem.",
-    ["D"] = "Thank you for your help, <name>. Now that the Centaurs pose less of a threat, there is more of an opportunity to learn about the Tauren. Perhaps you can speak to Gennia Runetotem? She is a Druid trainer in the village and has been kind to me, I believe she can help!",
+    ["D"] = "As the immediate threat of the Galak has been addressed, perhaps you can seek out a member of the nearby village and speak on my behalf.",
   },
   [40365] = {
-    ["T"] = "A Trial of Peace",
-    ["O"] = "Collect 8 Prairie Stalker Pelt and return it to Melyndella.",
-    ["D"] = "Word of Melyndella and your deeds against the Centaurs has spread, but slaying our enemies is not enough to befriend us. She must show respect and understanding towards our traditions. Venture forth into the northern Prairie across the lake, and acquire for me eight pelts from Prairie Stalkers. Bring them to her, she will know what to do.",
+    ["T"] = "A Trial of Sincerity",
+    ["O"] = "Collect 8 Prairie Stalker Pelts and return it to Kherra.",
+    ["D"] = "While we have received vague rumors of the centaur that strikes at her own kind, striking at our enemies is not enough to earn our favor - not for a centaur. She must show a respect and understanding toward our traditions and customs in a way that centaur are incapable. Venture to the northern prairie across the lake and acquire pelts from the prairie stalkers. Bring them to her, she will know what to do if she is true to her word.",
   },
   [40366] = {
-    ["T"] = "A Harmonious Offering",
-    ["O"] = "Deliver the Blessed Prairie Pelts to Waya Tallgrain and listen to his response. Return to Melyndella with the good news.",
-    ["D"] = "I believe I have the answer, <name>! I have blessed these pelts and bundled them up. Take them to the Innkeeper's Assistant - I have learned her name is Waya Tallgrain - and let her know they are my offering to the village.",
+    ["T"] = "An Earnest Offering",
+    ["O"] = "Deliver the Bundle of Enchanted Pelts to Gennia Runetotem.",
+    ["D"] = "Through a few simple enchantments, I have turned the pelts into blankets that will protect the tauren's young from the coming elements. Please take this to Gennia as my offering to her village.",
   },
   [50230] = {
     ["T"] = "Night's Exploration",

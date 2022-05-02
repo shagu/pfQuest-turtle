@@ -471,12 +471,12 @@ pfDB["units"]["data-turtle"] = {
       [1]= { 66.7, 49.5, 440, 0 },
     },
   },
-  -- Melyndella
+  -- Kherra
   [66002] = {
     ["fac"] = "AH",
-    ["lvl"] = "15",
+    ["lvl"] = "10",
     ["coords"] = {
-      [1] = { 46.0, 60.9, 215, 0 },
+      [1] = { 58.4, 58.8, 215, 0 },
     },
   },
   -- Taupo Foreststrider
