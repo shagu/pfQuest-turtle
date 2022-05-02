@@ -2051,12 +2051,12 @@ pfDB["quests"]["data-turtle"] = {
     ["obj"] = {
       ["U"] = { 2967 },
     },
-    ["race"] = 690,
+    ["race"] = 434,
     ["lvl"] = 10,
     ["min"] = 7,
     ["next"] = 40364,
   },
-  -- An Understanding of Peace
+  -- Seeking Acceptance
   [40364] = {
     ["start"] = {
       ["U"] = { 66002 },
@@ -2064,13 +2064,13 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 3064 },
     },
-    ["race"] = 690,
+    ["race"] = 434,
     ["lvl"] = 11,
     ["min"] = 8,
     ["next"] = 40365,
     ["pre"] = { 40363 },
   },
-  -- A Trial of Peace
+  -- A Trial of Sincerity
   [40365] = {
     ["start"] = {
       ["U"] = { 3064 },
@@ -2081,24 +2081,21 @@ pfDB["quests"]["data-turtle"] = {
     ["obj"] = {
       ["I"] = { 60513 },
     },
-    ["race"] = 690,
+    ["race"] = 434,
     ["lvl"] = 11,
     ["min"] = 8,
     ["next"] = 40366,
     ["pre"] = { 40363, 40364 },
   },
-  -- A Harmonious Offering
+  -- An Earnest Offering
   [40366] = {
     ["start"] = {
       ["U"] = { 66002 },
     },
     ["end"] = {
-      ["U"] = { 66002 },
+      ["U"] = { 3064 },
     },
-    ["obj"] = {
-      ["U"] = { 60356 },
-    },
-    ["race"] = 690,
+    ["race"] = 434,
     ["lvl"] = 11,
     ["min"] = 8,
     ["pre"] = { 40363, 40364, 40365 },

@@ -632,7 +632,7 @@ pfDB["items"]["data-turtle"] = {
   -- Prairie Stalker Pelt
   [60513] = {
     ["U"] = {
-      [2959] = 75.00,
+      [2959] = 100.00,
     },
   },
   -- Bog Creature Core
