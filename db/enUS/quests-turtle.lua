@@ -467,7 +467,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40283] = {
     ["T"] = "Azsharan Front",
     ["O"] = "Slay 6 Lingering Highborne, 10 Spitelash Serpent Guard, and 8 Spitelash Siren for Dag'grak Bloodfist at Bloodfist Point in Azshara.",
-    ["D"] = "It may not look like it, <class>, but we are in middle of a warzone. Highborne ghosts that linger in the forests clash with the Naga, for reasons I don't understand, and I don't want to.n One thing I know, that they are a danger for our outpost. They may be fighting each other for now, but it won't last forever. We should strike now, when they are weak.n Go to Ruins of Eldranath. Kill the Naga, eliminate the Highborne. Show them, that Bloodfist Point is to be reckoned with.",
+    ["D"] = "It may not look like it, $c, but we are in middle of a warzone. Highborne ghosts that linger in the forests clash with the Naga, for reasons I don't understand, and I don't want to.n One thing I know, that they are a danger for our outpost. They may be fighting each other for now, but it won't last forever. We should strike now, when they are weak.n Go to Ruins of Eldranath. Kill the Naga, eliminate the Highborne. Show them, that Bloodfist Point is to be reckoned with.",
   },
   [40284] = {
     ["T"] = "Blood and Glory!",
@@ -482,7 +482,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40286] = {
     ["T"] = "The Search for the Blade",
     ["O"] = "Search for the sword that could have belonged to a fallen Blademaster inside the Temple of Arrkoran.",
-    ["D"] = "The Temple of Arrkoran... <Katokar would seem almost distant for a moment as his mind thought>. This must be the place <name>, it must be. I have no other leads, venture deep within the Temple, and seek out his blade, if it is anywhere, then it must be there. You can find this temple far to the south east, it is massive, and cannot be missed. Be careful in your searching, I am sure a terrible evil lurks inside.",
+    ["D"] = "The Temple of Arrkoran... <Katokar would seem almost distant for a moment as his mind thought>. This must be the place $N, it must be. I have no other leads, venture deep within the Temple, and seek out his blade, if it is anywhere, then it must be there. You can find this temple far to the south east, it is massive, and cannot be missed. Be careful in your searching, I am sure a terrible evil lurks inside.",
   },
   [40287] = {
     ["T"] = "The Search for the Edge",
@@ -512,12 +512,12 @@ pfDB["quests"]["enUS-turtle"] = {
   [40292] = {
     ["T"] = "Disturbance in the Air",
     ["O"] = "Gather 5 Mosshorn Antlers and 12 Highborne Essences for Farseer Yhargosh at Bloodfist Point in Azshara.",
-    ["D"] = "Hail, <class>, do you feel it? The magic, crackling around us, ever powerful, even after thousands of years. This place used to be Zin-Azshari, capital of the Night Elf Empire. Now, its nothing more than a wasteland, occupied by the Naga or even more sinister forces. However, I had a vision, great disturbance comes to this place, and if we do not stop it, the consequences will be... dire. Unfortunately, my vision was unclear, enveloped in the mists. I need to enter a shamanistic trance to see clearly. Yet, I lack proper ingredients to enter such a state. I would gather them myself, but I cannot leave the outpost for now. I dont need much, only Mosshorn Antlers to pulverize, and a dozen Highborne Essence from the Highborne spirits.",
+    ["D"] = "Hail, $c, do you feel it? The magic, crackling around us, ever powerful, even after thousands of years. This place used to be Zin-Azshari, capital of the Night Elf Empire. Now, its nothing more than a wasteland, occupied by the Naga or even more sinister forces. However, I had a vision, great disturbance comes to this place, and if we do not stop it, the consequences will be... dire. Unfortunately, my vision was unclear, enveloped in the mists. I need to enter a shamanistic trance to see clearly. Yet, I lack proper ingredients to enter such a state. I would gather them myself, but I cannot leave the outpost for now. I dont need much, only Mosshorn Antlers to pulverize, and a dozen Highborne Essence from the Highborne spirits.",
   },
   [40293] = {
     ["T"] = "Ritual of the Farseer",
     ["O"] = "Wait until Farseer Yharg'osh finishes the ritual.",
-    ["D"] = "I am ready, <class>. Let us go outside to commune with the spirits.",
+    ["D"] = "I am ready, $c. Let us go outside to commune with the spirits.",
   },
   [40294] = {
     ["T"] = "Dragons of Azshara?",
@@ -527,7 +527,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40295] = {
     ["T"] = "Mystery of Lake Mennar",
     ["O"] = "Scout Lake Mennar.",
-    ["D"] = "We came to Azshara to heal these lands from remnants of the Legion's corruption. What we found here however, was different than expected. You see, young <race>, demonic corruption is not the biggest problem here. The land cries out for help. Some kind of evil forces have settled near Lake Mennar. They drain the very essence of the Earth, consuming magic and nature alike. Nagas or satyrs are not that powerful, they could not do that. Blue Dragonfilght, on the other hand.n Please, go and see what is happening at Lake Mennar, the future of Azshara may be in your hands.",
+    ["D"] = "We came to Azshara to heal these lands from remnants of the Legion's corruption. What we found here however, was different than expected. You see, young $r, demonic corruption is not the biggest problem here. The land cries out for help. Some kind of evil forces have settled near Lake Mennar. They drain the very essence of the Earth, consuming magic and nature alike. Nagas or satyrs are not that powerful, they could not do that. Blue Dragonfilght, on the other hand.n Please, go and see what is happening at Lake Mennar, the future of Azshara may be in your hands.",
   },
   [40296] = {
     ["T"] = "Report to the Archdruid",
@@ -1219,6 +1219,91 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Collect a Howling Crystal from one of the creatures of the Grumbling Grove.",
     ["D"] = "Nert might be afraid of a little shadow magic, but not us, huh? It’s time for you learn some real demon-summoning. Yeah, I know we’re in the middle of a crisis, but there’s no time like the present! We’re warlocks! Crises are what we do! And besides, I’m contractually obligated to help you new enforcers out. So, here’s what you’re gonna do. You’re gonna go on Nert’s little expedition, but you’re gonna bring me something special. It looks like some of the creatures there have little shards of a purple crystal on them, and purple just so happens to be our favorite color. Bring me one back, and I’ll teach ya to summon an imp. How’s that?",
   },
+  [80200] = {
+    ["T"] = "Farstrider Lodge",
+    ["O"] = "Talk to Vyrin Swiftwind in the Farstrider Lodge.",
+    ["D"] = "Ah, $N, you're awake. The journey south from the remnants of Lordaeron was filled with peril, but we have survived and this is our new home. There is a lot of work to be done now that we have arrived. This lodge has only been used by a few dwarven hunters ever since the Second War, but it hasn't been maintained properly. Vyrin Swiftwind in the lodge has been here much longer than any of us. Why not talk to her to get started?",
+  },
+  [80201] = {
+    ["T"] = "Stocking Up on Wood",
+    ["O"] = "Collect 8 Bundles of Wood outside of the Farstrider Lodge.",
+    ["D"] = "Wagons full of refugees have arrived from the north, and we know more are on the way. Because this was used as a dwarven hunting lodge, the larders are fully stocked with meat. Unfortunately, most of the meat was in the process of being salted and the lodge does not have a great supply of firewood. Go out and collect some. You'll find plenty of wood in bundles just outside the lodge. Oh, and a word of warning: do not leave the valley. There are things out there that are very dangerous, and you are not yet ready to face them.",
+  },
+  [80203] = {
+    ["T"] = "Clearing Out Vermin",
+    ["O"] = "Kill 8 Trogg Vermin.",
+    ["D"] = "Excuse me, $r, can I have your attention for a moment? I am Kathy Wake. I am a part of a branch of the Alliance military responsible for ensuring the safety and prosperity of Alliance lands. We've recently been sent here with a large contingent of men. Although I personally believe we are needed more back home, it is not my place to question orders. Our mission has been to ensure your people arrived safely to the lodge, and also to get you settled in. However, it is not easy to keep everyone safe from the dangers out here. While my men have been dealing with the larger problematic elements in the region, smaller ones have been left unattended for too long, and now they have been allowed to run rampant. The refugee caravans could be in danger if something is not done quickly. I take it you can fight? If so, please go out there and take care of the troggs that have been infesting the area around the lodge!",
+  },
+  [80204] = {
+    ["T"] = "Gathering Intel",
+    ["O"] = "Investigate the area to the southwest of the Farstrider Lodge.",
+    ["D"] = "You're less wet behind the ears, now, which is good. The vermin you've defeated are only a nuisance compared to other things that lurk in this valley. Some of the recent refugees who arrived last night reported seeing a short-statured figure with glowing red eyes in the woods as it stalked the area. Some brushed it off as fatigue from the long travel, but I believe it may be the forward scout of a Shadowforge raiding party. The Shadowforge are one of the Dark Iron clans. They are corrupted red-eyed dwarves who are at odds with the kingdom of Ironforge. Investigate the area to the west where the sighting happened, but do not stray too close to the digsite. It is infested with troggs far stronger than those vermin that you fought earlier. Remember: do not engage. If you find something, confirm your sighting and immediately return here.",
+  },
+  [80205] = {
+    ["T"] = "Slaking Their Thirst",
+    ["O"] = "Fill the Empty Barrel with water from the well.",
+    ["D"] = "Hello again, $n. The wood you gathered helped feed many refugees. However, the situation is far from resolved. The drinking water stores are running low. Soon, we will not be able to care for the refugees, but luckily there is a well to the north near the border of this valley. Go there, and fill this barrel with water. There are volunteers trying to dig a new well here, but that will take time. Please, $n, I know I can count on you!",
+  },
+  [80206] = {
+    ["T"] = "Burnt Wheels",
+    ["O"] = "Speak to Malvinah Sunblade, then report back to Kathy Wake.",
+    ["D"] = "<Vyrin appears distressed as she looks in your direction.> We found a wagon burned down with the corpses of the accompanying escorts nearby and no sign of the refugees. It's... terrible, $n, it's absolutely terrible! Please speak to your companion, Malvinah, was it? I am trying to keep people calm as we figure this out, but she is very disturbed. She's spreading panic and confusion among the refugees.",
+  },
+  [80207] = {
+    ["T"] = "Dark Iron Scrapping",
+    ["O"] = "Kill the Shadowforge Fire Priest, acquire the Dark Key and free the High Elf Refugees.",
+    ["D"] = "Alright, $n, here is the plan. We have established a perimeter around the Dark Iron camp, but we believe that if we move in force, then they will execute the refugees. We have been ordered to stand down. However, if we do not act now, the refugees will be killed. We need an outsider to sneak into their camp, kill the fire cleric, acquire the key to the cells, and free the refugees. I can think of no one more worthy of this task than you. You have proven yourself to be strong and resourceful in the short time we've known each other. I believe in you, $n! Now go and save those people!",
+  },
+  [80208] = {
+    ["T"] = "Sunblade Reunion",
+    ["O"] = "Speak to Malvinah Sunblade.",
+    ["D"] = "You're the hero of the hour, $n! All the refugees are speaking your name! I believe there is a friend of yours who is particularly grateful. Why not go and speak with Malvinah Sunblade?",
+  },
+  [80209] = {
+    ["T"] = "Porting to Goldshire",
+    ["O"] = "Speak to Magistrix Ishalah to be teleported to Goldshire, and then report to Marshal Dugan.",
+    ["D"] = "You've decided to assist, then? I am grateful, $n! The situation back home is dire and we cannot return to help at the moment. I do not know what kind of affliction ails the Stormwind nobles, but ever since King Varian disappeared, the Kingdom has been run into the ground! Alas, while we can't control the nobles, we can deal with the problems in the kingdom's provinces! Elwynn Forest is a good place to start. The capital is located in this region, and it has been surrounded by issues. Kobolds rule the mines, gnolls raid the towns, and bandits seize the roads. My friend Marshal Dugan is stationed in Goldshire, and he can put you to good use. I believe the Magistrix here can teleport you to Goldshire.",
+  },
+  [80210] = {
+    ["T"] = "Providing a Balanced Diet",
+    ["O"] = "Collect 4 Loch Modan Pumpkins and 8 Loch Modan Berries from the area surrounding the Farstrider Lodge.",
+    ["D"] = "Greetings, &n! You've made amazing progress so far, but there is still so much to do. While the lodge is stocked with an abundance of grain and meat, we're lacking other types of nourishment like fruits and vegetables. Luckily, the area around the lodge has an abundance of pumpkins and berries this time of the year. Can I count on you to search the area for berries and pumpkins? Our peoples' welfare depends on it!",
+  },
+  [80211] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Ranger's Letter and speak to Rubinah Sunsworn.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80212] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Paladin's Letter and speak to Lor'thas the Holy.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80213] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Priest's Letter and speak to Maelah Sunsworn.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80214] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Magister's Letter and speak to Magister Ala'shor.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80215] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Shady Letter and speak to Leela the Shadow.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80216] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Swordsman's Letter and speak to Valanos Dawnfire.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80217] = {
+    ["T"] = "Pelts and Tusks",
+    ["O"] = "Bring 5 Young Bear Pelts and 5 pieces of Young Boar Meat to Marek Ironheart in the Farstrider Lodge.",
+    ["D"] = "To prove yourself to me, $n, I will have you go around the lodge and search for the many piglets and cubs that made their home close to here. Your kin will also need clothes and armor made from their hides. While I am not the best leatherworker, I could still make a few pieces of gear. Five pelts of the bear cubs and five chunks of meat from the piglets will be enough to prove your worth. Come back when you have everything.",
+  },
   [80311] = {
     ["T"] = "Mastering the Arcane",
     ["O"] = "Speak to Chok'Garok on a bank of Southfury River in the Barrens",
@@ -1287,7 +1372,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [810] = {
     ["T"] = "Study to Survive",
     ["O"] = "Bring 6 Small Scorpid Carapaces to Kor'ghan in Sen'jin Village.",
-    ["D"] = "You would do well to learn how dangerous this land can be, <class>. The wildlife here can teach us such things... if we are wise and observant. The scorpids are a perfect example of survival in Durotar. If you are to survive, it would be wise to take on some of their characteristics as your own. Their hardened carapaces can protect you from the harshness of the sun, or even a deadly weapon. Bring me 6 Small Scorpid Carapaces from the Clattering Scorpids, <name>, and I shall see about rewarding you justly.",
+    ["D"] = "You would do well to learn how dangerous this land can be, $c. The wildlife here can teach us such things... if we are wise and observant. The scorpids are a perfect example of survival in Durotar. If you are to survive, it would be wise to take on some of their characteristics as your own. Their hardened carapaces can protect you from the harshness of the sun, or even a deadly weapon. Bring me 6 Small Scorpid Carapaces from the Clattering Scorpids, $N, and I shall see about rewarding you justly.",
   },
   [811] = {
     ["T"] = "Unity is Strength",
@@ -1297,7 +1382,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [820] = {
     ["T"] = "What Do You Rely On?",
     ["O"] = "Bring 8 Shimmerweed to Master Vornal in Sen'jin Village.",
-    ["D"] = "Truly a spirit of strength resides in your body--or maybe it was only luck, yes? That is what the young rely on these days: luck... and the generosity of those more powerful than they. Not many take the time to find their own path. It's always begging for help... always the reward, and never the quest. I'm sure you'll be the same. But there is hope. I need one other thing for my potion, <name>: 8 shimmerweed herbs. They can be found in Thunder Ridge to the northwest of Razor Hill.",
+    ["D"] = "Truly a spirit of strength resides in your body--or maybe it was only luck, yes? That is what the young rely on these days: luck... and the generosity of those more powerful than they. Not many take the time to find their own path. It's always begging for help... always the reward, and never the quest. I'm sure you'll be the same. But there is hope. I need one other thing for my potion, $N: 8 shimmerweed herbs. They can be found in Thunder Ridge to the northwest of Razor Hill.",
   },
   [50000] = {
     ["T"] = "Professor Malkovich",
@@ -1332,7 +1417,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [60120] = {
     ["T"] = "Triggered!",
     ["O"] = "Find Kaja's Ammunition from Ammo Crates in Razorwind Canyon.",
-    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. <name>, I gotta have it back!",
+    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. $N, I gotta have it back!",
   },
   [80305] = {
     ["T"] = "Quark's Shack",
@@ -1357,7 +1442,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [80301] = {
     ["T"] = "Lighting the Pyres",
     ["O"] = "Light 3 Spirit Pyres inside of the tomb.",
-    ["D"] = "Ah, good. What a beauty you are, <race>. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, <race>! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
+    ["D"] = "Ah, good. What a beauty you are, $r. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, $r! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
   },
   [80308] = {
     ["T"] = "Tobacco Thieves",
@@ -1377,7 +1462,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [80323] = {
     ["T"] = "The Lies That Bind Us",
     ["O"] = "Return to Gazlowe with Knobby's Belt.",
-    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, <class>. I don't need the wrath of Neeru or his minions targeting me.",
+    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, $c. I don't need the wrath of Neeru or his minions targeting me.",
   },
   [80309] = {
     ["T"] = "Odo's Gut Feeling",
