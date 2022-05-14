@@ -2520,7 +2520,7 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 178,
     ["lvl"] = 24,
     ["min"] = 16,
-    --["next"] = { 55035 },
+    ["next"] = { 55035 },
   },
   -- Hidden-Hidden Rewards
   [55035] = {
@@ -2528,7 +2528,7 @@ pfDB["quests"]["data-turtle"] = {
       ["U"] = { 91275 },
     },
     ["end"] = {
-      ["O"] = {  },
+      ["O"] = { 1000500 },
     },
     ["race"] = 178,
     ["lvl"] = 24,
@@ -2697,6 +2697,54 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 18,
     ["min"] = 10,
   },
+  -- Once Upon a Sheep
+  [60005] = {
+    ["start"] = {
+      ["U"] = { 50604 },
+    },
+    ["end"] = {
+      ["U"] = { 50604 },
+    },
+    ["obj"] = {
+      ["U"] = { 50610 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 8,
+    ["min"] = 6,
+    ["next"] = { 60007, 60008 },
+  },
+  -- Lulu Looks Luscious to Lupines
+  [60007] = {
+    ["start"] = {
+      ["U"] = { 50608 },
+    },
+    ["end"] = {
+      ["U"] = { 50608 },
+    },
+    ["obj"] = {
+      ["U"] = { 525 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 8,
+    ["min"] = 6,
+    ["pre"] = { 60005 },
+  },
+  -- Wool Would Work
+  [60008] = {
+    ["start"] = {
+      ["U"] = { 50605 },
+    },
+    ["end"] = {
+      ["U"] = { 50605 },
+    },
+    ["obj"] = {
+      ["I"] = { 51223 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 8,
+    ["min"] = 6,
+    ["pre"] = { 60005 },
+  },
   -- Delicious Pumpkin Pie
   [60040] = {
     ["start"] = {
@@ -2772,6 +2820,21 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 60,
     ["min"] = 20,
   },
+  -- Matter of Trust
+  [60070] = {
+    ["start"] = {
+      ["U"] = { 51564 },
+    },
+    ["end"] = {
+      ["U"] = { 51562 },
+    },
+    ["obj"] = {
+      ["I"] = { 769, 422, 51751 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 7,
+    ["min"] = 6,
+  },
   -- Cold Feet
   [60107] = {
     ["start"] = {
@@ -2787,6 +2850,22 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 10,
     ["min"] = 8,
     ["pre"] = { 375 },
+  },
+  -- Githyiss the Vile
+  [60110] = {
+    ["start"] = {
+      ["U"] = { 2082 },
+    },
+    ["end"] = {
+      ["U"] = { 2082 }
+    },
+    ["obj"] = {
+      ["I"] = { 51815 }
+    },
+    ["race"] = 77,
+    ["lvl"] = 5,
+    ["min"] = 3,
+    ["pre"] = { 916 },
   },
   -- A Decisive Blow
   [60111] = {
@@ -2941,6 +3020,21 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 18,
     ["min"] = 16,
   },
+  -- That Dirty Old Ring
+  [60130] = {
+    ["start"] = {
+      ["I"] = { 51855 },
+    },
+    ["end"] = {
+      ["U"] = { 328 },
+    },
+    ["obj"] = {
+      ["I"] = { 51855 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 6,
+    ["min"] = 6,
+  },
   -- Deep Blue Sea
   [60131] = {
     ["start"] = {
@@ -3062,6 +3156,18 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 9,
     ["min"] = 8,
   },
+  -- A Change Of Heart
+  [60142] = {
+    ["start"] = {
+      ["U"] = { 6119 },
+    },
+    ["end"] = {
+      ["U"] = { 6031 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 6,
+    ["min"] = 5,
+  },
 -- Brannol's Sewing Kit
   [60143] = {
     ["start"] = {
@@ -3155,6 +3261,36 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 8,
     ["min"] = 6,
     ["pre"] = { 76 },
+  },
+  -- A Special Kind of Summons
+  [70000] = {
+    ["start"] = {
+      ["U"] = { 2708, 1498 },
+    },
+    ["end"] = {
+      ["U"] = { 8379 },
+    },
+    ["race"] = 255,
+    ["lvl"] = 60,
+    ["min"] = 60,
+    ["pre"] = { 7463 },
+    ["next"] = { 70001 },
+  },
+  -- Lost to the Sands
+  [70001] = {
+    ["start"] = {
+      ["U"] = { 8379 },
+    },
+    ["obj"] = {
+      ["I"] = { 83005 },
+    },
+    ["end"] = {
+      ["U"] = { 8379 },
+    },
+    ["race"] = 255,
+    ["lvl"] = 60,
+    ["min"] = 60,
+    ["pre"] = { 70000 },
   },
   -- The Guidance of a Mad Man
   [70002] = {
@@ -3754,6 +3890,18 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 14,
     ["pre"] = { 80311 },
   },
+  -- Apple a Day
+  [80315] = {
+    ["start"] = {
+      ["U"] = { 80460 },
+    },
+    ["end"] = {
+      ["U"] = { 80460 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 8,
+    ["min"] = 8,
+  },
   -- Burning Bridges
   [80320] = {
     ["start"] = {
@@ -3769,6 +3917,19 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 60,
     ["min"] = 7,
     ["next"] = { 80321 },
+  },
+  -- Etched Rune
+  [80350] = {
+    ["start"] = {
+      ["U"] = { 658 },
+    },
+    ["end"] = {
+      ["U"] = { 895 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 1,
+    ["min"] = 1,
+    ["pre"] = { 179 },
   },
   -- Pinch of Salt
   [80384] = {
@@ -3961,10 +4122,60 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["end"] = {
       ["U"] = { 50002 },
-    },    
+    },
+    ["race"] = 178,
     ["class"] = 8,
     ["lvl"] = 6,
     ["min"] = 2,
+    ["next"] = { 50002 },
+  },
+  -- The Human Anatomy
+  [50002] = {
+    ["start"] = {
+      ["U"] = { 50002 },
+    },
+    ["end"] = {
+      ["U"] = { 50002 },
+    },
+    ["obj"] = {
+      ["I"] = { 50063 },
+    },
+    ["race"] = 178,
+    ["class"] = 8,
+    ["lvl"] = 6,
+    ["min"] = 2,
+    ["pre"] = { 50000 },
+  },
+  -- Professor Papucho
+  [50003] = {
+    ["start"] = {
+      ["U"] = { 3594, 915, 916 },
+    },
+    ["end"] = {
+      ["U"] = { 50004 },
+    },
+    ["race"] = 77,
+    ["class"] = 8,
+    ["lvl"] = 6,
+    ["min"] = 2,
+    ["next"] = { 50004 },
+  },
+  -- The Orcish Anatomy
+  [50004] = {
+    ["start"] = {
+      ["U"] = { 50004 },
+    },
+    ["obj"] = {
+      ["I"] = { 50064 },
+    },
+    ["end"] = {
+      ["U"] = { 50004 },
+    },
+    ["race"] = 77,
+    ["class"] = 8,
+    ["lvl"] = 6,
+    ["min"] = 2,
+    ["pre"] = { 50003 },
   },
   -- Oil-Stained Gold
   [70051] = {
@@ -3979,22 +4190,6 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 9,
     ["min"] = 7,
-  },
-  -- The Human Anatomy
-  [50002] = {
-    ["start"] = {
-      ["U"] = { 50002 },
-    },
-    ["end"] = {
-      ["U"] = { 50002 },
-    },
-    ["obj"] = {
-      ["I"] = { 50063 },
-    },
-    ["class"] = 8,
-    ["lvl"] = 6,
-    ["min"] = 2,
-    ["pre"] = { 50000 },
   },
   -- WANTED: Hole Escapee
   [55048] = {
@@ -4285,6 +4480,18 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["lvl"] = 60,
     ["min"] = 1,
+  },
+  -- A New Place in Stormwind
+  [80220] = {
+    ["start"] = {
+      ["U"] = { 240 },
+    },
+    ["end"] = {
+      ["U"] = { 80405 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 5,
+    ["min"] = 5,
   },
   -- A Gizmo a Day...
   [80386] = {

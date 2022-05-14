@@ -11,6 +11,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [1000383] = "Seaweed-covered Footlocker",
   [1000389] = "Kaja's Ammunition Crate",
   [1000395] = "Brannol's Sewing Kit",
+  [1000500] = "Pile of Glinting Muck",
   [1000502] = "Brightwater Lockbox",
   [1000503] = "Sealed Trunk",
   [1000504] = "WANTED!",
