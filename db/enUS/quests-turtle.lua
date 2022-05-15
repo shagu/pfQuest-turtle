@@ -874,6 +874,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find and slay Shazknock at Boulderlode Mine.",
     ["D"] = "Shazknock is wanted for crimes against Sparkwater Port, sharing vital information and leaking trade secrets of the union to the Venture Co. He has secured himself a position as Manager with the information he has leaked. Find the man at his new position at Boulderlode Mine within the Great Hall there and bring his head to Tradesman Laz as proof for reward.",
   },
+  [60005] = {
+    ["T"] = "Once Upon a Sheep",
+    ["O"] = "Find 15 Lost Farm Sheep in Elwynn Forest and feed them Elwynn Truffles to bring them back to the farm.",
+    ["D"] = "My sheep! They're missing! I can't run a farm without sheep to shear. These varmint wolves have been scaring my sheep away for too long. I'm sick and tired of it! Now they're scattered around Elwynn, scared and shaking in their expensive fleece. Without sheep, I've got no way to support this farm or my daughter, Julie. I use their wool to make everything from handbags to hoods, but times have been tough lately. Say, you're a strong-lookin' feller. Why don't you wrangle 'em back for me? You'll be doing me a mighty fine favor. I'll give you a fair shake in return. Julie made a batch of their favorite treats. Give them these Elwynn Truffles and they’ll be runnin' back home in no time.",
+  },
+  [60007] = {
+    ["T"] = "Lulu Looks Luscious to Lupines",
+    ["O"] = "Get rid of 15 wolves across the farm.",
+    ["D"] = "Lulu is staring at the wolves surrounding the farm warily. You think you can hear her poor little heart thudding in dread. The wolves are licking their chops, biding their time until they get a chance to strike. An innocent, adorable thing like her shouldn't look so terrified in her own home. It's up to you to ease Lulu's distress.",
+  },
+  [60008] = {
+    ["T"] = "Wool Would Work",
+    ["O"] = "Gather 20 bundles of wool off the sheep in Elwynn Forest and bring them back to Julie Osworth.",
+    ["D"] = "My ma used to make a mean set of mittens that warmed us up in the chillier months. Each day gets a little colder without her, but she taught me everything she knew about making woolen garments. As you can see, the farm's been losing sheep left and right. There's plenty out in the forest though, but it's too dangerous for me. Papa can't lose me and Ma both—then he'd be stuck with poor ol' Lulu. Gather a few bundles of wool so that I can make Papa warm clothes for the season, and I'll craft up a lil' something for you, too.",
+  },
   [60040] = {
     ["T"] = "Delicious Pumpkin Pie",
     ["O"] = "Bring 1 Delicious Pumpkin Pie to Gina Weller in Goldshire.",
@@ -899,10 +914,20 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
     ["D"] = "Ish-ne-alo por-ah, young one! Sole reason you're here can only be the desire to learn how to foster your own garden and procure food where otherwise it wouldn't grow I believe? By the squint in your eyes I can see it is true. Very well. There's a particular type of seeds you will have to find first. Once you have'em all with you I shall teach you something not even hunters or trappers would know how to survive with less violence and killing. This is the Blessing that our tribes bear with pride and foster with care, a Blessing of the Earth-Mother herself. Come back to me when you have all the seeds I've mentioned in this parchment here. I have and will be expecting you … again. Winds be at your back.",
   },
+  [60070] = {
+    ["T"] = "Matter of Trust",
+    ["O"] = "Bring 5 Chunks of Boar Meat, 3 Dwarven Mild Cheese and 1 Chew Toy to Kelton's Riding Gryphon in the Goldshire.",
+    ["D"] = "Trust is something you can't buy, $r. Here's the deal, lad. You earn the trust of this gryphon over here and you'll get your ride to the camp. Fail and he'll have you as his breakfast. Hah! Of course I'm pulling your leg here, lad. This winged beast won't even nudge unless it trust you completely. How, you ask? Food, of course. And a toy. Go figure.",
+  },
   [60107] = {
     ["T"] = "Cold Feet",
     ["O"] = "Retrieve Gretchen's slippers from the shiny footlocker north of Solliden Farmstead.",
     ["D"] = "The damned cold won't leave me. I thank you for the pelts, $N but I wonder if I may trouble you again? I paid a helpful soul, Calvin, to go to Solliden Farmstead to retrieve my slippers before you happened along. He hasn't returned and I've heard that he may be less than honest. Undeath doesn't change an opportunist it seems. My slippers are in a footlocker at the farmstead. The reports I overheard about Scarlets in the area are the least concerning. The murlocs like anything shiny I've heard and I did keep that footlocker polished up...",
+  },
+  [60110] = {
+    ["T"] = "Githyiss the Vile",
+    ["O"] = "Kill Githyiss the Vile and collect her Venom Sac, she can be found deep inside the Shadowthread Cave.",
+    ["D"] = "It pains me to ask this of you but the brood mother of the Webwood spiders has become increasingly hostile. Her behavior threatens Shadowglen's balance as she mercilessly overhunts the local wildlife... going as far as attacking Iverron when he wandered near the Shadowthread Cave. Bring back her venom sac so that I may further my research. Be careful, her poison is stronger than any of the lesser spiders.",
   },
   [60111] = {
     ["T"] = "A Decisive Blow",
@@ -959,6 +984,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Alanndarian Nightsong in Auberdine has tasked you with the collection on 10 Serpentblooms.",
     ["D"] = "Although your main quest is saving Naralex from the Nightmare, we might learn more about the corruption that befouls the caverns. Its told that a plant named Serpentbloom sprouted inside the caverns after Naralex's fall into eternal slumber, and that they hold the venom of a serpent. I want you to venture into the caverns and bring me 10 of these plants.",
   },
+  [60130] = {
+    ["T"] = "That Dirty Old Ring",
+    ["O"] = "Find a magical expert in Goldshire to examine the Dirty Old Ring.",
+    ["D"] = "Between the webbing of a murloc's fingers, you spot a scuffed ring. Something about it calls out to you to take as if it's more valuable than it appears at first glance. You try to shine it on your armor, but it seems to be getting dirtier with each wipe. This magical ring has more to it than meets the eye. You should find someone with more experience to examine it for you.",
+  },
   [60131] = {
     ["T"] = "Deep Blue Sea",
     ["O"] = "Kill the Sand Shark off Durotar's eastern coast.",
@@ -999,6 +1029,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Objectives: Bring 8 pieces of Rockhide Boar Meat to Eldrin in the Eastvale Logging Camp.",
     ["D"] = "To the nobles of Stormwind, a Paladin is an elite soldier, whose glory comes from deeds on the battlefield. But we who follow the light know better. To the poor of the kingdom, we are often the only source of comfort and aid. It is these simple tasks of assistance and caring that separate a true Paladin from some fool with a cudgel. There is a struggling family in the Eastvale Logging Camp that is in need of help to get through the year. I had hoped to help myself, but I cannot leave Goldshire, not with so many threats around us. If you would aid them in my stead, hunt the Rockhide Boars found south of the road and bring their meat to the logging camp.",
   },
+  [60142] = {
+    ["T"] = "A Change Of Heart",
+    ["O"] = "Bring Tog's Letter to Tormus Deepforge at the Great Forge in Ironforge.",
+    ["D"] = "Hey, $c, may I ask you for a favor? I know I am here with Grimrizz and all his Dark Magic, and this will sound strange but I have always wanted to be a blacksmith. You probably are thinking most Gnomes go for engineering. Since I first laid eyes on the beauty of Ironforge, I dreamt of becoming a blacksmith. The heat emitting from the forge, clanging of hammers to heated metal. The glint of a finely crafted blade, that is the life for me! $c, will you take this letter to Tormus Deepforge for me? It is my application to join the Blacksmith Guild in Ironforge. He is probably near the Great Forge, working with the new Trainees.",
+  },
   [60143] = {
     ["T"] = "Brannol’s Sewing Kit",
     ["O"] = "Recover Brannol's Sewing Kit and return it to him in Dolanaar.",
@@ -1028,6 +1063,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Jasperlode Infestation",
     ["O"] = "Go to the Jasperlode Mine northeast of Goldshire and clear out the spider infestation.",
     ["D"] = "After your scouting mission at the Jasperlode Mine, I've gotten reports that a stray brood of spiders from Duskwood has made the depths of the mine their home while using the kobolds to feed and increase their population. Kobolds, the Defias, and now spiders? We cannot afford to spread out our men thinner than they already are. Go back to the mine and clear out the infestation before they spread all over the forest!",
+  },
+  [70000] = {
+    ["T"] = "A Special Kind of Summons",
+    ["O"] = "Visit Archmage Xylem in Azshara.",
+    ["D"] = "The Mage District is always so quiet, isn't it <name>? Well if you are to ignore that heavily insistent calling to visit the Blue Recluse of course. You have grown into a very capable mage, many whisper your name and some have spread rumors about you. And so it reached a very unlikely fellow, one I would tell you not to approach but after all it is your call to make. Sitting atop his tower in Azshara, there's an Archmage that has heard of your growth and name and wishes to meet you personally. Xylem is known to take in apprentices if they are found worthy enough of his teachings, maybe this has something to do with it. I advise you to be careful, the man is very dangerous. To reach his tower you must find his apprentice, Sanath Lim-yo, he's known to be a very joyful and pleasant elf.",
+  },
+  [70001] = {
+    ["T"] = "Lost to the Sands",
+    ["O"] = "Bring a Perfect Obsidian Shard to Archmage Xylem.",
+    ["D"] = "You are the first I have personally summoned in years, $n, my expectations are quite big. You've probably figured it out by now, I would like you to become my apprentice. But you must prove yourself worthy of my knowledge. Gather your friends and your enemies and venture into the sands! In the Ruined Temple of Ahn'Qiraj a creature that devours magic may be found, its name is Moam, slay it and carve out the piece of obsidian on its forehead. Succeed and I will help you break out from your shell.",
   },
   [70002] = {
     ["T"] = "The Guidance of a Mad Man",
@@ -1314,10 +1359,20 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring Chok'Garok 5 pieces of Moontouched Wood, a Crystal of the Serpent, and an Everchanging Essence from Wailing Caverns.",
     ["D"] = "Ureda sends only worthy mages! Ureda is the worst! <The two heads stare at each other with a surprised look.> We know what you really need as a mage, and we know where to get parts. You bring us parts, and essence too, and we will make you a weapon, yes! Where you get parts? It's in the cave. Barrens! Yes, yes. Wailing Caverns, they call it. Caverns with druids and snakes! Yes. You find us Moontouched Wood, a Crystal of the Serpent, and Everchanging Essence. Yes, the essence! You bring it all to us, and we make it a worthy weapon! Yes, you'll be thankful!",
   },
+  [80315] = {
+    ["T"] = "Apple a Day",
+    ["O"] = "Inspect Applebough and help him grow back his fruit. Speak with a nearby druid to find out Applebough's ailment.",
+    ["D"] = "I've only experienced a few blooms in my time, but this season, things are different. At the ends of my leaves, there are usually pink petals sprouting by now, but instead, my branches are barren! I don't think this is normal. Maybe a druid might know what's wrong with me? They're much older and wiser anyhow.",
+  },
   [80320] = {
     ["T"] = "Burning Bridges",
     ["O"] = "Kill Knobby Tinfault and bring anything he drops back to Miley.",
     ["D"] = "Heya, $C! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
+  },
+  [80350] = {
+    ["T"] = "Etched Rune",
+    ["O"] = "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
+    ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer, Thorgas. Take a gander at it, then go find him inside Anvilmar when you have the chance.",
   },
   [80384] = {
     ["T"] = "Pinch of Salt",
@@ -1389,15 +1444,25 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Talk to Professor Malkovich at the bottom of the Apothecarium in Undercity.",
     ["D"] = "Professor Malkovich is an old friend of mine. He told me to send him someone interested in anatomy.",
   },
-  [70051] = {
-    ["T"] = "Oil-Stained Gold",
-    ["O"] = "Bring 5 Barrels of Oil to Pezzik Villamar in Razor Hill.",
-    ["D"] = "Psst, bub. Come here for a second, will ya? Hey, how you doing today? Listen here, boss. I got myself some lucrative information to share with you. You see, there's these sunken ships, some old Alliance boats that supposedly still got some fuel left in them. They're just sitting there right off the coast. And, ya know, fuel is sort of a valuable commodity for us goblins when it comes to engineering. Anyway, let's get to the point. Bring me whatever you manage to salvage from the shipwrecks and I'll be sure to make it worth your while.",
-  },
   [50002] = {
     ["T"] = "The Human Anatomy",
     ["O"] = "Get rid of the Annoying Peasant and bring his head to Professor Malkovich.",
     ["D"] = "Being an undead for so long has made me forget some things about human anatomy. Since we have an annoying specimen in the room next to us, how about you get rid of him and bring me his head? That way I can study it without him screaming. Don't worry, he's already out of the cage.",
+  },
+  [50003] = {
+    ["T"] = "Professor Papucho",
+    ["O"] = "Talk to Professor Papucho somewhere inside The Forlorn Cavern in Ironforge.",
+    ["D"] = "Professor Papucho is an old friend of mine. He told me to send him someone interested in anatomy. Find him somewhere inside The Forlorn Cavern in Ironforge.",
+  },
+  [50004] = {
+    ["T"] = "The Orcish Anatomy",
+    ["O"] = "Kill the Stupefied Orcish Peon and bring his head to Professor Papucho.",
+    ["D"] = "Pssst… I've got a task for you, $c. Look behind me. I found this drunk orc spyin' around Ironforge and captured him, see? But I want to get a little “creative” with my payback. Bring me his head in good condition and I'll show you somethin' very worth your while.",
+  },
+  [70051] = {
+    ["T"] = "Oil-Stained Gold",
+    ["O"] = "Bring 5 Barrels of Oil to Pezzik Villamar in Razor Hill.",
+    ["D"] = "Psst, bub. Come here for a second, will ya? Hey, how you doing today? Listen here, boss. I got myself some lucrative information to share with you. You see, there's these sunken ships, some old Alliance boats that supposedly still got some fuel left in them. They're just sitting there right off the coast. And, ya know, fuel is sort of a valuable commodity for us goblins when it comes to engineering. Anyway, let's get to the point. Bring me whatever you manage to salvage from the shipwrecks and I'll be sure to make it worth your while.",
   },
   [55048] = {
     ["T"] = "WANTED: Hole Escapee",
@@ -1408,6 +1473,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "KABOOM!",
     ["O"] = "Bring Vanessa Clang 20 Heavy Dynamite.",
     ["D"] = "If there's one thing a goblin is always in need of, it's dynamite! Whether it's used to excavate, blow up enemies, or just to watch things go KABOOM! Anyways, bring me 20 heavy dynamite and I'll be sure to put in a good word for you. Be sure to bring me quality dynamite too. I don't care where you find it either, unless you were to find it off the corpse of a gnome. In that case, be sure to wipe it down with disinfectant before you bring it to me. Gnomes have a characteristically unpleasant odor that I find, quite frankly, to be repulsive.",
+  },
+  [80220] = {
+    ["T"] = "A New Place in Stormwind",
+    ["O"] = "Seek out this High Elven district in Stormwind, look for a blue banner in the outer section of the Dwarven district. Speak to their representative.",
+    ["D"] = "You're a $r right? You aren't the first I've seen around here recently. A lot of your people have arrived and have settled up in Stormwind. In the outer section of the Dwarven district bordering the canal, there is an entrance with the banner of your people, go there and you can meet them should you wish to greet your own folk.",
   },
   [80386] = {
     ["T"] = "A Gizmo a Day...",

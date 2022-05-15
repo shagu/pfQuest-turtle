@@ -30,6 +30,12 @@ pfDB["items"]["data-turtle"] = {
       [65125] = 100.00,
     },
   },
+  -- Flock of Wool
+  [51223] = {
+    ["U"] = {
+      [50610] = 100.00,
+    },
+  },
   -- Elwynn Pumpkin
   [51325] = {
     ["O"] = {
@@ -86,6 +92,12 @@ pfDB["items"]["data-turtle"] = {
       [1000383] = 100.00,
     },
   },
+  -- Githyis's Venom Sac
+  [51815] = {
+    ["U"] = {
+      [1994] = 100.00,
+    },
+  },
   -- Human Blood
   [51822] = {
     ["U"] = {
@@ -103,6 +115,12 @@ pfDB["items"]["data-turtle"] = {
   [51846] = {
     ["U"] = {
       [3293] = 100.00,
+    },
+  },
+  -- Dirty Old Ring
+  [51855] = {
+    ["U"] = {
+      [285] = 20.00,
     },
   },
   -- Sickly Gazelle Flesh Sample
@@ -892,6 +910,12 @@ pfDB["items"]["data-turtle"] = {
       [1000503] = 100.00,
     },
   },
+  -- Perfect Obsidian Shard
+  [83005] = {
+    ["U"] = {
+      [15340] = 100.00,
+    },
+  },
   -- Well Essence
   [83006] = {
     ["U"] = {
@@ -940,6 +964,12 @@ pfDB["items"]["data-turtle"] = {
   [50063] = {
     ["U"] = {
       [50003] = 100.00,
+    },
+  },
+  -- Intact Orc Head
+  [50064] = {
+    ["U"] = {
+      [50005] = 100.00,
     },
   },
   -- Knowledge: Defias Disguise
