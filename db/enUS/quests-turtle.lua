@@ -674,6 +674,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Deliver the Bundle of Enchanted Pelts to Gennia Runetotem.",
     ["D"] = "Through a few simple enchantments, I have turned the pelts into blankets that will protect the tauren's young from the coming elements. Please take this to Gennia as my offering to her village.",
   },
+  [40388] = {
+    ["T"] = "Foreign Threats",
+    ["O"] = "Take the Razormane Orders to Gar'Thok in Razor Hill.",
+    ["D"] = "Opening the envelope reveals the symbol of a large skeletal boar as well as reference to a mighty crone. You recognize some of the names mentioned, but can't place the details. This information could concern more than just Durotar, perhaps Gar'Thok would be interested in it.",
+  },
+  [40389] = {
+    ["T"] = "Zalazane's Fall",
+    ["O"] = "Take Zalazane's Head to Vol'jin in Grommash Hold.",
+    ["D"] = "If you do not need aid from my assistant, perhaps you can do our tribe one last favor. Our chieftain, Vol'jin, remains in Grommash Hold to provide counsel to the Warchief while his heart aches for several losses he has endured since departing Stranglethorn. Take Zalazane's head to Vol'jin and reassure him that his people remain ready to share his burdens.",
+  },
+  [40390] = {
+    ["T"] = "Aggression's End",
+    ["O"] = "Take the head of Warlord Kolkanis to Master Gadrin in Sen'jin Village.",
+    ["D"] = "Through hard fought victory, you stand above the fallen centaur warlord and before the corpse can run cold, you take a trophy as proof of your battle. Someone in Sen'jin Village would be interested in this.",
+  },
+  [40391] = {
+    ["T"] = "A Hunt for Honor",
+    ["O"] = "Take the head of Warlord Kolkanis to Cairne Bloodhoof in Thunder Bluff.",
+    ["D"] = "Our new homeland has suffered greatly from threats of all measure since the founding of Orgrimmar and making our home upon Sen'jin Village, and this major step must be shared with our allies in Thunder Bluff. When we first landed on these shores, we found the Kolkar leading the attack on the tauren and have since learned of their suffering under their raids. With one less threat in Durotar, we can begin to look to our frontiers. Now go, share proof of your great victory with the High Chieftain of Thunder Bluff.",
+  },
   [50230] = {
     ["T"] = "Night's Exploration",
     ["O"] = "Bring a rope from Jaquilina, oil from Booty Bay and a club from around the camp to Nesingwary's Expedition for S. J. Erlgadin.",
@@ -703,6 +723,61 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Higher Stakes",
     ["O"] = "Bring 8 Crocolisk Meat to Cook Torka in Razor Hill.",
     ["D"] = "What now? Ah, it's you again. What eggs? Oh, right. Taillashers. So you want to cook something else besides eggs? I guess I can teach you something. Do you know where the Southfury River ends it's course? This is where you'll have to move. Why? I'm intending to higher the stakes here, whelp! Get me those crocolisk's meat and I'll teach you how to cook it properly! You'll find them all over the river so you better get movin' right away!",
+  },
+  [50310] = {
+    ["T"] = "Goblin Engineering At It's Finest!",
+    ["O"] = "Find Dolores and ride a goblin race car to see if it survives the start at all.",
+    ["D"] = "Ey, kid! Yes, you! I see you're an adventuring type and ready to jump into any fray if only there's one to jump into, right? Just as I thought. What? Of course there's a reward involved, how else could it be around here? It's a Mirage Raceway after all! What to do? Oh, that's so simple, I'm sure that even a gnome would manage to test our jolly vehicle on the sustain for … errh, durability conditions! Yes! So, if you're ready to earn some coins and crack some scorpids flat then you're at the right spot, kid! What helmet? Instruction? Bah! Who needs'em anyway?! Yes, you might want to talk to our charming Dolores to register for the test race, $n. Let's blast it!",
+  },
+  [50311] = {
+    ["T"] = "Mirage Raceway: Goblin's Team",
+    ["O"] = "Find Daisy and complete the lap with best time.",
+    ["D"] = "Oh, so nice you're alive and back in one piece! I had no doubts in you, of course. So you're ready for another run on our goblin engineering masterpiece, eh? Well then if you know the drill you better get ready and take the first place yet again!",
+  },
+  [50312] = {
+    ["T"] = "Gnomes Are Genuine Inventors",
+    ["O"] = "Find Dolores and ride a gnome race car to see if it survives the start at all.",
+    ["D"] = "I am sure that you're very well aware of the fact about us, gnomes, we're the best inventors. Assuming you're striving to improve your skills and knowledge you will eventually be considered to study from us. Obviously, no gnome is that stupid to decline this intriguing and exciting partnership, alas it might be costly sometimes. Speaking shorter; we need someone to compliment our natural resourcefulness of brain activity with their muscle and durability! If you successfully ride this awesome masterpiece of gnomish engineering any other dimwit goblin would simply call a race car then you will be granted an opportunity to represent our bright society of inventors even further in Mirage Races! Cool, right? Well, here's the instructions we've specifically designed for other races for better understanding and comprehension. Yes, you might want to talk to our charming Dolores to register for the test race, $n. Good luck, sentient one!",
+  },
+  [50313] = {
+    ["T"] = "Mirage Raceway: Gnome's Team",
+    ["O"] = "Find Daisy and complete the lap with best time.",
+    ["D"] = "Salutations, sentient one! We're very much satisfied with the results you have achieved with the test drive for our mechanical engineering device and proved to be very useful for providing us so much needed data for analysis.We're ready to allow you continuous partial involvement with our research team and have agreed on supplying you for your efforts. When you're ready to proceed with data gathering be sure to remember the instructions provided and safety measures recommended. Have a great day!",
+  },
+  [50316] = {
+    ["T"] = "Race Against Time!",
+    ["O"] = "Finish the Race with best time and come back to Daisy at Shimmering Flats to collect your reward.",
+    ["D"] = "Hahahah! Did you see their faces?! Simply outstanding job, my friend! Now now, no need to be shy, you did explicitly well and I'm sure you'll be able to do even better with race against time! Pretty simple task. You hop in, press the accelerator and fly away to beat the best lap! Given you don't hit any sheep, lost your track or stopped whatsoever you'll be able to win! Prize? Of course, there are some prizes, of course. Worry not.",
+  },
+  [50318] = {
+    ["T"] = "Bracing The Inevitable",
+    ["O"] = "Bring festive Egg Nog to 15 moonkins to make them warm.",
+    ["D"] = "While it's great we all gather around finely decorated pine here there is a serious trouble coming up for all the wild creatures out there. As you know, the whole ecosystem we live within might be easily corrupted with some species out of the scene to do their part of work everyone is trying to uphold. I'm talking about moonkins. If you're still uninformed then it's crucial we have them saved. What do you mean how?!? Young moonkins will be freezing to death this winter if we don't do someth... I know! Bring them our festive Egg Nog to make'em warm. Hugs will also do but you bring them Egg Nog in the first place! Where you get it? Well, I'm sure there's a recipe we had somewhere nearby…",
+  },
+  [50319] = {
+    ["T"] = "Snowball Wars: Episode I",
+    ["O"] = "The peace was never an option!",
+    ["D"] = "Throw a snowball at player of every listed class during the Feast of Winter Veil.",
+  },
+  [50320] = {
+    ["T"] = "Snowball Wars: Episode II",
+    ["O"] = "The peace was never an option!",
+    ["D"] = "Throw a snowball at player of every listed class during the Feast of Winter Veil.",
+  },
+  [50321] = {
+    ["T"] = "The Icy Menace",
+    ["O"] = "Help Tinsel Lost-Gloves take revenge upon the thieves who have stolen his favorite gloves!",
+    ["D"] = "Tinsel Lost-Gloves am I, my favorite gloves were stolen, oh why can I not cry?! Of the thieves, I have a list of names long, punish them with frozen fury, for they have done wrong! Is this legal, you may ask? I shall make it so, and quite fast! Do this for me, and for you I shall prepare a friendly little tree!",
+  },
+  [50326] = {
+    ["T"] = "Grizzlore Wants Thunder",
+    ["O"] = "Acquire Thunderbrew Lager from Grombooze Thunderbrew in Westfall for Grizzlore.",
+    ["D"] = "Grizzlore - me! I want more booze! <hick!> Thunder… <hick!> …brew! Lager… <hick!> Grimbooze brews it well. You go there. Westfall! <hick!>",
+  },
+  [50328] = {
+    ["T"] = "Jolly Holly Dances Prolly",
+    ["O"] = "Get smashed with Holly and after that /dance with her.",
+    ["D"] = "Hey there, pretty sweet cheeks! Wouldn't you like to have some real fun with jolly Holly right here, my dear? <laughs> Of course you would, I can see that in your eyes right there. But … you do know that there's an ultimate intimate fun is about to follow, don't you? Good sweet brews and drinks! Best way to have some jolly fun with Holly! Now, drink up and do me … a good long sweety dance, my li'l marmelade! Haha!",
   },
   [55000] = {
     ["T"] = "Razlik's Tools",
@@ -943,6 +1018,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Virulence",
     ["O"] = "Apothecary Johaan has asked you to gather 5 Vials of Human Blood from the Tirisfal Farmers located in the Solliden Farmstead.",
     ["D"] = "If my theories are correct, then human blood should react to the plague I'm concocting. While you're out gathering the Murloc scales, go to the Solliden Farmstead and bring blood from the Farmhands and Farmers.",
+  },
+  [60114] = {
+    ["T"] = "The Terror of Chill Breeze",
+    ["O"] = "Tundra MacGrann has asked you to kill Old Icebeard and collect its beard.",
+    ["D"] = "I enjoy camping in this cave, but as long as Old Icebeard makes his home near this area then I'll never be safe from him raiding my food. It would make for a great trophy if you could bring me his beard... not to mention making this place safer.",
   },
   [60115] = {
     ["T"] = "Preventive Strike",
@@ -1369,10 +1449,55 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Kill Knobby Tinfault and bring anything he drops back to Miley.",
     ["D"] = "Heya, $C! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
   },
+  [80330] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Meet Viz Fizbeast in Razor Hill for his guidance on your path.",
+    ["D"] = "Greetings, goblin. It seems your journey to becoming a proper hunter is going well, slowly and surely. We hunters tend to have a pet by our side, yet I hear your kind have some uncommon means to tame one.",
+  },
+  [80331] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Dire Mottled Boar. Practice your skills, then return to Viz Fizbeast in Razor Hill.",
+    ["D"] = "Woah, woah, easy there, champ. Whoever sent you to me knew exactly what they were doing. You know, us goblins don't exactly “get along” with nature, know what I mean? <Viz winks slyly to you.> I'm gonna teach you how a goblin tames a pet. The right way. Take this rod. It has a special collar that I call the “Friend Request”. You put this around their neck and you're done, get me? They'll be yours forever. Let's see you have a go at it, and don't come back without a Dire Mottled Boar because if you do, then you're not worth my time. You'll see they are hanging around just outside of Razor Hill. Not that hard to find. Now, buzz off. I see a customer approaching.",
+  },
+  [80332] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Surf Crawler. Practice your skills, then return the Taming Rod to Viz Fizbeast in Razor Hill.",
+    ["D"] = "Kid, every time you add a pet to your collection, you become stronger, so basically, you gotta teach it that you own it and that means it's being a part of you. We're not the strongest, but we got the biggest brains, you know? And being smart is being strong. Now, for your next mission, you're gonna have to really get your boots wet. This next tool I'm sending you to get really likes water. You're gonna find it across that troll village, you know, Sen'jin? It's near those Echo Isles. You'll be looking for a crab called the Surf Crawler. Do the same thing that you did to the boar. Use the rod and make it your own.",
+  },
+  [80333] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame an Armored Scorpid. Practice your skills, then return the Taming Rod to Thotar in Razor Hill.",
+    ["D"] = "This gonna be the last task I'm giving you, champ. You better be ready, ‘cause if you're not, you won't come back breathing. Our partners, the orcs, call these babies Armored Scorpions. This beast's quick on its tiny feet, and their carapace is light yet durable if that wasn't clear enough when I said “armored”. And they got a deadly sting, so if you get your hands one of these pups, you won't have to worry about getting pushed around anymore, ever. When you get back, I'm gonna show you my skills. Let me tell you, pal, these skills are beyond mad! You will be able to tame whatever beast you want. All you need is the right amount of confidence and animals will eat it up. It won't be long before they'll be treating you as their master. The beasts you tame will grow with you, kid, and you'll become a fearsome duo. I'm gonna also teach you how to call them in or send them out.",
+  },
+  [80334] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Speak with Ormak Grimshot in Orgrimmar.",
+    ["D"] = "One last tip, kid—and I'm adding this to your tab!—but there's an orc in Orgrimmar who goes by the name of Ormak Grimshot. You're gonna talk to him to get the ability to train your beasts. He'll be in the so-called Valley of Honor. Now, buzz off, I'm tired. We'll meet again when I show up at your doorstep to collect what's mine!",
+  },
   [80350] = {
     ["T"] = "Etched Rune",
     ["O"] = "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
     ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer, Thorgas. Take a gander at it, then go find him inside Anvilmar when you have the chance.",
+  },
+  [80380] = {
+    ["T"] = "Lizzi's Competitor",
+    ["O"] = "Help Lizzi to prepare the best barbeque anyone's ever tasted.",
+    ["D"] = "I've got a whole party of people to feed, but one of my rivals cut me off from all of my meat suppliers! Whoever it is must be jealous of my deccadent, fall-off-the-bone ribs and beer-battered seafood supreme. With a name like mine, I have big boots to fill. I'll make sure they regret crossing me by making the best barbeque anyone's ever tasted! What's in it for you? Well, I have a Saltcrabs family secret that I can impart to you. It'll help you turn any venue into a great place for a picnic. Round up all of the little crab and crocolisk families and tell them to say their goodbyes, then bring me their insides The stag meat that I need comes from a few vendors that you'll find on your adventures, and I need some beer for basting. Hurry up, I gotta cook all of this before the party starts!",
+  },
+  [80381] = {
+    ["T"] = "Shellcoins",
+    ["O"] = "Collect 20 Shimmering Shells to jumpstart the Shellcoin economy and return to Elodia.",
+    ["D"] = "Everyone thinks I'm crazy, but I promise in like, 5 years, you'll all be regretting it! I know for a fact that these shells will be a huge part of the new economy even if the so-called “economists” don't believe me. The shimmering shells along the ocean floor, I call them “Shellcoins”, are going to be the next big thing. They all call me a fool for investing, but I'll be filthy rich when the market blows up while they'll be mining for my scraps.",
+  },
+  [80382] = {
+    ["T"] = "VIP Invites",
+    ["O"] = "Deliver Risa's beach party invitations to Gazlowe in Ratchet and Baron Revilgaz in Booty Bay.",
+    ["D"] = "What would a beach party be without a couple of trade princes, huh? I need big names at this event or else it'll be a flop! Put on your fanciest clothes and deliver these special invitations out to Trade Prince Gazlowe in Ratchet and Baron Revilgaz in Booty Bay. If they come, then more will be sure to follow. More bodies at the beach equals more gold lining my pockets, see? I'll give you something real nice in return.",
+  },
+  [80383] = {
+    ["T"] = "Sharks Are Friends, Not Food",
+    ["O"] = "Shoo the shark in the water away from the shore, then return to Toci Flipper.",
+    ["D"] = "Do you see that dorsal fin rising out of the water? That's a shark. It appears to have come too close to the shoreline which is an anomaly for this species. I'm a marine biologist by trade and I've been watching that poor creature for a while now. There could be a number of reasons that it's trapped here, but the goblins want to kill it like a stuck pig! They think it's a threat to people in the water, but it's probably just scared and confused. I can't let that happen. I need you to go into the water and shoo the shark away.",
   },
   [80384] = {
     ["T"] = "Pinch of Salt",
