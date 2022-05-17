@@ -49,4 +49,5 @@ pfDB["objects"]["enUS-turtle"] = {
   [3000242] = "Spirit Pyre",
   [3000280] = "Rosemary",
   [3000284] = "Mysterious Glittering Object",
+  [3000343] = "Shimmering Shell",
 }

@@ -1,4 +1,10 @@
 pfDB["items"]["data-turtle"] = {
+  -- Keg of Thunderbrew Lager
+  [1262] = {
+    ["U"] = {
+      [239] = 100.00,
+    },
+  },
   -- Corrupted Sand
   [50203] = {
     ["U"] = {
@@ -34,6 +40,12 @@ pfDB["items"]["data-turtle"] = {
   [51223] = {
     ["U"] = {
       [50610] = 100.00,
+    },
+  },
+  -- Snow Covered Feather
+  [51248] = {
+    ["U"] = {
+      [50637] = 100.00,
     },
   },
   -- Elwynn Pumpkin
@@ -103,6 +115,12 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [1934] = 100.00,
       [1935] = 100.00,
+    },
+  },
+  -- Old Icebeard's Beard
+  [51823] = {
+    ["U"] = {
+      [1271] = 100.00,
     },
   },
   -- "Squealer" Thornmantle's Mane
@@ -653,6 +671,18 @@ pfDB["items"]["data-turtle"] = {
       [2959] = 100.00,
     },
   },
+  -- Razormane Orders
+  [60520] = {
+    ["U"] = {
+      [60708] = 100.00,
+    },
+  },
+  -- Warlord Kolkanis' Head
+  [60521] = {
+    ["U"] = {
+      [5808] = 100.00,
+    },
+  },
   -- Bog Creature Core
   [70021] = {
     ["U"] = {
@@ -821,6 +851,12 @@ pfDB["items"]["data-turtle"] = {
   [80868] = {
     ["U"] = {
       [80901] = 100.00,
+    },
+  },
+  -- Shimmering Shell
+  [81117] = {
+    ["O"] = {
+      [3000343] = 100.00,
     },
   },
   -- Crab Shell
