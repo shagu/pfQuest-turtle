@@ -4347,7 +4347,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["obj"] = {
       ["IR"] = { 15911 },
-    }
+    },
     ["class"] = 4,
     ["race"] = 64,
     ["lvl"] = 10,
@@ -4364,7 +4364,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["obj"] = {
       ["IR"] = { 15913 },
-    }
+    },
     ["class"] = 4,
     ["race"] = 64,
     ["lvl"] = 10,
@@ -4382,7 +4382,7 @@ pfDB["quests"]["data-turtle"] = {
     },
     ["obj"] = {
       ["IR"] = { 15908 },
-    }
+    },
     ["class"] = 4,
     ["race"] = 64,
     ["lvl"] = 10,
