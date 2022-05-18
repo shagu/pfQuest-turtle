@@ -547,8 +547,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40300] = {
     ["T"] = "A Secret Admirer",
     ["O"] = "Deliver Androl's Package to Shailiea in Stormwind City.",
-    ["D"] = "Hail young $c. Are you by chance aiming to visit the human city of Stormwind? If so, I have a favor to ask. Unlike many of my kinsman I have a great pleasure for fishing, it is very relaxing for someone with so much time like myself. At times I gather clams from waters and they usually contain a pearl as purely white as Elune herself on darkest night, from those I have put together a necklace which I would like you to deliver to Shailiea. For many decades I have liked and courted her. Give her the necklace and tell her it's from her secret admirer. The quickest way to get to Stormwind would be from the Auberdine dock, a boat will take you there, she should reside in the Park. Let me quickly wrap this in a piece of cloth.
-",
+    ["D"] = "Hail young $c. Are you by chance aiming to visit the human city of Stormwind? If so, I have a favor to ask. Unlike many of my kinsman I have a great pleasure for fishing, it is very relaxing for someone with so much time like myself. At times I gather clams from waters and they usually contain a pearl as purely white as Elune herself on darkest night, from those I have put together a necklace which I would like you to deliver to Shailiea. For many decades I have liked and courted her. Give her the necklace and tell her it's from her secret admirer. The quickest way to get to Stormwind would be from the Auberdine dock, a boat will take you there, she should reside in the Park. Let me quickly wrap this in a piece of cloth.",
   },
   [40301] = {
     ["T"] = "Baking Bread",
@@ -920,11 +919,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Slay Mosshide Gnolls and retrieve 10 Mosshide Gnollbands for Gowlfang.",
     ["D"] = "Friends betray Gowlfang because bad-bad leader says to, Mosshide no longer friend of Gowlfang, and Gowlfang kill-kill betrayers! Go to Mosshide Fen, in Wetlands yes yes, make sure they suffer, kill them good-good, hah! Bring me armbands to prove-prove you did good work and did what Gowlfang ask-ask, yes yes!",
   },
-  --[[[55035] = {
+  [55035] = {
     ["T"] = "Hidden-Hidden Reward",
     ["O"] = "Find the Hidden Mosshide Chest and claim its reward.",
     ["D"] = "You did Gowlfang good-good, no other gnoll ever do for me like that before! I give you gift show that Mosshide good gnoll, strong gnolls! I bury-bury chest in hollowed out tree at bottom of dam, should be still there unless someone steal, you find, treasure for you, Gowlfang no need what inside, all for you.",
-  },]]
+  },
   [55036] = {
     ["T"] = "Where's My Yeti Fur?!",
     ["O"] = "Speak with Tarlo Farcrack in Tarren Mill.",
