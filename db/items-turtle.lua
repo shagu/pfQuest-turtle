@@ -659,6 +659,12 @@ pfDB["items"]["data-turtle"] = {
       [91989] = 75.00,
     },
   },
+  -- Grash's Staff
+  [60494] = {
+    ["U"] = {
+      [60630] = 100.00,
+    },
+  },
   -- Head of Chronar
   [60496] = {
     ["U"] = {
@@ -671,6 +677,13 @@ pfDB["items"]["data-turtle"] = {
       [2959] = 100.00,
     },
   },
+  -- Fine Crab Carcass
+  [60516] = {
+    ["U"] = {
+      [2232] = 40.00,
+      [2234] = 10.00,
+    },
+  },
   -- Razormane Orders
   [60520] = {
     ["U"] = {
@@ -681,6 +694,12 @@ pfDB["items"]["data-turtle"] = {
   [60521] = {
     ["U"] = {
       [5808] = 100.00,
+    },
+  },
+  -- Grayson's Pendant
+  [60526] = {
+    ["U"] = {
+      [645] = 100.00,
     },
   },
   -- Bog Creature Core

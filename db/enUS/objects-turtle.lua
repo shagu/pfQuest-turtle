@@ -36,6 +36,7 @@ pfDB["objects"]["enUS-turtle"] = {
   [2010856] = "Melenas' Belongings",
   [2010857] = "Distinct Sword",
   [2010858] = "Naga Chest of Treasure",
+  [2010884] = "Guide to a Sailor's Stomach",
   [3000100] = "FM Acquisition, Blastentom's Property",
   [3000200] = "Bundle of Wood",
   [3000202] = "Well",

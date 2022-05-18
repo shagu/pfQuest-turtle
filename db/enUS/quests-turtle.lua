@@ -544,6 +544,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring 5 Chunks of Boar Meat, 3 Mutton Chops and 1 Bone Chew Toy to Bristlefur in Razor Hill.",
     ["D"] = "The wyvern are native to Kalimdor and they can be found throughout several Horde lands. They have proven to be loyal companions for our wind riders. I remember the days when we first ensued the help of these beautiful creatures, in truth they have been gifts from the Earthmother to tighten the bond between the Tauren tribes and the Orcs that followed Thrall, it's not an exaggeration to say that without them the Horde wouldn't be where they are today. Bristlefur here is already tame, it will not attack you so let that thought go away. The truth is the poor girl seems to be bored and it also acts like hunger might be overwhelming her, and there might be the fact I did forget her favourite chewing bone back in Thunder Bluff. If you have the time, young $R, I am more than sure she will take you to the skies if you were to find her a new toy and some food to sate her hunger.",
   },
+  [40300] = {
+    ["T"] = "A Secret Admirer",
+    ["O"] = "Deliver Androl's Package to Shailiea in Stormwind City.",
+    ["D"] = "Hail young $c. Are you by chance aiming to visit the human city of Stormwind? If so, I have a favor to ask. Unlike many of my kinsman I have a great pleasure for fishing, it is very relaxing for someone with so much time like myself. At times I gather clams from waters and they usually contain a pearl as purely white as Elune herself on darkest night, from those I have put together a necklace which I would like you to deliver to Shailiea. For many decades I have liked and courted her. Give her the necklace and tell her it's from her secret admirer. The quickest way to get to Stormwind would be from the Auberdine dock, a boat will take you there, she should reside in the Park. Let me quickly wrap this in a piece of cloth.",
+  },
   [40301] = {
     ["T"] = "Baking Bread",
     ["O"] = "Deliver the Sack of Flour to Innkeeper Gryshka in Orgrimmar.",
@@ -639,6 +644,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
     ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
   },
+  [40338] = {
+    ["T"] = "The Azurestone",
+    ["O"] = "Speak with Tholdan Mountainheart, and listen to the tale of the Azurestone.",
+    ["D"] = "Another of our kin, I take it you are coming here to seek your true purpose upon this world, or you have come to pay your tributes to this old group. The Azurestone Order is as old as Ironforge itself, and has its roots upon the building of our mighty city. If you wish to join our order, and learn our lessons, you will need to first listen to the tale of the Azurestone.",
+  },
+  [40339] = {
+    ["T"] = "The Azurestone Order",
+    ["O"] = "Slay Grash and bring his staff to Tholdan Mountainheart in Ironforge.",
+    ["D"] = "The Azurestone Order is as old as this city, it is on the shoulders of brave dwarves that it has managed to survive so long. A test of bravery is in order to prove that you are as strong willed as those who have come before you. To the southeast is the Gol'Bolar Quarry, recently infested with troggs, and led by a vile trogg named Grash who uses primitive magic to lead his minions. Travel there, and from him gather his staff. If you manage to slay him, it will no doubt be a showing of both your bravery, and your natural prowess with the arcane gift.",
+  },
   [40340] = {
     ["T"] = "Corrupted Sand",
     ["O"] = "Collect a Corrupted Sand for Dronormu in the Caverns of Time.",
@@ -674,6 +689,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Deliver the Bundle of Enchanted Pelts to Gennia Runetotem.",
     ["D"] = "Through a few simple enchantments, I have turned the pelts into blankets that will protect the tauren's young from the coming elements. Please take this to Gennia as my offering to her village.",
   },
+  [40369] = {
+    ["T"] = "Further Studies",
+    ["O"] = "Gather 10 Crustacean Carcasses from crabs in Darkshore, then return to Nessa Shadowsong in Rut'theran Village.",
+    ["D"] = "Fascinating... I wonder if such changes may cause other creatures in the food chain to be affected. I think it is a matter worth studying further! But for that I would need samples of something larger... Ah, crabs! Yes. I believe we could find something new if we study those crustaceans.",
+  },
   [40388] = {
     ["T"] = "Foreign Threats",
     ["O"] = "Take the Razormane Orders to Gar'Thok in Razor Hill.",
@@ -693,6 +713,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A Hunt for Honor",
     ["O"] = "Take the head of Warlord Kolkanis to Cairne Bloodhoof in Thunder Bluff.",
     ["D"] = "Our new homeland has suffered greatly from threats of all measure since the founding of Orgrimmar and making our home upon Sen'jin Village, and this major step must be shared with our allies in Thunder Bluff. When we first landed on these shores, we found the Kolkar leading the attack on the tauren and have since learned of their suffering under their raids. With one less threat in Durotar, we can begin to look to our frontiers. Now go, share proof of your great victory with the High Chieftain of Thunder Bluff.",
+  },
+  [40395] = {
+    ["T"] = "Food for Sailing Thoughts?",
+    ["O"] = "Find the owner of the book.",
+    ["D"] = "You find this book in an awful condition. After some inspection, you make out the title of the book: Guide to a Sailor's Stomach. It seems the book had been soaked wet and was left to dry in the sun, one can imagine that after realizing the book can no longer be read it had been abandoned by its owner. As you check the end of the book you squint your eyes over the gibberish in front, only for a name to come up in your mind - a familiar name at that: Grayson.",
+  },
+  [40396] = {
+    ["T"] = "Captain Grayson's Revenge",
+    ["O"] = "End Cookie.",
+    ["D"] = "This is Cookie's cookbook, it's how I taught him to understand our tongue and how to make a somewhat decent meal. I tell you, I am not sure if it’s because he's a Murloc or not but he barely has a taste for flavor. I am getting off the sails here. The night the ship sank, Cookie fled, leaving all of us to perish. I almost forgot! I guess my mind gets foggy nowadays, not that I still have a working brain or a consciousness, mind you. That motherless Murloc must pay for this bloody mutiny. Bring me proof of his death and I will reward you handsomely Perhaps I will even be able to move on...",
   },
   [50230] = {
     ["T"] = "Night's Exploration",
@@ -889,11 +919,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Slay Mosshide Gnolls and retrieve 10 Mosshide Gnollbands for Gowlfang.",
     ["D"] = "Friends betray Gowlfang because bad-bad leader says to, Mosshide no longer friend of Gowlfang, and Gowlfang kill-kill betrayers! Go to Mosshide Fen, in Wetlands yes yes, make sure they suffer, kill them good-good, hah! Bring me armbands to prove-prove you did good work and did what Gowlfang ask-ask, yes yes!",
   },
-  --[[[55035] = {
+  [55035] = {
     ["T"] = "Hidden-Hidden Reward",
     ["O"] = "Find the Hidden Mosshide Chest and claim its reward.",
     ["D"] = "You did Gowlfang good-good, no other gnoll ever do for me like that before! I give you gift show that Mosshide good gnoll, strong gnolls! I bury-bury chest in hollowed out tree at bottom of dam, should be still there unless someone steal, you find, treasure for you, Gowlfang no need what inside, all for you.",
-  },]]
+  },
   [55036] = {
     ["T"] = "Where's My Yeti Fur?!",
     ["O"] = "Speak with Tarlo Farcrack in Tarren Mill.",
@@ -963,6 +993,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Wool Would Work",
     ["O"] = "Gather 20 bundles of wool off the sheep in Elwynn Forest and bring them back to Julie Osworth.",
     ["D"] = "My ma used to make a mean set of mittens that warmed us up in the chillier months. Each day gets a little colder without her, but she taught me everything she knew about making woolen garments. As you can see, the farm's been losing sheep left and right. There's plenty out in the forest though, but it's too dangerous for me. Papa can't lose me and Ma both—then he'd be stuck with poor ol' Lulu. Gather a few bundles of wool so that I can make Papa warm clothes for the season, and I'll craft up a lil' something for you, too.",
+  },
+  [60030] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Bring 5 Line Cloth, 5 Light Leather, 5 Malachite and 5 Small Leather Collar to the fashionista's apprentice and receive one Fashion Coin as a reward.",
+    ["D"] = "Greetings! Aren't you here for some Fashion Coins exchange? Well then, one will cost you some materials. Here's what we need at the moment... I need all the items on the list and not a single one of it less. Make sure they aren't damaged or chipped… I'm not a goblin to meddle with.",
   },
   [60040] = {
     ["T"] = "Delicious Pumpkin Pie",
@@ -1474,10 +1509,40 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Speak with Ormak Grimshot in Orgrimmar.",
     ["D"] = "One last tip, kid—and I'm adding this to your tab!—but there's an orc in Orgrimmar who goes by the name of Ormak Grimshot. You're gonna talk to him to get the ability to train your beasts. He'll be in the so-called Valley of Honor. Now, buzz off, I'm tired. We'll meet again when I show up at your doorstep to collect what's mine!",
   },
+  [80339] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Speak with Clover Spinpistol in Kharanos.",
+    ["D"] = "Hello, young hunter. You look to me like you are skilled enough to handle a beast and train it as your companion. Normally, I'd send you to Grif Wildheart, but I believe you need the help of one of your own kin. Clover Spinpistol in Kharanos should be able to help ya.",
+  },
+  [80340] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Large Crag Boar. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "I am Clover Spinpistol, Mountaineer Sniper. We're good shots, but unfortunately, as you may have noticed, we're not too sturdy if something comes up close. But that won't be a problem anymore! Instead, we can have a beast take the hits for us! Tinker Town recently had an amazing scientific breakthrough that I am ready to share with you. Tell you what, as an investment into retaking Gnomeregan, I'll teach you how to use a patented G.N.O.E.M.R Taming rod. Take this and try to use it on a Large Crag Boar. Make sure it's large!",
+  },
+  [80341] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Snow Leopard. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "Haha. My, that boar is quite a bulky one isn't it? I bet you'd want something more suited to a gnome, right? What about a quick-thinking, beautiful snow leopard? To both the south and east of here, you can find them. I've recharged your taming rod, so get out there and grab one! Watch out, though. They're far more feisty than that boar!",
+  },
+  [80342] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame an Ice Claw Bear. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "One thing you should know is that both the boar and the leopard are offensive pets, but they leave a little to be desired in defensive capabilities. Surely, our ranged weapons can pop ANY enemy with ease! What we need is something to keep them busy. Hmm… I've got it! The Ice Claw Bear is sturdy, and when facing a huge bear, who would choose to go after a tiny gnome? It can be found east of Kharanos. You have enough skill from the other two to bring one back here for me, right? Once you're done, I'll give you access to the Taming Rod so you can tame your own pet!",
+  },
+  [80343] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Speak with Belia Thundergranite in Ironforge.",
+    ["D"] = "$n, now that you've got your rod and all, you can get a companion to help advance the cause of gnomekind! However, taming these pets isn't enough. They also need training. Sadly, I cannot train your pet for you. Even though my mentorship of you has gone well, your pet is a different case. For your pet, you need to find someone else. Go to Ironforge and locate Belia Thundergranite in the Hall of Arms. She should be able to help you out. Tell her I sent you. Good luck!",
+  },
   [80350] = {
     ["T"] = "Etched Rune",
     ["O"] = "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
     ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer, Thorgas. Take a gander at it, then go find him inside Anvilmar when you have the chance.",
+  },
+  [80366] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Speak with Grif Wildheart in Kharanos.",
+    ["D"] = "Hello, young ranger, you appear to be doing well! Our people struggles but we must endure, we must become more able than we were before. We Rangers were trained to protect Quel'thalas and its forests, but now we have to operate in entirely new environments. I believe we should look to the techniques of our allies in order to improve what remains of the Ranger Corps. There is a dwarf in Dun Morogh called Grif Wildheart, he is said to be able to bend beasts to his will, such a technique would be useful to you, see if you can learn it from him.",
   },
   [80380] = {
     ["T"] = "Lizzi's Competitor",
@@ -1603,6 +1668,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "A New Place in Stormwind",
     ["O"] = "Seek out this High Elven district in Stormwind, look for a blue banner in the outer section of the Dwarven district. Speak to their representative.",
     ["D"] = "You're a $r right? You aren't the first I've seen around here recently. A lot of your people have arrived and have settled up in Stormwind. In the outer section of the Dwarven district bordering the canal, there is an entrance with the banner of your people, go there and you can meet them should you wish to greet your own folk.",
+  },
+  [80250] = {
+    ["T"] = "Assisting the Children of the Sun",
+    ["O"] = "Speak to Caledra Dawnbreeze in Stormwind Keep.",
+    ["D"] = "Bal'a dash, malanore, $r! I represent a group of my people who seek to restore our former glory. We seek to settle a new home for us and your assistance would be more than welcome. When you have the time, journey to Stormwind and speak to Caledra Dawnbreeze in the Stormwind Keep. Trust that you will be well compensated for your aid!",
+  },
+  [80251] = {
+    ["T"] = "To Alah'Thalas!",
+    ["O"] = "Speak to Elsharin, she can be found beyond the portal in the Mage Tower in Stormwind.",
+    ["D"] = "Now that you know what we're dealing with and our history... The time has come to act. If you're truly interested in helping us, then this is the way. One of our most talented mages has established a leyline connection to Alah'thalas. Go to the Mage Tower in the Mage District, and speak to Elsharin. She will be able to take you there, once you arrive I am sure someone will tend to you.",
   },
   [80386] = {
     ["T"] = "A Gizmo a Day...",

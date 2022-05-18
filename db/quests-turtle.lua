@@ -1704,6 +1704,18 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 10,
     ["min"] = 5,
   },
+  -- A Secret Admirer
+  [40300] = {
+    ["start"] = {
+      ["U"] = { 3607 },
+    },
+    ["end"] = {
+      ["U"] = { 7295 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 12,
+    ["min"] = 10,
+  },
   -- Baking Bread
   [40301] = {
     ["start"] = {
@@ -1998,6 +2010,35 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 11,
     ["pre"] = { 40318, 40319 },
   },
+  -- The Azurestone
+  [40338] = {
+    ["start"] = {
+      ["U"] = { 60629 },
+    },
+    ["end"] = {
+      ["U"] = { 60629 },
+    },
+    ["class"] = 128,
+    ["race"] = 4,
+    ["lvl"] = 12,
+    ["min"] = 10,
+  },
+  -- The Azurestone Order
+  [40339] = {
+    ["start"] = {
+      ["U"] = { 60629 },
+    },
+    ["end"] = {
+      ["U"] = { 60629 },
+    },
+    ["obj"] = {
+      ["I"] = { 60494 },
+    },
+    ["class"] = 128,
+    ["race"] = 4,
+    ["lvl"] = 12,
+    ["min"] = 10,
+  },
   -- Corrupted Sand
   [40340] = {
     ["start"] = {
@@ -2100,6 +2141,22 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 8,
     ["pre"] = { 40363, 40364, 40365 },
   },
+  -- Further Studies
+  [40369] = {
+    ["start"] = {
+      ["U"] = { 10118 },
+    },
+    ["end"] = {
+      ["U"] = { 10118 },
+    },
+    ["obj"] = {
+      ["I"] = { 60516 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["pre"] = { 6343 },
+  },
   -- Foreign Threats
   [40388] = {
     ["start"] = {
@@ -2159,6 +2216,32 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 10,
     ["min"] = 7,
     ["pre"] = { 40390 },
+  },
+  -- Food for Sailing Thoughts?
+  [40395] = {
+    ["start"] = {
+      ["O"] = { 2010884 },
+    },
+    ["end"] = {
+      ["U"] = { 392 },
+    },
+    ["lvl"] = 20,
+    ["min"] = 15,
+    ["next"] = { 40396 },
+  },
+  -- Captain Grayson's Revenge
+  [40396] = {
+    ["start"] = {
+      ["O"] = { 392 },
+    },
+    ["end"] = {
+      ["U"] = { 392 },
+    },
+    ["obj"] = {
+      ["I"] = { 60526 },
+    },
+    ["lvl"] = 22,
+    ["min"] = 15,
   },
   -- Night's Exploration
   [50230] = {
@@ -2958,6 +3041,20 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 8,
     ["min"] = 6,
     ["pre"] = { 60005 },
+  },
+  -- Fashion Demands Sacrifices
+  [60030] = {
+    ["start"] = {
+      ["U"] = { 51292 },
+    },
+    ["end"] = {
+      ["U"] = { 51293 },
+    },
+    ["obj"] = {
+      ["I"] = { 2589, 2318, 774, 4813 },
+    },
+    ["lvl"] = 10,
+    ["min"] = 10,
   },
   -- Delicious Pumpkin Pie
   [60040] = {
@@ -4227,6 +4324,86 @@ pfDB["quests"]["data-turtle"] = {
     ["min"] = 10,
     ["pre"] = { 80333 },
   },
+  -- The Hunter's Path
+  [80339] = {
+    ["start"] = {
+      ["U"] = { 5515, 5116, 5117, 895 },
+    },
+    ["end"] = {
+      ["U"] = { 80855 },
+    },
+    ["class"] = 64,
+    ["race"] = 77,
+    ["lvl"] = 10,
+    ["min"] = 10,
+  },
+  -- Taming the Beast
+  [80340] = {
+    ["start"] = {
+      ["U"] = { 80855 },
+    },
+    ["end"] = {
+      ["U"] = { 80855 },
+    },
+    ["obj"] = {
+      ["IR"] = { 15911 },
+    },
+    ["class"] = 4,
+    ["race"] = 64,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["next"] = { 80341 },
+  },
+  -- Taming the Beast
+  [80341] = {
+    ["start"] = {
+      ["U"] = { 80855 },
+    },
+    ["end"] = {
+      ["U"] = { 80855 },
+    },
+    ["obj"] = {
+      ["IR"] = { 15913 },
+    },
+    ["class"] = 4,
+    ["race"] = 64,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["pre"] = { 80340 },
+    ["next"] = { 80342 },
+  },
+  -- Taming the Beast
+  [80342] = {
+    ["start"] = {
+      ["U"] = { 80855 },
+    },
+    ["end"] = {
+      ["U"] = { 80855 },
+    },
+    ["obj"] = {
+      ["IR"] = { 15908 },
+    },
+    ["class"] = 4,
+    ["race"] = 64,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["pre"] = { 80341 },
+    ["next"] = { 80343 },
+  },
+  -- Training the Beast
+  [80343] = {
+    ["start"] = {
+      ["U"] = { 80855 },
+    },
+    ["end"] = {
+      ["U"] = { 10090 },
+    },
+    ["class"] = 4,
+    ["race"] = 64,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["pre"] = { 80342 },
+  },
   -- Etched Rune
   [80350] = {
     ["start"] = {
@@ -4240,6 +4417,19 @@ pfDB["quests"]["data-turtle"] = {
     ["lvl"] = 1,
     ["min"] = 1,
     ["pre"] = { 179 },
+  },
+  -- The Hunter's Path
+  [80366] = {
+    ["start"] = {
+      ["U"] = { 80458 },
+    },
+    ["end"] = {
+      ["U"] = { 1231 },
+    },
+    ["class"] = 4,
+    ["race"] = 77,
+    ["lvl"] = 10,
+    ["min"] = 10,
   },
   -- Lizzi's Competitor
   [80380] = {
@@ -4858,6 +5048,33 @@ pfDB["quests"]["data-turtle"] = {
     ["race"] = 77,
     ["lvl"] = 5,
     ["min"] = 5,
+  },
+  -- Assisting the Children of the Sun
+  [80250] = {
+    ["start"] = {
+      ["U"] = { 80230 },
+    },
+    ["end"] = {
+      ["U"] = { 1752 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["next"] = { 80251 },
+  },
+  -- To Alah'Thalas!
+  [80251] = {
+    ["start"] = {
+      ["U"] = { 1752 },
+    },
+    ["end"] = {
+      ["U"] = { 5498 },
+    },
+    ["race"] = 77,
+    ["lvl"] = 10,
+    ["min"] = 10,
+    ["pre"] = { 80250 },
+    ["next"] = { 80252, 80253, 80256, 80258 },
   },
   -- A Gizmo a Day...
   [80386] = {

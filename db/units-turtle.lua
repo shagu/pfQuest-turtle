@@ -275,6 +275,22 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 41.0, 63.4, 12, 0 },
     },
   },
+  -- Ophelia Worthington
+  [51292] = {
+    ["fac"] = "A",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 58.1, 66.1, 1519, 0 },
+    },
+  },
+  -- Zora
+  [51293] = {
+    ["fac"] = "H",
+    ["lvl"] = "35",
+    ["coords"] = {
+      [1] = { 46.0, 6.4, 14, 0 },
+    },
+  },
   -- add Throw a coin to the fountain
   [51301] = {
     ["fac"] = "AH",
@@ -611,6 +627,21 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "55",
     ["coords"] = {
       [1]= { 59.2, 60.1, 440, 0 },
+    },
+  },
+  -- add Tholdan Mountainheart
+  [60629] = {
+    ["fac"] = "A",
+    ["lvl"] = "40",
+    ["coords"] = {
+      [1] = { 27.2, 7.3, 1537, 0 },
+    },
+  },
+  -- add Grash
+  [60630] = {
+    ["lvl"] = "12",
+    ["coords"] = {
+      [1] = { 70.0, 53.5, 1, 0 },
     },
   },
   -- Kheyna Spinpistol
@@ -974,12 +1005,30 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 83.4, 63.4, 38, 0 },
     },
   },
+  -- High Elf Ranger
+  [80230] = {
+    ["fac"] = "A",
+    ["lvl"] = "46-47",
+    ["coords"] = {
+      [1] = { 43.0, 66.3, 12, 0 },
+      [2] = { 56.3, 63.2, 1519, 0 },
+      [3] = { 29.9, 59.5, 1537, 0 },
+    },
+  },
   -- Illyanah Dawnstar
   [80405] = {
     ["fac"] = "A",
     ["lvl"] = "36",
     ["coords"] = {
       [1] = { 57.2, 27.9, 1519, 0 },
+    },
+  },
+  -- add Ranger Canarah Kim'Alah
+  [80458] = {
+    ["fac"] = "A",
+    ["lvl"] = "63",
+    ["coords"] = {
+      [1] = { 58.8, 27.0, 1519, 0 },
     },
   },
   -- Applebough
@@ -1056,6 +1105,13 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "10",
     ["coords"] = {
       [1] = { 62.4, 10.8, 17, 0 },
+    },
+  },
+  -- add Clover Spinpistol
+  [80855] = {
+    ["lvl"] = "8",
+    ["coords"] = {
+      [1] = { 46.7, 53.9, 1, 0 },
     },
   },
   -- Ureda
