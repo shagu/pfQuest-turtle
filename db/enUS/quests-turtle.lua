@@ -467,7 +467,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40283] = {
     ["T"] = "Azsharan Front",
     ["O"] = "Slay 6 Lingering Highborne, 10 Spitelash Serpent Guard, and 8 Spitelash Siren for Dag'grak Bloodfist at Bloodfist Point in Azshara.",
-    ["D"] = "It may not look like it, <class>, but we are in middle of a warzone. Highborne ghosts that linger in the forests clash with the Naga, for reasons I don't understand, and I don't want to.n One thing I know, that they are a danger for our outpost. They may be fighting each other for now, but it won't last forever. We should strike now, when they are weak.n Go to Ruins of Eldranath. Kill the Naga, eliminate the Highborne. Show them, that Bloodfist Point is to be reckoned with.",
+    ["D"] = "It may not look like it, $c, but we are in middle of a warzone. Highborne ghosts that linger in the forests clash with the Naga, for reasons I don't understand, and I don't want to.n One thing I know, that they are a danger for our outpost. They may be fighting each other for now, but it won't last forever. We should strike now, when they are weak.n Go to Ruins of Eldranath. Kill the Naga, eliminate the Highborne. Show them, that Bloodfist Point is to be reckoned with.",
   },
   [40284] = {
     ["T"] = "Blood and Glory!",
@@ -482,7 +482,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40286] = {
     ["T"] = "The Search for the Blade",
     ["O"] = "Search for the sword that could have belonged to a fallen Blademaster inside the Temple of Arrkoran.",
-    ["D"] = "The Temple of Arrkoran... <Katokar would seem almost distant for a moment as his mind thought>. This must be the place <name>, it must be. I have no other leads, venture deep within the Temple, and seek out his blade, if it is anywhere, then it must be there. You can find this temple far to the south east, it is massive, and cannot be missed. Be careful in your searching, I am sure a terrible evil lurks inside.",
+    ["D"] = "The Temple of Arrkoran... <Katokar would seem almost distant for a moment as his mind thought>. This must be the place $N, it must be. I have no other leads, venture deep within the Temple, and seek out his blade, if it is anywhere, then it must be there. You can find this temple far to the south east, it is massive, and cannot be missed. Be careful in your searching, I am sure a terrible evil lurks inside.",
   },
   [40287] = {
     ["T"] = "The Search for the Edge",
@@ -512,12 +512,12 @@ pfDB["quests"]["enUS-turtle"] = {
   [40292] = {
     ["T"] = "Disturbance in the Air",
     ["O"] = "Gather 5 Mosshorn Antlers and 12 Highborne Essences for Farseer Yhargosh at Bloodfist Point in Azshara.",
-    ["D"] = "Hail, <class>, do you feel it? The magic, crackling around us, ever powerful, even after thousands of years. This place used to be Zin-Azshari, capital of the Night Elf Empire. Now, its nothing more than a wasteland, occupied by the Naga or even more sinister forces. However, I had a vision, great disturbance comes to this place, and if we do not stop it, the consequences will be... dire. Unfortunately, my vision was unclear, enveloped in the mists. I need to enter a shamanistic trance to see clearly. Yet, I lack proper ingredients to enter such a state. I would gather them myself, but I cannot leave the outpost for now. I dont need much, only Mosshorn Antlers to pulverize, and a dozen Highborne Essence from the Highborne spirits.",
+    ["D"] = "Hail, $c, do you feel it? The magic, crackling around us, ever powerful, even after thousands of years. This place used to be Zin-Azshari, capital of the Night Elf Empire. Now, its nothing more than a wasteland, occupied by the Naga or even more sinister forces. However, I had a vision, great disturbance comes to this place, and if we do not stop it, the consequences will be... dire. Unfortunately, my vision was unclear, enveloped in the mists. I need to enter a shamanistic trance to see clearly. Yet, I lack proper ingredients to enter such a state. I would gather them myself, but I cannot leave the outpost for now. I dont need much, only Mosshorn Antlers to pulverize, and a dozen Highborne Essence from the Highborne spirits.",
   },
   [40293] = {
     ["T"] = "Ritual of the Farseer",
     ["O"] = "Wait until Farseer Yharg'osh finishes the ritual.",
-    ["D"] = "I am ready, <class>. Let us go outside to commune with the spirits.",
+    ["D"] = "I am ready, $c. Let us go outside to commune with the spirits.",
   },
   [40294] = {
     ["T"] = "Dragons of Azshara?",
@@ -527,7 +527,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [40295] = {
     ["T"] = "Mystery of Lake Mennar",
     ["O"] = "Scout Lake Mennar.",
-    ["D"] = "We came to Azshara to heal these lands from remnants of the Legion's corruption. What we found here however, was different than expected. You see, young <race>, demonic corruption is not the biggest problem here. The land cries out for help. Some kind of evil forces have settled near Lake Mennar. They drain the very essence of the Earth, consuming magic and nature alike. Nagas or satyrs are not that powerful, they could not do that. Blue Dragonfilght, on the other hand.n Please, go and see what is happening at Lake Mennar, the future of Azshara may be in your hands.",
+    ["D"] = "We came to Azshara to heal these lands from remnants of the Legion's corruption. What we found here however, was different than expected. You see, young $r, demonic corruption is not the biggest problem here. The land cries out for help. Some kind of evil forces have settled near Lake Mennar. They drain the very essence of the Earth, consuming magic and nature alike. Nagas or satyrs are not that powerful, they could not do that. Blue Dragonfilght, on the other hand.n Please, go and see what is happening at Lake Mennar, the future of Azshara may be in your hands.",
   },
   [40296] = {
     ["T"] = "Report to the Archdruid",
@@ -544,6 +544,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring 5 Chunks of Boar Meat, 3 Mutton Chops and 1 Bone Chew Toy to Bristlefur in Razor Hill.",
     ["D"] = "The wyvern are native to Kalimdor and they can be found throughout several Horde lands. They have proven to be loyal companions for our wind riders. I remember the days when we first ensued the help of these beautiful creatures, in truth they have been gifts from the Earthmother to tighten the bond between the Tauren tribes and the Orcs that followed Thrall, it's not an exaggeration to say that without them the Horde wouldn't be where they are today. Bristlefur here is already tame, it will not attack you so let that thought go away. The truth is the poor girl seems to be bored and it also acts like hunger might be overwhelming her, and there might be the fact I did forget her favourite chewing bone back in Thunder Bluff. If you have the time, young $R, I am more than sure she will take you to the skies if you were to find her a new toy and some food to sate her hunger.",
   },
+  [40300] = {
+    ["T"] = "A Secret Admirer",
+    ["O"] = "Deliver Androl's Package to Shailiea in Stormwind City.",
+    ["D"] = "Hail young $c. Are you by chance aiming to visit the human city of Stormwind? If so, I have a favor to ask. Unlike many of my kinsman I have a great pleasure for fishing, it is very relaxing for someone with so much time like myself. At times I gather clams from waters and they usually contain a pearl as purely white as Elune herself on darkest night, from those I have put together a necklace which I would like you to deliver to Shailiea. For many decades I have liked and courted her. Give her the necklace and tell her it's from her secret admirer. The quickest way to get to Stormwind would be from the Auberdine dock, a boat will take you there, she should reside in the Park. Let me quickly wrap this in a piece of cloth.",
+  },
   [40301] = {
     ["T"] = "Baking Bread",
     ["O"] = "Deliver the Sack of Flour to Innkeeper Gryshka in Orgrimmar.",
@@ -553,6 +558,76 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Torta's Egg",
     ["O"] = "Find Torta's Egg in Zoram Strand.",
     ["D"] = "Hello there adventurer! As you may know the Darkmoon Faire moves from Kalimdor to Eastern Kingdoms each week. In fact we are able to move through most cities without the faction barrier. With the new boat from Darkshore to Stormwind we have drastically changed our route. To quickly be done with the explanation, this week we camped close to Zoram's Strand at night before reaching Darkshore, and one of those Nagas stole a very precious gift I once got in Tanaris! Ah yes, it was in my days of searching for wonders and mystery that I found a curious turtle close to the shores, her name was Torta, and she could speak! Imagine, a speaking turtle, how marvelous! She asked me to find her husband, Tooga. Apparently he got lost a lot, but he also was able to speak! Never in my life have I seen such a thing. But sadly they didn't wish to join the Faire, however Torta offered me one of her eggs and that's the precious gift I am talking about, I think it was about to hatch too. Please, bring back my egg.",
+  },
+  [40304] = {
+    ["T"] = "The Depths of Karazhan I",
+    ["O"] = "Search for the Pendant of Ardan, rumored to be held by the ogre Var'zhog, collect it, and return to Kor'gan in Stonard.",
+    ["D"] = "I have been sent by a council of mages from Orgrimmar to look into the growing power that emits from Karazhan. I have done much research into the tower itself and the artifacts that once belonged in the ruins around it. I have some hunches, the first of which is that the energy that me, and the other mages have felt is coming from beneath Karazhan. In an old, and decrepid series of catacombs underneath the tower. If I am correct, then we will need an old Pendant which holds power enough to re-energize a key created by Medivh. This artifact is known as the Pendant of Ardan, thought lost for some years now. My only hint is that of the ogres of Deadwind Pass, of which, their leader Var'zhog has begun to exhibit magical prowess. Find Var'zhog, and from him, reclaim the Pendant of Ardan.",
+  },
+  [40305] = {
+    ["T"] = "The Depths of Karazhan II",
+    ["O"] = "Gather 8 Ghostly Substance from the ghosts around Karazhan, and return to Kor'gan at Stonard.",
+    ["D"] = "With the Pendant of Ardan in our hands we can turn our attention to the tower itself, and what magic has begun to raise more ghosts around it. As of recently, the dead have begun to materialize, spirits and echoes of the past clinging around the tower as if they were still alive. Travel to the ruins around Karazhan, and from the ghosts and dead bring me 8 Ghostly Substance. It is from this substance I will be able to check what magic lingers upon the ethereal beings. Be careful, for there are also rumors of a Dark Reaver who guards the entrance to Karazhan.",
+  },
+  [40306] = {
+    ["T"] = "The Depths of Karazhan III",
+    ["O"] = "Bring Kor'gan's Crate to Gunther Arcanus at Brightwater Lake.",
+    ["D"] = "<A look of annoyance would cover Kor'gan as his attempts to study the Ghostly Substance fail>. It would appear that what we are dealing with is beyond my power, it is intense in arcane energy, with something else that is not familiar to me... There is one I know who may be of assistance, who was a member of the Kirin Tor in life, his name is Gunther Arcanus. He lives within the center of Brightwater Lake in Tirisfal Glades, just northeast of Brill. With his knowledge within Dalaran, perhaps he can be of more assistance, seek him out and give him this crate.",
+  },
+  [40307] = {
+    ["T"] = "The Depths of Karazhan IV",
+    ["O"] = "Return to Kor'gan in Stonard with the information given by Gunther Arcanus.",
+    ["D"] = "My my... Such potent energy, I had always guessed that Karazhan had natural ley energy, infact it was rumored within Dalaran. Kor'gan was correct to bring these samples to me, they will make good for future projects. The energy that lingers beneath the arcane is that of necromancy, and quite potent necromancy at that. Long ago I spent quite some time at Karazhan, I was under mission from the Kirin Tor to look into the natural energy that lingered there. This is no doubt the work of Alarus, a student of Medivh for a brief period of time, he spent much of his later days attending to the Crypts that stretched far beneath the tower. If your task is to enter those catacombs, you will need to reforge the key. It requires a Mark of Karazhan, held by few who were given entrance into the tower, as well as the key itself. Bring this information to Kor'gan, perhaps he will find a solution to this problem.",
+  },
+  [40308] = {
+    ["T"] = "The Depths of Karazhan V",
+    ["O"] = "Gather the Old Crypt Key, and the Mark of Karazhan from around the ruins of Karazhan for Kor'gan in Stonard.",
+    ["D"] = "If we are to reforge the key, then we will need the items that Gunther Arcanus had hinted to. I have no doubts in my mind that both of these items can be found lingering around the tower. The first item we shall acquire is the key itself, there are rumors of a sickly, pale human who emerges when not a living soul is about, to tend the grounds around Karazhan. It would be from him, that the Old Crypt Key can be found, find him, and claim it for our purposes, he should be around. Lastly, a Mark of Karazhan will be required, of which there are not many left on this mortal world. I have heard tales of a Captain lingering in the caves of The Master's Cellar. Captain Rothynn and his twin brother were both given one long ago, he should still have one. When these items are obtained, return to me, and I can forge the key.",
+  },
+  [40309] = {
+    ["T"] = "The Depths of Karazhan VI",
+    ["O"] = "Wait for Kor'gan to reforge the Karazhan Crypt Key.",
+    ["D"] = "Now then, you have done your deeds with honor intact, it is my time to uphold my end of the bargain. It will take some time, and great concentration, but I will work to reforge the Karazhan Crypt Key. With everything in place, it should allow entry into the Crypts of Karazhan! Now, step back, and behold my power!",
+  },
+  [40310] = {
+    ["T"] = "The Depths of Karazhan VII",
+    ["O"] = "Venture forth into the Karazhan Crypts, once inside slay Alarus, the watcher of the Crypts for Kor'gan in Stonard.",
+    ["D"] = "There is only one step left for us, as honorable members of the Horde. We must step forth into the darkness, and vanquish this evil before it grows even stronger. If we were to let the humans deal with this, who knows if they could even stop it? As Grom Hellscream slayed Mannoroth, we too much look upon something terrible and destroy it from this world. I ask of you to venture into the Karazhan Crypts, and put an end to this madness, for the good of this world. This will not be a task you can handle alone, make sure you bring strong allies to journey with you.",
+  },
+  [40311] = {
+    ["T"] = "The Mystery of Karazhan I",
+    ["O"] = "Search for the Pendant of Ardan, rumored to be held by the ogre Var'zhog, collect it, and return to Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "I have ventured to this rather decrepid, and lonely place to investigate the mysteries surrounding Karazhan. It has long since loomed over this land with a great power emitting from it. While the tower is impressive, it does not boast the power it once held under the rule of Medivh. My analysis of the tower is that the growing power does not come from above, but below. There have always been tales of a crypt that stretched deep beneath Karazhan, perhaps they may be true. The first thing I ask of you is to search for a long lost pendant, rumored to have been taken from the ruins of Karazhan some time ago. It will be needed to magically attune the key for our purposes. My suspicion is that the ogre's of the region have taken hold of it. An ogre magi by the name of Var'zhog has grown to some renown as of recently, no doubt he holds the pendant.",
+  },
+  [40312] = {
+    ["T"] = "The Mystery of Karazhan II",
+    ["O"] = "Slay the ghosts around Karazhan and collect 8 Ghostly Substance for Magus Ariden Dusktower within Deadwind Pass.",
+    ["D"] = "With the Pendant of Ardan secured we can begin to look towards other leads, as of recent many more ghosts have begun to sprout up around the tower of Karazhan. It isn't every day that the dead begin to walk again within the ethereal form after all. I ask of you to venture around the ruins of Karazhan and slay the ethereal dead, and from them, collect 8 Ghostly Substance. It is from this substance that I will be able to check to see the magical potency, or what kind of magic has driven these souls to stir from death. Watch your footing, for the Dark Reaver of Karazhan has been known to watch over the gatehouse of the tower.",
+  },
+  [40313] = {
+    ["T"] = "The Mystery of Karazhan III",
+    ["O"] = "Take Ariden's Crate to Archmage Ansirem Runeweaver in Dalaran.",
+    ["D"] = "The energy of the substance is intense, and would take me considerable time to unweave. My master Archmage Ansirem Runeweaver within Dalaran is well versed within such magic, and would have a much easier time. I ask of you to bring him the Ghostly Substance and figure out the true potency and origin of the magic contained. Perhaps then, we can figure out how to best deal with the foreign energy lingering beneath Karazhan.",
+  },
+  [40314] = {
+    ["T"] = "The Mystery of Karazhan IV",
+    ["O"] = "Return to Ariden Dusktower with the information Ansirem Runeweaver has provided.",
+    ["D"] = "I have taken the time to study what has been provided, and based off the sample he has sent there is no doubt about the power that has produced such a energy. The magic that is present within the substance is that of necromancy, with a touch of arcane. There is one who could be capable of such magic. One who studied beneath Medivh for a short period of time, and took to keeping watch of the Crypt itself, he went by the name Alarus. If it truly is him, then he has mastered his magic, and is extremely capable, and even more dangerous. Whatever lingers beneath Karazhan must be stopped , especially with Karazhan itself holding so much potency of magic. If this darkness is resting beneath Karazhan, then it must be within the Crypts directly beneath it. Return to Ariden Dusktower, and let him know everything.",
+  },
+  [40315] = {
+    ["T"] = "The Mystery of Karazhan V",
+    ["O"] = "Slay Captain Rothynn to collect the Mark of Karazhan, and retrieve the Old Crypt Key from Groundskeeper Jacoby for Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "If Ansirem Runeweaver is correct, then Alarus must be stopped at all costs. To reforge the key to enter the crypt we will require a few items from the souls lingering within the ruins around Karazhan. First, we will need a Mark of Karazhan, an object magically enchanted with the ley energy of the tower. It is said that the twins Andreon and Rothynn were both granted one upon being accepted into the tower guard. Whilst Andreon's whereabouts are unknown, Rothynn's spirit still haunts the caverns of the Master's Cellar. Finally, there is Groundskeeper Jacoby, one who still to this day lives and tends to the grounds. A man who only appears when not a living soul is looking, only to flee and hide when the living linger. It is from him that the key itself will be collected, so hunt him down. When everything is collected, I can begin to infuse the key with the power it once held, to allow access to the Karazhan Crypt.",
+  },
+  [40316] = {
+    ["T"] = "The Mystery of Karazhan VI",
+    ["O"] = "Wait for Magus Ariden Dusktower to enfuse the energies of Karazhan into the key.",
+    ["D"] = "With the power of the Pendant of Ardan, and the items you have obtained I will begin to channel the energies of Karazhan into the dormant key. With familiar energies it should break the magical seal upon the lock and grant entrance. I will need some time to concentrate, so please, give me a moment to work the complicated magic.",
+  },
+  [40317] = {
+    ["T"] = "The Mystery of Karazhan VII",
+    ["O"] = "Venture forth into the Karazhan Crypts, once inside slay Alarus, the watcher of the Crypts for Magus Ariden Dusktower in Deadwind Pass.",
+    ["D"] = "With the key created the door to the Karazhan Crypts is now open. I ask of you a great importance, to venture into the depths beneath Karazhan and slay Alarus in the name of all that is good. To do such a task will require aid, for you will not be able to take this charge on your own. Hire a band of mercenaries, or gather folk of a good merit to join you, and rid the world of this evil so that it cannot spread further harm. The Kirin Tor is with you in spirit, the fate of many are on your shoulders brave one.",
   },
   [40318] = {
     ["T"] = "A Call to Aid",
@@ -569,25 +644,85 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 10 Graypaw Flanks for Barkeep Clemens at The Remnants Camp in Tirisfal Uplands.",
     ["D"] = "Hey there, I suppose you wouldn't mind helping me out, would you? Things are starting to get incredibly rough, we are suffering through a food shortage that won't even last more then a week. There is a cave, directly to the east that is practically crammed with wolves. If you could get me 10 Graypaw Flanks I could make them last for quite a while, and help alleviate the lack of food.",
   },
+  [40338] = {
+    ["T"] = "The Azurestone",
+    ["O"] = "Speak with Tholdan Mountainheart, and listen to the tale of the Azurestone.",
+    ["D"] = "Another of our kin, I take it you are coming here to seek your true purpose upon this world, or you have come to pay your tributes to this old group. The Azurestone Order is as old as Ironforge itself, and has its roots upon the building of our mighty city. If you wish to join our order, and learn our lessons, you will need to first listen to the tale of the Azurestone.",
+  },
+  [40339] = {
+    ["T"] = "The Azurestone Order",
+    ["O"] = "Slay Grash and bring his staff to Tholdan Mountainheart in Ironforge.",
+    ["D"] = "The Azurestone Order is as old as this city, it is on the shoulders of brave dwarves that it has managed to survive so long. A test of bravery is in order to prove that you are as strong willed as those who have come before you. To the southeast is the Gol'Bolar Quarry, recently infested with troggs, and led by a vile trogg named Grash who uses primitive magic to lead his minions. Travel there, and from him gather his staff. If you manage to slay him, it will no doubt be a showing of both your bravery, and your natural prowess with the arcane gift.",
+  },
+  [40340] = {
+    ["T"] = "Corrupted Sand",
+    ["O"] = "Collect a Corrupted Sand for Dronormu in the Caverns of Time.",
+    ["D"] = "The time ways have been under assault for some time now. The Infinite Dragonflight has begun to work against us in every way that they can imagine. It is from these shattered timeways that Corrupted Sand is formed. Corrupted Sand can be purified by us here in the Caverns of Time. If you so happen to get some Corrupted Sand, bring it to me, we would be very pleased to purify it.",
+  },
+  [40341] = {
+    ["T"] = "Sand in Bulk",
+    ["O"] = "Collect 10 Corrupted Sand for Dronormu in the Caverns of Time.",
+    ["D"] = "The Purification can be a lengthy process on Corrupted Sand, it is often preferred by us to get it in large quantities. If you can retrieve 10 Corrupted Sand for me, it would make my life, and the life of my kin that much easier. The time ways certainly are full of it, it just takes a brave soul to venture there and reclaim it for us. Perhaps you are that brave soul, and perhaps you may gather it for us.",
+  },
+  [40342] = {
+    ["T"] = "The Bronze Betrayal",
+    ["O"] = "Slay Chronar, and bring his head to Tyvadrius in the Caverns of Time.",
+    ["D"] = "Long ago I was tasked with the defence of the time ways, me and another took our oaths together. I dare not speak their name, for they are a traitor to the Bronze Dragonflight, and now consort with the Infinite. They work against everything they vowed to upkeep, and are actively destroying all of our work. They go by the name Chronar, a twisted husk of what they once used to be. Prided by the values of our kin, and our honor, but no longer. Venture into the Black Morass, and find Chronar, bring me his vile head as proof, and I shall reward you with a gift most precious to me.",
+  },
   [40363] = {
     ["T"] = "New Bonds",
     ["O"] = "Kill 5 Galak Centaurs in Mulgore.",
-    ["D"] = "Hello, I am Melyndella! I come from the verdant woodlands of Moonglade. Ever since the Tauren have joined the Cenarion Circle, I have been wanting to get to know them. However, it has been terribly hard to gain their trust! Many locals have accused us Dryads of being Centaur or otherwise associated with them. The Galak clan have caused a lot of pain to this land. Please, help weaken them so I can earn the trust of the village.",
+    ["D"] = "Do not be alarmed, I am an exile of the Galak that seeks refuge and mean you no harm. I accompanied my brethren here with the intent to raid, but upon seeing the tauren and their peaceful life free from the pains of our clan life - I began to yearn for their freedom. If we weaken the Galak's attack on the tauren, perhaps I can earn their trust.",
   },
   [40364] = {
-    ["T"] = "An Understanding of Peace",
+    ["T"] = "Seeking Acceptance",
     ["O"] = "Speak to Gennia Runetotem.",
-    ["D"] = "Thank you for your help, <name>. Now that the Centaurs pose less of a threat, there is more of an opportunity to learn about the Tauren. Perhaps you can speak to Gennia Runetotem? She is a Druid trainer in the village and has been kind to me, I believe she can help!",
+    ["D"] = "As the immediate threat of the Galak has been addressed, perhaps you can seek out a member of the nearby village and speak on my behalf.",
   },
   [40365] = {
-    ["T"] = "A Trial of Peace",
-    ["O"] = "Collect 8 Prairie Stalker Pelt and return it to Melyndella.",
-    ["D"] = "Word of Melyndella and your deeds against the Centaurs has spread, but slaying our enemies is not enough to befriend us. She must show respect and understanding towards our traditions. Venture forth into the northern Prairie across the lake, and acquire for me eight pelts from Prairie Stalkers. Bring them to her, she will know what to do.",
+    ["T"] = "A Trial of Sincerity",
+    ["O"] = "Collect 8 Prairie Stalker Pelts and return it to Kherra.",
+    ["D"] = "While we have received vague rumors of the centaur that strikes at her own kind, striking at our enemies is not enough to earn our favor - not for a centaur. She must show a respect and understanding toward our traditions and customs in a way that centaur are incapable. Venture to the northern prairie across the lake and acquire pelts from the prairie stalkers. Bring them to her, she will know what to do if she is true to her word.",
   },
   [40366] = {
-    ["T"] = "A Harmonious Offering",
-    ["O"] = "Deliver the Blessed Prairie Pelts to Waya Tallgrain and listen to his response. Return to Melyndella with the good news.",
-    ["D"] = "I believe I have the answer, <name>! I have blessed these pelts and bundled them up. Take them to the Innkeeper's Assistant - I have learned her name is Waya Tallgrain - and let her know they are my offering to the village.",
+    ["T"] = "An Earnest Offering",
+    ["O"] = "Deliver the Bundle of Enchanted Pelts to Gennia Runetotem.",
+    ["D"] = "Through a few simple enchantments, I have turned the pelts into blankets that will protect the tauren's young from the coming elements. Please take this to Gennia as my offering to her village.",
+  },
+  [40369] = {
+    ["T"] = "Further Studies",
+    ["O"] = "Gather 10 Crustacean Carcasses from crabs in Darkshore, then return to Nessa Shadowsong in Rut'theran Village.",
+    ["D"] = "Fascinating... I wonder if such changes may cause other creatures in the food chain to be affected. I think it is a matter worth studying further! But for that I would need samples of something larger... Ah, crabs! Yes. I believe we could find something new if we study those crustaceans.",
+  },
+  [40388] = {
+    ["T"] = "Foreign Threats",
+    ["O"] = "Take the Razormane Orders to Gar'Thok in Razor Hill.",
+    ["D"] = "Opening the envelope reveals the symbol of a large skeletal boar as well as reference to a mighty crone. You recognize some of the names mentioned, but can't place the details. This information could concern more than just Durotar, perhaps Gar'Thok would be interested in it.",
+  },
+  [40389] = {
+    ["T"] = "Zalazane's Fall",
+    ["O"] = "Take Zalazane's Head to Vol'jin in Grommash Hold.",
+    ["D"] = "If you do not need aid from my assistant, perhaps you can do our tribe one last favor. Our chieftain, Vol'jin, remains in Grommash Hold to provide counsel to the Warchief while his heart aches for several losses he has endured since departing Stranglethorn. Take Zalazane's head to Vol'jin and reassure him that his people remain ready to share his burdens.",
+  },
+  [40390] = {
+    ["T"] = "Aggression's End",
+    ["O"] = "Take the head of Warlord Kolkanis to Master Gadrin in Sen'jin Village.",
+    ["D"] = "Through hard fought victory, you stand above the fallen centaur warlord and before the corpse can run cold, you take a trophy as proof of your battle. Someone in Sen'jin Village would be interested in this.",
+  },
+  [40391] = {
+    ["T"] = "A Hunt for Honor",
+    ["O"] = "Take the head of Warlord Kolkanis to Cairne Bloodhoof in Thunder Bluff.",
+    ["D"] = "Our new homeland has suffered greatly from threats of all measure since the founding of Orgrimmar and making our home upon Sen'jin Village, and this major step must be shared with our allies in Thunder Bluff. When we first landed on these shores, we found the Kolkar leading the attack on the tauren and have since learned of their suffering under their raids. With one less threat in Durotar, we can begin to look to our frontiers. Now go, share proof of your great victory with the High Chieftain of Thunder Bluff.",
+  },
+  [40395] = {
+    ["T"] = "Food for Sailing Thoughts?",
+    ["O"] = "Find the owner of the book.",
+    ["D"] = "You find this book in an awful condition. After some inspection, you make out the title of the book: Guide to a Sailor's Stomach. It seems the book had been soaked wet and was left to dry in the sun, one can imagine that after realizing the book can no longer be read it had been abandoned by its owner. As you check the end of the book you squint your eyes over the gibberish in front, only for a name to come up in your mind - a familiar name at that: Grayson.",
+  },
+  [40396] = {
+    ["T"] = "Captain Grayson's Revenge",
+    ["O"] = "End Cookie.",
+    ["D"] = "This is Cookie's cookbook, it's how I taught him to understand our tongue and how to make a somewhat decent meal. I tell you, I am not sure if it’s because he's a Murloc or not but he barely has a taste for flavor. I am getting off the sails here. The night the ship sank, Cookie fled, leaving all of us to perish. I almost forgot! I guess my mind gets foggy nowadays, not that I still have a working brain or a consciousness, mind you. That motherless Murloc must pay for this bloody mutiny. Bring me proof of his death and I will reward you handsomely Perhaps I will even be able to move on...",
   },
   [50230] = {
     ["T"] = "Night's Exploration",
@@ -618,6 +753,61 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Higher Stakes",
     ["O"] = "Bring 8 Crocolisk Meat to Cook Torka in Razor Hill.",
     ["D"] = "What now? Ah, it's you again. What eggs? Oh, right. Taillashers. So you want to cook something else besides eggs? I guess I can teach you something. Do you know where the Southfury River ends it's course? This is where you'll have to move. Why? I'm intending to higher the stakes here, whelp! Get me those crocolisk's meat and I'll teach you how to cook it properly! You'll find them all over the river so you better get movin' right away!",
+  },
+  [50310] = {
+    ["T"] = "Goblin Engineering At It's Finest!",
+    ["O"] = "Find Dolores and ride a goblin race car to see if it survives the start at all.",
+    ["D"] = "Ey, kid! Yes, you! I see you're an adventuring type and ready to jump into any fray if only there's one to jump into, right? Just as I thought. What? Of course there's a reward involved, how else could it be around here? It's a Mirage Raceway after all! What to do? Oh, that's so simple, I'm sure that even a gnome would manage to test our jolly vehicle on the sustain for … errh, durability conditions! Yes! So, if you're ready to earn some coins and crack some scorpids flat then you're at the right spot, kid! What helmet? Instruction? Bah! Who needs'em anyway?! Yes, you might want to talk to our charming Dolores to register for the test race, $n. Let's blast it!",
+  },
+  [50311] = {
+    ["T"] = "Mirage Raceway: Goblin's Team",
+    ["O"] = "Find Daisy and complete the lap with best time.",
+    ["D"] = "Oh, so nice you're alive and back in one piece! I had no doubts in you, of course. So you're ready for another run on our goblin engineering masterpiece, eh? Well then if you know the drill you better get ready and take the first place yet again!",
+  },
+  [50312] = {
+    ["T"] = "Gnomes Are Genuine Inventors",
+    ["O"] = "Find Dolores and ride a gnome race car to see if it survives the start at all.",
+    ["D"] = "I am sure that you're very well aware of the fact about us, gnomes, we're the best inventors. Assuming you're striving to improve your skills and knowledge you will eventually be considered to study from us. Obviously, no gnome is that stupid to decline this intriguing and exciting partnership, alas it might be costly sometimes. Speaking shorter; we need someone to compliment our natural resourcefulness of brain activity with their muscle and durability! If you successfully ride this awesome masterpiece of gnomish engineering any other dimwit goblin would simply call a race car then you will be granted an opportunity to represent our bright society of inventors even further in Mirage Races! Cool, right? Well, here's the instructions we've specifically designed for other races for better understanding and comprehension. Yes, you might want to talk to our charming Dolores to register for the test race, $n. Good luck, sentient one!",
+  },
+  [50313] = {
+    ["T"] = "Mirage Raceway: Gnome's Team",
+    ["O"] = "Find Daisy and complete the lap with best time.",
+    ["D"] = "Salutations, sentient one! We're very much satisfied with the results you have achieved with the test drive for our mechanical engineering device and proved to be very useful for providing us so much needed data for analysis.We're ready to allow you continuous partial involvement with our research team and have agreed on supplying you for your efforts. When you're ready to proceed with data gathering be sure to remember the instructions provided and safety measures recommended. Have a great day!",
+  },
+  [50316] = {
+    ["T"] = "Race Against Time!",
+    ["O"] = "Finish the Race with best time and come back to Daisy at Shimmering Flats to collect your reward.",
+    ["D"] = "Hahahah! Did you see their faces?! Simply outstanding job, my friend! Now now, no need to be shy, you did explicitly well and I'm sure you'll be able to do even better with race against time! Pretty simple task. You hop in, press the accelerator and fly away to beat the best lap! Given you don't hit any sheep, lost your track or stopped whatsoever you'll be able to win! Prize? Of course, there are some prizes, of course. Worry not.",
+  },
+  [50318] = {
+    ["T"] = "Bracing The Inevitable",
+    ["O"] = "Bring festive Egg Nog to 15 moonkins to make them warm.",
+    ["D"] = "While it's great we all gather around finely decorated pine here there is a serious trouble coming up for all the wild creatures out there. As you know, the whole ecosystem we live within might be easily corrupted with some species out of the scene to do their part of work everyone is trying to uphold. I'm talking about moonkins. If you're still uninformed then it's crucial we have them saved. What do you mean how?!? Young moonkins will be freezing to death this winter if we don't do someth... I know! Bring them our festive Egg Nog to make'em warm. Hugs will also do but you bring them Egg Nog in the first place! Where you get it? Well, I'm sure there's a recipe we had somewhere nearby…",
+  },
+  [50319] = {
+    ["T"] = "Snowball Wars: Episode I",
+    ["O"] = "The peace was never an option!",
+    ["D"] = "Throw a snowball at player of every listed class during the Feast of Winter Veil.",
+  },
+  [50320] = {
+    ["T"] = "Snowball Wars: Episode II",
+    ["O"] = "The peace was never an option!",
+    ["D"] = "Throw a snowball at player of every listed class during the Feast of Winter Veil.",
+  },
+  [50321] = {
+    ["T"] = "The Icy Menace",
+    ["O"] = "Help Tinsel Lost-Gloves take revenge upon the thieves who have stolen his favorite gloves!",
+    ["D"] = "Tinsel Lost-Gloves am I, my favorite gloves were stolen, oh why can I not cry?! Of the thieves, I have a list of names long, punish them with frozen fury, for they have done wrong! Is this legal, you may ask? I shall make it so, and quite fast! Do this for me, and for you I shall prepare a friendly little tree!",
+  },
+  [50326] = {
+    ["T"] = "Grizzlore Wants Thunder",
+    ["O"] = "Acquire Thunderbrew Lager from Grombooze Thunderbrew in Westfall for Grizzlore.",
+    ["D"] = "Grizzlore - me! I want more booze! <hick!> Thunder… <hick!> …brew! Lager… <hick!> Grimbooze brews it well. You go there. Westfall! <hick!>",
+  },
+  [50328] = {
+    ["T"] = "Jolly Holly Dances Prolly",
+    ["O"] = "Get smashed with Holly and after that /dance with her.",
+    ["D"] = "Hey there, pretty sweet cheeks! Wouldn't you like to have some real fun with jolly Holly right here, my dear? <laughs> Of course you would, I can see that in your eyes right there. But … you do know that there's an ultimate intimate fun is about to follow, don't you? Good sweet brews and drinks! Best way to have some jolly fun with Holly! Now, drink up and do me … a good long sweety dance, my li'l marmelade! Haha!",
   },
   [55000] = {
     ["T"] = "Razlik's Tools",
@@ -729,11 +919,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Slay Mosshide Gnolls and retrieve 10 Mosshide Gnollbands for Gowlfang.",
     ["D"] = "Friends betray Gowlfang because bad-bad leader says to, Mosshide no longer friend of Gowlfang, and Gowlfang kill-kill betrayers! Go to Mosshide Fen, in Wetlands yes yes, make sure they suffer, kill them good-good, hah! Bring me armbands to prove-prove you did good work and did what Gowlfang ask-ask, yes yes!",
   },
-  --[[[55035] = {
+  [55035] = {
     ["T"] = "Hidden-Hidden Reward",
     ["O"] = "Find the Hidden Mosshide Chest and claim its reward.",
     ["D"] = "You did Gowlfang good-good, no other gnoll ever do for me like that before! I give you gift show that Mosshide good gnoll, strong gnolls! I bury-bury chest in hollowed out tree at bottom of dam, should be still there unless someone steal, you find, treasure for you, Gowlfang no need what inside, all for you.",
-  },]]
+  },
   [55036] = {
     ["T"] = "Where's My Yeti Fur?!",
     ["O"] = "Speak with Tarlo Farcrack in Tarren Mill.",
@@ -789,6 +979,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find and slay Shazknock at Boulderlode Mine.",
     ["D"] = "Shazknock is wanted for crimes against Sparkwater Port, sharing vital information and leaking trade secrets of the union to the Venture Co. He has secured himself a position as Manager with the information he has leaked. Find the man at his new position at Boulderlode Mine within the Great Hall there and bring his head to Tradesman Laz as proof for reward.",
   },
+  [60005] = {
+    ["T"] = "Once Upon a Sheep",
+    ["O"] = "Find 15 Lost Farm Sheep in Elwynn Forest and feed them Elwynn Truffles to bring them back to the farm.",
+    ["D"] = "My sheep! They're missing! I can't run a farm without sheep to shear. These varmint wolves have been scaring my sheep away for too long. I'm sick and tired of it! Now they're scattered around Elwynn, scared and shaking in their expensive fleece. Without sheep, I've got no way to support this farm or my daughter, Julie. I use their wool to make everything from handbags to hoods, but times have been tough lately. Say, you're a strong-lookin' feller. Why don't you wrangle 'em back for me? You'll be doing me a mighty fine favor. I'll give you a fair shake in return. Julie made a batch of their favorite treats. Give them these Elwynn Truffles and they’ll be runnin' back home in no time.",
+  },
+  [60007] = {
+    ["T"] = "Lulu Looks Luscious to Lupines",
+    ["O"] = "Get rid of 15 wolves across the farm.",
+    ["D"] = "Lulu is staring at the wolves surrounding the farm warily. You think you can hear her poor little heart thudding in dread. The wolves are licking their chops, biding their time until they get a chance to strike. An innocent, adorable thing like her shouldn't look so terrified in her own home. It's up to you to ease Lulu's distress.",
+  },
+  [60008] = {
+    ["T"] = "Wool Would Work",
+    ["O"] = "Gather 20 bundles of wool off the sheep in Elwynn Forest and bring them back to Julie Osworth.",
+    ["D"] = "My ma used to make a mean set of mittens that warmed us up in the chillier months. Each day gets a little colder without her, but she taught me everything she knew about making woolen garments. As you can see, the farm's been losing sheep left and right. There's plenty out in the forest though, but it's too dangerous for me. Papa can't lose me and Ma both—then he'd be stuck with poor ol' Lulu. Gather a few bundles of wool so that I can make Papa warm clothes for the season, and I'll craft up a lil' something for you, too.",
+  },
+  [60030] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Bring 5 Line Cloth, 5 Light Leather, 5 Malachite and 5 Small Leather Collar to the fashionista's apprentice and receive one Fashion Coin as a reward.",
+    ["D"] = "Greetings! Aren't you here for some Fashion Coins exchange? Well then, one will cost you some materials. Here's what we need at the moment... I need all the items on the list and not a single one of it less. Make sure they aren't damaged or chipped… I'm not a goblin to meddle with.",
+  },
   [60040] = {
     ["T"] = "Delicious Pumpkin Pie",
     ["O"] = "Bring 1 Delicious Pumpkin Pie to Gina Weller in Goldshire.",
@@ -814,10 +1024,20 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Country Pumpkin Seeds, Mountain Berries Seeds, Striped Melon Seeds and Magic Mushrooms Samples!",
     ["D"] = "Ish-ne-alo por-ah, young one! Sole reason you're here can only be the desire to learn how to foster your own garden and procure food where otherwise it wouldn't grow I believe? By the squint in your eyes I can see it is true. Very well. There's a particular type of seeds you will have to find first. Once you have'em all with you I shall teach you something not even hunters or trappers would know how to survive with less violence and killing. This is the Blessing that our tribes bear with pride and foster with care, a Blessing of the Earth-Mother herself. Come back to me when you have all the seeds I've mentioned in this parchment here. I have and will be expecting you … again. Winds be at your back.",
   },
+  [60070] = {
+    ["T"] = "Matter of Trust",
+    ["O"] = "Bring 5 Chunks of Boar Meat, 3 Dwarven Mild Cheese and 1 Chew Toy to Kelton's Riding Gryphon in the Goldshire.",
+    ["D"] = "Trust is something you can't buy, $r. Here's the deal, lad. You earn the trust of this gryphon over here and you'll get your ride to the camp. Fail and he'll have you as his breakfast. Hah! Of course I'm pulling your leg here, lad. This winged beast won't even nudge unless it trust you completely. How, you ask? Food, of course. And a toy. Go figure.",
+  },
   [60107] = {
     ["T"] = "Cold Feet",
     ["O"] = "Retrieve Gretchen's slippers from the shiny footlocker north of Solliden Farmstead.",
     ["D"] = "The damned cold won't leave me. I thank you for the pelts, $N but I wonder if I may trouble you again? I paid a helpful soul, Calvin, to go to Solliden Farmstead to retrieve my slippers before you happened along. He hasn't returned and I've heard that he may be less than honest. Undeath doesn't change an opportunist it seems. My slippers are in a footlocker at the farmstead. The reports I overheard about Scarlets in the area are the least concerning. The murlocs like anything shiny I've heard and I did keep that footlocker polished up...",
+  },
+  [60110] = {
+    ["T"] = "Githyiss the Vile",
+    ["O"] = "Kill Githyiss the Vile and collect her Venom Sac, she can be found deep inside the Shadowthread Cave.",
+    ["D"] = "It pains me to ask this of you but the brood mother of the Webwood spiders has become increasingly hostile. Her behavior threatens Shadowglen's balance as she mercilessly overhunts the local wildlife... going as far as attacking Iverron when he wandered near the Shadowthread Cave. Bring back her venom sac so that I may further my research. Be careful, her poison is stronger than any of the lesser spiders.",
   },
   [60111] = {
     ["T"] = "A Decisive Blow",
@@ -833,6 +1053,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Virulence",
     ["O"] = "Apothecary Johaan has asked you to gather 5 Vials of Human Blood from the Tirisfal Farmers located in the Solliden Farmstead.",
     ["D"] = "If my theories are correct, then human blood should react to the plague I'm concocting. While you're out gathering the Murloc scales, go to the Solliden Farmstead and bring blood from the Farmhands and Farmers.",
+  },
+  [60114] = {
+    ["T"] = "The Terror of Chill Breeze",
+    ["O"] = "Tundra MacGrann has asked you to kill Old Icebeard and collect its beard.",
+    ["D"] = "I enjoy camping in this cave, but as long as Old Icebeard makes his home near this area then I'll never be safe from him raiding my food. It would make for a great trophy if you could bring me his beard... not to mention making this place safer.",
   },
   [60115] = {
     ["T"] = "Preventive Strike",
@@ -874,6 +1099,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Alanndarian Nightsong in Auberdine has tasked you with the collection on 10 Serpentblooms.",
     ["D"] = "Although your main quest is saving Naralex from the Nightmare, we might learn more about the corruption that befouls the caverns. Its told that a plant named Serpentbloom sprouted inside the caverns after Naralex's fall into eternal slumber, and that they hold the venom of a serpent. I want you to venture into the caverns and bring me 10 of these plants.",
   },
+  [60130] = {
+    ["T"] = "That Dirty Old Ring",
+    ["O"] = "Find a magical expert in Goldshire to examine the Dirty Old Ring.",
+    ["D"] = "Between the webbing of a murloc's fingers, you spot a scuffed ring. Something about it calls out to you to take as if it's more valuable than it appears at first glance. You try to shine it on your armor, but it seems to be getting dirtier with each wipe. This magical ring has more to it than meets the eye. You should find someone with more experience to examine it for you.",
+  },
   [60131] = {
     ["T"] = "Deep Blue Sea",
     ["O"] = "Kill the Sand Shark off Durotar's eastern coast.",
@@ -914,6 +1144,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Objectives: Bring 8 pieces of Rockhide Boar Meat to Eldrin in the Eastvale Logging Camp.",
     ["D"] = "To the nobles of Stormwind, a Paladin is an elite soldier, whose glory comes from deeds on the battlefield. But we who follow the light know better. To the poor of the kingdom, we are often the only source of comfort and aid. It is these simple tasks of assistance and caring that separate a true Paladin from some fool with a cudgel. There is a struggling family in the Eastvale Logging Camp that is in need of help to get through the year. I had hoped to help myself, but I cannot leave Goldshire, not with so many threats around us. If you would aid them in my stead, hunt the Rockhide Boars found south of the road and bring their meat to the logging camp.",
   },
+  [60142] = {
+    ["T"] = "A Change Of Heart",
+    ["O"] = "Bring Tog's Letter to Tormus Deepforge at the Great Forge in Ironforge.",
+    ["D"] = "Hey, $c, may I ask you for a favor? I know I am here with Grimrizz and all his Dark Magic, and this will sound strange but I have always wanted to be a blacksmith. You probably are thinking most Gnomes go for engineering. Since I first laid eyes on the beauty of Ironforge, I dreamt of becoming a blacksmith. The heat emitting from the forge, clanging of hammers to heated metal. The glint of a finely crafted blade, that is the life for me! $c, will you take this letter to Tormus Deepforge for me? It is my application to join the Blacksmith Guild in Ironforge. He is probably near the Great Forge, working with the new Trainees.",
+  },
   [60143] = {
     ["T"] = "Brannol’s Sewing Kit",
     ["O"] = "Recover Brannol's Sewing Kit and return it to him in Dolanaar.",
@@ -943,6 +1178,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Jasperlode Infestation",
     ["O"] = "Go to the Jasperlode Mine northeast of Goldshire and clear out the spider infestation.",
     ["D"] = "After your scouting mission at the Jasperlode Mine, I've gotten reports that a stray brood of spiders from Duskwood has made the depths of the mine their home while using the kobolds to feed and increase their population. Kobolds, the Defias, and now spiders? We cannot afford to spread out our men thinner than they already are. Go back to the mine and clear out the infestation before they spread all over the forest!",
+  },
+  [70000] = {
+    ["T"] = "A Special Kind of Summons",
+    ["O"] = "Visit Archmage Xylem in Azshara.",
+    ["D"] = "The Mage District is always so quiet, isn't it <name>? Well if you are to ignore that heavily insistent calling to visit the Blue Recluse of course. You have grown into a very capable mage, many whisper your name and some have spread rumors about you. And so it reached a very unlikely fellow, one I would tell you not to approach but after all it is your call to make. Sitting atop his tower in Azshara, there's an Archmage that has heard of your growth and name and wishes to meet you personally. Xylem is known to take in apprentices if they are found worthy enough of his teachings, maybe this has something to do with it. I advise you to be careful, the man is very dangerous. To reach his tower you must find his apprentice, Sanath Lim-yo, he's known to be a very joyful and pleasant elf.",
+  },
+  [70001] = {
+    ["T"] = "Lost to the Sands",
+    ["O"] = "Bring a Perfect Obsidian Shard to Archmage Xylem.",
+    ["D"] = "You are the first I have personally summoned in years, $n, my expectations are quite big. You've probably figured it out by now, I would like you to become my apprentice. But you must prove yourself worthy of my knowledge. Gather your friends and your enemies and venture into the sands! In the Ruined Temple of Ahn'Qiraj a creature that devours magic may be found, its name is Moam, slay it and carve out the piece of obsidian on its forehead. Succeed and I will help you break out from your shell.",
   },
   [70002] = {
     ["T"] = "The Guidance of a Mad Man",
@@ -1134,6 +1379,91 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Collect a Howling Crystal from one of the creatures of the Grumbling Grove.",
     ["D"] = "Nert might be afraid of a little shadow magic, but not us, huh? It’s time for you learn some real demon-summoning. Yeah, I know we’re in the middle of a crisis, but there’s no time like the present! We’re warlocks! Crises are what we do! And besides, I’m contractually obligated to help you new enforcers out. So, here’s what you’re gonna do. You’re gonna go on Nert’s little expedition, but you’re gonna bring me something special. It looks like some of the creatures there have little shards of a purple crystal on them, and purple just so happens to be our favorite color. Bring me one back, and I’ll teach ya to summon an imp. How’s that?",
   },
+  [80200] = {
+    ["T"] = "Farstrider Lodge",
+    ["O"] = "Talk to Vyrin Swiftwind in the Farstrider Lodge.",
+    ["D"] = "Ah, $N, you're awake. The journey south from the remnants of Lordaeron was filled with peril, but we have survived and this is our new home. There is a lot of work to be done now that we have arrived. This lodge has only been used by a few dwarven hunters ever since the Second War, but it hasn't been maintained properly. Vyrin Swiftwind in the lodge has been here much longer than any of us. Why not talk to her to get started?",
+  },
+  [80201] = {
+    ["T"] = "Stocking Up on Wood",
+    ["O"] = "Collect 8 Bundles of Wood outside of the Farstrider Lodge.",
+    ["D"] = "Wagons full of refugees have arrived from the north, and we know more are on the way. Because this was used as a dwarven hunting lodge, the larders are fully stocked with meat. Unfortunately, most of the meat was in the process of being salted and the lodge does not have a great supply of firewood. Go out and collect some. You'll find plenty of wood in bundles just outside the lodge. Oh, and a word of warning: do not leave the valley. There are things out there that are very dangerous, and you are not yet ready to face them.",
+  },
+  [80203] = {
+    ["T"] = "Clearing Out Vermin",
+    ["O"] = "Kill 8 Trogg Vermin.",
+    ["D"] = "Excuse me, $r, can I have your attention for a moment? I am Kathy Wake. I am a part of a branch of the Alliance military responsible for ensuring the safety and prosperity of Alliance lands. We've recently been sent here with a large contingent of men. Although I personally believe we are needed more back home, it is not my place to question orders. Our mission has been to ensure your people arrived safely to the lodge, and also to get you settled in. However, it is not easy to keep everyone safe from the dangers out here. While my men have been dealing with the larger problematic elements in the region, smaller ones have been left unattended for too long, and now they have been allowed to run rampant. The refugee caravans could be in danger if something is not done quickly. I take it you can fight? If so, please go out there and take care of the troggs that have been infesting the area around the lodge!",
+  },
+  [80204] = {
+    ["T"] = "Gathering Intel",
+    ["O"] = "Investigate the area to the southwest of the Farstrider Lodge.",
+    ["D"] = "You're less wet behind the ears, now, which is good. The vermin you've defeated are only a nuisance compared to other things that lurk in this valley. Some of the recent refugees who arrived last night reported seeing a short-statured figure with glowing red eyes in the woods as it stalked the area. Some brushed it off as fatigue from the long travel, but I believe it may be the forward scout of a Shadowforge raiding party. The Shadowforge are one of the Dark Iron clans. They are corrupted red-eyed dwarves who are at odds with the kingdom of Ironforge. Investigate the area to the west where the sighting happened, but do not stray too close to the digsite. It is infested with troggs far stronger than those vermin that you fought earlier. Remember: do not engage. If you find something, confirm your sighting and immediately return here.",
+  },
+  [80205] = {
+    ["T"] = "Slaking Their Thirst",
+    ["O"] = "Fill the Empty Barrel with water from the well.",
+    ["D"] = "Hello again, $n. The wood you gathered helped feed many refugees. However, the situation is far from resolved. The drinking water stores are running low. Soon, we will not be able to care for the refugees, but luckily there is a well to the north near the border of this valley. Go there, and fill this barrel with water. There are volunteers trying to dig a new well here, but that will take time. Please, $n, I know I can count on you!",
+  },
+  [80206] = {
+    ["T"] = "Burnt Wheels",
+    ["O"] = "Speak to Malvinah Sunblade, then report back to Kathy Wake.",
+    ["D"] = "<Vyrin appears distressed as she looks in your direction.> We found a wagon burned down with the corpses of the accompanying escorts nearby and no sign of the refugees. It's... terrible, $n, it's absolutely terrible! Please speak to your companion, Malvinah, was it? I am trying to keep people calm as we figure this out, but she is very disturbed. She's spreading panic and confusion among the refugees.",
+  },
+  [80207] = {
+    ["T"] = "Dark Iron Scrapping",
+    ["O"] = "Kill the Shadowforge Fire Priest, acquire the Dark Key and free the High Elf Refugees.",
+    ["D"] = "Alright, $n, here is the plan. We have established a perimeter around the Dark Iron camp, but we believe that if we move in force, then they will execute the refugees. We have been ordered to stand down. However, if we do not act now, the refugees will be killed. We need an outsider to sneak into their camp, kill the fire cleric, acquire the key to the cells, and free the refugees. I can think of no one more worthy of this task than you. You have proven yourself to be strong and resourceful in the short time we've known each other. I believe in you, $n! Now go and save those people!",
+  },
+  [80208] = {
+    ["T"] = "Sunblade Reunion",
+    ["O"] = "Speak to Malvinah Sunblade.",
+    ["D"] = "You're the hero of the hour, $n! All the refugees are speaking your name! I believe there is a friend of yours who is particularly grateful. Why not go and speak with Malvinah Sunblade?",
+  },
+  [80209] = {
+    ["T"] = "Porting to Goldshire",
+    ["O"] = "Speak to Magistrix Ishalah to be teleported to Goldshire, and then report to Marshal Dugan.",
+    ["D"] = "You've decided to assist, then? I am grateful, $n! The situation back home is dire and we cannot return to help at the moment. I do not know what kind of affliction ails the Stormwind nobles, but ever since King Varian disappeared, the Kingdom has been run into the ground! Alas, while we can't control the nobles, we can deal with the problems in the kingdom's provinces! Elwynn Forest is a good place to start. The capital is located in this region, and it has been surrounded by issues. Kobolds rule the mines, gnolls raid the towns, and bandits seize the roads. My friend Marshal Dugan is stationed in Goldshire, and he can put you to good use. I believe the Magistrix here can teleport you to Goldshire.",
+  },
+  [80210] = {
+    ["T"] = "Providing a Balanced Diet",
+    ["O"] = "Collect 4 Loch Modan Pumpkins and 8 Loch Modan Berries from the area surrounding the Farstrider Lodge.",
+    ["D"] = "Greetings, &n! You've made amazing progress so far, but there is still so much to do. While the lodge is stocked with an abundance of grain and meat, we're lacking other types of nourishment like fruits and vegetables. Luckily, the area around the lodge has an abundance of pumpkins and berries this time of the year. Can I count on you to search the area for berries and pumpkins? Our peoples' welfare depends on it!",
+  },
+  [80211] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Ranger's Letter and speak to Rubinah Sunsworn.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80212] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Paladin's Letter and speak to Lor'thas the Holy.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80213] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Priest's Letter and speak to Maelah Sunsworn.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80214] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Magister's Letter and speak to Magister Ala'shor.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80215] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Shady Letter and speak to Leela the Shadow.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80216] = {
+    ["T"] = "Seeking Further Guidance",
+    ["O"] = "Read the Swordsman's Letter and speak to Valanos Dawnfire.",
+    ["D"] = "$n, the fall of our homeland has affected us all. But, even if our education down this path was cut short, there are still ways to learn. Recently, someone left a letter on the desk and it was addressed to you. Perhaps you should read it and see what it says?",
+  },
+  [80217] = {
+    ["T"] = "Pelts and Tusks",
+    ["O"] = "Bring 5 Young Bear Pelts and 5 pieces of Young Boar Meat to Marek Ironheart in the Farstrider Lodge.",
+    ["D"] = "To prove yourself to me, $n, I will have you go around the lodge and search for the many piglets and cubs that made their home close to here. Your kin will also need clothes and armor made from their hides. While I am not the best leatherworker, I could still make a few pieces of gear. Five pelts of the bear cubs and five chunks of meat from the piglets will be enough to prove your worth. Come back when you have everything.",
+  },
   [80311] = {
     ["T"] = "Mastering the Arcane",
     ["O"] = "Speak to Chok'Garok on a bank of Southfury River in the Barrens",
@@ -1144,10 +1474,95 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring Chok'Garok 5 pieces of Moontouched Wood, a Crystal of the Serpent, and an Everchanging Essence from Wailing Caverns.",
     ["D"] = "Ureda sends only worthy mages! Ureda is the worst! <The two heads stare at each other with a surprised look.> We know what you really need as a mage, and we know where to get parts. You bring us parts, and essence too, and we will make you a weapon, yes! Where you get parts? It's in the cave. Barrens! Yes, yes. Wailing Caverns, they call it. Caverns with druids and snakes! Yes. You find us Moontouched Wood, a Crystal of the Serpent, and Everchanging Essence. Yes, the essence! You bring it all to us, and we make it a worthy weapon! Yes, you'll be thankful!",
   },
+  [80315] = {
+    ["T"] = "Apple a Day",
+    ["O"] = "Inspect Applebough and help him grow back his fruit. Speak with a nearby druid to find out Applebough's ailment.",
+    ["D"] = "I've only experienced a few blooms in my time, but this season, things are different. At the ends of my leaves, there are usually pink petals sprouting by now, but instead, my branches are barren! I don't think this is normal. Maybe a druid might know what's wrong with me? They're much older and wiser anyhow.",
+  },
   [80320] = {
     ["T"] = "Burning Bridges",
     ["O"] = "Kill Knobby Tinfault and bring anything he drops back to Miley.",
     ["D"] = "Heya, $C! Fizzle isn't the only goblin playin' with fire around here. Gazlowe got word that another defector has joined up with those Burning Blade boys, and now we have to deal with it! Knobby Tinfault is in Dustwind Cave on top of the Drygulch Canyon. Find him and wring the little bastard's neck. Bring me anything he's carryin' that has so much as a strange mark on it. We need to get it back to Gazlowe so we can find out if there was more to him and Fizzle decidin' to come to Durotar.",
+  },
+  [80330] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Meet Viz Fizbeast in Razor Hill for his guidance on your path.",
+    ["D"] = "Greetings, goblin. It seems your journey to becoming a proper hunter is going well, slowly and surely. We hunters tend to have a pet by our side, yet I hear your kind have some uncommon means to tame one.",
+  },
+  [80331] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Dire Mottled Boar. Practice your skills, then return to Viz Fizbeast in Razor Hill.",
+    ["D"] = "Woah, woah, easy there, champ. Whoever sent you to me knew exactly what they were doing. You know, us goblins don't exactly “get along” with nature, know what I mean? <Viz winks slyly to you.> I'm gonna teach you how a goblin tames a pet. The right way. Take this rod. It has a special collar that I call the “Friend Request”. You put this around their neck and you're done, get me? They'll be yours forever. Let's see you have a go at it, and don't come back without a Dire Mottled Boar because if you do, then you're not worth my time. You'll see they are hanging around just outside of Razor Hill. Not that hard to find. Now, buzz off. I see a customer approaching.",
+  },
+  [80332] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Surf Crawler. Practice your skills, then return the Taming Rod to Viz Fizbeast in Razor Hill.",
+    ["D"] = "Kid, every time you add a pet to your collection, you become stronger, so basically, you gotta teach it that you own it and that means it's being a part of you. We're not the strongest, but we got the biggest brains, you know? And being smart is being strong. Now, for your next mission, you're gonna have to really get your boots wet. This next tool I'm sending you to get really likes water. You're gonna find it across that troll village, you know, Sen'jin? It's near those Echo Isles. You'll be looking for a crab called the Surf Crawler. Do the same thing that you did to the boar. Use the rod and make it your own.",
+  },
+  [80333] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame an Armored Scorpid. Practice your skills, then return the Taming Rod to Thotar in Razor Hill.",
+    ["D"] = "This gonna be the last task I'm giving you, champ. You better be ready, ‘cause if you're not, you won't come back breathing. Our partners, the orcs, call these babies Armored Scorpions. This beast's quick on its tiny feet, and their carapace is light yet durable if that wasn't clear enough when I said “armored”. And they got a deadly sting, so if you get your hands one of these pups, you won't have to worry about getting pushed around anymore, ever. When you get back, I'm gonna show you my skills. Let me tell you, pal, these skills are beyond mad! You will be able to tame whatever beast you want. All you need is the right amount of confidence and animals will eat it up. It won't be long before they'll be treating you as their master. The beasts you tame will grow with you, kid, and you'll become a fearsome duo. I'm gonna also teach you how to call them in or send them out.",
+  },
+  [80334] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Speak with Ormak Grimshot in Orgrimmar.",
+    ["D"] = "One last tip, kid—and I'm adding this to your tab!—but there's an orc in Orgrimmar who goes by the name of Ormak Grimshot. You're gonna talk to him to get the ability to train your beasts. He'll be in the so-called Valley of Honor. Now, buzz off, I'm tired. We'll meet again when I show up at your doorstep to collect what's mine!",
+  },
+  [80339] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Speak with Clover Spinpistol in Kharanos.",
+    ["D"] = "Hello, young hunter. You look to me like you are skilled enough to handle a beast and train it as your companion. Normally, I'd send you to Grif Wildheart, but I believe you need the help of one of your own kin. Clover Spinpistol in Kharanos should be able to help ya.",
+  },
+  [80340] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Large Crag Boar. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "I am Clover Spinpistol, Mountaineer Sniper. We're good shots, but unfortunately, as you may have noticed, we're not too sturdy if something comes up close. But that won't be a problem anymore! Instead, we can have a beast take the hits for us! Tinker Town recently had an amazing scientific breakthrough that I am ready to share with you. Tell you what, as an investment into retaking Gnomeregan, I'll teach you how to use a patented G.N.O.E.M.R Taming rod. Take this and try to use it on a Large Crag Boar. Make sure it's large!",
+  },
+  [80341] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame a Snow Leopard. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "Haha. My, that boar is quite a bulky one isn't it? I bet you'd want something more suited to a gnome, right? What about a quick-thinking, beautiful snow leopard? To both the south and east of here, you can find them. I've recharged your taming rod, so get out there and grab one! Watch out, though. They're far more feisty than that boar!",
+  },
+  [80342] = {
+    ["T"] = "Taming the Beast",
+    ["O"] = "Use the Taming Rod to tame an Ice Claw Bear. Practice your skills, then return the Taming Rod to Clover Spinpistol in Kharanos.",
+    ["D"] = "One thing you should know is that both the boar and the leopard are offensive pets, but they leave a little to be desired in defensive capabilities. Surely, our ranged weapons can pop ANY enemy with ease! What we need is something to keep them busy. Hmm… I've got it! The Ice Claw Bear is sturdy, and when facing a huge bear, who would choose to go after a tiny gnome? It can be found east of Kharanos. You have enough skill from the other two to bring one back here for me, right? Once you're done, I'll give you access to the Taming Rod so you can tame your own pet!",
+  },
+  [80343] = {
+    ["T"] = "Training the Beast",
+    ["O"] = "Speak with Belia Thundergranite in Ironforge.",
+    ["D"] = "$n, now that you've got your rod and all, you can get a companion to help advance the cause of gnomekind! However, taming these pets isn't enough. They also need training. Sadly, I cannot train your pet for you. Even though my mentorship of you has gone well, your pet is a different case. For your pet, you need to find someone else. Go to Ironforge and locate Belia Thundergranite in the Hall of Arms. She should be able to help you out. Tell her I sent you. Good luck!",
+  },
+  [80350] = {
+    ["T"] = "Etched Rune",
+    ["O"] = "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
+    ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer, Thorgas. Take a gander at it, then go find him inside Anvilmar when you have the chance.",
+  },
+  [80366] = {
+    ["T"] = "The Hunter's Path",
+    ["O"] = "Speak with Grif Wildheart in Kharanos.",
+    ["D"] = "Hello, young ranger, you appear to be doing well! Our people struggles but we must endure, we must become more able than we were before. We Rangers were trained to protect Quel'thalas and its forests, but now we have to operate in entirely new environments. I believe we should look to the techniques of our allies in order to improve what remains of the Ranger Corps. There is a dwarf in Dun Morogh called Grif Wildheart, he is said to be able to bend beasts to his will, such a technique would be useful to you, see if you can learn it from him.",
+  },
+  [80380] = {
+    ["T"] = "Lizzi's Competitor",
+    ["O"] = "Help Lizzi to prepare the best barbeque anyone's ever tasted.",
+    ["D"] = "I've got a whole party of people to feed, but one of my rivals cut me off from all of my meat suppliers! Whoever it is must be jealous of my deccadent, fall-off-the-bone ribs and beer-battered seafood supreme. With a name like mine, I have big boots to fill. I'll make sure they regret crossing me by making the best barbeque anyone's ever tasted! What's in it for you? Well, I have a Saltcrabs family secret that I can impart to you. It'll help you turn any venue into a great place for a picnic. Round up all of the little crab and crocolisk families and tell them to say their goodbyes, then bring me their insides The stag meat that I need comes from a few vendors that you'll find on your adventures, and I need some beer for basting. Hurry up, I gotta cook all of this before the party starts!",
+  },
+  [80381] = {
+    ["T"] = "Shellcoins",
+    ["O"] = "Collect 20 Shimmering Shells to jumpstart the Shellcoin economy and return to Elodia.",
+    ["D"] = "Everyone thinks I'm crazy, but I promise in like, 5 years, you'll all be regretting it! I know for a fact that these shells will be a huge part of the new economy even if the so-called “economists” don't believe me. The shimmering shells along the ocean floor, I call them “Shellcoins”, are going to be the next big thing. They all call me a fool for investing, but I'll be filthy rich when the market blows up while they'll be mining for my scraps.",
+  },
+  [80382] = {
+    ["T"] = "VIP Invites",
+    ["O"] = "Deliver Risa's beach party invitations to Gazlowe in Ratchet and Baron Revilgaz in Booty Bay.",
+    ["D"] = "What would a beach party be without a couple of trade princes, huh? I need big names at this event or else it'll be a flop! Put on your fanciest clothes and deliver these special invitations out to Trade Prince Gazlowe in Ratchet and Baron Revilgaz in Booty Bay. If they come, then more will be sure to follow. More bodies at the beach equals more gold lining my pockets, see? I'll give you something real nice in return.",
+  },
+  [80383] = {
+    ["T"] = "Sharks Are Friends, Not Food",
+    ["O"] = "Shoo the shark in the water away from the shore, then return to Toci Flipper.",
+    ["D"] = "Do you see that dorsal fin rising out of the water? That's a shark. It appears to have come too close to the shoreline which is an anomaly for this species. I'm a marine biologist by trade and I've been watching that poor creature for a while now. There could be a number of reasons that it's trapped here, but the goblins want to kill it like a stuck pig! They think it's a threat to people in the water, but it's probably just scared and confused. I can't let that happen. I need you to go into the water and shoo the shark away.",
   },
   [80384] = {
     ["T"] = "Pinch of Salt",
@@ -1174,6 +1589,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "After reading the letter you decide to find Zalazane's former apprentice by yourself and spare him of his head. Taking his head and Zalazane's mojo back to Master Gadrin in Sen'jin Village will earn you a reward.",
     ["D"] = "That foolish mongrel Makasgar decided he no longer needs the aid of his master and has grown beyond my teachings. ... That mojo was required for a powerful ritual to help us take over the Sen'jin Village and later the whole of Durotar. Go do your master's bidding and bring me his head!",
   },
+  [80604] = {
+    ["T"] = "A Journey Into The Caverns",
+    ["O"] = "Travel to the Caverns of Time and speak to Chromie.",
+    ["D"] = "Our enemy is no longer in this time, but I have reason to believe they are in the past. I will tell you more but not here, you never know who might be listening. Travel to the Caverns of Time in Tanaris. I have given you authorization to enter since you are involved in this matter. Once you arrive talk to me again.",
+  },
+  [80605] = {
+    ["T"] = "The First Opening of The Dark Portal",
+    ["O"] = "Enter the Timeways into Black Morass's past and slay Antnormi. Bring her head to Kheyna.",
+    ["D"] = "Roughly seventeen years ago, Medivh the last guardian under the control of Sargeras opened the Dark Portal, and let the Orcish Horde into this world. We have detected a temporal anomaly in the area consistent with the same energy that Kheyna and Antnormi had. Kheyna is all but certain that Antnormi is behind this, please take the timeway to the right and stop Antnormi before she damages history, I will oversee the situation from here. Before you doubt whether this is a bad thing, the Orcs were instrumental in defeating the Legion, I assure you, the outcome if they didn't arrive is catastrophic!",
+  },
   [80755] = {
     ["T"] = "Training the Beast",
     ["O"] = "Speak with Diane Willowfield to learn the ability to train and feed your pets.",
@@ -1192,7 +1617,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [810] = {
     ["T"] = "Study to Survive",
     ["O"] = "Bring 6 Small Scorpid Carapaces to Kor'ghan in Sen'jin Village.",
-    ["D"] = "You would do well to learn how dangerous this land can be, <class>. The wildlife here can teach us such things... if we are wise and observant. The scorpids are a perfect example of survival in Durotar. If you are to survive, it would be wise to take on some of their characteristics as your own. Their hardened carapaces can protect you from the harshness of the sun, or even a deadly weapon. Bring me 6 Small Scorpid Carapaces from the Clattering Scorpids, <name>, and I shall see about rewarding you justly.",
+    ["D"] = "You would do well to learn how dangerous this land can be, $c. The wildlife here can teach us such things... if we are wise and observant. The scorpids are a perfect example of survival in Durotar. If you are to survive, it would be wise to take on some of their characteristics as your own. Their hardened carapaces can protect you from the harshness of the sun, or even a deadly weapon. Bring me 6 Small Scorpid Carapaces from the Clattering Scorpids, $N, and I shall see about rewarding you justly.",
   },
   [811] = {
     ["T"] = "Unity is Strength",
@@ -1202,22 +1627,32 @@ pfDB["quests"]["enUS-turtle"] = {
   [820] = {
     ["T"] = "What Do You Rely On?",
     ["O"] = "Bring 8 Shimmerweed to Master Vornal in Sen'jin Village.",
-    ["D"] = "Truly a spirit of strength resides in your body--or maybe it was only luck, yes? That is what the young rely on these days: luck... and the generosity of those more powerful than they. Not many take the time to find their own path. It's always begging for help... always the reward, and never the quest. I'm sure you'll be the same. But there is hope. I need one other thing for my potion, <name>: 8 shimmerweed herbs. They can be found in Thunder Ridge to the northwest of Razor Hill.",
+    ["D"] = "Truly a spirit of strength resides in your body--or maybe it was only luck, yes? That is what the young rely on these days: luck... and the generosity of those more powerful than they. Not many take the time to find their own path. It's always begging for help... always the reward, and never the quest. I'm sure you'll be the same. But there is hope. I need one other thing for my potion, $N: 8 shimmerweed herbs. They can be found in Thunder Ridge to the northwest of Razor Hill.",
   },
   [50000] = {
     ["T"] = "Professor Malkovich",
     ["O"] = "Talk to Professor Malkovich at the bottom of the Apothecarium in Undercity.",
     ["D"] = "Professor Malkovich is an old friend of mine. He told me to send him someone interested in anatomy.",
   },
-  [70051] = {
-    ["T"] = "Oil-Stained Gold",
-    ["O"] = "Bring 5 Barrels of Oil to Pezzik Villamar in Razor Hill.",
-    ["D"] = "Psst, bub. Come here for a second, will ya? Hey, how you doing today? Listen here, boss. I got myself some lucrative information to share with you. You see, there's these sunken ships, some old Alliance boats that supposedly still got some fuel left in them. They're just sitting there right off the coast. And, ya know, fuel is sort of a valuable commodity for us goblins when it comes to engineering. Anyway, let's get to the point. Bring me whatever you manage to salvage from the shipwrecks and I'll be sure to make it worth your while.",
-  },
   [50002] = {
     ["T"] = "The Human Anatomy",
     ["O"] = "Get rid of the Annoying Peasant and bring his head to Professor Malkovich.",
     ["D"] = "Being an undead for so long has made me forget some things about human anatomy. Since we have an annoying specimen in the room next to us, how about you get rid of him and bring me his head? That way I can study it without him screaming. Don't worry, he's already out of the cage.",
+  },
+  [50003] = {
+    ["T"] = "Professor Papucho",
+    ["O"] = "Talk to Professor Papucho somewhere inside The Forlorn Cavern in Ironforge.",
+    ["D"] = "Professor Papucho is an old friend of mine. He told me to send him someone interested in anatomy. Find him somewhere inside The Forlorn Cavern in Ironforge.",
+  },
+  [50004] = {
+    ["T"] = "The Orcish Anatomy",
+    ["O"] = "Kill the Stupefied Orcish Peon and bring his head to Professor Papucho.",
+    ["D"] = "Pssst… I've got a task for you, $c. Look behind me. I found this drunk orc spyin' around Ironforge and captured him, see? But I want to get a little “creative” with my payback. Bring me his head in good condition and I'll show you somethin' very worth your while.",
+  },
+  [70051] = {
+    ["T"] = "Oil-Stained Gold",
+    ["O"] = "Bring 5 Barrels of Oil to Pezzik Villamar in Razor Hill.",
+    ["D"] = "Psst, bub. Come here for a second, will ya? Hey, how you doing today? Listen here, boss. I got myself some lucrative information to share with you. You see, there's these sunken ships, some old Alliance boats that supposedly still got some fuel left in them. They're just sitting there right off the coast. And, ya know, fuel is sort of a valuable commodity for us goblins when it comes to engineering. Anyway, let's get to the point. Bring me whatever you manage to salvage from the shipwrecks and I'll be sure to make it worth your while.",
   },
   [55048] = {
     ["T"] = "WANTED: Hole Escapee",
@@ -1229,6 +1664,21 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring Vanessa Clang 20 Heavy Dynamite.",
     ["D"] = "If there's one thing a goblin is always in need of, it's dynamite! Whether it's used to excavate, blow up enemies, or just to watch things go KABOOM! Anyways, bring me 20 heavy dynamite and I'll be sure to put in a good word for you. Be sure to bring me quality dynamite too. I don't care where you find it either, unless you were to find it off the corpse of a gnome. In that case, be sure to wipe it down with disinfectant before you bring it to me. Gnomes have a characteristically unpleasant odor that I find, quite frankly, to be repulsive.",
   },
+  [80220] = {
+    ["T"] = "A New Place in Stormwind",
+    ["O"] = "Seek out this High Elven district in Stormwind, look for a blue banner in the outer section of the Dwarven district. Speak to their representative.",
+    ["D"] = "You're a $r right? You aren't the first I've seen around here recently. A lot of your people have arrived and have settled up in Stormwind. In the outer section of the Dwarven district bordering the canal, there is an entrance with the banner of your people, go there and you can meet them should you wish to greet your own folk.",
+  },
+  [80250] = {
+    ["T"] = "Assisting the Children of the Sun",
+    ["O"] = "Speak to Caledra Dawnbreeze in Stormwind Keep.",
+    ["D"] = "Bal'a dash, malanore, $r! I represent a group of my people who seek to restore our former glory. We seek to settle a new home for us and your assistance would be more than welcome. When you have the time, journey to Stormwind and speak to Caledra Dawnbreeze in the Stormwind Keep. Trust that you will be well compensated for your aid!",
+  },
+  [80251] = {
+    ["T"] = "To Alah'Thalas!",
+    ["O"] = "Speak to Elsharin, she can be found beyond the portal in the Mage Tower in Stormwind.",
+    ["D"] = "Now that you know what we're dealing with and our history... The time has come to act. If you're truly interested in helping us, then this is the way. One of our most talented mages has established a leyline connection to Alah'thalas. Go to the Mage Tower in the Mage District, and speak to Elsharin. She will be able to take you there, once you arrive I am sure someone will tend to you.",
+  },
   [80386] = {
     ["T"] = "A Gizmo a Day...",
     ["O"] = "Bring 20 Whirring Bronze Gizmos to Vanessa Clang in Mudsprocket.",
@@ -1237,7 +1687,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [60120] = {
     ["T"] = "Triggered!",
     ["O"] = "Find Kaja's Ammunition from Ammo Crates in Razorwind Canyon.",
-    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. <name>, I gotta have it back!",
+    ["D"] = "Now that introductions are out of the way, you and I are kinda like partners, yeah? Here's the thing. It wasn't just sacks of foodstuff I lost to those harpies. Those feathered heathens got their claws on at least two crates of weapons and ammo during the attack, and hey I don't have to draw it out in dirt pictures for ya, do I? Worse than the harpies is the tauren merchant expecting those goods. She might use me for target practice if she finds out I not only got her tribesmen killed, but lost her ammo too. $N, I gotta have it back!",
   },
   [80305] = {
     ["T"] = "Quark's Shack",
@@ -1262,7 +1712,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [80301] = {
     ["T"] = "Lighting the Pyres",
     ["O"] = "Light 3 Spirit Pyres inside of the tomb.",
-    ["D"] = "Ah, good. What a beauty you are, <race>. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, <race>! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
+    ["D"] = "Ah, good. What a beauty you are, $r. Exactly what ol' Guay'jin be needing today. When we first came to this land, we found an ancient Zandalari tomb dating back to the days when the mighty Zandalari were fighting the Aqiri menace... You see, mon, we settled here and received a blessing from the spirits and the loa to make our home. We discovered soon after that dark forces are at play here. Bad mojo be hiding in the tombs. Something be disturbing the dead, and the spirits are lashing out in anger. I prepared pyres that guide the disturbed back to where they rest. Enter the tomb and light the pyres, then you'll bring peace to the spirits, $r! You can find the tomb in the hills behind my hut. Look for a stone entrance into the cliff.",
   },
   [80308] = {
     ["T"] = "Tobacco Thieves",
@@ -1282,7 +1732,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [80323] = {
     ["T"] = "The Lies That Bind Us",
     ["O"] = "Return to Gazlowe with Knobby's Belt.",
-    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, <class>. I don't need the wrath of Neeru or his minions targeting me.",
+    ["D"] = "The magic that etched this belt came from Neeru Fireblade. I still cannot read the inscription, but with Neeru's hand in this, I can assure you that it is powerful. Go on your way now, $c. I don't need the wrath of Neeru or his minions targeting me.",
   },
   [80309] = {
     ["T"] = "Odo's Gut Feeling",
