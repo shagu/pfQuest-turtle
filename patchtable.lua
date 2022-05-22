@@ -6,7 +6,11 @@ local noloc = { "items", "quests", "objects", "units" }
 local function patchtable(base, diff)
   for k, v in pairs(diff) do
     if base[k] and type(v) == "table" then
-      patchtable(base[k], v)
+      if type(base[k]) == "table" then
+        patchtable(base[k], v)
+      else 
+        base[k] = v
+      end
     elseif type(v) == "string" and v == "_" then
       base[k] = nil
     else
