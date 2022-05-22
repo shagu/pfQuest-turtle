@@ -20,4 +20,4 @@ This project always needs **your** help: If you find a quest that doesn't work f
 A basic example how things get added, modified and removed can be seen in the commit ([db: add shagu and his quest chain](https://github.com/shagu/pfQuest-turtle/commit/081f48076a9f0a3b44f784d7b8221931986c6af6)), which adds the [Shagu](https://database.turtle-wow.org/?npc=60300) NPC with his [Puffing Peace](https://database.turtle-wow.org/?quest=40001) quest-chain.
 
 ### Pending Quest List
-https://docs.google.com/spreadsheets/d/1-DYHaEq8GD8lH10GJXZxD9iNLNWjl4XA32u_Ire11NY/edit?usp=sharing
+The current state of this extension is tracked via [Google Spreadsheets](https://docs.google.com/spreadsheets/d/1-DYHaEq8GD8lH10GJXZxD9iNLNWjl4XA32u_Ire11NY/edit?usp=sharing).
