@@ -51,4 +51,11 @@ pfDB["objects"]["enUS-turtle"] = {
   [3000280] = "Rosemary",
   [3000284] = "Mysterious Glittering Object",
   [3000343] = "Shimmering Shell",
+  [1000511] = "Chest of Discarded Goods",
+  [1000510] = "Sealed Documents Crate",
+  [141979] = "Ancient Treasure",
+  [2010828] = "Ancient Treasures Chest",
+  [2010825] = "Crate labelled B",
+  [2010826] = "Crate labelled A",
+  [2010827] = "Mechagnome Head",
 }
