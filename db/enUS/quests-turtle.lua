@@ -1182,7 +1182,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [70000] = {
     ["T"] = "A Special Kind of Summons",
     ["O"] = "Visit Archmage Xylem in Azshara.",
-    ["D"] = "The Mage District is always so quiet, isn't it <name>? Well if you are to ignore that heavily insistent calling to visit the Blue Recluse of course. You have grown into a very capable mage, many whisper your name and some have spread rumors about you. And so it reached a very unlikely fellow, one I would tell you not to approach but after all it is your call to make. Sitting atop his tower in Azshara, there's an Archmage that has heard of your growth and name and wishes to meet you personally. Xylem is known to take in apprentices if they are found worthy enough of his teachings, maybe this has something to do with it. I advise you to be careful, the man is very dangerous. To reach his tower you must find his apprentice, Sanath Lim-yo, he's known to be a very joyful and pleasant elf.",
+    ["D"] = "The Mage District is always so quiet, isn't it $n? Well if you are to ignore that heavily insistent calling to visit the Blue Recluse of course. You have grown into a very capable mage, many whisper your name and some have spread rumors about you. And so it reached a very unlikely fellow, one I would tell you not to approach but after all it is your call to make. Sitting atop his tower in Azshara, there's an Archmage that has heard of your growth and name and wishes to meet you personally. Xylem is known to take in apprentices if they are found worthy enough of his teachings, maybe this has something to do with it. I advise you to be careful, the man is very dangerous. To reach his tower you must find his apprentice, Sanath Lim-yo, he's known to be a very joyful and pleasant elf.",
   },
   [70001] = {
     ["T"] = "Lost to the Sands",
@@ -1773,5 +1773,135 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Reappearance of the Damned",
     ["O"] = "Father Brightcopf wants to put a stop to Scourge's advances on the Corinth Farm.",
     ["D"] = "Welcome to the Glenshire. I hope that you have come to assist us. The enemies on every side beset us, and we could surely use any help we could get. West of here is a farm where a large battle occurred recently between our troops and humans of Lordaeron. We planned to use the dead there to boost our troops, but the Cult of the Damned appeared before us with the same idea. If left unchecked, the Scourge will soon have a large force to attack from the west, and we cannot let that happen. If you are feeling up to it, I got a reward ready for anyone willing to put a stop to the Scourge advances.",
+  },
+  [40367] = {
+    ["T"] = "A Pebble to Pick with Them",
+    ["O"] = "Kill 16 Bael'modan Golems in the Bael'modan digsite.",
+    ["D"] = "Hail adventurer! You look like you can carry yourself in a fight. My colleagues and I ran into a bit of a pickle, you see. This is Bael Modan, a facility built by a powerful race that disappeared eons ago. According to some scholars, these Titans had a hand in the formation of our culture. We were trying to open the door in the main chamber when a horrible screech echoed through the digsite. Dozens of statues we dug up came to life and went on a rampage. Those golems have no archaeological value when they try to kill you if you get near them. Get in there and smash them up so we can carry on our work.",
+  },
+  [55215] = {
+    ["T"] = "Uncovering Mystery",
+    ["O"] = "Report to Marge Blackwood.",
+    ["D"] = "Upon first glance Hawk's Vigil may look as if it is the perfect haven to settle, the hills are lush, and the grass is a bright green. Though, do not let this visage fool you, there are foul deeds going on beneath our very eyes, a taint of magic that has been sensed by some of our most adept. We have had murder within our Vigil, and still this growing darkness lingers. Marge Blackwood has taken it upon herself to study and look into these findings of a magical taint and I would like to get to the bottom of this. Report to her, and see if you can assist in getting to the bottom of this mystery. Marge can be found within the manor to the north east.",
+  },
+  [55216] = {
+    ["T"] = "The Mystery Continues",
+    ["O"] = "Speak with Poppy Zabini.",
+    ["D"] = "My research is ever continuing, though the mystery still remains at foot, my friend and associate Poppy Zabini is also a mage within the region. He too has been researching into this matter, though I do believe his time is much more occupied then mine. Would you please head to meet with him? He is currently located just a small walk north to the manor with the blue roof.",
+  },
+  [55217] = {
+    ["T"] = "Zabini's Information",
+    ["O"] = "Bring Zabini's information to Marge Blackwood.",
+    ["D"] = "The dark magic within Hawk's Vigil has seemingly appeared out of nowhere, it's presence went undetected by myself and my kin for quite a while. Or at the least has only cropped up at the last few weeks at a level where many like myself, and Marge would have come to notice it. I am under the belief that either a dormant force has been slowly gaining power for some time, or that perhaps something, or some one, has recently come to Hawk's Vigil with such potency. I wish you luck in finding what is causing the tainting darkness, I sensed something similar before the third war and do not wish to re-live the experience. Tell Marge what little I know, it may be of assistance.",
+  },
+  [55218] = {
+    ["T"] = "A Potential Clue",
+    ["O"] = "Speak with Lord Commander Ryke.",
+    ["D"] = "So, Zabini may be on to something actually, in all my research I have been unable to locate the source of this magic, whoever has been using it seems to know their craft. But, there may be a clue in the information he has provided. Lord Commander Ryke knows all the coming's and going's of Hawk's Vigil, and more precisely who is new to the town. If someone has come in the last few weeks, then perhaps we can look to them as a potential source of this darkness, or at the least, investigate it.",
+  },
+  [55219] = {
+    ["T"] = "Overlapping Investigations",
+    ["O"] = "Speak with the undercover operative Robb Dursley.",
+    ["D"] = "<Lord Commander Ryke finishes looking over his records> So, it seems that we have had someone recently move into the town, though he hails from the city of Stormwind, Harlus Ashbuckle. It would be out of my jurisdiction to press, being that this individual has... Complications. He is currently being investigated by the SI:7, I only tell you this because of our investigation, but we have an operative in the town keeping tabs upon him. Meet up with him, he goes by the name of Robb Dursley, he can usually be found near the town center. See if you can get any information on this Harlus character.",
+  },
+  [55220] = {
+    ["T"] = "Robb's Report",
+    ["O"] = "Deliver Robb Dursley's Sealed Report to Master Mathias Shaw.",
+    ["D"] = "The operations of the SI:7 are secretive in nature, and this must remain as such. If Lord Commander Ryke's suspicions be true, then it means Harlus Ashbuckle would be breaking vow he has sworn to nobility within Stormwind. Of course, that same nobility having gotten him out of the Stormwind Stockade when the man was wanted for crimes of practicing forbidden magic, and murder both. As much as I have my dislike for the House of Nobles I do what I am told. Take my report with my findings to Master Mathias Shaw, leader of the SI:7 within Stormwind in Old Town. Keep them sealed, should the seal be broken, don't show yourself to him, or myself again.",
+  },
+  [55221] = {
+    ["T"] = "The Stockade's Search",
+    ["O"] = "Delve into the Stockades and find information on Martin Corinth.",
+    ["D"] = "Ahh yes, I had only figured a report from Robb would eventually lead back to this man. You may know him as Harlus Ashbuckle , but in truth that is nothing more then a false identity. The man you're gathering information on is actually Martin Corinth who hails from Lordaeron. He escaped south to Stormwind during the Third War and was recently let free from imprisonment. Someone from the House of Nobles delayed his execution and eventually got his release with a vow from the man to swear off his practices and be exiled from the land. I kept a close eye on him, knowing just how much potential power he had within the dark arts. I would like to tie up some loose ends before simply having the man killed for his practices, I wish to figure out who else may be behind all of this forbidden magic, and what Noble set him free. The Stockades has recently been over run, but it is the last location that holds information valuable to this Martin Corinth, go there and find it.",
+  },
+  [55222] = {
+    ["T"] = "Investigating Corinth",
+    ["O"] = "Visit the Deepwater Tavern in Menethil Harbor and ask for information.",
+    ["D"] = "It would seem the Corinth family once held quite a few connections with both Lordaeron and the Stormwind Nobles. All of them have died but Martin still remained, and fled to Stormwind after the war. According to some of these documents as part of his exile he was intending on heading to Menethil Harbor to settle there, we know this is not the case, but perhaps he had left something for us to find. Speak with the innkeeper in Menethil Harbor, ask if they had seen Martin Corinth or Harlus Ashbuckle.",
+  },
+  [55223] = {
+    ["T"] = "Uncovering Evidence",
+    ["O"] = "Find Martin's belonging's and bring them to Mathias Shaw in Stormwind.",
+    ["D"] = "Yes, he stayed here for a few days infact, had a room the entire time! The man was quite nice from what I recall, kept to his lonesome, drank a bit of ale, seemed a bit down though. He did have a lot of mail back and forth that I delivered to him with his daily supper. If you're looking for some of his personal affects then I can't be of that much help, I only recently cleared out what little he had. Man said he was taking a small trip and hasn't showed up in weeks, I figured he wasn't coming back, so I tossed his stuff out to the side of the Tavern. If you're looking for something, check there, if it's not gone already.",
+  },
+  [55224] = {
+    ["T"] = "Mathias' Letter",
+    ["O"] = "Bring Lord Commander Ryke in Hawk's Vigil Mathias' Letter.",
+    ["D"] = "Duke Ramon, well that certainly connects a lot of loose ends that we had here, at the least many of our agents can be pulled off other investigations thanks to this bit of detective work. I prepared this letter to be taken to Lord Commander Ryke back at Hawk's Vigil, it should contain all of the information he should need to bring justice to this man. As for the House of Nobles, we shall continue our investigations, as of now it seems like this may just have been a Nobleman helping out a family friend and keeping them above the law, let us hope it is just that.",
+  },
+  [55225] = {
+    ["T"] = "The Hawk's Vigil",
+    ["O"] = "Kill Harlus Ashbuckle.",
+    ["D"] = "The town of Hawk's Vigil came here to retreat from the looming darkness of Lordaeron, and we will not be forced to retreat from here as well. Many of the citizens have come to make a good life for themselves and one man will not stop us now. Mathias Shaw has told me stories of corruption, of villainy, of pure evil, it is up to you to bring justice to the man Harlus Ashbuckle, or so he goes by. Kill him, and rid our lands of his taint once and for all before untold evil can be done in these lands.",
+  },
+  [40128] = {
+    ["T"] = "An Ancient Acquisition",
+    ["O"] = "Gather 2 Automaton Legs, 2 Automaton Arms, and an Automaton Head from the Bael'modan Digsite.",
+    ["D"] = "Greetings. Torble Sparksprocket here. Junior Archaeologist of the Explorer's League! A few weeks ago, the dig found this strange contraption. It appears to be the torso of an automaton, and it is clearly of Titan make, but we haven't seen anything like it before. That's why I was called here. I quickly realized that it is a modular automaton of some kind. Some days later, the other parts were found, but someone tripped some defense mechanism, and now the dig is full of golems. Can you head in there and find the other pieces? You need two arms, two legs, and a head. Look through crates and such.",
+  },
+  [40129] = {
+    ["T"] = "Stealing a Core",
+    ["O"] = "Acquire an Intact Power Core from Uldaman's Ancient Treasure.",
+    ["D"] = "Hello again, impeccable timing! I have done what I can with the parts you acquired from the dig, but we're missing a crucial piece. This automaton's power source is some advanced crystalline power core. Unfortunately, the one in the chest has cracked, and it's energy has been depleted. None have been found here, and the dig has slowed down due to the golems. Do not despair though, similar power sources have been found in the Uldaman dig bordering between Loch Modan and the Badlands. That dig has also run into issues with the Dark Irons and with awakened defenders. You helped out here, so why not head over there, help them out, and grab me a power core while you're at it?",
+  },
+  [40132] = {
+    ["T"] = "The Activation",
+    ["O"] = "Speak to Torble Sparksprocket and activate Analyzer X-51",
+    ["D"] = "Thank you again. I believe the core is installed. So now all that's left to do is the final assembly, and then we'll have this automaton working! Speak to me again and say the word. Then, we'll turn it on.",
+  },
+  [55212] = {
+    ["T"] = "Tinkering Away",
+    ["O"] = "Head to the Ironforge Airfields and gather Barthos Thundercrank's supplies.",
+    ["D"] = "Back during the third war I was renowned engineer. I did field repairs on flying machines, and all other contraptions. Some say that these inventions are simply gnomish in design, but blast 'em! I always put my own twists on them for extra sturdiness and to be able to handle a dwarf! I'm one of the big engineers here in Hawk's Vigil, but I'm sort of running low on supplies to tinker with. I know those fellows up the cliff from here at the Ironforge Airport have tons just laying around. Head up there, and find my friend Orion Coalborn. He should have some extra supplies he'd be willing to give me!",
+  },
+  [55213] = {
+    ["T"] = "Supplies for Barthos",
+    ["O"] = "Deliver the Engineering supplies to Barthos.",
+    ["D"] = "The senate is going to be breathing down my neck if they look into all these missing supplies. But, I cannot just leave Barthos hanging... Here, this is what I can spare. This crate should have enough to last him for a while. When you see him again, tell him that he can always come work up here. We need the engineers.",
+  },
+  [70053] = {
+    ["T"] = "The Loch Menace",
+    ["O"] = "Slay Threshadons in Loch Modan and return to Warg Deepwater in Loch Modan.",
+    ["D"] = "Something's wrong with the threshadons, $n. They are out of their hiding place and are eating all the fish of the lake! For a while now, our local fishing business has been in a decline thanks to that. I am afraid we'll have to accept the fact that we must cull their numbers so that we can maintain a certain balance. They are beautiful creatures we've shared the lake with for generations, so it pains me that we must take such extreme actions against them. It's only expected of me to ask an outsider to do what we can't, and are not willing to do.",
+  },
+  [60031] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Bring 5 Wool Cloth, 5 Medium Leather, 5 Shadowgems and 5 Small Furry Paw to the fashionista's apprentice and receive one Fashion Coin as a reward.",
+    ["D"] = "Greetings!",
+  },
+  [55100] = {
+    ["T"] = "Join The League!",
+    ["O"] = "Report to Merrin Rockweaver to become a great explorer!",
+    ["D"] = "The Explorer's league is always looking for new members. Are you looking to see the world, and travel the seas of Azeroth in search of forgotten artifacts and buried treasures?! Well then, you should seek out my friend Merrin Rockweaver, one of the many excavators and explorers from the league uncovering old artifacts and bones! Head east from here and find Whelgar's Excavation site. It should be tucked against the southern mountains, so keep your eyes peeled explorer!",
+  },
+  [55101] = {
+    ["T"] = "Help The League?",
+    ["O"] = "Collect 10 Raptor Eggs and bring them to Grovug Mithrilmane stationed in Dun Agrath.",
+    ["D"] = "Report after report of raptors slowly moving against our digsite were ignored by that fool Grovug up in the mountains. He's had a comfy posting up in Dun Agrath and hasn't moved an inch, even though he's supposed to be here. I need some solid proof to give to him, right to his face for some action to get done. Raptor Eggs should do finely. Slay the beasts down there, and collect eggs from them. Bring those eggs to Grovug in the mountains of Dun Agrath to the south west along the mountains.",
+  },
+  [39001] = {
+    ["T"] = "Curiosity Leads Us Forward",
+    ["O"] = "Explore the cave of Gol'bolar Quarry.",
+    ["D"] = "This modish Senator over there won't fool anyone! Part of Explorers' League, sure thing! Bah! What a bluster! Tell ya what, ye can never call yerself an Explorer unless ya go and check every nook 'n cranny by yerself! Of course, he never gone any farther than this quarry here. But, I see I won't hafta talk ye down fer some poking around and find things out by yerself, eh? Good. I'd like ya ta tell me what you'll find out in that cave with all those troggs. They must've come from somewhere, right?",
+  },
+  [55204] = {
+    ["T"] = "Report From Stoutfist",
+    ["O"] = "Take Stoutfist's Report to Captain Snowbeard in Dun Agrath.",
+    ["D"] = "You there, I need a report ran to my fellow Captain up in Dun Agrath up in the mountains to the south. You look capable of delivering a message. This is of utmost importance, it is urgent and about the matters of trade, commerce and travel through the region of the Wetlands. Take this to him, and with urgency, $c.",
+  },
+  [55205] = {
+    ["T"] = "Report From Snowbeard",
+    ["O"] = "Take Snowbeard's Report to Captain Stoutfist in Menethil Harbor.",
+    ["D"] = "What he is asking would leave us defenseless in the mountains... You will have to take this report to him, and let him know of our situation. It grieves me to leave him empty handed, but I must do so to ensure the people's safety up here.",
+  },
+  [55206] = {
+    ["T"] = "Hunting Dragonmaw",
+    ["O"] = "Kill 10 Dragonmaw Raiders, 6 Dragonmaw Bonewarders and 6 Dragonmaw Swamprunners, then return to Captain Stoutfist.",
+    ["D"] = "It seems that I cannot rely on the help of Ironforge or even our close allies. I must ask you, adventurer, to assist in cleaning out the Dragonmaw menace that stalks the highlands and raids our caravans. They have been an annoyance for as long as we have been here and they must be halted lest they gain a larger foothold. Head to Angerfang Encampment to the east, and slay them.",
+  },
+  [55201] = {
+    ["T"] = "Retaking The Roadways",
+    ["O"] = "Collect 5 Mottled Talons for Captain Snowbeard.",
+    ["D"] = "The ground connection to Menethil harbor has been severed ever since raptors have moved in and claimed it as their territory. We haven't had the man power to press them back and as a result we are now stuck up here. Head down to the base of the mountain and kill the raptors there. Collect for me 5 of their talons as proof.",
   },
 }

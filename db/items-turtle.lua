@@ -1127,4 +1127,63 @@ pfDB["items"]["data-turtle"] = {
       [91719] = 100.00,
     },
   },
+  -- Mathias' Letter
+  [81415] = {
+  },
+  -- Martin's Unsent Letter
+  [81414] = {
+    ["O"] = {
+      [1000511] = 100.00,
+    },
+  },
+  -- Martin Corinth's Information
+  [81413] = {
+    ["O"] = {
+      [1000510] = 100.00,
+    },
+  },
+  -- Robb Dursley's Sealed Report
+  [81412] = {
+  },
+  -- Intact Power Core
+  [60195] = {
+    ["O"] = {
+      [141979] = 100.00,
+      [2010828] = 100.00,
+    },
+  },
+  -- Automaton Arm
+  [60192] = {
+    ["O"] = {
+      [2010825] = 100.00,
+    },
+  },
+  -- Automaton Leg
+  [60193] = {
+    ["O"] = {
+      [2010826] = 100.00,
+    },
+  },
+  -- Automaton Head
+  [60194] = {
+    ["O"] = {
+      [2010827] = 100.00,
+    },
+  },
+  -- Barthos' Engineering Supplies
+  [81410] = {
+  },
+  -- Snowbeard's Report
+  [81406] = {
+  },
+  -- Stoutfist's Report
+  [81405] = {
+  },
+  -- Mottled Talon
+  [81401] = {
+    ["U"] = {
+      [1021] = 100.00,
+      [1020] = 100.00,
+    },
+  },
 }
