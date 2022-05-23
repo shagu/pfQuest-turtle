@@ -276,6 +276,13 @@ pfDB["items"]["data-turtle"] = {
       [13157] = 100.00,
     },
   },
+  -- Dwarven Writings
+  [59997] = {
+    ["U"] = {
+      [2893] = 100.00,
+      [2894] = 100.00,
+    },
+  },
   -- Satchel of Mixed Herbs
   [60000] = {
     ["U"] = {
@@ -402,6 +409,24 @@ pfDB["items"]["data-turtle"] = {
       [752] = 8.00,
     },
   },
+  -- Biggs Report
+  [60166] = {
+  },
+  -- Areyntall Strongbox
+  [60167] = {
+    ["O"] = {
+      [3000520] = 100.00,
+    },
+  },
+  -- Delivery of Swords
+  [60168] = {
+  },
+  -- Heavy Jaguar Flank
+  [60170] = {
+    ["U"] = {
+      [767] = 100.00,
+    },
+  },
   -- Sorrowmoss Mushroom
   [60171] = {
     ["O"] = {
@@ -443,6 +468,12 @@ pfDB["items"]["data-turtle"] = {
   [60178] = {
     ["U"] = {
       [92106] = 100.00,
+    },
+  },
+  -- Forgotten Tome
+  [60188] = {
+    ["O"] = {
+      [2010823] = 100.00,
     },
   },
   -- Darlthos Jewelry Box
@@ -501,6 +532,18 @@ pfDB["items"]["data-turtle"] = {
       [91718] = 100.00,
     },
   },
+  -- Oversized Lugnut Ring
+  [60246] = {
+    ["U"] = {
+      [60462] = 100.00,
+    },
+  },
+  -- 'Rightful' Jade
+  [60247] = {
+    ["U"] = {
+      [60462] = 100.00,
+    },
+  },
   -- Furbolg Clue #1
   [60261] = {
     ["O"] = {
@@ -517,6 +560,19 @@ pfDB["items"]["data-turtle"] = {
   [60263] = {
     ["O"] = {
       [2010839] = 100.00,
+    },
+  },
+  -- Barrel of Steamwheedle Wine
+  [60270] = {
+    ["O"] = {
+      [2010840] = 100.00,
+    },
+  },
+  -- Jug of Orgrimmar Brown
+  [60271] = {
+    ["V"] = {
+      ["60702"] = 0,
+      ["5611"] = 0,
     },
   },
   -- Withered Roots
@@ -580,6 +636,13 @@ pfDB["items"]["data-turtle"] = {
       [4067] = 100.00,
     },
   },
+  -- Shadowforge Shackle
+  [60311] = {
+    ["U"] = {
+      [2743] = 100.00,
+      [2742] = 100.00,
+    },
+  },
   -- Greenblade Book
   [60312] = {
     ["O"] = {
@@ -592,6 +655,15 @@ pfDB["items"]["data-turtle"] = {
       [3742] = 10.00,
       [3737] = 10.00,
       [3739] = 10.00,
+    },
+  },
+  -- Scroll of Blessing
+  [60314] = {
+  },
+  -- Orb of Kaladus
+  [60315] = {
+    ["O"] = {
+      [2010846] = 100.00,
     },
   },
   -- Eldara Relay-Orb
@@ -831,6 +903,42 @@ pfDB["items"]["data-turtle"] = {
       [2010860] = 100.00,
     },
   },
+  -- Venture Co. Equipment
+  [60473] = {
+    ["O"] = {
+      [2010861] = 100.00,
+    },
+  },
+  -- Naga Trident
+  [60474] = {
+    ["U"] = {
+      [1907] = 100.00,
+    },
+  },
+  -- Pristine Gorrila Pelt
+  [60476] = {
+    ["U"] = {
+      [1108] = 100.00,
+      [1114] = 100.00,
+      [1558] = 100.00,
+      [1557] = 100.00,
+    },
+  },
+  -- Bloodsail Supply Crate
+  [60477] = {
+    ["O"] = {
+      [2010862] = 100.00,
+    },
+  },
+  -- Potent Scorpid Venom
+  [60478] = {
+    ["U"] = {
+      [5422] = 100.00,
+    },
+  },
+  -- Willy's Letter
+  [60479] = {
+  },
   -- Grash's Staff
   [60494] = {
     ["U"] = {
@@ -908,6 +1016,12 @@ pfDB["items"]["data-turtle"] = {
       [11697] = 40.00,
     },
   },
+  -- Wood
+  [70030] = {
+    ["O"] = {
+      [1772000] = 100.00,
+    },
+  },
   -- Oil Canister
   [70031] = {
     ["O"] = {
@@ -918,6 +1032,15 @@ pfDB["items"]["data-turtle"] = {
   [70035] = {
     ["U"] = {
       [218] = 100.00,
+    },
+  },
+  -- Sturdy Tent Cloth
+  [70038] = {
+    ["U"] = {
+      [2701] = 100.00,
+      [2715] = 100.00,
+      [2717] = 100.00,
+      [2718] = 100.00,
     },
   },
   -- Summer Dew
@@ -1086,6 +1209,14 @@ pfDB["items"]["data-turtle"] = {
       [80901] = 100.00,
     },
   },
+  -- Southern Sand Crawler Leg
+  [81013] = {
+    ["U"] = {
+      [2544] = 100.00,
+      [92147] = 100.00,
+      [92146] = 100.00,
+    },
+  },
   -- Shimmering Shell
   [81117] = {
     ["O"] = {
@@ -1097,6 +1228,36 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [3106] = 70.00,
       [3107] = 70.00,
+    },
+  },
+  -- Intact Pounder Mainframe
+  [81275] = {
+    ["U"] = {
+      [6229] = 100.00,
+    },
+  },
+  -- Thorium Tuned Servo
+  [81280] = {
+    ["U"] = {
+      [4295] = 100.00,
+    },
+  },
+  -- Perfect Golem Core
+  [81281] = {
+    ["U"] = {
+      [8983] = 100.00,
+    },
+  },
+  -- Adamantite Rod
+  [81282] = {
+    ["U"] = {
+      [11120] = 100.00,
+    },
+  },
+  -- Barrel of Oil
+  [81285] = {
+    ["O"] = {
+      [3000248] = 100.00,
     },
   },
   -- Razlik's Tools
@@ -1140,6 +1301,12 @@ pfDB["items"]["data-turtle"] = {
   [81332] = {
     ["U"] = {
       [5546] = 100.00,
+    },
+  },
+  -- Salt Tooth's Head
+  [81334] = {
+    ["U"] = {
+      [91284] = 100.00,
     },
   },
   -- Mosshide Gnoll Armband

@@ -44,6 +44,26 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Share a smoke with Shagu.",
     ["D"] = "Now that you've brought the herbs I can set up my hookah and truly enjoy the real good stuff. It is by the Earthmother's blessings that such a combination exists. I would like you to try this and see for yourself what the gifts of the Earthmother bestow! Sit down, sit down. Let us enjoy the smoke and bond with one another and of course with the Earthmother.",
   },
+  [40010] = {
+    ["T"] = "Antler's Guidance",
+    ["O"] = "Find Malanys Cloudpiercer.",
+    ["D"] = "While many druids possess the ability to control more than one form, there are some of us, a very select few, who decide to follow only one path and dedicate our lives to one of the Wild Gods. Druidism is very different for each individual, $n. I think it will be the same for you. Your task will be to find one of those dedicated few, a Druid of the Antler, who has sworn their life to Malorne. Seek out Malanys Cloudpiercer.",
+  },
+  [40011] = {
+    ["T"] = "Antler's Guidance",
+    ["O"] = "Find Ilyara Skyvault.",
+    ["D"] = "While many druids possess the ability to control more than one form, there are some of us, a very select few, who decide to follow only one path and dedicate our lives to one of the Wild Gods. Druidism is very different for each individual, $n. I think it will be the same for you. Your task will be to find one of those dedicated few, a Druid of the Antler, who has sworn their life to Malorne. Seek out Ilyara Skyvault.",
+  },
+  [40012] = {
+    ["T"] = "The White Stag and the Moon",
+    ["O"] = "Speak to Malanys to continue your path.",
+    ["D"] = "As a Druid of the Antler, we have dedicated our lives to Malorne, the White Stag that reached the moon. Ours is the path of love and tenacity. Long ago when Azeroth was born, and the first nightfall covered its lands, Elune shone through the dark night's sky with a light so bright that it struck the heart of the White Stag, Malorne. During his travels in the woods, Elune guided him with her light, banishing the fear of the dark and bringing hope into his soul. Night after night, he pursued her light, each time growing faster and stronger until the day he reached the skies. Impressed by his tenacity and the love he carried for her, Elune decided to make Malorne her consort. Not long after, our lord Cenarius was born of their love. This is the story as it was told for generations which you must know if you desire to assume the form of the White Stag.",
+  },
+  [40013] = {
+    ["T"] = "The White Stag and the Moon",
+    ["O"] = "Speak to Ilyara to continue your path.",
+    ["D"] = "When the world was young, and the Shu'halo rose from the golden mists of the dawn, the Earthmother blessed us with the love of the hunt. The creatures of the first dawn were fierce and savage. They hid from the Earthmother's sight, finding solace in the shadows and the wilds. Our ancestors hunted these mighty beasts and tamed them with the Earthmother's blessing. Apa'ro, the White Stag, with fur as white as the purest of snow, antlers that pierced the sky, and hooves that shook the land itself, eluded the hunters of our ancestors. For many nights, our ancestors hunted him across the plains and to the ends of the earth. To flee, the great stag leaped into the sky, but his mighty antlers were tangled in the stars. He struggled, to no avail. In that moment, he was noticed by Mu'sha as she chased after her brother, An'she, across the heavens. She found him, and at first glance, fell in love with him. The clever moon made a bargain with the proud stag: if he were to end her loneliness and dedicate his love to her, she would set him free. Many moons later, from their love, the demi-god, Cenarius, was born. Cenarius was meant to walk the starry path between the waking world and the kingdom of the heavens. As a Druid of the Antler, myself and many others were touched by the tenacity of Apa'ro and the love he held for both the wilds and Mu'sha. The story I have shared with you was passed from each generation to share with those who would choose to walk the path of the White Stag.",
+  },
   [40014] = {
     ["T"] = "Titiki's Hunt",
     ["O"] = "Slay Giant Plains Creeper for 5 Greater Venom Sacs.",
@@ -144,10 +164,50 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Find Akh Z'ador.",
     ["D"] = "My strength is sapped. I feel aged and weak, but I saw a city. A city that was submerged beneath the waves, as if the tides themselves had come and drowned it all. There were tall cliffs, massive in scale, and it seemed as if the spirits there wallowed in misery. Red leaves fell from the trees and a strong magic lingered and pulsated as if it wanted me gone. It weakened me and made it hard to focus. I am certain that Akh Z'ador is on this world right now. He must have faced something on the Outland and been forced to leave. That, or his rift's instability sent him to this foreign landscape. This is but all I can remember, outsider. It seemed as if whatever resided there was strong—much stronger than the wildlife here. Much stronger than even you. I beg of you to try to find Akh Z'ador wherever he may be, no matter long it takes you.",
   },
+  [40071] = {
+    ["T"] = "Biggs' Report to Sorrowguard",
+    ["O"] = "Deliver Biggs' Report to Watch Paladin Janathos.",
+    ["D"] = "Traveler, please! I need this letter delivered, and quickly! It details everything that happened to the caravan. My commander is within the old Sorrowguard keep to the northwest, tucked within the mountains near Deadwind Pass. Take this to him, and with haste!",
+  },
+  [40072] = {
+    ["T"] = "Areyntall Family Value",
+    ["O"] = "Collect the Areyntall Strongbox for Sir Areyntall.",
+    ["D"] = "The Areyntall family has been a noble house within Stormwind for quite some time, and Lordaeron before that. We made our fortunes from naval trade and procured rare materials from far away lands to sell within the Kingdom. I cannot take full credit. Of course, it was my father's doing, but I hoped to live up to the same legacy as he. I did well for a while nonetheless and ran my family's ship, the Crownguard, for a few months. It is a tragedy that it sank along with part of my family's goods. You can find the wreck off the eastern coast, sunken deep into the ground. If you could go there and search the wreckage for my family's strongbox, I would make it worth your while.",
+  },
+  [40073] = {
+    ["T"] = "Iron for Sorrowguard",
+    ["O"] = "Gather 20 Iron Bars for Janet Hollowworth in Sorrowguard Keep.",
+    ["D"] = "They promised that we would be well-supplied when we departed from Stormwind, only for us to be left out here with hardly anything to work with. What supplies we did receive, Watch Paladin Janathos paid for—mostly out of his own pocket from shipments on the eastern coast. Ever since those shipments stopped, we have gotten nothing. You can't imagine how hard it is to maintain equipment with such a small supply of iron that I have. If things keep up like this, I will run out, which means Sorrowguard will fall. I suppose that is where you come in. If you can procure me 20 iron bars, it will go a long way in keeping us in working order.",
+  },
+  [40074] = {
+    ["T"] = "A Delivery of Swords",
+    ["O"] = "Collect the Delivery of Swords from Clarise Gnarltree.",
+    ["D"] = "Watch Paladin Janathos requisitioned some swords a while ago, and while he paid me to make the swords, I have been having trouble finding a way to deliver them. The nearest blacksmith with the proper materials was Darkshire. Clarise Gnarltree was paid to craft swords for Sorrowguard. You shall find her there. Could you head to Darkshire and gather the swords for me? They will surely help ease the load on my crafting and make the bars that you gave us to go even farther.",
+  },
+  [40075] = {
+    ["T"] = "Swords to Sorrowguard",
+    ["O"] = "Take the Delivery of Swords to Janet Hollowworth in Sorrowguard Keep.",
+    ["D"] = "It has been so long since I last heard from Sorrowguard. I honestly had assumed the orcs had taken or destroyed the keep—that, or something equally as bad. I am not a cynic, just a realist. It's a dangerous place, that swamp! Still, I held onto the swords, just in case something bad happened to us. It's better to have them than have some coin, I figure. Take them to Janet. She should be relieved I didn't happen to sell them off.",
+  },
+  [40076] = {
+    ["T"] = "Food Improvision",
+    ["O"] = "Collect 5 Heavy Jaguar Flanks from Swamp Jaguars in Swamp of Sorrows for Quartermaster Davin.",
+    ["D"] = "I manage the supplies here in Sorrowguard, and let me tell you, we are getting close to rationing. We keep and manage our supplies, and I make sure that we have a lock on most things, but the one thing we are coming short on is food. It would certainly mean a lot if you could help me improvise for the next coming while. The jaguars in the area are probably the closest thing to an actual decent meal. Collect five Heavy Jaguar Flanks for me. They should do me well enough in keeping everyone sufficiently fed.",
+  },
   [40077] = {
     ["T"] = "Sorrowmoss Mushrooms!",
     ["O"] = "Collect 10 Sorrowmoss Mushrooms for 'Sly' Duncan.",
     ["D"] = "Howdy, partner! Don't see many new faces here, especially in this old, beaten-up castle! Surely you've heard the rumors of brave defenders holding off the orcs for days on end before being destroyed! What a tale. I could also tell you stories about the mushrooms in Swamp of Sorrows, especially Sorrowmoss Mushrooms! Sorrowmoss Mushrooms only grow within this region. They have a certain... \"taste\" to them once you figure out how to cook them properly—because if you don't, well, it's deadly! I have a few friends from my old hometown who would love to try some. You'll be a pal and help me get them, right? All I need is ten. That should do just nicely partner!",
+  },
+  [40078] = {
+    ["T"] = "The Murloc Menace",
+    ["O"] = "Kill 6 Marsh Inkspewers, 6 Marsh Murlocs, and 6 Marsh Flesheaters for Watch Sergeant Arthur.",
+    ["D"] = "When we first set up, we relied on supplies from the eastern shoreline that traveled by wagon to get to us. It seemed like a safer journey than going through all of the chaos of Deadwind Pass. Now, with the insanity of Fallow Sanctuary and the sinking of the Crownguard off the coast, we are hard-pressed to get supplies. The murlocs who sank the ship have been a menace to us since we landed, and we need to deal with them. You will find them on the eastern shoreline. Exterminate them, and perhaps we will be able to reopen trade.",
+  },
+  [40079] = {
+    ["T"] = "Avoiding Detection",
+    ["O"] = "Kill 8 Stonard Scouts for Watch Sergeant Arthur.",
+    ["D"] = "Sorrowguard has stood since its construction before the first war. While the orcs destroyed it during that war, the walls still stand. This, of course, is thanks to Watch Paladin Janathos. Without his efforts in bringing the workforce here and conducting repairs, this place would be nothing more than a smoldering ruin. It is with this knowledge of the past that we must protect what we have done here. The orcs of Stonard are our main enemy. We do not seek to cause an all-out open war, but to be scouted by our foe would potentially cause our destruction. Already Stonard Scouts have been probing eastward, and we must stop them. Venture out there and kill any you find. Do so in the same manner as the brave footmen who died defending these walls years ago.",
   },
   [40080] = {
     ["T"] = "Into the Uplands",
@@ -208,6 +268,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Crescent Grove",
     ["O"] = "Destroy the source of corruption inside Crescent Grove and return to Denatharion in Teldrassil.",
     ["D"] = "The Crescent Grove was once a retreat for druids of our kind for many years. As of recently, something evil has lurked there. Keeper Ranathos was tasked with holding back the taint that plagued the area, but we have not gotten word from him lately. His last message back was also quite erratic and unlike Ranathos. We druids had suspicions of something much darker taking root within the Crescent Grove. Recently, we have gotten a report from one of our druids being corrupted and warped. Arch Druid Staghelm has asked the druids to assist with establishing control in Crescent Grove once again, but we are unable to. Perhaps you can assist. You can find the entrance to the grove in the south of Ashenvale, at the waterfall to the Mystral Lake. The cave's entrance lies above, so venture forth and destroy what evil lurks in that place. Make sure to bring assistance. You will find many hardships inside.",
+  },
+  [40095] = {
+    ["T"] = "Tales of the Past",
+    ["O"] = "Find the Forgotten Tome within the Swamp of Sorrows.",
+    ["D"] = "Sorrowguard Keep once held the Orcish Horde at bay for two weeks. Day after day, orcs attacked these walls and were repelled by brave defenders of the Kingdom of Azeroth. They battled from one end of the swamp all the way back to these very walls. My mentor was one such hero who took the call and met the horde within these lands. As much of a hero he was, he gave his life so others had the chance to survive. When I was being trained, he carried a tome of great holy power from the Abbey of Northshire. I still believe the tome to be present here in the swamp, though in what condition, or where, I cannot be certain. I do know it lies west of Stonard, that should certainly narrow down the area if you wish to search in the name of the Light.",
   },
   [40096] = {
     ["T"] = "Outnumbered",
@@ -334,6 +399,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Venture into the Crescent Grove and root out the evil inside.",
     ["D"] = "This report is chilling. Something is going on within the Crescent Grove, and it must be stopped. If we do not end the corruption, it could spread as far as Mulgore and beyond. We must do our part for the greater good of nature itself as druids. I must ask you to delve into the very depths of the Crescent Grove. You can find it to the southwest, near Mystral Lake. The cave entrance is just above the waterfall. There should be a pathway up. I recommend you find a band of those heroic enough to travel with you. There is no telling what lies ahead.",
   },
+  [40175] = {
+    ["T"] = "The Bet",
+    ["O"] = "Bring back the Rightful Jade for Dirty Jacob.",
+    ["D"] = "I may not have the most gold on me, but I do have a fortune that's waiting out there for me. I made a bet with this goblin, named Nagzel, crafty little guy. You see, we were playing cards one day and he was telling me about his plans of joinin' the Venture Co. and working at the base camp by Lake Nazferiti. For the first time in my life, I was actually winnin', and he offered this big hunk of a ring. Now, the ring itself I cared little for, it was nothing more then some cheap old iron lug nut, but it had this BIG jade sticking on top of it. I'm talking the size of my thumb! Bets are more then just games, they're a way of life, and this man took the ring when he lost, and vanished, never to be seen again. Go find this punk and get that green stone, it's rightfully mine!",
+  },
   [40181] = {
     ["T"] = "Taking over Faldir's Cove",
     ["O"] = "Invade Faldir's Cove and kill everything in your way.",
@@ -353,6 +423,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Old Greypaw",
     ["O"] = "Speak with Old Greypaw within Ashenvale for Daela Evermoon.",
     ["D"] = "For many long years our neighbor was that of a furbolg, he has grown aged over the last few years but was extremely wise. Old Greypaw often kept to himself, and minded his own business, often venturing over for a night time talk if he so needed the company. As of lately I fear for his mental health, the other furbolg of the forest have begun to act irrationally, and I fear Greypaw may be succumbing to a similar fate. He has not stopped by in months, and has kept to his home to the north. He has been aggresive to either me or Ardaen approaching and wishing to talk, but perhaps you may be able to speak with him, and ask if he is doing okay. It would certainly ease my mind to know an old friend is well.",
+  },
+  [40198] = {
+    ["T"] = "Smuggling Ale",
+    ["O"] = "Gather a Barrel of Steamwheedle Wine, 10 Flasks of Port, a Cast of Merlot, and a Jug of Orgrimmar Brown for Fazzle 'The Slick' in Bloodsail Retreat.",
+    ["D"] = "Hey, you! I be needing a bit of work that is off the boat if you think you can be a hand. When we get moving all that people really got to do is either drink, or work to keep the ship clean and orderly. I've found it always good to keep a good reserve of ale on hand, and a good variety of it too! What I'm gonna ask you to do is bring some ale from various sources, some of which might require you to have some friends, or connections with the opposite faction at that! First, I need a Barrel of Steamwheedle Wine, which can be found at the port, steal it. Secondly I'll need common ale, 10 Flasks of Port. Finally get me a Cask of Merlot from Stormwind at the Gallina Winery, and a jug of Orgrimmar Brown from the Tavern in Orgrimmar.",
   },
   [40201] = {
     ["T"] = "Unforseen Consequences",
@@ -439,10 +514,35 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Collect a single Pristine Twilight Fang for Conservationist Yalus in Stonetalon Peak.",
     ["D"] = "Welcome to Stonetalon Peak, a place of harmony with nature, Keeper Albagorm has done well in maintaining the region despite setbacks. I have been working tirelessly for sometime in maintaining the wildlife around here, and I have been having some issues. The Twilight Runners of the Peak have been growing more hostile with time, and I fear they may out hunt some of the other wildlife present here. I require from them a single Pristine Twilight Fang, which will be used to conduct research to find any sort of genetic problem, disease, or corruption that may be gripping the population. You can find them about Stonetalon Peak, be quick.",
   },
+  [40228] = {
+    ["T"] = "Captain Barlgruf",
+    ["O"] = "Slay Captain Barlgruf within Angor Fortress for Senator Broadbelt in Badlands.",
+    ["D"] = "The Dark Iron Dwarves have been a long standing rival of ours, their attacks against our people have been ruthless. I have come to attempt to bolster our strength in the region, and if we want that to be possible, then we must set our sights on Angor Fortress. The place is run by Captain Barlgruf, he has been sent from Shadowforge City to oversee actions here within the Badlands, cut him down, and the rest of them will be aimless. He should be inside Angor Fortress, no doubt nestled with the rest of his lackeys. Kill him, and return to me.",
+  },
+  [40229] = {
+    ["T"] = "Angor Fortress",
+    ["O"] = "Slay Dark Iron Dwarves around Angor Fortress, and collect 10 Shadowforge Shackles for Senator Broadbelt in Badlands.",
+    ["D"] = "Angor Fortress looms like a dark cloud in the Badlands, from their the Dark Iron can muster immense amounts of power. They are one of the key players in the region for that very reason. I have been sent from Ironforge to attempt to dissolve some of their grip here, and to do so, we will need to strike hard. I desire you to travel to Angor Fortress just to the north west, and slay those that guard it. Take from them their Shadowforge Shackles they wear, 10 of them in total, and bring them to me.",
+  },
   [40230] = {
     ["T"] = "Saltspittle Raiders",
     ["O"] = "Gather 5 Saltspittle Fins and recover the Greenblade Book.",
     ["D"] = "Lake Falathim was a place I spent much of my youth, it was a place of relaxation and good times. Only now it is taken over by the Saltspittle, who attacked with ferocity and no remorse. Some died during the attack, but I was lucky to escape. When I was about to leave I left behind an item that is most valueable to me. My Uncle who died during the Battle of Hyjal left me a book in my possession. It is one he wrote about both his technique in battle and his experiences regarding war. I've found much knowledge and wisdom from that book, and I desire to know everything that he had jotted down before his passing. Travel to Lake Falathim to the south west, and find my belongings. While you are there, make sure to get revenge, and slay the Saltspittle, their fins should do fine.",
+  },
+  [40231] = {
+    ["T"] = "The Forgotten Tome",
+    ["O"] = "Take the Forgotten Tome to Archbishop Benedictus in Stormwind.",
+    ["D"] = "This tome holds a great history to the nation of Stormwind, and should be stored as such. A holy warrior fell on this battlefield many years ago, and this tome remains intact. The tomes words are holy scripture, and I would ask it be placed amongst the Cathedral's great books. I ask of you to travel to Stormwind, and speak with Archbishop Benedictus, to see if he would take this book within the Cathedral to be preserved. My mentor would ask this of me, I am certain, let us do our duty.",
+  },
+  [40232] = {
+    ["T"] = "Returning to Janathos",
+    ["O"] = "Deliver the Scroll of Blessing to Watch Paladin Janathos at Sorrowguard Keep in Swamp of Sorrows.",
+    ["D"] = "With the tome in my charge I would ask of you to bring a scroll to Watch Paladin Janathos in Sorrowguard Keep. From this scroll I hope to bless him and those underneath his command, for the light to watch over them safely, and deliver them from evil. When you see him, be sure to mention I wish him well.",
+  },
+  [40233] = {
+    ["T"] = "The Orb of Kaladus",
+    ["O"] = "Venture within the Scarlet Monastery and find the Orb of Kaladus, retrieve it, and return to Watch Paladin Janathos at Sorrowguard Keep.",
+    ["D"] = "I would ask one last thing from you, my mentor came from Lordaeron, a kingdom far to the north that is now desecrated and torn beyond imagining. It is filled with the undead that roam freely upon the broken landscape. Within this land is an order known as the Scarlet Crusade, remnants of an old paladin order. They are fanatical, and heartless to the core, it is from them I require something. Within the Scarlet Monastery, in northern Tirisfal Glades is a mighty Cathedral, it was built well before these zealots time, and it is there my mentor studied the light. I would ask that you bring to me the Orb of Kaladus, a stone enfused with the power of the light. Ever since my mentor departed from Lordaeron, those holy brigands have kept it to themselves. Enter the Cathedral, and bring it to me, the light should be wielded by the true of heart, not the black of soul.",
   },
   [40243] = {
     ["T"] = "The Keepers Charge",
@@ -754,6 +854,46 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Travel to the Crescent Grove and find the burned down home of Kalanar Brightshine. Then retrieve Kalanar's Mallet and return it to him in Astranaar.",
     ["D"] = "Long ago I traveled the forests of Ashenvale in search of a place to call home. As the druids tended to The Crescent Grove, I figured such a tranquil location would make the perfect home. For centuries I tended to my garden and assisted the druids with whatever needs they had. As of recently, a band of Furbolg calling themselves, the Groveweald, had moved in. They expelled me from my home and even had the audacity to burn it to the ground. In my panic, I left behind many valuable heirlooms and treasures. Without a doubt, most of it burnt to the ground. Please travel to my burned down home in the Crescent Grove and gather from behind the house my mallet. It was given to me by my father, and I used to build my house. Collect it, for it means a lot to me.",
   },
+  [40327] = {
+    ["T"] = "Abandoned Equipment",
+    ["O"] = "Collect Venture Co. Equipment for Falgig Wazzlewrench at the Bloodsail Compound in Stranglethorn Vale.",
+    ["D"] = "I got word a few weeks back that the Venture Co. had to abandon the Crystalvein Mine because of a basilisk problem. No doubt they left behind all sorts of equipment and tools that are ripe for pilfering. We pirates are usually operating on second hand equipment, and such a score we -cannot- pass up. The Crystalvein Mine is located to the east and is just off the road near the Gurubashi Arena. Get there, and get there quick pal, before those Venture goons go and try to get back there stuff. If we act fast, they won't even know we went and snatched it all up!",
+  },
+  [40328] = {
+    ["T"] = "Naga Tridents",
+    ["O"] = "Gather 14 Naga Tridents for Raga Darkeye at the Bloodsail Compound in Stranglethorn Vale.",
+    ["D"] = "A few weeks back Naga began to enter the territory just south of the Bloodsail Compound. We don't know why they are here, or why they came but they seem quite drawn to the heights. The slithering wretches have done nothing but wander about and bother our ships as they sail about. I'd like you to do battle with them for all of our slain kin. Gather from the Naga Explorers their tridents and bring me them as proof of your deeds. 14 Should do just nicely, maybe we can use them as harpoons against the beasts.",
+  },
+  [40329] = {
+    ["T"] = "Pristine Gorrila Pelt",
+    ["O"] = "Slay Gorillas in Stranglethorn Vale and collect a Pristine Gorilla Pelt for 'Wincing' Willy at the Bloodsail Compound.",
+    ["D"] = "We got a contact who has been looking to buy a Pristine Gorilla Pelt for some time now. They're paying top dollar for one completely pristine with not a single imperfection. The Bloodsail could certainly use the coin to fund our operations. Head out into the jungles of Stranglethorn and hunt down some of the gorilla, and find me a pristine pelt. We may as well utilize the jungle while we are here afterall.",
+  },
+  [40330] = {
+    ["T"] = "The Bloodsail Compound I",
+    ["O"] = "Travel to Bloodsail Compound and meet with 'Wincing' Willy.",
+    ["D"] = "It sure has been a while since we've heard from old 'Wincing' Willy. He has been appointed to manage the supplies out far to the north west at Bloodsail Compound, it is located just to the southwest of the Gurubashi Arena. Something must have gone wrong, or him and his men have gone rogue. I want you to travel there, and meet up with him and figure out why there has been supply shortages. If there's anything we Bloodsail need, its to keep our supply lines in check!",
+  },
+  [40331] = {
+    ["T"] = "The Bloodsail Compound II",
+    ["O"] = "'Wincing' Willy at the Bloodsail Compound wants you to collect 5 Bloodsail Supply Crates and kill 10 Skullsplitter Warriors.",
+    ["D"] = "Five nights ago we were harassed by a band of trolls with blue hair, they threw all sorts of javelins at us. They made off with crates and bundles of supplies, not to mention killing a few good folk before we fought them off. Those trolls are Skullsplitter, and came from the Ziata'jai Ruins to the north east of here head there, and recover 5 Bloodsail Supply Crates. While you're there, you may as well kill some as well to get some payback, we need to keep our image after all.",
+  },
+  [40332] = {
+    ["T"] = "The Bloodsail Compound III",
+    ["O"] = "Meet with the Bloodsail contact named Jabbey in Steamwheedle Port.",
+    ["D"] = "Now that you've recovered the supplies we can turn our attention to other matters entirely. On Kalimdor we have a network of clients and contacts that we keep in touch with for all sorts of purposes. One such contact is located within Steamwheedle Port and hasn't sent his delivery of goods yet. He goes by the name Jabbey and is a vendor there. I'd like you to head there and find out what the hold up is so that we can get it all to McCoy. You can find Steamwheedle Port to the east of Gadgetzan in the deserts of Tanaris. Now, of course, make sure you keep it on the hush-hush that this is related to the Bloodsail. Oh, and make sure to bring water, I hear it's quite dry there.",
+  },
+  [40333] = {
+    ["T"] = "The Bloodsail Compound IV",
+    ["O"] = "Gather 8 Potent Scorpid Venom and deliver them to 'Wincing' Willy at the Bloodsail Compound in Stranglethorn Vale.",
+    ["D"] = "Hey I aint lookin' for no trouble, and keep your voice down! I've been supplying the Bloodsail with a potent poison for some time now, and my main guy just up and left Tanaris. I know they paid me for the last batch but I just haven't had an opportunity to get it, do I look like some sort of scorpid killer to you? Maybe you can help me out, and deliver it for me, I'll throw in some coin to you as well for the trouble. To the west of here are a bunch of Scorpid Hunters, from them gather 8 Potent Scorpid Venom and deliver them to 'Wincing' Willy back out at the Bloodsail Compound in Stranglethorn Vale.",
+  },
+  [40334] = {
+    ["T"] = "The Bloodsail Compound V",
+    ["O"] = "Bring Willy's Letter to First Mate McCoy at Bloodsail Retreat in Stranglethorn Vale.",
+    ["D"] = "Nice work on checking up on things for me, there might be more work around the camp, but I'd like you to deliver a letter up to First Mate McCoy. No doubt he's getting a bit anxious wondering what me and you have been up to. I have prepared a note to be taken to him down at Bloodsail Retreat, so please do so with haste.",
+  },
   [40338] = {
     ["T"] = "The Azurestone",
     ["O"] = "Speak with Tholdan Mountainheart, and listen to the tale of the Azurestone.",
@@ -1034,6 +1174,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Travel to Sparkwater port and deliver Zuul's Note to Rugnar.",
     ["D"] = "There is one last thing I require from you, friend, if you could but be of help a moment longer. I still may be here for a while longer waiting for my leave. If you could take this letter from me and deliver it to my brother letting him know I will be arriving soon, it would mean quite a lot to me. Thanks again, friend, Blood and Honor.",
   },
+  [55025] = {
+    ["T"] = "Dry Hiding",
+    ["O"] = "Collect 5 Jugs of Bourbon, 3 Flags of Mead, 10 Flasks of Port, and 10 Cherry Grogs for Shalgrig Pipeshack and the other Brightwater Crew.",
+    ["D"] = "I'm losing my mind down here. We've been told to stay a bit under the radar for a while after the old Brightwater took a few cannonballs to the side. Been forced to stay in refuge for a few days now and I'm going loopy! Aaah, if only there was a way to get some booze... Wait a second, you can get booze. Since we can't, make a trip up to The Salty Sailor and get me the following... Ahem... 5 Jugs of Bourbon 3 Flagons of Mead 10 Flasks of Port ...and 10 Cherry Grogs!",
+  },
   [55026] = {
     ["T"] = "It All Comes Sinking Down",
     ["O"] = "Travel to the port of Booty Bay and speak with Baron Revilgaz.",
@@ -1053,6 +1198,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "In Need of Information",
     ["O"] = "Speak to Baron Revilgaz.",
     ["D"] = "Oh the Captain sent you? Well isn't that a relief, it's been almost a week that we've been sitting around here with no word. I was about to start figuring out a way to get out of Booty Bay, but it seems like the only thing keeping us safe are the Bruisers. The Bloodsail Buccaneers have been wanting us dead ever since we sunk one of their ships in a battle. Lets just say they got lucky and ambushed us near Grom'gol! They want us all gone and won't stop until we are, it seems. The Bloodsails are a disorganized bunch, and not centrally commanded. Each encampment or ship has their own crew and their own leader, and this group hunting us is only doing so because we killed the man's brother. If anyone knows anything, it's Revilgaz.",
+  },
+  [55030] = {
+    ["T"] = "Acquiring Information",
+    ["O"] = "Obtain information from the Bloodsail Traitor outside of Booty Bay and return to Shalgrig Pipeshack in lower Booty Bay.",
+    ["D"] = "Pazzle and his crew really have gotten themselves into a jam, but if it means you're going to be bothering those goons known as the Bloodsail Buccaneers then I'm all for helping! I got many leads on them, but I wouldn't entirely know who's heading up a hunt for the remains of the Brightwater crew. That being said, I know someone who might know. Outside of Booty Bay is an informant I've known for quite a while, I kicked them out of the city for being affiliated with the buccaneers. I saved their head, they owe me, if they know whats good for em. Find that Bloodsail Traitor, tell them Revilgaz is asking. Once you got that information, tell the Brightwater crew, they can do what they want with it.",
+  },
+  [55031] = {
+    ["T"] = "Smash Salt Tooth!",
+    ["O"] = "Kill Captain Salt Tooth and bring his head as proof to Shalgrig Pipeshack.",
+    ["D"] = "There's only one camp near that location and it's gotta be where this Captain Salt Tooth is at, then! If we're ever gonna have a shot at getting out of this town, well then he's gotta go! So, you're going to help then, right? Head up north near the Gurubashi Arena, there is a camp of Bloodsail just south of it, off the road to the west. Find and kill Captain Salt Tooth there, bring me his head so I know this is done. Oh, and bring some friends, he's sure to have quite the crew!",
   },
   [55032] = {
     ["T"] = "Reduced to Madness",
@@ -1143,6 +1298,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "WANTED: Shazknock!",
     ["O"] = "Find and slay Shazknock at Boulderlode Mine.",
     ["D"] = "Shazknock is wanted for crimes against Sparkwater Port, sharing vital information and leaking trade secrets of the union to the Venture Co. He has secured himself a position as Manager with the information he has leaked. Find the man at his new position at Boulderlode Mine within the Great Hall there and bring his head to Tradesman Laz as proof for reward.",
+  },
+  [55051] = {
+    ["T"] = "Return to Port!",
+    ["O"] = "Report the good news to Pazzle Brightwrench in Sparkwater Port.",
+    ["D"] = "I can't believe it's finally over, heh. No more sitting around in the this basement and getting drunk off cheap liquor, now I can sit around on a beach with the expensive stuff as celebration! It's been a real pleasure $n and we couldn't have done it without you. Head to Sparkwater Port, let the Captain know that we're going to be on our way back when we can organize a ship to get us there. He should be sure to give you some sort of a reward for helping us out, surely.",
   },
   [55100] = {
     ["T"] = "Join The League!",
@@ -1304,6 +1464,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Bring 5 Wool Cloth, 5 Medium Leather, 5 Shadowgems and 5 Small Furry Paw to the fashionista's apprentice and receive one Fashion Coin as a reward.",
     ["D"] = "Greetings!",
   },
+  [60032] = {
+    ["T"] = "Fashion Demands Sacrifices",
+    ["O"] = "Bring 5 Silk Cloth, 5 Heavy Leather, 1 Stylish Green Shirt and 5 Torn Bear Pelt to the fashionista's apprentice and receive one Fashion Coin as a reward.",
+    ["D"] = "Greetings!",
+  },
   [60040] = {
     ["T"] = "Delicious Pumpkin Pie",
     ["O"] = "Bring 1 Delicious Pumpkin Pie to Gina Weller in Goldshire.",
@@ -1449,6 +1614,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Vaccinate 10 Gazelle of the Barrens to protect them from harm.",
     ["D"] = "We've done it, $N! With the help of the druids, we have found a cure to the Dreadmist Poison affecting the Barrens. It will take time for the earth to heal from the poison's damaging effects, however. Druids are curing the remaining sickened beasts, but we can also act to protect the herds from the lingering poison until the land has recovered completely. Take this salve. Feed it to gazelles to strengthen them against the poisoned grasses.",
   },
+  [60135] = {
+    ["T"] = "The Lingering Mother",
+    ["O"] = "Find and defeat the spirit of Palkeote.",
+    ["D"] = "While my mission here is focused on the centaur, it is my duty as a Keeper to heal the world wherever it may suffer. Southwest of here, there is a spirit in this land that cries out in pain. She had no name in life, but the Tauren know her spirit as Palkeote - “grey mother”, in their tongue. Palkeote lost one of her sons in this land long ago, before the sundering of the world. Yet she would not leave his side. She remained here for many long years, as the trees grew and the world changed around her, until at last she too passed at the side of her beloved child. She remains here as a restless spirit. The long years of her life and her dedication to her single task make her mighty, but she has long passed from the warmth of love for kin. You will need many allies to lay her to rest, hero, but that is what I ask you to do.",
+  },
+  [60137] = {
+    ["T"] = "Palkeote",
+    ["O"] = "Find and defeat the spirit of Palkeote.",
+    ["D"] = "Do you know the legend of Palkeote, the grey mother? She is the spirit of an ancient kodo who walked this land in the distant past, in the days even before the sundering. This land was green then, and she roamed it for many years with her mate and her children. One day, one of her sons fell ill with a sickness that would not leave him. He fell further behind the pack with each passing day, until he finally collapsed northwest of here, near a river that has now gone dry. Palkeote stayed with her son, but she could do nothing to stop his passing. She would not leave even then. Her herd moved on and the seasons passed around her, but still she remained, until she herself passed away beside him. Her watch did not end even then, and she remains as a mighty spirit. The Earthmother pities the suffering of all life, and she pities the suffering of mothers most of all. Palkeote's vigil has made her strong, but it is time for her to rest. Muster your allies and end her long watch, $c.",
+  },
   [60138] = {
     ["T"] = "Kodo Hunt",
     ["O"] = "Find a herd of kodo in the fields of Mulgore and defeat its Matriarch and Bull.",
@@ -1503,6 +1678,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Jasperlode Infestation",
     ["O"] = "Go to the Jasperlode Mine northeast of Goldshire and clear out the spider infestation.",
     ["D"] = "After your scouting mission at the Jasperlode Mine, I've gotten reports that a stray brood of spiders from Duskwood has made the depths of the mine their home while using the kobolds to feed and increase their population. Kobolds, the Defias, and now spiders? We cannot afford to spread out our men thinner than they already are. Go back to the mine and clear out the infestation before they spread all over the forest!",
+  },
+  [60155] = {
+    ["T"] = "South Seas Delicacy",
+    ["O"] = "Bring 10 Southern Sand Crawler Legs to Innkeeper Skindle in Booty Bay.",
+    ["D"] = "Crab legs - they are such a delicious thing. They go well with everything! Undermine Claw Chowder, Goldthorn Tea, and even other crab legs! Maybe you're strong enough to catch them and get the crab legs I need? You can find them at the Wild Shore which is directly south of Booty Bay. Be careful, though. I heard the shore got invaded by Bloodsail Buccaneers. That would explain why my supplier stopped coming.",
   },
   [70000] = {
     ["T"] = "A Special Kind of Summons",
@@ -1608,6 +1788,16 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Troubles From Distant Lands",
     ["O"] = "Gather 3 types of healing herbs for Aneka Konko in Ratchet.",
     ["D"] = "I offer you humble greetings, denizen of these lands. It is remiss of me to ask this of you, but my people are in grave danger so I cannot withhold from inquiring. My name is Aneka Konko. I hail from Kamio, a land across the seas. Five years ago, we first saw the fish and snake people wash upon our shores. Their encroachments have only continued and our sacred Kami can no longer protect us. I have arrived to this land with a small entourage to seek the help of kind souls who could assist me. Our warriors are fighting to their last breath against the invaders, although, these days most of our warriors die not to the enemy, but to illness. We're ill equipped to treat the many injured. Our island is small and few of us possess the knowledge or reagents needed. When I first came here, I learned of three rare plants that possess immense healing properties. I beg of you to assist us. Retrieve these plants from the three oases in the Barrens. Each oasis contains one of these plants.",
+  },
+  [70049] = {
+    ["T"] = "Pitch a Tent",
+    ["O"] = "Gather 10 pieces of Sturdy Tent Cloth to Noli in Badlands.",
+    ["D"] = "It seems that drunkard is getting quite the laugh from me paying you out of pocket, $n. This dwarf wants me to repair some tents! Do I look like I know how to repair a tent?! And he's cracking jokes about how even an ogre knows how to pitch a tent! Look, $n, help me out here so I don't make a complete fool of myself. We're going to need some cloth to repair these tents and apparently those ogres to the west may have what we're looking for. But, believe me, I have no idea what that dwarf is talking about!",
+  },
+  [70050] = {
+    ["T"] = "Ms. Fix-it!",
+    ["O"] = "Gather some dry fire wood and return to Noli in the Badlands.",
+    ["D"] = "That drunken fool! He's absolutely outrageous! I am here for serious matters, not mundane, meaningless tasks. I will not stand for this, no, no! $n, please, help me out. I'd rather pay you than give that man the satisfaction that he convinced someone of my intellect to do this laborsome chore. There should be some old lumber around these ruins. This desolate place has no trees, it's just a barren wasteland as far as I can see! Try and find any lumber you can and bring it back to me so we can prepare a fire.",
   },
   [70051] = {
     ["T"] = "Oil-Stained Gold",
@@ -1979,6 +2169,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Read the Etched Rune and speak to Thorgas Grimson in Coldridge Valley.",
     ["D"] = "While you were helping me out, this rune was given to me to pass on to you. Take some time to read it when you have a chance. I'm thinkin' it came from the hunter trainer, Thorgas. Take a gander at it, then go find him inside Anvilmar when you have the chance.",
   },
+  [80352] = {
+    ["T"] = "Money Down The Drain",
+    ["O"] = "Bring 5 Barrels of Oil to Vixie Dampknob in Mudsprocket.",
+    ["D"] = "They had one job, $n, one! I asked those fools to be careful while transporting the oil and look at what they did. They probably had the mindless ogre on the ship's wheel. Please sweety, do me a favour will you? Get as much oil as you can from the barrels, we need it for our machinery to work. This swamp isn't at all forgiving, we need to defend ourselves, you know. Anyway good luck comes with good coin so as soon as you have it come back.",
+  },
   [80366] = {
     ["T"] = "The Hunter's Path",
     ["O"] = "Speak with Grif Wildheart in Kharanos.",
@@ -2039,10 +2234,25 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Slay 10 Sap Beasts and 6 Corrosive Sap Beasts, then return to Innkeeper Faralia.",
     ["D"] = "Welcome, $c. We don't see many adventurers up this way — and not without reason. The greed of the Venture Company has tainted the land itself. Every ancient tree that they fell only adds to my troubles. The powerful sap that once nourished the trees of this forest now congeals into those awful sap beasts. Their corrosive nature harms the delicate balance we've fought to maintain here. Worse still, many have recently made their way to Stonetalon Peak itself! Their corrosive sap kills the herbs I need for cooking and simple potions. $c, venture forth and rid the Peak of these things. You'll find many just south of here, over the ridge that holds the old ruins. We've little enough use for coin up here, but perhaps a few potions might serve as payment?",
   },
+  [80398] = {
+    ["T"] = "A Pounding Brain",
+    ["O"] = "Find Someone who can figure out what to do with the Mainframe.",
+    ["D"] = "You find out that the Pounder's Mainframe is surprisingly intact. This could be valuable! Take it to an expert of Gnomish Engineering who might be able to do something with it.",
+  },
   [80399] = {
     ["T"] = "Zalazane's Apprentice",
     ["O"] = "After reading the letter you decide to find Zalazane's former apprentice by yourself and spare him of his head. Taking his head and Zalazane's mojo back to Master Gadrin in Sen'jin Village will earn you a reward.",
     ["D"] = "That foolish mongrel Makasgar decided he no longer needs the aid of his master and has grown beyond my teachings. ... That mojo was required for a powerful ritual to help us take over the Sen'jin Village and later the whole of Durotar. Go do your master's bidding and bring me his head!",
+  },
+  [80400] = {
+    ["T"] = "Re-assembler!",
+    ["O"] = "Find stolen Dwarven Writings and return it to Prospector Brotalus.",
+    ["D"] = "<Mumbling under his nose, the dwarf looks disturbed, angry and frustrated.> Blast 'em all buggers to pieces.. Oh, hallo there. Perfect timing, my friend! Sure as hell I'd have ya hand roit 'ere and now! So, listen up, my friend. I've had me book written recently and was about tae get me sum ingredients I needed fer mah new invention so I had tae leave me camp and waddayaknow?! Blasted troggs came over and only the Titans know what these rottin' basterds were lookin' for at me camp! Alas, me book got ripped to pieces it seems and judging by what's left of it all 25 pages of perfectly written patterns and schematics were lost. All I need is them pages gathered and to get me book reassembled in no time… Blast 'em, scorch 'em, shoot 'em, slice and chop 'em… up to yar liking, lad! All I care is me book returned and them blasted troggs suffer in the process. They be brainless as ghouls, alas, just like ghouls they tend to run in packs... just be careful and don't let 'em git ya!",
+  },
+  [80401] = {
+    ["T"] = "To Build a Pounder",
+    ["O"] = "Acquire Thorium Tuned Servo from the Scarlet Monastery's Armory, obtain the Perfect Golem Core in the Blackrocks Depths from Golem Lord Argelmach, find the Adamantite Rod in Stratholme. Return to Oglethorpe Obnoticus.",
+    ["D"] = "Unfortunately, building a Pounder isn't easy. I will supply most of the components, but I will need you to get me some special things. It is up to you how you go about acquiring them. I need the following: A thorium tuned servo for the chassis. I only know of one, and it's been locked up by those Scarlet fanatics. I think the armory is where they store objects they consider heretical. Go get it for me! In addition to that, I also need a perfect core for the Pounder. The Dark Iron golems in the Blackrock Depths make a good source. Golem Lord Argelmach probably has one. The last component I need is a high quality adamantite rod used for the endoskeleton. I believe Stratholme's forges used to make such rods in the past. I do not know the state of the city, but I believe the rods may still survive there.",
   },
   [80604] = {
     ["T"] = "A Journey Into The Caverns",
