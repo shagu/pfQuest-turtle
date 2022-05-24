@@ -1,8 +1,88 @@
 pfDB["items"]["data-turtle"] = {
+  -- Prototype Shredder X0-1 Schematic
+  [81315]  = {
+    ["U"] = {
+      [639] = 100.00,
+    },
+  },
   -- Keg of Thunderbrew Lager
   [1262] = {
     ["U"] = {
       [239] = 100.00,
+    },
+  },
+  -- Shimmerweed
+  [2676] = {
+    ["U"] = {
+      [1397] = 100.00,
+    },
+    ["O"] = {
+      [276] = 100.00,
+      [1000045] = 100.00,
+    },
+  },
+  -- Scorched Heart
+  [4868] = {
+    ["U"] = {
+      [3225] = 100.00,
+      [3226] = 100.00,
+      [3227] = 100.00,
+      [3228] = 100.00,
+      [3231] = 100.00,
+    },
+  },
+  -- Dig Rat
+  [5051] = {
+    ["U"] = {
+      [3444] = 100.00,
+    },
+  },
+  -- Knowledge: Defias Disguise
+  [5126] = {
+    ["V"] = {
+      ["50006"] = 1,
+    },
+  },
+  -- Knowledge: South Seas Pirate Disguise
+  [5127] = {
+    ["V"] = {
+      ["50008"] = 1,
+    },
+  },
+  -- Knowledge: Dark Iron Dwarf Disguise
+  [5129] = {
+    ["V"] = {
+      ["50007"] = 1,
+    },
+  },
+  -- Knowledge: Dalaran Wizard Disguise
+  [5130] = {
+    ["V"] = {
+      ["50009"] = 1,
+    },
+  },
+  -- Knowledge: Stonesplinter Disguise
+  [5131] = {
+    ["V"] = {
+      ["50010"] = 1,
+    },
+  },
+  -- Knowledge: Syndicate Disguise
+  [5132] = {
+    ["V"] = {
+      ["50011"] = 1,
+    },
+  },
+  -- Intact Human Head
+  [50063] = {
+    ["U"] = {
+      [50003] = 100.00,
+    },
+  },
+  -- Intact Orc Head
+  [50064] = {
+    ["U"] = {
+      [50005] = 100.00,
     },
   },
   -- Corrupted Sand
@@ -28,6 +108,18 @@ pfDB["items"]["data-turtle"] = {
   [50233] = {
     ["O"] = {
       [1000000] = 100.00,
+    },
+  },
+  -- Small Scorpid Carapace
+  [51000] = {
+    ["U"] = {
+      [3125] = 100.00,
+    },
+  },
+  -- Large Scorpid Carapace
+  [51001] = {
+    ["U"] = {
+      [3126] = 100.00,
     },
   },
   -- Antnormi\'s Head
@@ -129,6 +221,12 @@ pfDB["items"]["data-turtle"] = {
       [3229] = 100.00,
     },
   },
+  -- Kaja's Ammo
+  [51845] = {
+    ["O"] = {
+      [1000389] = 100.00,
+    },
+  },
   -- Rezlak's Shipment
   [51846] = {
     ["U"] = {
@@ -176,6 +274,13 @@ pfDB["items"]["data-turtle"] = {
   [59996] = {
     ["U"] = {
       [13157] = 100.00,
+    },
+  },
+  -- Dwarven Writings
+  [59997] = {
+    ["U"] = {
+      [2893] = 100.00,
+      [2894] = 100.00,
     },
   },
   -- Satchel of Mixed Herbs
@@ -304,6 +409,24 @@ pfDB["items"]["data-turtle"] = {
       [752] = 8.00,
     },
   },
+  -- Biggs Report
+  [60166] = {
+  },
+  -- Areyntall Strongbox
+  [60167] = {
+    ["O"] = {
+      [3000520] = 100.00,
+    },
+  },
+  -- Delivery of Swords
+  [60168] = {
+  },
+  -- Heavy Jaguar Flank
+  [60170] = {
+    ["U"] = {
+      [767] = 100.00,
+    },
+  },
   -- Sorrowmoss Mushroom
   [60171] = {
     ["O"] = {
@@ -347,6 +470,12 @@ pfDB["items"]["data-turtle"] = {
       [92106] = 100.00,
     },
   },
+  -- Forgotten Tome
+  [60188] = {
+    ["O"] = {
+      [2010823] = 100.00,
+    },
+  },
   -- Darlthos Jewelry Box
   [60189] = {
     ["U"] = {
@@ -366,11 +495,54 @@ pfDB["items"]["data-turtle"] = {
       [2010856] = 100.00,
     },
   },
+  -- Automaton Arm
+  [60192] = {
+    ["O"] = {
+      [2010825] = 100.00,
+    },
+  },
+  -- Automaton Leg
+  [60193] = {
+    ["O"] = {
+      [2010826] = 100.00,
+    },
+  },
+  -- Automaton Head
+  [60194] = {
+    ["O"] = {
+      [2010827] = 100.00,
+    },
+  },
+  -- Intact Power Core
+  [60195] = {
+    ["O"] = {
+      [141979] = 100.00,
+      [2010828] = 100.00,
+    },
+  },
   -- Chunk of Meat
   [60196] = {
     ["U"] = {
       [91987] = 100.00,
     }
+  },
+  -- Storn's Head
+  [60197] = {
+    ["U"] = {
+      [91718] = 100.00,
+    },
+  },
+  -- Oversized Lugnut Ring
+  [60246] = {
+    ["U"] = {
+      [60462] = 100.00,
+    },
+  },
+  -- 'Rightful' Jade
+  [60247] = {
+    ["U"] = {
+      [60462] = 100.00,
+    },
   },
   -- Furbolg Clue #1
   [60261] = {
@@ -388,6 +560,19 @@ pfDB["items"]["data-turtle"] = {
   [60263] = {
     ["O"] = {
       [2010839] = 100.00,
+    },
+  },
+  -- Barrel of Steamwheedle Wine
+  [60270] = {
+    ["O"] = {
+      [2010840] = 100.00,
+    },
+  },
+  -- Jug of Orgrimmar Brown
+  [60271] = {
+    ["V"] = {
+      ["60702"] = 0,
+      ["5611"] = 0,
     },
   },
   -- Withered Roots
@@ -424,10 +609,38 @@ pfDB["items"]["data-turtle"] = {
       [1569] = 100.00,
     },
   },
+  -- Refined Gem Shipment
+  [60303] = {
+    ["O"] = {
+      [2010843] = 100.00,
+    },
+  },
+  -- Mysterious Shipment
+  [60304] = {
+    ["O"] = {
+      [2010844] = 100.00,
+    },
+  },
+  -- Goods for Oilfuse
+  [60305] = {
+  },
+  -- Large Looped Earring
+  [60306] = {
+    ["U"] = {
+      [60506] = 100.00,
+    },
+  },
   -- Pristine Twilight Fang
   [60310] = {
     ["U"] = {
       [4067] = 100.00,
+    },
+  },
+  -- Shadowforge Shackle
+  [60311] = {
+    ["U"] = {
+      [2743] = 100.00,
+      [2742] = 100.00,
     },
   },
   -- Greenblade Book
@@ -442,6 +655,15 @@ pfDB["items"]["data-turtle"] = {
       [3742] = 10.00,
       [3737] = 10.00,
       [3739] = 10.00,
+    },
+  },
+  -- Scroll of Blessing
+  [60314] = {
+  },
+  -- Orb of Kaladus
+  [60315] = {
+    ["O"] = {
+      [2010846] = 100.00,
     },
   },
   -- Eldara Relay-Orb
@@ -531,6 +753,19 @@ pfDB["items"]["data-turtle"] = {
       [91717] = 100.00,
     },
   },
+  -- Salorn's Ring
+  [60378] = {
+    ["U"] = {
+      [4064] = 100.00,
+      [91719] = 100.00,
+    },
+  },
+  -- Arcane Goods
+  [60381] = {
+    ["O"] = {
+      [2010855] = 100.00,
+    },
+  },
   -- Malow's Ore Shipment
   [60382] = {
     ["U"] = {
@@ -605,6 +840,9 @@ pfDB["items"]["data-turtle"] = {
       [7864] = 90.00,
     },
   },
+  -- Sack of Flour
+  [60444] = {
+  },
   -- Torta's Egg
   [60445] = {
     ["U"] = {
@@ -659,6 +897,48 @@ pfDB["items"]["data-turtle"] = {
       [91989] = 75.00,
     },
   },
+  -- Kalanar's Mallet
+  [60472] = {
+    ["O"] = {
+      [2010860] = 100.00,
+    },
+  },
+  -- Venture Co. Equipment
+  [60473] = {
+    ["O"] = {
+      [2010861] = 100.00,
+    },
+  },
+  -- Naga Trident
+  [60474] = {
+    ["U"] = {
+      [1907] = 100.00,
+    },
+  },
+  -- Pristine Gorrila Pelt
+  [60476] = {
+    ["U"] = {
+      [1108] = 100.00,
+      [1114] = 100.00,
+      [1558] = 100.00,
+      [1557] = 100.00,
+    },
+  },
+  -- Bloodsail Supply Crate
+  [60477] = {
+    ["O"] = {
+      [2010862] = 100.00,
+    },
+  },
+  -- Potent Scorpid Venom
+  [60478] = {
+    ["U"] = {
+      [5422] = 100.00,
+    },
+  },
+  -- Willy's Letter
+  [60479] = {
+  },
   -- Grash's Staff
   [60494] = {
     ["U"] = {
@@ -675,6 +955,12 @@ pfDB["items"]["data-turtle"] = {
   [60513] = {
     ["U"] = {
       [2959] = 100.00,
+    },
+  },
+  -- Sprigs of Auribloom
+  [60515] = {
+    ["O"] = {
+      [2010876] = 100.00,
     },
   },
   -- Fine Crab Carcass
@@ -730,6 +1016,33 @@ pfDB["items"]["data-turtle"] = {
       [11697] = 40.00,
     },
   },
+  -- Wood
+  [70030] = {
+    ["O"] = {
+      [1772000] = 100.00,
+    },
+  },
+  -- Oil Canister
+  [70031] = {
+    ["O"] = {
+      [1772001] = 100.00,
+    },
+  },
+  -- Rusty Shovel
+  [70035] = {
+    ["U"] = {
+      [218] = 100.00,
+    },
+  },
+  -- Sturdy Tent Cloth
+  [70038] = {
+    ["U"] = {
+      [2701] = 100.00,
+      [2715] = 100.00,
+      [2717] = 100.00,
+      [2718] = 100.00,
+    },
+  },
   -- Summer Dew
   [70040] = {
     ["O"] = {
@@ -747,6 +1060,9 @@ pfDB["items"]["data-turtle"] = {
     ["O"] = {
       [1772005] = 100.00,
     },
+  },
+  -- Watcher Paige's Report
+  [70044] = {
   },
   -- Whirling Whizmagig
   [80100] = {
@@ -782,18 +1098,6 @@ pfDB["items"]["data-turtle"] = {
   [80130] = {
     ["U"] = {
       [3191] = 100.00,
-    },
-  },
-  -- Mosshide Gnoll Armband
-  [81335] = {
-    ["U"] = {
-      [1007] = 50.00,
-      [1008] = 50.00,
-      [1009] = 50.00,
-      [1010] = 50.00,
-      [1011] = 50.00,
-      [1012] = 50.00,
-      [1014] = 50.00,
     },
   },
   -- Trash
@@ -846,6 +1150,39 @@ pfDB["items"]["data-turtle"] = {
       [80508] = 100.00,
     },
   },
+  -- Tobacco Crate
+  [80401] = {
+    ["O"] = {
+      [3000235] = 100.00,
+    },
+  },
+  -- Sturk's Income Book
+  [80402] = {
+    ["O"] = {
+      [3000236] = 100.00,
+    },
+  },
+  -- Bloodsail Marked Letter
+  [80403] = {
+    ["O"] = {
+      [3000236] = 100.00,
+    },
+  },
+  -- Rosemary Flower
+  [80420] = {
+    ["O"] = {
+      [3000280] = 100.00,
+    },
+  },
+  -- Toad Oil
+  [80421] = {
+    ["U"] = {
+      [80965] = 100.00,
+    },
+  },
+  -- Gazlowe's Letter
+  [80690] = {
+  },
   -- Moontouched Wood
   [80862] = {
     ["U"] = {
@@ -872,6 +1209,14 @@ pfDB["items"]["data-turtle"] = {
       [80901] = 100.00,
     },
   },
+  -- Southern Sand Crawler Leg
+  [81013] = {
+    ["U"] = {
+      [2544] = 100.00,
+      [92147] = 100.00,
+      [92146] = 100.00,
+    },
+  },
   -- Shimmering Shell
   [81117] = {
     ["O"] = {
@@ -883,6 +1228,36 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [3106] = 70.00,
       [3107] = 70.00,
+    },
+  },
+  -- Intact Pounder Mainframe
+  [81275] = {
+    ["U"] = {
+      [6229] = 100.00,
+    },
+  },
+  -- Thorium Tuned Servo
+  [81280] = {
+    ["U"] = {
+      [4295] = 100.00,
+    },
+  },
+  -- Perfect Golem Core
+  [81281] = {
+    ["U"] = {
+      [8983] = 100.00,
+    },
+  },
+  -- Adamantite Rod
+  [81282] = {
+    ["U"] = {
+      [11120] = 100.00,
+    },
+  },
+  -- Barrel of Oil
+  [81285] = {
+    ["O"] = {
+      [3000248] = 100.00,
     },
   },
   -- Razlik's Tools
@@ -902,12 +1277,6 @@ pfDB["items"]["data-turtle"] = {
   [81293] = {
     ["U"] = {
       [91237] = 100.00,
-    },
-  },
-  -- Prototype Shredder X0-1 Schematic
-  [81315]  = {
-    ["U"] = {
-      [639] = 100.00,
     },
   },
   -- Megaflux Capacitor
@@ -932,6 +1301,36 @@ pfDB["items"]["data-turtle"] = {
   [81332] = {
     ["U"] = {
       [5546] = 100.00,
+    },
+  },
+  -- Salt Tooth's Head
+  [81334] = {
+    ["U"] = {
+      [91284] = 100.00,
+    },
+  },
+  -- Mosshide Gnoll Armband
+  [81335] = {
+    ["U"] = {
+      [1007] = 50.00,
+      [1008] = 50.00,
+      [1009] = 50.00,
+      [1010] = 50.00,
+      [1011] = 50.00,
+      [1012] = 50.00,
+      [1014] = 50.00,
+    },
+  },
+  -- Rock Elemental Mastery: Compendium III
+  [81337] = {
+    ["U"] = {
+      [2319] = 100.00,
+    },
+  },
+  -- Water-Weaving and Command
+  [81338] = {
+    ["O"] = {
+      [1000501] = 100.00,
     },
   },
   -- Wisdom of the Sages
@@ -965,6 +1364,60 @@ pfDB["items"]["data-turtle"] = {
       [1000503] = 100.00,
     },
   },
+  -- Sticky Ooze-Tar
+  [81400] = {
+    ["U"] = {
+      [1032] = 100.00,
+      [1031] = 100.00,
+      [1033] = 100.00,
+    },
+  },
+  -- Mottled Talon
+  [81401] = {
+    ["U"] = {
+      [1021] = 100.00,
+      [1020] = 100.00,
+    },
+  },
+  -- Hargin's Keg
+  [81403] = {
+  },
+  -- Shipment of Lumber
+  [81404] = {
+  },
+  -- Stoutfist's Report
+  [81405] = {
+  },
+  -- Snowbeard's Report
+  [81406] = {
+  },
+  -- Heidi's Homecooked Pie
+  [81407] = {
+  },
+  -- Swiftgear's Engineering Schematics
+  [81408] = {
+  },
+  -- Barthos' Engineering Supplies
+  [81410] = {
+  },
+  -- Robb Dursley's Sealed Report
+  [81412] = {
+  },
+  -- Martin Corinth's Information
+  [81413] = {
+    ["O"] = {
+      [1000510] = 100.00,
+    },
+  },
+  -- Martin's Unsent Letter
+  [81414] = {
+    ["O"] = {
+      [1000511] = 100.00,
+    },
+  },
+  -- Mathias' Letter
+  [81415] = {
+  },
   -- Perfect Obsidian Shard
   [83005] = {
     ["U"] = {
@@ -975,215 +1428,6 @@ pfDB["items"]["data-turtle"] = {
   [83006] = {
     ["U"] = {
       [14834] = 100.00,
-    },
-  },
-  -- Scorched Heart
-  [4868] = {
-    ["U"] = {
-      [3225] = 100.00,
-      [3226] = 100.00,
-      [3227] = 100.00,
-      [3228] = 100.00,
-      [3231] = 100.00,
-    },
-  },
-  -- Small Scorpid Carapace
-  [51000] = {
-    ["U"] = {
-      [3125] = 100.00,
-    },
-  },
-  -- Large Scorpid Carapace
-  [51001] = {
-    ["U"] = {
-      [3126] = 100.00,
-    },
-  },
-  -- Shimmerweed
-  [2676] = {
-    ["U"] = {
-      [1397] = 100.00,
-    },
-    ["O"] = {
-      [276] = 100.00,
-      [1000045] = 100.00,
-    },
-  },
-  -- Oil Canister
-  [70031] = {
-    ["O"] = {
-      [1772001] = 100.00,
-    },
-  },
-  -- Intact Human Head
-  [50063] = {
-    ["U"] = {
-      [50003] = 100.00,
-    },
-  },
-  -- Intact Orc Head
-  [50064] = {
-    ["U"] = {
-      [50005] = 100.00,
-    },
-  },
-  -- Knowledge: Defias Disguise
-  [5126] = {
-    ["V"] = {
-      ["50006"] = 1,
-    },
-  },
-  -- Knowledge: South Seas Pirate Disguise
-  [5127] = {
-    ["V"] = {
-      ["50008"] = 1,
-    },
-  },
-  -- Knowledge: Dark Iron Dwarf Disguise
-  [5129] = {
-    ["V"] = {
-      ["50007"] = 1,
-    },
-  },
-  -- Knowledge: Dalaran Wizard Disguise
-  [5130] = {
-    ["V"] = {
-      ["50009"] = 1,
-    },
-  },
-  -- Knowledge: Stonesplinter Disguise
-  [5131] = {
-    ["V"] = {
-      ["50010"] = 1,
-    },
-  },
-  -- Knowledge: Syndicate Disguise
-  [5132] = {
-    ["V"] = {
-      ["50011"] = 1,
-    },
-  },
-  -- Kaja's Ammo
-  [51845] = {
-    ["O"] = {
-      [1000389] = 100.00,
-    },
-  },
-  -- Tobacco Crate
-  [80401] = {
-    ["O"] = {
-      [3000235] = 100.00,
-    },
-  },
-  -- Sack of Flour
-  [60444] = {
-  },
-  -- Sturk's Income Book
-  [80402] = {
-    ["O"] = {
-      [3000236] = 100.00,
-    },
-  },
-  -- Bloodsail Marked Letter
-  [80403] = {
-    ["O"] = {
-      [3000236] = 100.00,
-    },
-  },
-  -- Dig Rat
-  [5051] = {
-    ["U"] = {
-      [3444] = 100.00,
-    },
-  },
-  -- Rosemary Flower
-  [80420] = {
-    ["O"] = {
-      [3000280] = 100.00,
-    },
-  },
-  -- Toad Oil
-  [80421] = {
-    ["U"] = {
-      [80965] = 100.00,
-    },
-  },
-  -- Storn's Head
-  [60197] = {
-    ["U"] = {
-      [91718] = 100.00,
-    },
-  },
-  -- Arcane Goods
-  [60381] = {
-    ["O"] = {
-      [2010855] = 100.00,
-    },
-  },
-  -- Salorn's Ring
-  [60378] = {
-    ["U"] = {
-      [4064] = 100.00,
-      [91719] = 100.00,
-    },
-  },
-  -- Mathias' Letter
-  [81415] = {
-  },
-  -- Martin's Unsent Letter
-  [81414] = {
-    ["O"] = {
-      [1000511] = 100.00,
-    },
-  },
-  -- Martin Corinth's Information
-  [81413] = {
-    ["O"] = {
-      [1000510] = 100.00,
-    },
-  },
-  -- Robb Dursley's Sealed Report
-  [81412] = {
-  },
-  -- Intact Power Core
-  [60195] = {
-    ["O"] = {
-      [141979] = 100.00,
-      [2010828] = 100.00,
-    },
-  },
-  -- Automaton Arm
-  [60192] = {
-    ["O"] = {
-      [2010825] = 100.00,
-    },
-  },
-  -- Automaton Leg
-  [60193] = {
-    ["O"] = {
-      [2010826] = 100.00,
-    },
-  },
-  -- Automaton Head
-  [60194] = {
-    ["O"] = {
-      [2010827] = 100.00,
-    },
-  },
-  -- Barthos' Engineering Supplies
-  [81410] = {
-  },
-  -- Snowbeard's Report
-  [81406] = {
-  },
-  -- Stoutfist's Report
-  [81405] = {
-  },
-  -- Mottled Talon
-  [81401] = {
-    ["U"] = {
-      [1021] = 100.00,
-      [1020] = 100.00,
     },
   },
 }
