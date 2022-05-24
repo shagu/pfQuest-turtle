@@ -641,7 +641,7 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [40184] = {
     ["T"] = "No Hope for Tomorrow",
-    ["O"] = ""Free" Thirael Blistersong.",
+    ["O"] = "Free Thirael Blistersong.",
     ["D"] = "It's been so long, so long ago that we've decided to let go of our principles. So long ago we stopped to care for anyone but us. We've given up on our lives in favor of the demons, we are nothing but shadows of memories from the past. I can no longer do this, I can no longer wait. I wish days would return when we, the Highborne, were the ones standing atop the Night Elves. All we are now are shadows of what we used to be, hunted by the ogres and demons that took residence in the lands we used to call Eldre'thalas. Please, kill me, end my suffering. I want to go to my mother moon and join the afterlife that I've courted for so many years. Please, end my torment.",
   },
   [40185] = {

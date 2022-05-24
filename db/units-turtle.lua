@@ -5967,11 +5967,6 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 56.48, 81.97, 3, 0 },
     },
   },
-  -- Quest 80407 Trigger
-  [81252] = {
-    ["fac"] = "A",
-    ["lvl"] = "1",
-  },
   -- Aneka Konko
   [90983] = {
     ["fac"] = "AH",

@@ -220,7 +220,6 @@ pfDB["units"]["enUS-turtle"] = {
   [81050] = "Dark Ranger Lanissa",
   [81060] = "Prospector Brotalus",
   [81061] = "Noli",
-  [81252] = "Quest 80407 Trigger",
   [90983] = "Aneka Konko",
   [91190] = "Grant Lafford",
   [91191] = "Saul Buckwaldt",
