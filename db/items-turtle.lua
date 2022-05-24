@@ -289,6 +289,15 @@ pfDB["items"]["data-turtle"] = {
       [3112] = 40.00,
     },
   },
+  -- Family Locket
+  [60100] = {
+    ["U"] = {
+      [60401] = 100.00,
+    },
+  },
+  -- Sealed Scroll
+  [60101] = {
+  },
   -- Plate of Uldum
   [60102] = {
     ["O"] = {
@@ -331,6 +340,12 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [60420] = 100.00,
     },
+  },
+  -- Crate of Ley-Shard's
+  [60114] = {
+  },
+  -- Archmage Ansirem's Letter
+  [60115] = {
   },
   -- Arathi Raptor Hide
   [60119] = {
@@ -407,6 +422,107 @@ pfDB["items"]["data-turtle"] = {
       [750] = 8.00,
       [751] = 8.00,
       [752] = 8.00,
+    },
+  },
+  -- Rethress Spoils
+  [60136] = {
+    ["O"] = {
+      [2010807] = 100.00,
+    },
+  },
+  -- Myrmidon Signet
+  [60137] = {
+    ["U"] = {
+      [7885] = 100.00,
+      [6196] = 100.00,
+    },
+  },
+  -- Head of Mmrmglul
+  [60139] = {
+    ["U"] = {
+      [91794] = 100.00,
+    },
+  },
+  -- Rethress Tide Scepter
+  [60140] = {
+    ["O"] = {
+      [2010808] = 100.00,
+    },
+  },
+  -- Mistwing Horn
+  [60141] = {
+    ["U"] = {
+      [8763] = 100.00,
+    },
+  },
+  -- Gigno's Shipment
+  [60142] = {
+  },
+  -- Letter for Gigno
+  [60143] = {
+  },
+  -- Analyzation Chip
+  [60144] = {
+    ["U"] = {
+      [91775] = 100.00,
+    },
+  },
+  -- Flight Logbook
+  [60145] = {
+    ["O"] = {
+      [2010809] = 100.00,
+    },
+  },
+  -- Gigno's Report
+  [60146] = {
+  },
+  -- Tinkermaster Oversparks Response
+  [60147] = {
+  },
+  -- Tinkerspark Transponder
+  [60151] = {
+    ["U"] = {
+      [60433] = 100.00,
+    },
+  },
+  -- Heart of Naszharr
+  [60157] = {
+    ["U"] = {
+      [60432] = 100.00,
+    },
+  },
+  -- Azure Scale
+  [60158] = {
+    ["U"] = {
+      [6130] = 100.00,
+      [6131] = 100.00,
+      [6129] = 100.00,
+    },
+  },
+  -- Sprugbolt
+  [60159] = {
+    ["U"] = {
+      [6351] = 100.00,
+      [6371] = 100.00,
+      [91794] = 100.00,
+    },
+  },
+  -- Gyronautical Compass
+  [60160] = {
+    ["O"] = {
+      [2010816] = 100.00,
+    },
+  },
+  -- Turbo-Charged Wobblefree Fizz-disk
+  [60162] = {
+    ["O"] = {
+      [2010817] = 100.00,
+    },
+  },
+  -- Fendo's Spanner
+  [60163] = {
+    ["O"] = {
+      [2010818] = 100.00,
     },
   },
   -- Biggs Report
@@ -532,6 +648,12 @@ pfDB["items"]["data-turtle"] = {
       [91718] = 100.00,
     },
   },
+  -- Blackwater Weapon Crate
+  [60245] = {
+    ["O"] = {
+      [2010833] = 100.00,
+    },
+  },
   -- Oversized Lugnut Ring
   [60246] = {
     ["U"] = {
@@ -542,6 +664,25 @@ pfDB["items"]["data-turtle"] = {
   [60247] = {
     ["U"] = {
       [60462] = 100.00,
+    },
+  },
+  -- Morgan's Severed Head
+  [60253] = {
+    ["U"] = {
+      [51607] = 100.00,
+    },
+  },
+  -- McGillicuddy's Head
+  [60255] = {
+    ["U"] = {
+      [60452] = 100.00,
+      [60497] = 100.00,
+    },
+  },
+  -- Magical Compass
+  [60256] = {
+    ["O"] = {
+      [2010837] = 100.00,
     },
   },
   -- Furbolg Clue #1
@@ -602,6 +743,9 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [60494] = 100.00,
     },
+  },
+  -- Untempered Runeblade
+  [60293] = {
   },
   -- Batskin Letter
   [60301] = {
@@ -666,6 +810,45 @@ pfDB["items"]["data-turtle"] = {
       [2010846] = 100.00,
     },
   },
+  -- Secrets of Darkforging
+  [60319] = {
+    ["U"] = {
+      [60508] = 100.00,
+    },
+  },
+  -- Fire Beckoning and Command
+  [60320] = {
+    ["O"] = {
+      [2010847] = 100.00,
+    },
+  },
+  -- Deciphered Script
+  [60321] = {
+  },
+  -- Rage Talon Charm
+  [60322] = {
+    ["U"] = {
+      [10372] = 100.00,
+    },
+  },
+  -- Gordok Beads
+  [60323] = {
+    ["U"] = {
+      [11444] = 100.00,
+    },
+  },
+  -- Doomforge Rod
+  [60324] = {
+    ["U"] = {
+      [8900] = 100.00,
+    },
+  },
+  -- Pristine Lurker Shell
+  [60325] = {
+    ["U"] = {
+      [6352] = 100.00,
+    },
+  },
   -- Eldara Relay-Orb
   [60326] = {
     ["O"] = {
@@ -725,6 +908,9 @@ pfDB["items"]["data-turtle"] = {
     ["U"] = {
       [60513] = 100.00,
     },
+  },
+  -- Special Water
+  [60373] = {
   },
   -- Volgrin's Parcel
   [60374] = {
@@ -988,6 +1174,38 @@ pfDB["items"]["data-turtle"] = {
       [645] = 100.00,
     },
   },
+  -- Felwood Satyr Horn
+  [60532] = {
+    ["U"] = {
+      [7106] = 100.00,
+      [7109] = 100.00,
+      [7110] = 100.00,
+      [7105] = 100.00,
+      [91892] = 100.00,
+      [7107] = 100.00,
+      [7111] = 100.00,
+      [7108] = 100.00,
+      [10648] = 100.00,
+    },
+  },
+  -- Head of Pustax
+  [60533] = {
+    ["U"] = {
+      [60711] = 100.00,
+    },
+  },
+  -- Gemstone of Salthax
+  [60534] = {
+    ["O"] = {
+      [2010885] = 100.00,
+    },
+  },
+  -- Heart of Hazzas
+  [60535] = {
+    ["U"] = {
+      [5722] = 100.00,
+    },
+  },
   -- Bog Creature Core
   [70021] = {
     ["U"] = {
@@ -1183,6 +1401,9 @@ pfDB["items"]["data-turtle"] = {
   -- Gazlowe's Letter
   [80690] = {
   },
+  -- Lieren's Package
+  [80691] = {
+  },
   -- Moontouched Wood
   [80862] = {
     ["U"] = {
@@ -1207,6 +1428,14 @@ pfDB["items"]["data-turtle"] = {
   [80868] = {
     ["U"] = {
       [80901] = 100.00,
+    },
+  },
+  -- Winterspring Tea Leaf
+  [80880] = {
+    ["U"] = {
+      [7453] = 100.00,
+      [7452] = 100.00,
+      [7454] = 100.00,
     },
   },
   -- Southern Sand Crawler Leg
@@ -1260,6 +1489,15 @@ pfDB["items"]["data-turtle"] = {
       [3000248] = 100.00,
     },
   },
+  -- Smooth Ogre Brain
+  [81287] = {
+    ["U"] = {
+      [5475] = 100.00,
+      [5473] = 100.00,
+      [5474] = 100.00,
+      [5472] = 100.00,
+    },
+  },
   -- Razlik's Tools
   [81291] = {
     ["O"] = {
@@ -1289,6 +1527,12 @@ pfDB["items"]["data-turtle"] = {
   [81322] = {
     ["U"] = {
       [80121] = 100.00,
+    },
+  },
+  -- Eldarath Ley-Shard
+  [81324] = {
+    ["O"] = {
+      [1000249] = 100.00,
     },
   },
   -- Rugnar's Letter
