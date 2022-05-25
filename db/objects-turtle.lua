@@ -760,6 +760,9 @@ pfDB["objects"]["data-turtle"] = {
   },
   -- Demonic Chest
   [2010885] = {
+    ["coords"] = {
+      [1] = { 40.8, 48.5, 361, 0 },
+    },
   },
   [3000100] = {
     ["coords"] = {
