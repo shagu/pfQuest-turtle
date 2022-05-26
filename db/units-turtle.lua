@@ -4839,6 +4839,9 @@ pfDB["units"]["data-turtle"] = {
   -- Dra'lox Felstar
   [60425] = {
     ["lvl"] = "25",
+    ["coords"] = {
+      [1] = { 56.5, 28.9, 331, 0 },
+    },
   },
   -- Tide Lord Naszharr
   [60432] = {
