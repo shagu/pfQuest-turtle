@@ -22,6 +22,12 @@ pfDB["objects"]["data-turtle"] = {
   -- Ancient Treasure
   [141979] = {
   },
+  -- Thalo's Skeleton
+  [181584] = {
+    ["coords"] = {
+      [1] = { 23.64, 7.702, 130, 0 },
+    },
+  },
   [1000000] = {
     ["coords"] = {
       [1] = { 35.8, 10.9, 33, 0 },
@@ -568,6 +574,9 @@ pfDB["objects"]["data-turtle"] = {
   },
   -- Huge Keg of Rum
   [2010836] = {
+    ["coords"] = {
+      [1] = { 27.52, 77.48, 33, 0 },
+    },
   },
   -- Captain Blackeye's Footlocker
   [2010837] = {
@@ -929,6 +938,131 @@ pfDB["objects"]["data-turtle"] = {
       [1] = { 52.72, 55.62, 15, 0 },
       [2] = { 53.85, 55.65, 15, 0 },
       [3] = { 54.65, 54.13, 15, 0 },
+    },
+  },
+  -- Teslinah Search: Mage Tower
+  [3000250] = {
+    ["coords"] = {
+      [1] = { 38.01, 81.9, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Mage District
+  [3000251] = {
+    ["coords"] = {
+      [1] = { 39.28, 69.52, 1519, 0 },
+      [2] = { 39.42, 81.35, 1519, 0 },
+      [3] = { 41.14, 79.45, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Mage District Tavern
+  [3000252] = {
+    ["coords"] = {
+      [1] = { 28.71, 74.54, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Mage District Tavern Basement
+  [3000253] = {
+    ["coords"] = {
+      [1] = { 26.48, 77.44, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Stormwind Park Moonwell
+  [3000254] = {
+    ["coords"] = {
+      [1] = { 21.57, 53.9, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Dwarf District
+  [3000255] = {
+    ["coords"] = {
+      [1] = { 53.04, 15.52, 1519, 0 },
+      [2] = { 55.94, 21.21, 1519, 0 },
+      [3] = { 57.58, 17.2, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Dwarf District Embassy
+  [3000256] = {
+    ["coords"] = {
+      [1] = { 60.1, 5.483, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Little Silvermoon
+  [3000257] = {
+    ["coords"] = {
+      [1] = { 58.91, 27.91, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Deeprun Tram Entrance
+  [3000258] = {
+    ["coords"] = {
+      [1] = { 61.07, 11.62, 1519, 0 },
+      [2] = { 63.6, 8.607, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Stormwind Keep
+  [3000259] = {
+    ["coords"] = {
+      [1] = { 69.7, 27.91, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Old Town
+  [3000260] = {
+    ["coords"] = {
+      [1] = { 69.78, 45.31, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Old Town Tavern
+  [3000261] = {
+    ["coords"] = {
+      [1] = { 73.2, 38.06, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Old Town Barracks
+  [3000262] = {
+    ["coords"] = {
+      [1] = { 74.16, 52.56, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Cathedral Square
+  [3000263] = {
+    ["coords"] = {
+      [1] = { 47.09, 41.96, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Orphanage
+  [3000264] = {
+    ["coords"] = {
+      [1] = { 47.98, 36.61, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Cathedral
+  [3000265] = {
+    ["coords"] = {
+      [1] = { 40.47, 29.47, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Cathedral Basement
+  [3000266] = {
+    ["coords"] = {
+      [1] = { 42.03, 25.12, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Cathedral Catacombs
+  [3000267] = {
+    ["coords"] = {
+      [1] = { 43, 26.23, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Trade District
+  [3000268] = {
+    ["coords"] = {
+      [1] = { 56.61, 61.71, 1519, 0 },
+    },
+  },
+  -- Teslinah Search: Stormwind Visitor Center
+  [3000269] = {
+    ["coords"] = {
+      [1] = { 57.72, 68.07, 1519, 0 },
     },
   },
   -- Rosemary
