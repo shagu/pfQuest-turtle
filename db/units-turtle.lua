@@ -4839,6 +4839,9 @@ pfDB["units"]["data-turtle"] = {
   -- Dra'lox Felstar
   [60425] = {
     ["lvl"] = "25",
+    ["coords"] = {
+      [1] = { 56.5, 28.9, 331, 0 },
+    },
   },
   -- Tide Lord Naszharr
   [60432] = {
@@ -7210,6 +7213,9 @@ pfDB["units"]["data-turtle"] = {
   -- Highborne Wraith
   [91808] = {
     ["lvl"] = "30",
+    ["coords"] = {
+      [1] = { 12.8, 74.4, 85, 0 },
+    },
   },
   -- Hazzuri Troll
   [91809] = {
@@ -8464,6 +8470,14 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "30",
     ["coords"] = {
       [1] = { 35.91, 51.64, 331, 0 },
+    },
+  },
+  -- Samual Boran
+  [92936] = {
+    ["fac"] = "A",
+    ["lvl"] = "32",
+    ["coords"] = {
+      [1] = { 50.86, 58.36, 267, 0 },
     },
   },
   -- Hargul the Hardy

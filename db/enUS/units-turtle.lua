@@ -506,5 +506,6 @@ pfDB["units"]["enUS-turtle"] = {
   [92204] = "Tanglemoss",
   [92219] = "Genzil Spannerlight",
   [92223] = "Kalanar Brightshine",
+  [92936] = "Samual Boran",
   [92937] = "Hargul the Hardy",
 }
