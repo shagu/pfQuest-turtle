@@ -2788,49 +2788,49 @@ pfDB["quests"]["enUS-turtle"] = {
     ["D"] = "Free Specialization Switch for 500g once",
   },
   [70020] = {
-    ["T"] = "A Brother’s Worried Mind",
-    ["O"] = "Find Taupo Foreststrider, Loruk’s brother at the beginning of Felfire Hill.",
+    ["T"] = "A Brother's Worried Mind",
+    ["O"] = "Find Taupo Foreststrider, Loruk's brother at the beginning of Felfire Hill.",
     ["D"] = "My little brother, Taupo, is a gifted druid and more accomplished than I would ever hope to be but he is still my little brother. He was on his way to the Warsong Lumber Camp to help with the demonic corruption among other things. I fear he might find trouble as he has to pass through Felfire Hill. Please, find my little brother, I would do it myself but I do not wish him to think I find him incapable, yet I still worry. He left not so long ago, following the main road east, that is the path to the Lumber Camp.",
   },
   [70021] = {
-    ["T"] = "Taupo’s Duty",
+    ["T"] = "Taupo's Duty",
     ["O"] = "Bring Taupo 10 Bog Creatures' Cores.",
-    ["D"] = "It was Earthmother’s blessing to be born with such a worried elder brother, and as fate has it there you are, just the help that I needed. While I was making my way to the Lumber Camp I saw this Tauren bravely fight those demons and I have stopped to tend to his wounds. My skills helped stop his bleeding, but we need a salve to fully mend him. In the river you will find Boglings, slay them and bring me the cores, they will help bring our newest friend back on his feet, and do not worry $N, this is all in the name of balance.",
+    ["D"] = "It was Earthmother's blessing to be born with such a worried elder brother, and as fate has it there you are, just the help that I needed. While I was making my way to the Lumber Camp I saw this Tauren bravely fight those demons and I have stopped to tend to his wounds. My skills helped stop his bleeding, but we need a salve to fully mend him. In the river you will find Boglings, slay them and bring me the cores, they will help bring our newest friend back on his feet, and do not worry $n, this is all in the name of balance.",
   },
   [70022] = {
     ["T"] = "Norvok of the Spear",
     ["O"] = "Kill 10 Searing Infernals and 10 Felguards.",
-    ["D"] = "I was on my way to the Warsong Lumber Camp when I had my encounter with the demons, were it not for this druid I wouldn’t have made it. I have a very important report addressed to the stationary Commander in charge, Commander Grushak, I would hurry right away but the wounds have yet to release me of my pain and my spear was lost in the battle. I ask you to find it while Taupo heals me. While you search for it - spare no demon.",
+    ["D"] = "I was on my way to the Warsong Lumber Camp when I had my encounter with the demons, were it not for this druid I wouldn't have made it. I have a very important report addressed to the stationary Commander in charge, Commander Grushak, I would hurry right away but the wounds have yet to release me of my pain and my spear was lost in the battle. I ask you to find it while Taupo heals me. While you search for it - spare no demon.",
   },
   [70023] = {
     ["T"] = "Report to Commander Grushak",
     ["O"] = "Report to Commander Grushak at the Lumber Camp.",
-    ["D"] = "I am aware I am not going anywhere anytime soon $N, there is no need for you to stare at me that way. You will have to give my report to Commander Grushak, tell him I sent you, he will be glad to have you by his side, he’s a bit strict but that’s what will keep you alive out there. Seek him in the first tower as you reach the Lumber Camp. As a personal request however, do keep an eye out for my spear, it carries years worth of history, been passed through my lineage from the first Hawkspear to the last and I do not wish it to be lost at the hands of demons. Travel safe my friend and may the Earthmother guide you.",
+    ["D"] = "I am aware I am not going anywhere anytime soon $n, there is no need for you to stare at me that way. You will have to give my report to Commander Grushak, tell him I sent you, he will be glad to have you by his side, he's a bit strict but that's what will keep you alive out there. Seek him in the first tower as you reach the Lumber Camp. As a personal request however, do keep an eye out for my spear, it carries years worth of history, been passed through my lineage from the first Hawkspear to the last and I do not wish it to be lost at the hands of demons. Travel safe my friend and may the Earthmother guide you.",
   },
   [70024] = {
     ["T"] = "Wildthorn Menace",
     ["O"] = "Kill 10 Wildthorn Lurkers in Warsong Lumber Camp.",
-    ["D"] = "The camp is as productive as the day it was built from the ground, which frankly doesn’t mean much at all. The Wildthorn Lurkers have ascended upon our camp and are giving the peons and laborers a hard time, while my scouts are giving their all to slay them it is not enough. Go help the cause, $N, after all I take you bringing this report as volunteering your aid, clean the camp of the wildthorn menace and I will see you rewarded.",
+    ["D"] = "The camp is as productive as the day it was built from the ground, which frankly doesn't mean much at all. The Wildthorn Lurkers have ascended upon our camp and are giving the peons and laborers a hard time, while my scouts are giving their all to slay them it is not enough. Go help the cause, $n, after all I take you bringing this report as volunteering your aid, clean the camp of the wildthorn menace and I will see you rewarded.",
   },
   [70025] = {
     ["T"] = "Knife Eared Stalkers",
     ["O"] = "Kill 20 Ashenvale Stalkers.",
-    ["D"] = "Those knife eared bastards are trying to force us out of the woods, they’ve sent a squadron of stalkers that hide around our fields and murder our peons, they must be stopped! Go get your hands dirty, leave none alive, and if anything make sure more of the peons don’t die.",
+    ["D"] = "Those knife eared bastards are trying to force us out of the woods, they've sent a squadron of stalkers that hide around our fields and murder our peons, they must be stopped! Go get your hands dirty, leave none alive, and if anything make sure more of the peons don't die.",
   },
   [70026] = {
     ["T"] = "Peon's Wardrobe Makeover",
     ["O"] = "Collect 10 Elder Ashenvale Bear Pelts.",
-    ["D"] = "With most of the tasks done, I only have but a favor to ask of you, our poor peons have been wearing the same tattered clothing since we’ve come to this damned forest, they can’t take another day in those rags and I most certainly won’t be the one blamed for naked peons chopping wood! I need you to hunt and skin some bears for me, North of Splintertree Post and in its immediate vicinity to the left you will be able to find bears, grab enough for our leatherworker to craft new cloths for those poor miserable souls, but remember $N, only hunt the eldest of the bears.",
+    ["D"] = "With most of the tasks done, I only have but a favor to ask of you, our poor peons have been wearing the same tattered clothing since we've come to this damned forest, they can't take another day in those rags and I most certainly won't be the one blamed for naked peons chopping wood! I need you to hunt and skin some bears for me, North of Splintertree Post and in its immediate vicinity to the left you will be able to find bears, grab enough for our leatherworker to craft new cloths for those poor miserable souls, but remember $n, only hunt the eldest of the bears.",
   },
   [70027] = {
     ["T"] = "Farseer Grimeye",
     ["O"] = "Deliver Commander Grushak's report to Farseer Grimeye.",
-    ["D"] = "The fields are clear, the peons seem happy and the productivity is already going way better than they used to. That's exactly why I am sending you to another mission. You seem eager to aid and frankly the Farseer needs all the help he can get. He's a cranky old orc, don't even for a second consider his frustration as weakness. He will task you with a harsh job but I do not doubt you will do well. Go now and give him this parchment.",
+    ["D"] = "The fields are clear, the peons seem happy and the productivity is already going way better than they used to. That's exactly why I am sending you to another mission. You seem eager to aid and frankly the Farseer needs all the help he can get. He's a cranky old orc, don't even for a second consider his frustration as weakness. He will task you with a harsh job but I do not doubt you will do well. Go now and give him this parchment. You'll find him in the keep, north-east of here.",
   },
   [70028] = {
     ["T"] = "Demon Fall Canyon",
     ["O"] = "Slay 10 Mannoroc Lashers, 10 Searing Infernals and 10 Felguards. Report to Farseer Grimeye.",
-    ["D"] = "What do you see here $N? I will tell you what I see; a roaming pack without its Alpha. Simple minded buffoons who lost their commander. Sometimes I ask myself what would have happened if Hellscream… doesn't matter now. Falling down into the Demon Fall Canyon you will see numerous spawns of the Burning Legion. As you should know, a great demon fell there, hence the namesake, I suppose. Your mission is clear, yet, not so simple. Wreak havoc and cull their numbers. I expect you do whatever you see fit to leave none alive.",
+    ["D"] = "What do you see here $n? I will tell you what I see; a roaming pack without its Alpha. Simple minded buffoons who lost their commander. Sometimes I ask myself what would have happened if Hellscream… doesn't matter now. Falling down into the Demon Fall Canyon you will see numerous spawns of the Burning Legion. As you should know, a great demon fell there, hence the namesake, I suppose. Your mission is clear, yet, not so simple. Wreak havoc and cull their numbers. I expect you do whatever you see fit to leave none alive.",
   },
   [70029] = {
     ["T"] = "What We Know",
@@ -2840,7 +2840,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [70030] = {
     ["T"] = "A Very Unpleasant Troll",
     ["O"] = "Find Jin'Zil and give him the letter from Grimeye.",
-    ["D"] = "We need to... <the old orc sighs> We will need the help of an old friend of mine. Nothing beats a Witch Doctor's mojo so I am sending you to Stonetalon. Find Jin'Zil and give him this letter, his mojo is potent enough to shrink the Dreadlord and weaken it enough for you to slay it. However! He will have a task for you, probably something easy and meaningless so don't waste too much time over there, we have a dreadlord to slay.",
+    ["D"] = "We need to... <the old orc sighs> We will need the help of an old \"friend\" of mine. Nothing beats a Witch Doctor's mojo so I am sending you to Stonetalon. Find Jin'Zil and give him this letter, his mojo is potent enough to shrink the Dreadlord and weaken it enough for you to slay it. However! He will have a task for you, probably something easy and meaningless so don't waste too much time over there, we have a dreadlord to slay.",
   },
   [70031] = {
     ["T"] = "Jin'Zil's Stew",
@@ -2855,12 +2855,12 @@ pfDB["quests"]["enUS-turtle"] = {
   [70033] = {
     ["T"] = "The Seeker's Demise",
     ["O"] = "Kill Diathorus the Seeker and take his head back to Farseer Grimeye.",
-    ["D"] = "This is it $N, your most dangerous task yet, but I am more than sure you will succeed. You showed courage I have not seen in so long, may the ancestors guide your steps and may you return unharmed. You have my blessings and the ancestors at your side. Remember that where you stand a great warrior once stood and you too shall walk in his steps, slay them with pride in your heart!",
+    ["D"] = "This is it $n, your most dangerous task yet, but I am more than sure you will succeed. You showed courage I have not seen in so long, may the ancestors guide your steps and may you return unharmed. You have my blessings and the ancestors at your side. Remember that where you stand a great warrior once stood and you too shall walk in his steps, slay them with pride in your heart!",
   },
   [70034] = {
     ["T"] = "Hawk's Beak",
-    ["O"] = "Take what remains of the spear to Norvok Hawkspear.",
-    ["D"] = "As you go sowing and reaping demons like a farmer in the harvest you come upon a broken spear. The handle was destroyed and the blade was in poor shape. You immediately realise this is the spear you've been tasked to return if you were to find it.",
+    ["O"] = "Recover any trace of Norvok's Weapon for Norvok Hawkspear in Ashenvale.",
+    ["D"] = "Norvok is in no condition to be out looking for a family heirloom, but I worry that perhaps he may attempt to venture out before he is fully healed. If you could search for any trace of the spear that he had left behind, it would be greatly appreciate, no doubt by myself and Norvok. The demon's to the east would be your best bet in searching, go swifty!",
   },
   [70040] = {
     ["T"] = "Reinforcing The Sepulcher",
