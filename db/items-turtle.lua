@@ -252,7 +252,7 @@ pfDB["items"]["data-turtle"] = {
     },
   },
   -- Rockhide Boar Meat
-  [51861] = {
+  [51868] = {
     ["U"] = {
       [524] = 100.00,
     },
