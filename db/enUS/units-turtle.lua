@@ -71,6 +71,7 @@ pfDB["units"]["enUS-turtle"] = {
   [51600] = "Snufflesnout",
   [51607] = "Morgan the Storm",
   [52006] = "Robb Dursley",
+  [52015] = "Samuel Vickers",
   [52021] = "Poppy Zabini",
   [52024] = "Lord Commander Ryke",
   [52030] = "Jaime Sparrow",
