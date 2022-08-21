@@ -5910,7 +5910,7 @@ pfDB["units"]["data-turtle"] = {
     ["fac"] = "H",
     ["lvl"] = "50",
     ["coords"] = {
-      [1] = { 36.55, 34.41, 17, 0 },
+      [1] = { 60.9, 12.8, 215, 0 },
     },
   },
   -- Elder Pyrestrider
@@ -5918,7 +5918,7 @@ pfDB["units"]["data-turtle"] = {
     ["fac"] = "H",
     ["lvl"] = "40",
     ["coords"] = {
-      [1] = { 36.44, 34.43, 17, 0 },
+      [1] = { 60.7, 12.9, 215, 0 },
     },
   },
   -- Troll Hunter Penthar
