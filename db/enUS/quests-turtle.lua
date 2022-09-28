@@ -1956,8 +1956,8 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [40412] = {
     ["T"] = "Delivery Overdue",
-    ["O"] = "Deliver Jarl's Package to \"Swamp Eye\" Jarl at Swamplight Manor in Dustwallow Marsh.",
-    ["D"] = "You wouldn't mind running a delivery would you? I got one that's a bit overdue, and that's mostly because my main delivery guy got reassigned back to Stormwind. If you don't mind a bit of dangerous trekking, I got a crate of goods that needs to be sent to Jarl out at Swamplight Manor. It shouldn't be too hard to find, just follow the road northwest out of Theramore, keep going for a while after Sentry Point Tower until you see a small dirt pathway that leads to the right. Once you see it, you'll see it, Jarl usually leaves a bunch of torches lit, just- don't startle him, the guys a bit... Quirky.",
+    ["O"] = "Deliver Jarl's Package to Swamp Eye Jarl at Swamplight Manor in Dustwallow Marsh.",
+    ["D"] = "You wouldn't mind running a delivery would you? I got one that's a bit overdue, and that's mostly because my main delivery guy got reassigned back to Stormwind. If you don't mind a bit of dangerous trekking, I got a crate of goods that needs to be sent to Jarl out at Swamplight Manor. It shouldn't be too hard to find, just follow the road northwest out of Theramore, keep going for a while after Sentry Point Tower until you see a small dirt pathway that leads to the right. Once you see it, you'll see it, Jarl usually leaves a bunch of torches lit, just don't startle him, the guys a bit... Quirky.",
   },
   [40413] = {
     ["T"] = "Old Bryan's Food Delivery",
