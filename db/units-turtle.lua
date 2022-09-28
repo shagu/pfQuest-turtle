@@ -5691,6 +5691,10 @@ pfDB["units"]["data-turtle"] = {
   [60735] = {
     ["lvl"] = "54",
   },
+  -- Engineer Figgles
+  [60736] = {
+    ["lvl"] = "54",
+  },
   -- Har'gesh Doomcaller
   [60737] = {
     ["lvl"] = "57",
@@ -5812,6 +5816,14 @@ pfDB["units"]["data-turtle"] = {
       [1] = { 95.0897, 22.7834, 46, 0 },
     },
   },
+  -- Mistress Katalla
+  [60775] = {
+    ["fac"] = "H",
+    ["lvl"] = "54",
+    ["coords"] = {
+      [1] = { 89.42, 24.47, 46, 0 },
+    },
+  },
   -- 'Chaser'
   [60779] = {
     ["fac"] = "A",
@@ -5898,6 +5910,22 @@ pfDB["units"]["data-turtle"] = {
     ["lvl"] = "40",
     ["coords"] = {
       [1] = { 39.32, 79.01, 215, 0 },
+    },
+  },
+  -- Trainer Tokala
+  [60818] = {
+    ["fac"] = "H",
+    ["lvl"] = "25",
+    ["coords"] = {
+      [1] = { 38.42, 78.51, 215, 0 },
+    },
+  },
+  -- Sunchaser
+  [60821] = {
+    ["fac"] = "H",
+    ["lvl"] = "8",
+    ["coords"] = {
+      [1] = { 39.65, 80.35, 215, 0 },
     },
   },
   -- Brave Proudspear

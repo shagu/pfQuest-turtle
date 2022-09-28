@@ -2152,6 +2152,13 @@ pfDB["items"]["data-turtle"] = {
       [5287] = 100.00,
     },
   },
+  -- Pristine Harpy Feather
+  [60769] = {
+    ["U"] = {
+      [2962] = 100.00,
+      [2963] = 100.00,
+    },
+  },
   -- Bog Creature Core
   [70021] = {
     ["U"] = {

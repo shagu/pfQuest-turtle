@@ -2569,6 +2569,31 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Prove your strength to the Ancient Spirit Wolf.",
     ["D"] = "You listen, and listen well, perhaps you are worthy afterall. I have one final challenge for you, one to prove that you are truly worthy of my power. I challenge you to combat, show me your abilities, and show me your strength. If you truly have the strength to defeat me, and can take my advice in heed, you will truly embody the my spirit, and I will grant you my gift. If you think you are worthy enough to challenge me, speak with me once more. Make sure you are ready, for I will not hold back.",
   },
+  [40535] = {
+    ["T"] = "From Stomach to Heart",
+    ["O"] = "Collect 2 pieces of Leg Meat from Adult Plainstriders for Trainer Tokala at Red Cloud Roost in Mulgore.",
+    ["D"] = "May the Earthmother bless the path you're walking young one, welcome to Redcloud Roost, where we keep the wyverns of Highperch which are the most akin to forge a bond with the members of the Horde. Wyvern are intelligent and generous beasts, $c, since long ago our warchief and chieftain have sought their aid. They have been an invaluable ally to our ways. Many would like to take to the skies with them one day, and if you wish to do so yourself, I will teach you the way. First, you must listen to their stomach and bribe it in a way that it will soften their hearts. Meat is the way to go, always. For this time I'd advise grabbing the leg meat of adult plainstriders. You'd simply have to hunt just one of these majestic birds, or would you? Depending on how harsh you hit them, you might not be able to harvest their meat. Return with merely two pieces, I am eager to see you prove patience or creativity.",
+  },
+  [40536] = {
+    ["T"] = "Bond Through Battle",
+    ["O"] = "Feed Sunchaser and defeat him in battle, once complete, return to Trainer Tokala at Red Cloud Roost in Mulgore.",
+    ["D"] = "Now that you have the meat, it is time for the actual test. This will prove if you are capable enough to be gifted a wyvern cub which will become your most trusted companion. Take this meat to Sunchaser, he is one of the Wyvern Alpha and my most trusted friend. Note that this will not be a gift, but a challenge. Presenting yourself in front of the alpha with the hunted game is disrespectful, Sunchaser will know you seek one of his cubs and by presenting the meat you will imply that you can be as much of a guardian as he can, and he will test that himself. He will not kill you, probably.",
+  },
+  [40537] = {
+    ["T"] = "Eager Little One",
+    ["O"] = "Gather a Pristine Harpy Feather from Windfury Harpies for Trainer Tokala at Red Cloud Roost in Mulgore.",
+    ["D"] = "My friend, you are ready to receive your own eager wyvern cub. But for it to accept you as its new companion you must bring the wyvern a gift. For many years the wyvern and the harpies battled on the wind for domination over the skies. Prove yourself an ally to the cub, bring him the most beautiful feather of a harpy's wing. This might prove difficult but understand that if the feather isn't chosen both by fate and your own consciousness you will never be able to appeal to him. The Windfury Harpies can be found around Mulgore, slay them and bring me back a feather you think will please your cub.",
+  },
+  [40538] = {
+    ["T"] = "Peculiar Won't Even Cut It",
+    ["O"] = "Slay 8 Peculiar Dragonlings for Worg Mistress Katalla in Karfang Hold.",
+    ["D"] = "One of our scouting parties took this worg with them. They had to face some whelps, and they claim that some of those are as hard as the very metal we shape and forge. I would never mistrust my clan, $n. But I will not endanger the scouting party either, they are not cut for this kind of work. I can't even send this worg with you, it is wounded and seems too afraid to return, it must be reshaped. I urge you to go and find these peculiar dragonlings and bring an end to them. My clansmen say they can be found to the east of the Steppes, where the dark irons that assumed the name of Hateforge have been roaming. Kill them and find out what kind of trickery these dwarves have been up to.",
+  },
+  [40539] = {
+    ["T"] = "Hunting Engineer Figgles",
+    ["O"] = "Kill Engineer Figgles in Hateforge Quarry for Worg Mistress Katalla.",
+    ["D"] = "Engineer Figgles. This creature has the ego of Nefarian himself. Who would be arrogant enough to put their own name on everything they've ever created. Alas, this is in our favor. I am not certain what the dark irons plan with these whelpings but we must definitely stop them. Although we have nowhere, to begin with, I am certain, that a valiant warrior such as yourself who has earned the respect of my clan will surely be able to find this Figgles. Go with the worg's swiftness, and may the blood in your veins burn with the rage of a thousand lava pools.",
+  },
   [50000] = {
     ["T"] = "Professor Malkovich",
     ["O"] = "Talk to Professor Malkovich at the bottom of the Apothecarium in Undercity.",

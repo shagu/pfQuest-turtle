@@ -352,6 +352,7 @@ pfDB["items"]["enUS-turtle"] = {
   [60763] = "Ancient Loa Charm",
   [60767] = "Letter from Maltimor",
   [60768] = "Pristine Wolf Tooth",
+  [60769] = "Pristine Harpy Feather",
   [70021] = "Bog Creature Core",
   [70022] = "Ashenvale Bear Pelt",
   [70023] = "Commander Grushak's Report",
