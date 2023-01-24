@@ -41,8 +41,10 @@ if pfDB["minimap-turtle"] then patchtable(pfDB["minimap"], pfDB["minimap-turtle"
 if pfDB["meta-turtle"] then patchtable(pfDB["meta"], pfDB["meta-turtle"]) end
 
 -- Update bitmasks to include custom races
-pfDB.bitraces[256] = "Goblin"
-pfDB.bitraces[512] = "BloodElf"
+if pfDB.bitraces then
+  pfDB.bitraces[256] = "Goblin"
+  pfDB.bitraces[512] = "BloodElf"
+end
 
 -- Reload all pfQuest internal database shortcuts
 pfDatabase:Reload()
