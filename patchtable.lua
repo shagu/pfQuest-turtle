@@ -8,7 +8,7 @@ local function patchtable(base, diff)
     if base[k] and type(v) == "table" then
       if type(base[k]) == "table" then
         patchtable(base[k], v)
-      else 
+      else
         base[k] = v
       end
     elseif type(v) == "string" and v == "_" then
@@ -39,6 +39,10 @@ if loc_update then patchtable(loc_core, loc_update) end
 
 if pfDB["minimap-turtle"] then patchtable(pfDB["minimap"], pfDB["minimap-turtle"]) end
 if pfDB["meta-turtle"] then patchtable(pfDB["meta"], pfDB["meta-turtle"]) end
+
+-- Update bitmasks to include custom races
+pfDB.bitraces[256] = "Goblin"
+pfDB.bitraces[512] = "BloodElf"
 
 -- Reload all pfQuest internal database shortcuts
 pfDatabase:Reload()
