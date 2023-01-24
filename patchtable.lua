@@ -46,6 +46,19 @@ if pfDB.bitraces then
   pfDB.bitraces[512] = "BloodElf"
 end
 
+-- Disable Minimap in custom dungeon maps
+function pfMap:HasMinimap(map_id)
+  -- disable dungeon minimap
+  local has_minimap = not IsInInstance()
+
+  -- enable dungeon minimap if continent is less then 3 (e.g AV)
+  if IsInInstance() and GetCurrentMapContinent() < 3 then
+    has_minimap = true
+  end
+
+  return has_minimap
+end
+
 -- Reload all pfQuest internal database shortcuts
 pfDatabase:Reload()
 
