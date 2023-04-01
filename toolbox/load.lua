@@ -73,14 +73,6 @@ function opairs(t)
   return orderedNext, t, nil
 end
 
-function trealsize(tbl)
-  local count = 0
-  for _ in pairs(tbl) do
-    count = count + 1
-  end
-  return count
-end
-
 function tblsize(tbl)
   local count = 0
   for _ in pairs(tbl) do
@@ -89,37 +81,56 @@ function tblsize(tbl)
   return count
 end
 
-function tablesubstract(new, base)
-  local ret = {}
-
-  if not base then
-    ret = new
-  elseif type(new) == "table" and type(base) == "table" then
-    for k, v in pairs(new) do
-      if base[k] and type(base[k]) == "table" and type(v) == "table"  then
-        local result = tablesubstract(v, base[k])
-        -- only write table if there is at least one change
-        if trealsize(result) > 0 then ret[k] = result end
-      elseif base[k] and type(base[k]) ~= "table" and type(v) ~= "table" then
-        if base[k] ~= v then
-          ret[k] = v
-        end
-      elseif not base[k] then
-        ret[k] = v
-      end
-    end
-
-    -- add delete entries for obsolete values
-    for k, v in pairs(base) do
-      if not new[k] then
-        ret[k] = "_"
-      end
-    end
-  else
-    print("ERROR: non-table assigned to `tablesubstract`")
+-- return true if the base table or any of its subtables
+-- has different values than the new table
+function isdiff(new, base)
+  -- different types
+  if type(new) ~= type(base) then
+    return true
   end
 
-  return ret
+  -- different values
+  if type(new) ~= "table" then
+    if new ~= base then
+      return true
+    end
+  end
+
+  -- recursive on tables
+  if type(new) == "table" then
+    for k, v in pairs(new) do
+      local result = isdiff(new[k], base[k])
+      if result then return true end
+    end
+  end
+
+  return nil
+end
+
+-- create a new table with only those indexes that are
+-- either different or non-existing in the base table
+function tablesubstract(new, base)
+  local result = {}
+
+  -- write turtle-wow values
+  for k, v in pairs(new) do
+    if new[k] and not base[k] then
+      -- write new entries
+      result[k] = new[k]
+    elseif new[k] and base[k] and isdiff(new[k], base[k]) then
+      -- write different entries
+      result[k] = new[k]
+    end
+  end
+
+  -- remove obsolete entries
+  for k, v in pairs(base) do
+    if base[k] and not new[k] then
+      result[k] = "_"
+    end
+  end
+
+  return result
 end
 
 function serialize(file, name, tbl, spacing, flat)

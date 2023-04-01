@@ -36,13 +36,18 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [832] = {
     ["D"] = "<Words emanate from the pendant and into your mind.>Gazz\'uz?Gazz\'uz... report!There is word of your discovery in Skull Rock. You must prepare for an attack!Gazz\'uz, I order you to speak!Speak or I will make sure Neeru Fireblade knows of your presence, and he will descend on you with swift brutality.Do not test your skills against Neeru......Gazz\'uz, are you there...?",
+    ["O"] = "Take this eye to Neeru Fireblade.",
+    ["T"] = "Burning Shadows",
   },
   [881] = {
     ["D"] = "Whitemist, Echeyakee in the Tauren tongue, is the king of the savannah cats. He hunts with such stealth, they say he\'s like a thin, white mist on the earth. And he kills so fast his prey have no time for fear, or pain.The Tauren say he is both mercy and death.You will learn if that\'s true, for I now set you on the path to hunt Echeyakee. His lair is northeast of the Crossroads, among the bones of giant Kodo.Go. Blow this horn when you reach his lair. Blow the horn, and he will come.",
+    ["O"] = "Bring Echeyakee\'s Hide to Sergra Darkthorn at the Crossroads.",
+    ["T"] = "Echeyakee",
   },
   [969] = {
     ["D"] = "Ah, I can tell just by lookin\' at ya -- you be wantin\' to make a lucky charm. Mau\'ari always knows!$B$BTo da south. you\'ll find a canyon, an\' giants made a\' solid ice. The giants sometimes be carryin\' dem, but ya can always gather da shards yerself from da canyon. These shards have a powerful reflective quality.$B$BBring back 10 frostmaul shards, and my lucky charm will be yours.",
     ["O"] = "Collect 10 Frostmaul Shards for Witch Doctor Mau\'ari in Everlook.",
+    ["T"] = "Luck Be With You",
   },
   [1157] = {
     ["D"] = "TODO",
@@ -61,15 +66,23 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [1447] = {
     ["D"] = " Yeah, you\'re obviously not the smartest $c to come into Stormwind, but you\'re about to be one of the dumbest to never leave.$B$BHave you met me friends?",
+    ["O"] = "Defeat Dashel Stonefist in Stormwind.",
+    ["T"] = "The Missing Diplomat",
   },
   [1459] = {
+    ["D"] = "Next on Leftwitch\'s list is... let\'s see... hmm. Oh, here it is.$B$BSimple enough, but pretty explicit in his directions. He needs venom from the scorpashi, and hide from some kodo. The fine print says both are from specific creatures: the venom\'s got to come from any of the scorpashi, and the hide\'s got to come from an aged kodo, not the dying or ancient ones.$B$BMages, I tell ya, some of the stuff they want... it\'s just weird.",
     ["O"] = "Bring 7 vials of Scorpashi Venom and 3 Aged Kodo Hides to Kreldig Ungor in Desolace.",
+    ["T"] = "Reagents for Reclaimers Inc.",
   },
   [1653] = {
+    ["D"] = "Actually, I have no doubt that Jordan himself would like to thank you, and seeing as I need a messenger to send word that his wife is safe, I think you\'d be a perfect choice.$B$BJordan was to be a paladin of the Light before his dedication to his father\'s craft took him on another path--he\'s intimately familiar with our way of life and is considered among our most faithful.$B$BHe should still be in Ironforge--he likes to work outside the gates during the day, something about the cool mountain air.",
     ["O"] = "Speak to Jordan Stilwell in Ironforge.",
+    ["T"] = "The Test of Righteousness",
   },
   [2865] = {
+    ["D"] = "The scarabs of Tanaris have very hard shells!  Hard enough to use as a building material for lots of things.  So many things!$B$BIn fact, those shells are so useful... the scarabs were hunted all to near extinction!$B$BI know where there are more scarabs, and if you promise to bring me their shells then I\'ll tell you where they are.  Promise?$B$BOk, the scarabs have a colony in Zul\'Farrak.  I guess the trolls don\'t hunt them for their shells.$B$BBut you can!  Go to Zul\'Farrak and get me uncracked shells!",
     ["O"] = "Bring 5 Uncracked Scarab Shells to Tran\'rek in Gadgetzan.",
+    ["T"] = "Scarab Shells",
   },
   [3111] = {
     ["D"] = "While you were helping me out, this memorandum was given to me to pass on to you. Take some time to read it when you have a chance. I\'m thinkin\' it came from the mage trainer Marrek. Take a gander at it and go find him inside Anvilmar when you\'ve a chance.",
@@ -98,26 +111,38 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [4297] = {
     ["D"] = "Sprite darters are omnivores--that means they eat both meat and vegetation. If your egg here\'s gonna hatch, we best be prepared. Some good eats for these little guys are flanks of meat, raw and juicy, believe it or not. I was never able to find out why, but it has somethin\' to do with Elune\'s plan for the elves... maybe they were to be protectors or somethin\', I don\'t know.I\'ll take care of the egg for now, why don\'t you get me some good Silvermane stalker flanks for \'em to eat when he\'s hatched.",
+    ["O"] = "Bring 5 Silvermane Stalker Flanks to Agnar Beastamer in Hinterlands.",
+    ["T"] = "Food for Baby",
   },
   [4866] = {
     ["D"] = "It\'s probably one of the most potent poisons in the world, $r!$B$BI\'ve overheard the Blackrock speaking about its lethality in my jaunts into the Spire. They call it \'Mother\'s Milk\' where entry = named after Mother Smolderweb, the big nasty spider in the Skitterweb cave.$B$BNow here\'s what I need from you: A live sample of the Milk, flowing through YOUR veins. Just bringing me the gland won\'t be enough! Get her to poison you and come back to me!$B$BThen... I get to milk ya!$B$B<Rubs his hands together in anticipation.>",
+    ["O"] = "In the heart of Blackrock Spire you will find Mother Smolderweb. Engage her and get her to poison you. Chances are good that you will have to kill her as well. Return to Ragged John when you are poisoned so that he can \'milk\' you.",
+    ["T"] = "Mother\'s Milk",
   },
   [5054] = {
     ["D"] = "In the snowy mountains of Winterspring, to the northwest, a skilled hunter stalks his prey... I speak of Ursius of the shardtooth bears, an agile and clever beast.$B$BI send you now against him. He roams the sloping hills to the northwest of Everlook. Find and hunt him, before he discovers your intent.$B$BAll that have gone up against Ursius have quickly found themselves to be the prey, and he, the hunter. Stay on your guard.",
     ["O"] = "Storm Shadowhoof at Everlook in Winterspring wants you to kill Ursius.",
+    ["T"] = "Ursius of the Shardtooth",
   },
   [5055] = {
+    ["D"] = "Swift, and clever, Brumeran glides silently across the snowy landscape of southern Winterspring. But do not let her graceful appearance convince you that she is harmless. All that cross her pay considerably, and often with their own lives.$B$BSeek out Brumeran of the chillwind among the chimera. Defeat her, then return again to me.",
     ["O"] = "Storm Shadowhoof at Everlook in Winterspring wants you to kill Brumeran.",
+    ["T"] = "Brumeran of the Chillwind",
   },
   [5056] = {
     ["D"] = "In northern Winterspring, great cats assemble around a large landmark called Frostsaber Rock. The leader of these cats is known by the name Shy-Rotam. Defeating the matriarch of the frostsabers would grant you much respect in the eyes of your fellow $r.$B$BGo again to the harsh wilds, and once there, gather sacred meat from the frostsabers. Find the stone of Shy-Rotam, and place it there. Placing the meat of her kin before her will summon Shy-Rotam, in anger.$B$BBe ready for her fury, and defeat her.",
     ["O"] = "Storm Shadowhoof at Everlook in Winterspring wants you to defeat Shy-Rotam.",
+    ["T"] = "Shy-Rotam",
   },
   [5166] = {
+    ["D"] = "The forging of a powerful breastplate to protect against the unrelenting attacks of the chromatic flight is one built upon irony.$B$BThe scales of the very beasts we battle must be sewn to the pristine carapace of an elder chromatic drake or dragon. None are known to exist at this time and we should hope that none will ever exist.$B$BLastly, perhaps the most difficult of all components: the blood of heroes.$B$BThe Sculptor must ultimately forge this creation.",
+    ["O"] = "To forge the Breastplate of the Chromatic Flight, you will be required to bring the following items to Jeziba the \'Sculptor\':$B$B1 Chromatic Carapace.$B$B10 Brilliant Chromatic Scales.$B$B10 Blood of Heroes.$B$B10 Frayed Abomination Stitchings.",
     ["T"] = "Breastplates of the Chromatic Flight",
   },
   [5675] = {
     ["D"] = "Time\'s a wastin\' where entry = $glad:lass;. It\'s time for you to return home to Darnassus. Priestess Alathea\'s sent word here that you\'re to return there for training. Seems they feel you\'re ready to be tested much like those who serve the Light. You should head out whenever you can. Alathea\'s message said that she\'d be waitin\' for you in the Temple of the Moon. Good luck.",
+    ["O"] = "Speak to Priestess Alathea in Darnassus.",
+    ["T"] = "Elune\'s Grace",
   },
   [5678] = {
     ["D"] = "It is time for you to return to Stormwind, young one. Your superiors there have called you back for more training. And although it disturbs me some, your race and mine are allies and I would not betray that.$b$bI do not mean to be so coy with you--my distrust of arcane magics, be they divine inspired or not, is still strong within me.$b$bYou will know of what I speak after you return to your Cathedral of Light. Speak to High Priestess Laurena when you arrive.",
@@ -137,10 +162,13 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [6086] = {
     ["D"] = "$N, ya now have the power to tame a pet, but you must also gain the skills ta train it.Travel to Ironforge and find the Hall of Arms. There you must speak to one of our most revered animal trainers, Belia Thundergranite. She\'ll give ya the power to train your new pet, so get goin\' $Glad:lass;!Belia is a friendly sort; you should have no problems gaining her approval. Good luck, $N.",
+    ["O"] = "Speak with Belia Thundergranite in Ironforge.",
+    ["T"] = "Training the Beast",
   },
   [6131] = {
     ["D"] = "The Timbermaw are the only furbolg tribe to escape the corruption. However, many other races kill furbolg blindly now, without bothering to see if they are friend or foe. For this reason, the Timbermaw furbolg trust very few.$B$BAre you interested in proving yourself? Drive back the corrupted Deadwood tribe of Felwood and we may one day consider you an ally. You\'ll find the first Deadwood tribe - warriors, pathfinders and gardeners - to my west.",
     ["O"] = "Grazle wants you to prove yourself by killing 5 Deadwood Warriors, 5 Deadwood Pathfinders, and 5 Deadwood Gardeners.",
+    ["T"] = "Timbermaw Ally",
   },
   [6165] = {
     ["D"] = "The details about this quest are missing",
@@ -148,17 +176,24 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Archmage Timolain\'s Remains",
   },
   [6402] = {
+    ["D"] = "You are to meet with Windsor at the gates of Stormwind.$B$BWhat Windsor is about to unveil will shake the very foundation of the kingdom!$B$BDo not attempt to venture there alone, $N. You must amass an army! Gather your compatriots. To arms! ",
     ["O"] = "Travel to Stormwind City and venture to the city gates. Speak with Squire Rowe so that he may let Marshal Windsor know that you have arrived.",
+    ["T"] = "Stormwind Rendezvous",
   },
   [6606] = {
     ["D"] = "We can always use a little luck, eh? A small advantage is all it takes to turn things in your favor...$B$BI happened to make the acquaintance of a rather eccentric witch doctor some time back. She made me a lucky charm... for a price. Believe me, though, it was well worth it!$B$BMaybe you\'d be interested in one of your own? Find Witch Doctor Mau\'ari in Everlook. I\'m not giving mine up!",
     ["O"] = "Speak with Witch Doctor Mau\'ari in Everlook.",
+    ["T"] = "A Little Luck",
   },
   [7381] = {
+    ["D"] = "While it is true that Korrak has been slain, one question remains: Will he remain dead? Trolls are notorious for their other-worldly tribal magics. I would not be surprised if the fallen leader was raised from the dead to once more rule over his clan.$B$BYou know what to do should this ever occur.$B$B<Warmaster Laggrond makes a cutting motion across his neck with his index finger.>$B$BAnd  this time, I want his skull. Just keep your eyes peeled, soldier.$B$BDismissed!",
     ["O"] = "Should Korrak the Bloodrager make a return to the Snowfall Graveyard, seek him out and destroy him.$B$BReturn the Skull of Korrak to Warmaster Laggrond in the Hillsbrad Foothills.",
+    ["T"] = "The Return of Korrak",
   },
   [7382] = {
+    ["D"] = "There\'s something not quite right about all of this... Did anybody think to burn Korrak\'s corpse? Those trolls will stop at nothing to revive their fallen leader - as blue skinned pagan man-beasts often do.$B$BJust keep your eyes out, $N. Don\'t be alarmed if Korrak makes a surprise appearance; and if he does, I want him executed - his corpse burned to ashes.$B$BFor good measure, lop off his head and bring me his skull before you ignite the lifeless mass.",
     ["O"] = "Should Korrak the Bloodrager make a return to the Snowfall Graveyard, seek him out and destroy him.$B$BReturn the Skull of Korrak to Lieutenant Haggerdin in the Hillsbrad Foothills.",
+    ["T"] = "Korrak the Everliving",
   },
   [7478] = {
     ["D"] = "Master Winthalus lost the Libram of Rapidity in the east wing. The Libram will allow for a minor haste cantrip to be placed upon your equipment. Parlor tricks, really...$B$BRegardless, if you are interested, you will need to present the Libram along with some basic reagents.$B$BHrm... I believe it also requires blood of heroes, a pristine black diamond, and large brilliant shards. I could be wrong!$B$B<Lydros shrugs.>",
@@ -178,27 +213,42 @@ pfDB["quests"]["enUS-turtle"] = {
   [7487] = {
     ["D"] = "Rifts stir, tear, and collapse all around us, $r. Not two paces from where I stand is a tear leading through the depths of Blackrock Mountain, into the maw of the Firelord.$B$BSurprised? Pity... The mortal races cannot comprehend that which they cannot see, touch, or feel.$B$BI assure you, the portal is there and access is possible.$B$BI\'ve piqued your interest? Attunement is simple. Venture into Blackrock Depths and retrieve a core fragment. Return it to me and I shall attune your essence with the portal.",
     ["O"] = "Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",
+    ["T"] = "Attunement to the Core",
   },
   [7653] = {
+    ["D"] = "",
     ["O"] = "For the belt plans, I\'ll be needin\' 20 thorium bars.",
+    ["T"] = "Imperial Plate Belt",
   },
   [7654] = {
+    ["D"] = "",
     ["O"] = "For the boot plans, I\'ll be needin\' 40 thorium bars. Yep, 40. Are you gonna cry? Would you like a hanky?",
+    ["T"] = "Imperial Plate Boots",
   },
   [7655] = {
+    ["D"] = "",
     ["O"] = "For the bracer plans, I\'ll be needin\' 20 thorium bars.",
+    ["T"] = "Imperial Plate Bracer",
   },
   [7656] = {
+    ["D"] = "",
     ["O"] = "For the chest piece plans, I\'ll be needin\' 60 thorium bars.Oh boy, there you go again. Are you gonna be runnin\' to yer blue Gods, askin\' why they have forsaken you?!?Toughen up, Nancy! Nobody ever said life\'s fair.",
+    ["T"] = "Imperial Plate Chest",
   },
   [7657] = {
+    ["D"] = "",
     ["O"] = "Just hand over 50 thorium bars and the helm plans are yers.",
+    ["T"] = "Imperial Plate Helm",
   },
   [7658] = {
+    ["D"] = "",
     ["O"] = "Just hand over 60 thorium bars and the leg plans are yers.I know, I\'m driving you into bankruptcy! I\'ve heard it all before so you can save your sob story, weakling.",
+    ["T"] = "Imperial Plate Leggings",
   },
   [7659] = {
+    ["D"] = "",
     ["O"] = "For the shoulder plans, I\'ll be needin\' 20 thorium bars.",
+    ["T"] = "Imperial Plate Shoulders",
   },
   [7660] = "_",
   [7661] = "_",
@@ -221,177 +271,283 @@ pfDB["quests"]["enUS-turtle"] = {
   [7678] = "_",
   [7788] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+    ["O"] = "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+    ["T"] = "Vanquish the Invaders!",
   },
   [7789] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+    ["O"] = "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor\'shan Base Camp.",
+    ["T"] = "Quell the Silverwing Usurpers",
   },
   [7791] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Stormwind",
   },
   [7792] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Darnassus",
   },
   [7793] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Stormwind",
   },
   [7794] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Stormwind",
   },
   [7795] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Stormwind",
   },
   [7796] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Stormwind",
   },
   [7798] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Darnassus",
   },
   [7799] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Darnassus",
   },
   [7800] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Darnassus",
   },
   [7801] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Darnassus",
   },
   [7802] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Ironforge",
   },
   [7803] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Ironforge",
   },
   [7804] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Ironforge",
   },
   [7805] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Ironforge",
   },
   [7806] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Ironforge",
   },
   [7807] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Gnomeregan",
   },
   [7808] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Gnomeregan",
   },
   [7809] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Gnomeregan",
   },
   [7811] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Gnomeregan",
   },
   [7812] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Gnomeregan",
   },
   [7813] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Undercity",
   },
   [7814] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Undercity",
   },
   [7817] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Undercity",
   },
   [7818] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Undercity",
   },
   [7819] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Undercity",
   },
   [7820] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Thunder Bluff",
   },
   [7821] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Thunder Bluff",
   },
   [7822] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Thunder Bluff",
   },
   [7823] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Thunder Bluff",
   },
   [7824] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Orgrimmar",
   },
   [7825] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Thunder Bluff",
   },
   [7826] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Orgrimmar",
   },
   [7827] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Orgrimmar",
   },
   [7831] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Orgrimmar",
   },
   [7832] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Orgrimmar",
   },
   [7833] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Wool: Darkspear Tribe",
   },
   [7834] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Silk: Darkspear Tribe",
   },
   [7835] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Mageweave: Darkspear Tribe",
   },
   [7836] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "A Donation of Runecloth: Darkspear Tribe",
   },
   [7837] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Additional Runecloth: Darkspear Tribe",
   },
   [7871] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+    ["O"] = "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+    ["T"] = "Vanquish the Invaders!",
   },
   [7872] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+    ["O"] = "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+    ["T"] = "Vanquish the Invaders!",
   },
   [7873] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
+    ["O"] = "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+    ["T"] = "Vanquish the Invaders!",
   },
   [7874] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+    ["O"] = "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor\'shan Base Camp.",
+    ["T"] = "Quell the Silverwing Usurpers",
   },
   [7875] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Mark of Honor.  Return to me with such a Mark, $N, and you will be rewarded.",
     ["O"] = "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor\'shan Base Camp.",
+    ["T"] = "Quell the Silverwing Usurpers",
   },
   [7876] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
+    ["O"] = "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor\'shan Base Camp.",
+    ["T"] = "Quell the Silverwing Usurpers",
   },
   [7886] = {
     ["D"] = "",
+    ["O"] = "You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Talismans of Merit",
   },
   [7887] = {
     ["D"] = "You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more talismans of merit. Do this, and you will earn even more of our trust.",
     ["O"] = "You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Talismans of Merit",
   },
   [7888] = {
     ["D"] = "You have proven your value to our efforts in Warsong Gulch. Continue to aid the cause and bring me more talismans of merit. Do this, and you will earn even more of our trust.",
     ["O"] = "You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Talismans of Merit",
   },
   [7921] = {
     ["D"] = "",
+    ["O"] = "You obtained a Silverwing Talisman of Merit for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Talismans of Merit",
   },
   [7922] = {
     ["D"] = "",
+    ["O"] = "You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Mark of Honor",
   },
   [7923] = {
     ["D"] = "You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",
     ["O"] = "You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Mark of Honor",
   },
   [7924] = {
     ["D"] = "You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",
     ["O"] = "You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Mark of Honor",
   },
   [7925] = {
     ["D"] = "You have proven your value to our efforts in Warsong Gulch. Continue to rage against the Silverwing Sentinels! Bring me more marks of honor!",
     ["O"] = "You obtained a Warsong Mark of Honor for your last task, talk to me again, and you gain your reward.",
+    ["T"] = "Mark of Honor",
   },
   [8001] = {
     ["D"] = "I am Corpus and you are a wretched speciman, YES! You will do nicely, It has become overcrowded in this town and it is getting harder to find a empty grave. Can you help me get rid of some of the filthy zombies investing my graves, 5 should be enough to guarantee me a resting space.",
@@ -399,53 +555,84 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Zombie Cleansing",
   },
   [8066] = {
+    ["D"] = "A predator knows how to stalk their prey, but a successful one knows how to strike at it once they have closed ranks.  You must master both to have any chance of success in Zul\'Gurub... and any chance of being like the Zandalar predators.$B$BBring me choice parts of the Paragons of Power from within Zul\'Gurub.  My reward will be the power that the trinkets yield, while yours will be the Zandalar predator\'s belt - equipment well worth the trade.",
     ["O"] = "Bring the following Paragons of Power from Zul\'Gurub to Falthir the Sightless: A Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Predator\'s Belt",
   },
   [8067] = {
+    ["D"] = "We Zandalar prize what we wear as a symbol of accomplishment.  You don\'t need to be able to see what one wears to be able to sense what emanates from it - power transcends sight.  The garments of the Zandalar predator are like this, and most cherished by them is the mantle they wear.  It helps to obfuscate them from view... and to make their presence known when they wish it.$B$BThe Paragons of Power await your retrieval in Zul\'Gurub.  Bring me what I seek, and the predator\'s mantle shall be yours.",
     ["O"] = "Bring the following Paragons of Power from Zul\'Gurub to Falthir the Sightless: A Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Predator\'s Mantle",
   },
   [8068] = {
+    ["D"] = "Magic is a raw, primal force to be shaped by those strong enough to do it.  Mojo is our extension of this power; one such potent manipulation of it is in the form of illusion.  How can one truly hope to win against a foe that is not even really there?  We Zandalar know the power of this, and as such illusionists hold a honored place within the tribe.$B$BTake the needed Paragons of Power from Zul\'Gurub - for this, honor from the tribe and a powerful mantle used by our best illusionists will be yours!",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Shawl.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Illusionist\'s Mantle",
   },
   [8069] = {
+    ["D"] = "The tribe acknowledges station and power through what we wear.  Our vestments are made from the finest of materials, and interwoven with the mojo we use to make us powerful.  Illusionists are no exception; their robes are said to embody the essence of illusion in their look.  Legend states that their ancient robes never looked the same twice.$B$BI will give you an illusionist\'s robe, $N... but earn your place of reverence among the tribe first!  Bring me the Paragons of Power from Zul\'Gurub!",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Illusionist\'s Robes",
   },
   [8070] = {
+    ["D"] = "Shortly after the fall of the Gurubashi, we Zandalar almost succumbed to a final defeat from evil within our own tribe.  It was then that the confessors amongst us arose, preserving the tribe by banishing out those who would destroy their own kind.  They not only keep us in tune with the spirits, but they also preserve the flesh.$B$BGo forth into Zul\'Gurub and witness first hand the depravity of Hakkar and the Gurubashi.  Wrest the Paragons of Power that we seek from them; success will be rewarded!",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Sash.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Confessor\'s Bindings",
   },
   [8071] = {
+    ["D"] = "The confessors of the Zandalar all wear a distinctive mantle, marking them as the preservers of the tribe.  These mantles are woven with powerful mojo that aids them in judging those who would threaten our tribe.  As a priest, you too must spend your time judging those worthy and not; such a mantle would definitely be a blessing to you.$B$BIn exchange for fighting Hakkar\'s minions in Zul\'Gurub and bringing me the Paragons of Power I seek, I will give you a mantle worthy of our finest confessors.",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Confessor\'s Mantle",
   },
   [8072] = {
+    ["D"] = "One of Zandalar\'s legendary madcaps was Khar\'vaxal the Cracked.  Legend states that when facing the enemies of the tribe for the first time, Kar\'xavan used his mantle specifically woven with \"the weave of madness\".  His form was shrouded not only by the mantle, but also with the blinding speed of his twin daggers.  Madcaps today cherish their mantle as a sign of their place in the tribe.$B$BBring to me the Paragons of Power I seek, and such a mantle will be yours to weave madness unto your own enemies.",
     ["O"] = "Bring Falthir the Sightless a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Madcap\'s Mantle",
   },
   [8073] = {
+    ["D"] = "My eyes failed me long ago, but I do not miss them.  Even in a tribe such as ours - where one\'s vestments convey station and purpose - the most potent of garb exudes power that simple eyes cannot see.  The prized tunic of the Zandalar madcap is no exception, exuding the raw power of chaos and madness that they are able to channel.$B$BThe Paragons of Power I need lie in Zul\'Gurub; bring me what I seek, and I will reward you with your own legendary tunic... one befitting a weaver of madness.",
     ["O"] = "Bring Falthir the Sightless a Primal Hakkari Aegis.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BFalthir the Sightless is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Madcap\'s Tunic",
   },
   [8074] = {
+    ["D"] = "Augurs know the mojo of the elements, mon.  They use it as a means to guide the tribe to glory.  In the dark days after the Gurubashi Empire ripped itself up, our augurs led us to our safe haven in the South Seas.  They\'ve also led us back here to the Vale, right back to the heart of evil brewin\' in Zul\'Gurub.$B$BBring me an offerin\' of the Paragons of Power from inside Zul\'Gurub and prove your worth to us.  Do it and I\'ll give ya a belt that our augurs use - one with powerful mojo inside it!",
     ["O"] = "Bring Maywiki of Zuldazar a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Augur\'s Belt",
   },
   [8075] = {
+    ["D"] = "The augurs of the Zandalar all wear a distinctive chest piece called a hauberk.  It\'s fitted with the finest of silks and cloths, interwoven with strong chain.  It\'s a symbol of not only their divinity, but also of their authority, mon.  It\'s never wise to cross one whose life is devoted to speakin\' with the spirits...$B$BBring me an offerin\' of the Paragons of Power from inside Zul\'Gurub and prove your worth to us.  Do it and I\'ll give ya one of the finest hauberks our augurs would ever hope to wear!",
     ["O"] = "Bring Maywiki of Zuldazar a Primal Hakkari Tabard.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BMaywiki of Zuldazar is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Augur\'s Hauberk",
   },
   [8076] = {
+    ["D"] = "The demoniac seeks to embody power outright, not just possess it.  More than one of our demoniacs has lost a fight with a demon; with our enemies threatening us - especially in Zul\'Gurub - the power that a demoniac is able to unleash on our foes is worth the sacrifice.  Our survival depends on crushing those who would destroy us; the fall of the Gurubashi Empire taught us this.$B$BTravel to Zul\'Gurub and gain the Paragons of Power we need.  Do this, and a valuable demoniac item shall be yours.",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Sash.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Demoniac\'s Mantle",
   },
   [8077] = {
+    ["D"] = "The ultimate symbol of power amongst the tribe is the garb we wear in battle.  A demoniac\'s robes have fused fine runecloth and devastatingly powerful mojo into a single fabric.  The visage of the robe is said to instill fear into the minds of all who see it... especially the demons that the demoniac will eventually dominate.$B$BFrom Zul\'Gurub, you must bring me a very specific set of the Paragons of Power.  It will be difficult... but your success will assure you of acquiring a robe for yourself.",
     ["O"] = "Bring Al\'tabim the All-Seeing a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BAl\'tabim the All-Seeing is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Demoniac\'s Robes",
   },
   [8078] = {
+    ["D"] = "The ultimate vengeance waits within Zul\'Gurub.  Hakkar must not rise again.  Hakkar destroyed the Gurubashi Empire from within.  No sacrifice was enough.  The trolls are a shadow of former glories.  I know this is because of Hakkar.$B$BBecome the vindicator you were meant to be.  Wreak havoc on the minions of evil.  Zul\'Gurub must taste Zandalar vengeance.  Bring me proof in the Paragons of Power.  You will receive the vindicator\'s belt.  You will receive real power.$B$BGo.",
     ["O"] = "Bring Jin\'rokh the Breaker a Primal Hakkari Girdle.  You must also have a reputation equal to or greater than Honored with the Zandalar Tribe.$B$BJin\'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Vindicator\'s Belt",
   },
   [8079] = {
+    ["D"] = "The vindicator\'s symbol of power is the breastplate.  It is forged with powerful mojo.  It is trusted only to those we revere.  It is the Zandalar symbol of vengeance.$B$BTo become a vindicator is to become vengeance.  Take the Paragons of Power we need from Zul\'Gurub.  Bring them to us.  We will take the mojo stolen from us.  We will make the minions of Hakkar pay.  We will reward you with the vindicator\'s breastplate.$B$BGo.  Be our vengeance, $N.",
     ["O"] = "Bring Jin\'rokh the Breaker a Primal Hakkari Kossack.  You must also have a reputation equal to or greater than Revered with the Zandalar Tribe.$B$BJin\'rokh the Breaker is located on Yojamba Isle, Stranglethorn Vale.",
+    ["T"] = "Paragons of Power: The Vindicator\'s Breastplate",
   },
   [8080] = {
     ["D"] = "War must be fought with soldiers, any soldier will tell you.  They\'ll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a crate of resources.",
+    ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Sergeant Maclear at Refuge Pointe.",
+    ["T"] = "Arathi Basin Mark of Honor!",
   },
   [8123] = {
     ["D"] = "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
     ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Deathstalker Mortis at Hammerfall.",
+    ["T"] = "Cut Arathor Supply Lines",
   },
   [8154] = {
     ["D"] = "War must be fought with soldiers, any soldier will tell you.  They\'ll also say that a battle fought with poor gear or on an empty stomach is lost before it starts!$B$BThat is why Arathi Basin is important.  There are key areas in the basin that hold essential resources.  Metals, weapons, food, lumber - all are needed, and all can be gained there.$B$BThat is what I want from you, $N.  Enter Arathi Basin, win the battle by holding more bases than the enemy, and return to me with a Mark of Honor.",
@@ -465,54 +652,67 @@ pfDB["quests"]["enUS-turtle"] = {
   [8160] = {
     ["D"] = "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
     ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Deathstalker Mortis at Hammerfall.",
+    ["T"] = "Cut Arathor Supply Lines",
   },
   [8161] = {
     ["D"] = "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
     ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Deathstalker Mortis at Hammerfall.",
+    ["T"] = "Cut Arathor Supply Lines",
   },
   [8162] = {
     ["D"] = "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
     ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Deathstalker Mortis at Hammerfall.",
+    ["T"] = "Cut Arathor Supply Lines",
   },
   [8184] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Presence of Might",
   },
   [8185] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Syncretist\'s Sigil",
   },
   [8186] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Death\'s Embrace",
   },
   [8187] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Falcon\'s Call",
   },
   [8188] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Vodouisant\'s Vigilant Embrace",
   },
   [8189] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Presence of Sight",
   },
   [8190] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Hoodoo Hex",
   },
   [8191] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Prophetic Aura",
   },
   [8192] = {
     ["D"] = "Zanza can create the ancient troll enchantments with the right components. $B$BThe first is a primal Hakkari idol that must be taken from the most powerful of the Hakkari lieutenants: Jin\'do and the Bloodlord.$B$BThe second is a punctured voodoo doll. These can be found in the piles of refuse that litter this foul place. Look inside the jinxed hoodoo piles.",
     ["O"] = "Bring me these things and I will create a powerful enchantment for you!",
+    ["T"] = "Animist\'s Caress",
   },
   [8201] = {
     ["D"] = "It is true.  Hakkar now dwells in Zul\'Gurub, bathing in the power of our gods.  Enthralled high priests now channel the energies of our most sacred divinities into the Soulflayer, who will soon have a strength beyond any being of Azeroth.  He must be stopped!$B$BTake this sacred cord, and string through it the heads of the high priests responsible for channeling our gods\' energy.$B$BWhen you have done this, return to me.",
     ["O"] = "String 5 Channeler\'s Heads, then return the Collection of Troll Heads to Exzhal on Yojamba Isle.",
+    ["T"] = "A Collection of Heads",
   },
   [8290] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a talisman of merit.  Bring me such a talisman, $N, and I shall reward you.",
@@ -522,16 +722,22 @@ pfDB["quests"]["enUS-turtle"] = {
   [8291] = {
     ["D"] = "Beyond this tunnel you will find a field of strife and turmoil, young $c. The Horde continue to decimate our sacred forest, cutting down the evergreen foliage to power their machines of war.$B$BEnter Warsong Gulch and defend Silverwing Hold. Push back the invading Horde forces!$B$BDo this, and earn a Mark of Honor.  Bring it to me, $N, and I shall reward you.",
     ["O"] = "Enter Warsong Gulch and defeat the Horde, obtain a Warsong Gulch Mark of Honor, and return to Sentinel Farsong at the Silverwing Grove.",
+    ["T"] = "Vanquish the Invaders!",
   },
   [8292] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Marks of Honor",
   },
   [8293] = {
+    ["D"] = "",
+    ["O"] = "",
     ["T"] = "Marks of Honor",
   },
   [8294] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Mark of Honor.  Return to me with such a Mark, $N, and you will be rewarded.",
     ["O"] = "Enter Warsong Gulch and defeat the Alliance, gain a Warsong Gulch Mark of Honor, and bring it to Captain Shatterskull at the Mor\'shan Base Camp.",
+    ["T"] = "Quell the Silverwing Usurpers",
   },
   [8295] = {
     ["D"] = "The wilds of the Ashenvale forest will succumb to the might of the Horde, $r. Nothing the Silverwing say or do can stop our sovereign imperative. Kalimdor belongs to the Horde. How dare they attempt to prevent us from harvesting what is rightfully ours!$B$BLet the pride swell in your chest as you cut down their weak attempts at slowing our progress. Destroy the Silverwing Sentinels, and earn a Warsong mark of honor.  Return to me with such a mark, $N, and you will be rewarded.$B",
@@ -551,6 +757,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [8299] = {
     ["D"] = "The League of Arathor is sparing no expense in their move to retake Arathi.  They, and all the races of the Alliance, now stream to this distant region, intent on expanding their hold from Refuge Pointe.  We must stop them, and the best means to stop them is to take their supplies.$B$BYou can help us, $N.  Enter Arathi Basin, known for its rich mines, fertile land and skilled craftsman.  Capture and control every base you can, win the battle, and return to me with the Mark of Honor you gain.",
     ["O"] = "Win the battle for Arathi Basin, get an Arathi Basin Mark of Honor, and return it to Deathstalker Mortis at Hammerfall.",
+    ["T"] = "Cut Arathor Supply Lines",
   },
   [8300] = {
     ["D"] = "",
@@ -559,6 +766,8 @@ pfDB["quests"]["enUS-turtle"] = {
   },
   [8524] = {
     ["D"] = "Hey there, friend! If I were to say to you, \'Don\'t you think that soldiers should have food to eat like anyone else?\' where entry = you would of course reply, \'yes\'. I agree with you 110%! I\'m glad we\'re in accord. All I need for you to do is to head out there, fish up a whole bunch of raw rainbow fin albacore, and then cook it all up and bring it back to me right here. Mmm, mmm, I can taste it already.",
+    ["O"] = "Bring 20 Rainbow Fin Albacore to Slicky Gastronome at the Military Ward in Ironforge.",
+    ["T"] = "The Alliance Needs Rainbow Fin Albacore!",
   },
   [8565] = "_",
   [8566] = "_",
@@ -568,18 +777,28 @@ pfDB["quests"]["enUS-turtle"] = {
   [8570] = "_",
   [8595] = {
     ["D"] = "I see that you\'re no ordinary mortal, $n. Your chances against the Old God, however infinitely small, are greater than ours at this point. After all, while he expects dragons at his doorstep, he is not prepared for someone like you.$b$bJust as Anachronos and Staghelm defeated the Qiraji a thousand years ago through the alliance of mortal and dragon races, we too shall form a pact. Gain the trust of the Bronze Dragonflight and you\'ll gain our trust. Only then we shall make a true champion out of you.",
+    ["O"] = "",
+    ["T"] = "Mortal Champions",
   },
   [8613] = {
     ["D"] = "It be a nice day for fishin\' where entry = don\'t\'cha think mon? Good thing, cuz I be needin\' a lot of fish it lookin\' like. The Horde, they askin\' me to be in charge of collectin\' a ton of the spotted yellowtail for them. They say they needin\' it for the war they getting\' ready for at Ahn\'Qiraj. I say to them I do the best I can. So I be needin\' to get some help. You gonna be helpin\' me, $c?",
+    ["O"] = "Bring 20 Spotted Yellowtail to Fisherman Lin\'do at the Valley of Spirits in Orgrimmar.",
+    ["T"] = "The Horde Needs Spotted Yellowtail!",
   },
   [8751] = {
     ["D"] = "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+    ["O"] = "",
+    ["T"] = "The Protector of Kalimdor",
   },
   [8756] = {
     ["D"] = "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+    ["O"] = "",
+    ["T"] = "The Qiraji Conqueror",
   },
   [8761] = {
     ["D"] = "Never have I seen such tenacity! The Bronze Flight grants you one final enchantment. The Timeless One himself has requested it so!$B$BHand me your signet ring so that I may make the necessary adjustments.",
+    ["O"] = "",
+    ["T"] = "The Grand Invoker",
   },
   [9321] = {
     ["D"] = "",
@@ -594,11 +813,13 @@ pfDB["quests"]["enUS-turtle"] = {
   [9339] = {
     ["D"] = "This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the (NAME) might know more...",
     ["O"] = "Return the Flame of Stormwind to (NAME).",
+    ["T"] = "A Thief\'s Reward",
   },
   [9343] = "_",
   [9365] = {
     ["D"] = "This flame, stolen from the heart of Stormwind itself, floods you with warmth. This raw power is foreign to you, but the (NAME) might know more...",
     ["O"] = "Return the Flame of Stormwind to (NAME).",
+    ["T"] = "A Thief\'s Reward",
   },
   [9367] = "_",
   [9388] = "_",
@@ -2906,77 +3127,77 @@ pfDB["quests"]["enUS-turtle"] = {
   [40471] = {
     ["D"] = "Alright! Eager for additional work, aren\'t we?So, my... employer is looking for even more animation runes for his experiments. Bring me an additional ten runes, and you will be greatly rewarded. But, be careful. They will accept only intact runes. Try not to damage them too much with this weapon of yours.One more thing. Don\'t get yourself killed. Those harvest machines pack a punch, and I need you to run more errands for me.Hah,I\'m joking. But seriously. Take care of yourself.",
     ["O"] = "Gather 10 Intact Animation Runes from Harvest Golems in Westfall for Christopher Hewen at Sentinel Hill.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery II",
   },
   [40472] = {
     ["D"] = "I knew you wouldn\'t pass another opportunity to earn some coin. Ever been to Stormwind City?Oh, what am I saying, of course you did.In the northern part of the city, there is a district inhabited mostly by non-humans. Dwarves, gnomes, even high elves lately.One of my dear friends, a gnomish engineer with a lovely name: Lilliam, lives there. I need you to tell him that Hewen sent you.He will give you a paper: a blueprint, even. You know what a blueprint is? Good. So, take the blueprint, come back to me, and I will pay you.Easy enough! Good luck.",
     ["O"] = "Collect the Harvester Blueprint from Lilliam Sparkspindle in Stormwind City.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery III",
   },
   [40473] = {
     ["D"] = "Here you have it. The Harvester Blueprint. The goblin, who sold it to me... I wish I never see his green face again! Bah!I looked into these blueprints. I don\'t know for what Hewen needs it, but it is nothing good, I tell you! This is a machine of death and destruction! I am only giving you this, because he is my old friend and I... hope he still has some brain left in his greedy head.",
     ["O"] = "Bring the Harvester Blueprint back to Christopher Hewen at Sentinel Hill in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery IV",
   },
   [40474] = {
     ["D"] = "Okay, listen then. I need you to bring this blueprint to a man named Maltimor Gartside. Maltimor. Gartside. Got it? Good.He\'s an old man, in his fifties, maybe sixties. Long, gray hair, kind of skinny, pale skin. Hard to miss, you will know it\'s him. Yes, he\'s my employer. And yes, I know where he lives.Wouldn\'t want you to scour through all of Westfall, of course. Go west of Sentinel Hill, but north of Moonbrook. He lives in a solitary cottage, usually spends his time outside of it. Don\'t know why, didn\'t ask, didn\'t care. So, you meet him, tell him I said hello and give him the blueprints. Easy!Also, please, be careful. It is very, very important that those blueprints don\'t fall into the hands of those bandits with red bandanas, the Defias, as they call themselves. Light be with you, friend.",
     ["O"] = "Deliver the Harvester Blueprint to Maltimor Gartside at the Gartside Plot in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery V",
   },
   [40475] = {
     ["D"] = "Excuse me for my bad manners. I was so excited to lay my hands on those blueprints. Never have I seen these lands in such a sorry state. And it is not only because of the Defias!You see, years ago a salesman arrived in Westfall. He brought new commodity - Harvest Golems.Farmers were overjoyed. Golems worked flawlessly, gathering crops and scaring the wildlife away. So more golems were being purchased. In a few years, they outnumbered the farmers. And then, it happened.Golems turned on their owners. In a few weeks, almost all farms in Westfall were lost. And to make matters worse, the Defias arrived. It was only natural that the people of Westfall linked the sudden change to the Brotherhood.I believe that it is a mere coincidence. Someone else manipulated the golems and now the Defias are using the situation to their advantage.I will continue the story later, $N. For now, I have a request. Go to Moonbrook. The smith had a stash of engineering equipment hidden in his forge. Check there!",
     ["O"] = "Recover the Old Engineering Tools for Maltimor Gartside at the Gartside Plot in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery VI",
   },
   [40476] = {
     ["D"] = "$N I have all materials to create a new Harvest Golem. If my calculations are correct, I should be able to rewire his mind.I need your help. The Harvest Golem will be hostile at first, and the Rewiring Spell requires all my concentration. I need you to draw the golem\'s attention until I\'m finished.",
     ["O"] = "Help Maltimor Gartside with casting the Rewiring Spell.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery VII",
   },
   [40477] = {
     ["D"] = "I will handle rewiring the golems of Westfall. It will take months, maybe years, but it will be done.However, the Defias can still easily produce new ones faster than I can rewire them. We need to halt the production. Fortunately, I know where we can find the shipments of Animation Runes.Go to the Jangolode Mine and Gold Coast Quarry. The Defias hide their runes deep inside, awaiting transport to their underground foundry. Bring them to me.And yes, I promised you the rest of the story. So where did we end? The arrival of Defias.Very soon, they started producing Harvest Golems on their own. How they figured it out- it is a mystery.I have my suspicions though. To produce such a Rune, a powerful mage is needed. The Defias have mages on their own, but none of them is powerful enough to make it. I think they are working with the person who turned the golems hostile in the first place. Their original creator.His identity is still unknown to me. I hope you will find some clues with the shipment.",
     ["O"] = "Gather the Jangolode Mine Shipment, and the Gold Coast Shipment to Maltimor Gartside at the Gartside Plot in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery VIII",
   },
   [40478] = {
     ["D"] = "The goblins of Defias produce harvest golems deep inside their underground hideout. The People\'s Militia in Sentinel Hill have been trying to find its location lately. Maybe they have discovered its whereabouts. If not, they will probably need your help.Once you are inside, find the workshop and slay their leader. This will stop their manufacturing operations for good.In the meantime, I will reach out to Hewen. If anyone will be able to decipher this note, it\'s him, or at least one of his contacts.",
     ["O"] = "Venture into the Deadmines and slay Gilnid, once done, return to Maltimor Gartside at the Gartside Plot in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery IX",
   },
   [40479] = {
     ["D"] = "When you were gone, I spoke with Hewen about this mysterious note. It turned out, as I expected, that it is some kind of cypher. Worry not, as he recognized it. Go back to Sentinel Hill and talk with him. He will explain it better than I can.Finally, we are getting closer to delivering vengeance upon those who wronged the people of Westfall.",
     ["O"] = "Talk with Christopher Hewen at Sentinel Hill in Westfall.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery X",
   },
   [40480] = {
     ["D"] = "So about this cypher... I cannot read it. But my dear colleague, Franklin Hamar, who lives in Lakeshire used the same cypher when trading with Defias.Don\'t look at me like that! It was him, not me. I would never ever trade with these vile people...Regardless, he will be able to read it for you. He will probably need some convincing, but you can do it for sure. And since you are going to Lakeshire... could you please ask about my damn shipment?",
     ["O"] = "Talk with Franklin Hamar in Lakeshire.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XI",
   },
   [40481] = {
     ["D"] = "I can decipher this for you, of course. But first: you say a word to any guard in the town that I can do this, you\'re gone. And second: it will cost you. You\'re lucky that I\'m in need of an adventurer to perform some easy and simple tasks...First, I need silk. But not any kind of silk. Spider silk bathed in moonlight, extraordinarily beautiful. Hard to get though. Only found in Duskwood, to my knowledge. Bring me at least ten samples, we will see if it\'s good enough.",
     ["O"] = "Gather 10 Moonlight Silk samples for Franklin Hamar in Lakeshire.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XII",
   },
   [40482] = {
     ["D"] = "Alright, you helped me well. I will spare you running errands and just send you to do what you do best. Kill.Gnolls in the hills of Redridge have been giving me and other traders a hard time lately. It\'s bad for business. I lost two shipments with rare materials this month only! They probably still hoard them somewhere in their camps up north. Check it out.I want you to look especially for one lost shipment - rare needles from Lordaeron. You will know when you see them.",
     ["O"] = "Find Lordaeron Needles amonst the gnoll hovels. for Franklin Hamar in Lakeshire.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XIII",
   },
   [40483] = {
     ["D"] = "If I were you, I would go back to Westfall. This seems serious.",
     ["O"] = "Go back to Maltimor.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XIV",
   },
   [40484] = {
     ["D"] = "Venture to Darkshire, and ask the Night Watch about the whereabouts of F.W.. If he was right with his suspicions, they would know where to find him.I pray to Light that he still hasn\'t moved out of Duskwood.Question him. And if you find him guilty... do not wait for Stormwind\'s justice. Kill him, avenge the people of Westfall.",
     ["O"] = "Talk with the Night Watch about the location of F.W.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XV",
   },
   [40485] = {
     ["D"] = "A few months ago, a mysterious, blind man moved in to an abandoned shack south of Darkshire. A goblin accompanied him, helping him with everyday tasks for exchange for mentorship. He was a renowned engineer, of some kind. Strange couple, that\'s for sure. He paid us very well for protection and privacy. So I had my right to be suspicious. Especially as a commander of Night Watch.And I was right. Regularly, late at night, strange people were visiting him. I couldn\'t get too close, but they were trading, for sure. I still don\'t have any evidence against him, though.However, I wouldn\'t be too mad if he disappeared silently. There is something sinister going on. Do what you want with him.",
     ["O"] = "Talk with F.W. in the shack south of Darkshire.",
-    ["T"] = "The Harvest Golem Mystery",
+    ["T"] = "The Harvest Golem Mystery XVI",
   },
   [40486] = {
     ["D"] = "Bah, what a wasteland to be assigned to, it\'s insulting.I want to get out of here as soon as I can, and to do so I need some work done, I take it you are willing to help huh?The Dark Iron are up to something, and it\'s my job to confirm that -something- is going on.What I need you to do is scout the entrance of the Quarry, and confirm Ironforge\'s suspicions.Travel up there, peek in the entrance, and come back, easy ye?",
