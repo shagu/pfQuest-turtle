@@ -9,5 +9,6 @@
 
 init\data-turtle.xml
 init\enUS-turtle.xml
+init\ruRU-turtle.xml
 
 patchtable.lua
