@@ -5380,9 +5380,9 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "The Pumpkin Thieves",
   },
   [60042] = {
-    ["D"] = "So it\'s Mildred who\'s asking you to help? Of course, I\'ll help! I was always fond of the Stonefields.Pumpkins, huh? Well, the only gnolls I know that camp not so far away from here are the Riverpaw Gnolls. They are the leftovers of a tribe led by a mighty gnoll known all over Elwynn – Fedfennel.Rumor has it he\'s been eaten by his own rivals. I digress, however. The camp is most likely further up to the north from Stone Cairn Lake.I heard that even our brave guards dare not to go that far in the forest. Perhaps, while you\'re at the searching campaign for stolen pumpkins, you could help the Eastvale Logging Camp as well?These gnolls won\'t be willing to part that easily with what they\'ve stolen, so I assume you\'ll have to claw it out of their dead cold paws.Do us all good and cull out s\'more of these bastards while you\'re there? One brigade less and we\'ll have a week of sound sleep by nights.",
+    ["D"] = "At last, they sent aid! There\'s a large camp full of gnolls led by a mighty gnoll known all over Elwynn as Fedfennel. Rumor has it he\'s been eaten by his own rivals... I digress. The camp is further up to the north, past Stone Cairn Lake. It\'s tucked away in a distant corner that the guards don\'t patrol, so the gnolls run rampant out there. Do us all a favor and wipe out a full brigade of them and we\'ll have at least a week of sound sleep.",
     ["O"] = "Kill 10 Riverpaw Runts and 10 Riverpaw Outrunners and return to Supervisor Raelen in Eastvale Logging Camp.",
-    ["T"] = "Gnoll Bounty",
+    ["T"] = "Culling the Riverpaw",
   },
   [60050] = {
     ["D"] = "Hey... uhm, excuse me, I have a request for you!Hah, I\'ve said it! It makes me so nervous to approach people leaving the abbey, but it\'s the only way I can possibly get my wish fulfilled.Oh, the request, of course! You see, I love visiting Stormwind when I go to trade at Gallina Winery and I always walk past the trade district fountain, which is right next to the bank.Could you toss a coin of mine into the fountain for good luck? I\'ve heard that if you drop a coin into the fountain, your wish might get granted, and my wish is to visit Stormwind again as soon as possible!One more thing, please send my greetings to Suzetta Gallina!",
