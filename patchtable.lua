@@ -5,13 +5,7 @@ local noloc = { "items", "quests", "objects", "units" }
 -- Patch databases to merge TurtleWoW data
 local function patchtable(base, diff)
   for k, v in pairs(diff) do
-    if base[k] and type(v) == "table" then
-      if type(base[k]) == "table" then
-        patchtable(base[k], v)
-      else
-        base[k] = v
-      end
-    elseif type(v) == "string" and v == "_" then
+    if type(v) == "string" and v == "_" then
       base[k] = nil
     else
       base[k] = v
