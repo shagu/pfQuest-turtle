@@ -3,6 +3,15 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- Angus Stern (Stormwind)
+pfDB["units"]["data-turtle"][1141] = {
+  ["coords"] = {
+    [1] = { 51.8, 93.6, 1519, 30 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "60",
+}
+
 -- Highlord Bolvar Fordragon (Stormwind)
 pfDB["units"]["data-turtle"][1748] = {
   ["coords"] = {
@@ -19,15 +28,6 @@ pfDB["units"]["data-turtle"][1749] = {
   },
   ["fac"] = "A",
   ["lvl"] = "62",
-}
-
--- Angus Stern (Stormwind)
-pfDB["units"]["data-turtle"][1141] = {
-  ["coords"] = {
-    [1] = { 51.8, 93.6, 1519, 30 },
-  },
-  ["fac"] = "A",
-  ["lvl"] = "60",
 }
 
 -- Sorrowguard Keep NPCs
