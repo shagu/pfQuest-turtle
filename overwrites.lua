@@ -30,6 +30,15 @@ pfDB["units"]["data-turtle"][1749] = {
   ["lvl"] = "62",
 }
 
+--  Duthorian Rall (Stormwind)
+pfDB["units"]["data-turtle"][6171] = {
+    ["coords"] = {
+      [1] = { 50.5, 47.5, 1519, 30 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "60",
+}
+
 -- Sorrowguard Keep NPCs
 pfDB["units"]["data-turtle"][92012] = {
     ["coords"] = {
