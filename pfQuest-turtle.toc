@@ -12,4 +12,6 @@ init\enUS-turtle.xml
 init\ruRU-turtle.xml
 init\zhCN-turtle.xml
 
+overwrites.lua
+
 patchtable.lua
