@@ -29,3 +29,76 @@ pfDB["units"]["data-turtle"][1749] = {
   ["fac"] = "A",
   ["lvl"] = "62",
 }
+
+-- Sorrowguard Keep NPCs
+pfDB["units"]["data-turtle"][92012] = {
+    ["coords"] = {
+      [1] = { 1.9, 52.8, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "52",
+}
+
+pfDB["units"]["data-turtle"][92014] = {
+    ["coords"] = {
+      [1] = { 1.6, 50.8, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "50",
+}
+
+pfDB["units"]["data-turtle"][92017] = {
+    ["coords"] = {
+      [1] = { 2.4, 50.6, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "60",
+    ["rnk"] = "1",
+}
+
+pfDB["units"]["data-turtle"][92018] = {
+    ["coords"] = {
+      [1] = { 1.6, 50.3, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "30",
+}
+
+pfDB["units"]["data-turtle"][92019] = {
+    ["coords"] = {
+      [1] = { 0.9, 49.4, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "40",
+  },
+pfDB["units"]["data-turtle"][92020] = {
+    ["coords"] = {
+      [1] = { 1.5, 50, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "35",
+}
+
+pfDB["units"]["data-turtle"][92021] = {
+    ["coords"] = {
+      [1] = { 2, 52, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "40",
+}
+
+pfDB["units"]["data-turtle"][92022] = {
+    ["coords"] = {
+      [1] = { 3.7, 49.7, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "25",
+}
+
+pfDB["units"]["data-turtle"][92023] = {
+    ["coords"] = {
+      [1] = { 3.5, 50.6, 8, 25 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "40",
+}
