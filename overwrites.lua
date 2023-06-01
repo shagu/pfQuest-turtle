@@ -111,3 +111,198 @@ pfDB["units"]["data-turtle"][92023] = {
     ["fac"] = "A",
     ["lvl"] = "40",
 }
+
+-- Various Goblins that are mislabelled as Neutral
+pfDB["units"]["data-turtle"][60443] = {
+    ["coords"] = {
+      [1] = { 45.6, 83.6, 17, 180 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "25",
+}
+  
+pfDB["units"]["data-turtle"][60960] = {
+    ["coords"] = {
+      [1] = { 31.5, 47.7, 406, 300 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "25",
+}
+  
+pfDB["units"]["data-turtle"][60961] = {
+    ["coords"] = {
+      [1] = { 31.5, 48.1, 406, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "45",
+}
+  
+pfDB["units"]["data-turtle"][60962] = {
+    ["coords"] = {
+      [1] = { 30.4, 48, 406, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "50",
+}
+  
+pfDB["units"]["data-turtle"][60967] = {
+    ["coords"] = {
+      [1] = { 31.5, 47, 406, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "21",
+}
+  
+pfDB["units"]["data-turtle"][60970] = {
+    ["coords"] = {
+      [1] = { 30.4, 47.2, 406, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "55",
+}
+  
+pfDB["units"]["data-turtle"][61024] = {
+    ["coords"] = {
+      [1] = { 30.3, 47.3, 406, 3600 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "56",
+    ["rnk"] = "1",
+}
+  
+pfDB["units"]["data-turtle"][70060] = {
+    ["coords"] = {
+      [1] = { 53.2, 43.4, 14, 260 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+  
+pfDB["units"]["data-turtle"][80121] = {
+    ["coords"] = {
+      [1] = { 50.1, 35.9, 14, 60 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+  
+pfDB["units"]["data-turtle"][80178] = {
+    ["coords"] = {
+      [1] = { 58.7, 26.4, 14, 180 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "60",
+    ["rnk"] = "1",
+}
+  
+pfDB["units"]["data-turtle"][80902] = {
+    ["coords"] = {
+      [1] = { 51.3, 16, 14, 260 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+  
+pfDB["units"]["data-turtle"][80932] = {
+    ["coords"] = {
+      [1] = { 41.9, 72.4, 15, 260 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "40",
+}
+
+pfDB["units"]["data-turtle"][80961] = {
+    ["coords"] = {
+      [1] = { 58.6, 26.4, 14, 180 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "11",
+}
+  
+pfDB["units"]["data-turtle"][81258] = {
+    ["coords"] = {
+      [1] = { 42, 72.8, 15, 260 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "35-43",
+}
+  
+pfDB["units"]["data-turtle"][81259] = {
+    ["coords"] = {
+      [1] = { 42.6, 73.4, 15, 260 },
+    },
+	["fac"] = "H",
+    ["lvl"] = "35-43",
+}
+  
+pfDB["units"]["data-turtle"][91200] = {
+    ["coords"] = {
+      [1] = { 58.3, 25.7, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "36",
+}
+  
+pfDB["units"]["data-turtle"][91208] = {
+    ["coords"] = {
+      [1] = { 59.5, 24.6, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+  
+pfDB["units"]["data-turtle"][91213] = {
+    ["coords"] = {
+      [1] = { 59.9, 25.5, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+
+pfDB["units"]["data-turtle"][91214] = {
+    ["coords"] = {
+      [1] = { 57.4, 25.8, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "5",
+}
+  
+pfDB["units"]["data-turtle"][91232] = {
+    ["coords"] = {
+      [1] = { 58.5, 27.4, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "13-14",
+}
+  
+pfDB["units"]["data-turtle"][91237] = {
+    ["coords"] = {
+      [1] = { 58.5, 25.7, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "52",
+}
+  
+pfDB["units"]["data-turtle"][91259] = {
+    ["coords"] = {
+      [1] = { 59.1, 26, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "10-13",
+}
+  
+pfDB["units"]["data-turtle"][91260] = {
+    ["coords"] = {
+      [1] = { 58.7, 24.7, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "10",
+}
+  
+pfDB["units"]["data-turtle"][91274] = {
+    ["coords"] = {
+      [1] = { 56.2, 27.1, 14, 300 },
+    },
+    ["fac"] = "H",
+    ["lvl"] = "8-12",
+}
