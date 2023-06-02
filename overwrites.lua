@@ -3,6 +3,11 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- Fel Energy Irregularities I Objective
+pfDB["quests"]["data-turtle"][40438]["obj"] = {
+  ["U"] = { 60794 },
+}
+
 -- Angus Stern (Stormwind)
 pfDB["units"]["data-turtle"][1141]["coords"] = {
   [1] = { 51.8, 93.6, 1519, 30 },
