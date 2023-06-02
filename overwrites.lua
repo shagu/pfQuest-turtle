@@ -3,6 +3,11 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- The Ensorcelled Parchment
+pfDB["quests"]["data-turtle"][551]["obj"] = {
+  ["O"] = { 1765 },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
