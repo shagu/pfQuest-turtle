@@ -125,6 +125,12 @@ pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
 }
 
+-- Preparation for Divination
+pfDB["quests"]["data-turtle"][40561]["obj"] = {
+  ["I"] = { 1705, 60815, 60816 },
+  ["U"] = { 2543 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
