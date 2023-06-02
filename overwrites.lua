@@ -87,6 +87,9 @@ pfDB["quests"]["data-turtle"][40148]["obj"] = {
 }
 
 -- Restoring the Ley Lines
+pfDB["quests"]["data-turtle"][40253]["end"] = {
+  ["O"] = { 2010851 },
+}
 pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
 }
