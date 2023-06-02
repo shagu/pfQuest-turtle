@@ -39,6 +39,21 @@ pfDB["quests"]["data-turtle"][619] = {
   },
 }
 
+-- Cortello's Riddle
+pfDB["quests"]["data-turtle"][624] = {
+  ["end"] = {
+    ["O"] = { 2553 },
+  },
+  ["lvl"] = 43,
+  ["min"] = 38,
+  ["obj"] = {
+    ["O"] = { 2553 },
+  },
+  ["start"] = {
+    ["O"] = { 2554 },
+  },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
