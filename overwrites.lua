@@ -9,18 +9,30 @@ pfDB["quests"]["data-turtle"][40438]["obj"] = {
 }
 
 -- Angus Stern (Stormwind)
-pfDB["units"]["data-turtle"][1141]["coords"] = {
-  [1] = { 51.8, 93.6, 1519, 30 },
+pfDB["units"]["data-turtle"][1141] = {
+  ["coords"] = {
+    [1] = { 51.8, 93.6, 1519, 30 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "60",
 }
 
 -- Highlord Bolvar Fordragon (Stormwind)
-pfDB["units"]["data-turtle"][1748]["coords"] = {
-  [1] = { 80.2, 38.3, 1519, 30 },
+pfDB["units"]["data-turtle"][1748] = {
+  ["coords"] = {
+    [1] = { 80.2, 38.3, 1519, 30 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "63",
 }
 
 -- Lady Katrana Prestor (Stormwind)
-pfDB["units"]["data-turtle"][1749]["coords"] = {
-  [1] = { 80.1, 38.2, 1519, 30 },
+pfDB["units"]["data-turtle"][1749] = {
+  ["coords"] = {
+    [1] = { 80.1, 38.2, 1519, 30 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "62",
 }
 
 --  Duthorian Rall (Stormwind)
