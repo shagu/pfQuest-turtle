@@ -28,6 +28,12 @@ pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
 }
 
+-- Sacred Waters of Eldre'thalas
+pfDB["quests"]["data-turtle"][40382]["obj"] = {
+  ["O"] = { 2010815 },
+}
+
+
 -- Report from Burnside
 pfDB["quests"]["data-turtle"][40433]["obj"] = {
   ["U"] = { 60792 },
