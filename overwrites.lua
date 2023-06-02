@@ -181,6 +181,11 @@ pfDB["quests"]["data-turtle"][80291]["obj"] = {
   ["O"] = { 181584 },
 }
 
+-- VIP Invites
+pfDB["quests"]["data-turtle"][80392]["obj"] = {
+  ["U"] = { 3391, 2496 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
