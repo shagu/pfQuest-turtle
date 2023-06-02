@@ -246,6 +246,11 @@ pfDB["units"]["data-turtle"][11626] = {
   ["lvl"] = "36",
 }
 
+-- Gorlush the Trampler
+pfDB["units"]["data-turtle"][60844]["coords"] = {
+  [1] = { 55.8 3.4, 4, 300 },
+}
+
 -- Sorrowguard Keep NPCs
 ppfDB["units"]["data-turtle"][92012]["coords"] = {
   [1] = { 1.9, 52.8, 8, 25 },
