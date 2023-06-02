@@ -146,6 +146,11 @@ pfDB["quests"]["data-turtle"][40698]["obj"] = {
   ["U"] = { 60471 },
 }
 
+-- Words of Wisdom
+pfDB["quests"]["data-turtle"][40799]["obj"] = {
+  ["U"] = { 4407, 6706, 4267, 3838 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
