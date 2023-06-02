@@ -131,6 +131,11 @@ pfDB["quests"]["data-turtle"][40561]["obj"] = {
   ["U"] = { 2543 },
 }
 
+-- Sleepwalking at Day
+pfDB["quests"]["data-turtle"][40567]["obj"] = {
+  ["U"] = { 52017 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
