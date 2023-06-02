@@ -3,6 +3,11 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- The Boran Family Objectives
+pfDB["quests"]["data-turtle"][40141]["obj"] = {
+  ["U"] = { 1242, 92936 },
+}
+
 -- Fel Energy Irregularities I Objective
 pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
