@@ -81,6 +81,11 @@ pfDB["quests"]["data-turtle"][40141]["obj"] = {
   ["U"] = { 1242, 92936 },
 }
 
+-- Southsea Reserve
+pfDB["quests"]["data-turtle"][40148]["obj"] = {
+  ["U"] = { 92137 },
+}
+
 -- Restoring the Ley Lines
 pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
