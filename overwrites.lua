@@ -54,6 +54,13 @@ pfDB["quests"]["data-turtle"][624] = {
   },
 }
 
+-- Raene's Cleansing
+pfDB["quests"]["data-turtle"][1027]["obj"] = {
+  ["I"] = { 5519 },
+  ["U"] = { 3928 },
+  ["O"] = { 19021 },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
