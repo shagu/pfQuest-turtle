@@ -176,6 +176,11 @@ pfDB["quests"]["data-turtle"][80290]["obj"] = {
   ["O"] = { 181583 },
 }
 
+-- The Shadow Well
+pfDB["quests"]["data-turtle"][80291]["obj"] = {
+  ["O"] = { 181584 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
