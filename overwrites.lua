@@ -136,6 +136,11 @@ pfDB["quests"]["data-turtle"][40567]["obj"] = {
   ["U"] = { 52017 },
 }
 
+-- The Redbrand Archive
+pfDB["quests"]["data-turtle"][40605]["obj"] = {
+  ["O"] = { 2010929 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
