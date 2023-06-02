@@ -141,6 +141,11 @@ pfDB["quests"]["data-turtle"][40605]["obj"] = {
   ["O"] = { 2010929 },
 }
 
+-- Conflicting Questions
+pfDB["quests"]["data-turtle"][40698]["obj"] = {
+  ["U"] = { 60471 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
