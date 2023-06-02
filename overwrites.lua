@@ -45,6 +45,24 @@ pfDB["units"]["data-turtle"][6171]["coords"] = {
   [1] = { 50.5, 47.5, 1519, 30 },
 }
 
+-- Cork Gizelton
+pfDB["units"]["data-turtle"][11625] = {
+  ["coords"] = {
+    [1] = { 66.4, 36.9, 405, 3600 },
+  },
+  ["fac"] = "AH",
+  ["lvl"] = "36",
+}
+
+-- Rigger Gizelton
+pfDB["units"]["data-turtle"][11626] = {
+  ["coords"] = {
+    [1] = { 44.8, 75.9, 405, 3600 },
+  },
+  ["fac"] = "AH",
+  ["lvl"] = "36",
+}
+
 -- Sorrowguard Keep NPCs
 ppfDB["units"]["data-turtle"][92012]["coords"] = {
   [1] = { 1.9, 52.8, 8, 25 },
