@@ -110,6 +110,10 @@ pfDB["quests"]["data-turtle"][40382]["obj"] = {
   ["O"] = { 2010815 },
 }
 
+-- The Good Snuff
+pfDB["quests"]["data-turtle"][40411]["obj"] = {
+  ["U"] = { 8139 },
+}
 
 -- Report from Burnside
 pfDB["quests"]["data-turtle"][40433]["obj"] = {
