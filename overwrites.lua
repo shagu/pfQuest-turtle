@@ -99,6 +99,12 @@ pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
 }
 
+-- Breaking the Felstar
+pfDB["quests"]["data-turtle"][40377]["obj"] = {
+  ["I"] = { 60148 },
+  ["O"] = { 2010883 },
+}
+
 -- Sacred Waters of Eldre'thalas
 pfDB["quests"]["data-turtle"][40382]["obj"] = {
   ["O"] = { 2010815 },
