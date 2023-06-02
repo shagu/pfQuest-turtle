@@ -161,6 +161,11 @@ pfDB["quests"]["data-turtle"][40801]["obj"] = {
   ["U"] = { 61147 },
 }
 
+-- Pressure is the Key
+pfDB["quests"]["data-turtle"][40807]["obj"] = {
+  ["U"] = { 61143 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
