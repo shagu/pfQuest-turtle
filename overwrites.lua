@@ -3,6 +3,21 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- The Monogrammed Sash
+pfDB["quests"]["data-turtle"][8552] = {
+  ["end"] = {
+    ["U"] = { 2500 },
+  },
+  ["lvl"] = 50,
+  ["min"] = 35,
+  ["obj"] = {
+    ["I"] = { 3985 },
+  },
+  ["start"] = {
+    ["U"] = { 1493 },
+  },
+}
+
 -- The Boran Family Objectives
 pfDB["quests"]["data-turtle"][40141]["obj"] = {
   ["U"] = { 1242, 92936 },
