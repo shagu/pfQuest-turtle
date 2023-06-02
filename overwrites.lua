@@ -23,6 +23,22 @@ pfDB["quests"]["data-turtle"][594] = {
   },
 }
 
+-- Enticing Negolash
+pfDB["quests"]["data-turtle"][619] = {
+  ["end"] = {
+    ["O"] = { 2289 },
+  },
+  ["lvl"] = 52,
+  ["min"] = 1,
+  ["obj"] = {
+  ["I"] = { 4457, 4595 },
+  },
+  ["pre"] = { 615 },
+  ["start"] = {
+    ["O"] = { 2289 },
+  },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
