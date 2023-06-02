@@ -156,6 +156,11 @@ pfDB["quests"]["data-turtle"][40800]["obj"] = {
   ["U"] = { 12676 },
 }
 
+-- Patience is the Key
+pfDB["quests"]["data-turtle"][40801]["obj"] = {
+  ["U"] = { 61147 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
