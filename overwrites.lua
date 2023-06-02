@@ -86,6 +86,11 @@ pfDB["quests"]["data-turtle"][40148]["obj"] = {
   ["U"] = { 92137 },
 }
 
+-- The Way-Stones of Old
+pfDB["quests"]["data-turtle"][40252]["end"] = {
+  ["O"] = { 2010851 },
+}
+
 -- Restoring the Ley Lines
 pfDB["quests"]["data-turtle"][40253]["end"] = {
   ["O"] = { 2010851 },
