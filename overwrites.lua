@@ -8,6 +8,21 @@ pfDB["quests"]["data-turtle"][551]["obj"] = {
   ["O"] = { 1765 },
 }
 
+-- Message in a Bottle
+pfDB["quests"]["data-turtle"][594] = {
+  ["end"] = {
+    ["U"] = { 2634 },
+  },
+  ["lvl"] = 51,
+  ["min"] = 45,
+  ["obj"] = {
+    ["I"] = { 4098 },
+  },
+  ["start"] = {
+    ["O"] = { 2560 },
+  },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
@@ -47,6 +62,16 @@ pfDB["quests"]["data-turtle"][40433]["obj"] = {
 -- Fel Energy Irregularities I Objective
 pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
+}
+
+-- Fallen Hero of the Horde
+pfDB["units"]["data-turtle"][7572] = {
+    ["coords"] = {
+      [1] = { 34.3, 66.1, 8, 300 },
+	  [2] = { 52.8, 2.8, 4, 300 },
+    },
+    ["fac"] = "AH",
+    ["lvl"] = "60",
 }
 
 -- Angus Stern (Stormwind)
