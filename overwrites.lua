@@ -166,6 +166,11 @@ pfDB["quests"]["data-turtle"][40807]["obj"] = {
   ["U"] = { 61143 },
 }
 
+-- Once Upon a Sheep
+pfDB["quests"]["data-turtle"][60005]["obj"] = {
+  ["U"] = { 50610 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
