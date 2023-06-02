@@ -171,6 +171,11 @@ pfDB["quests"]["data-turtle"][60005]["obj"] = {
   ["U"] = { 50610 },
 }
 
+-- The Lost Tablets
+pfDB["quests"]["data-turtle"][80290]["obj"] = {
+  ["O"] = { 181583 },
+}
+
 -- Fallen Hero of the Horde
 pfDB["units"]["data-turtle"][7572] = {
     ["coords"] = {
