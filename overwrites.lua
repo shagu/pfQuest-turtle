@@ -28,6 +28,11 @@ pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
 }
 
+-- Report from Burnside
+pfDB["quests"]["data-turtle"][40433]["obj"] = {
+  ["U"] = { 60792 },
+}
+
 -- Fel Energy Irregularities I Objective
 pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
