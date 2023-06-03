@@ -31,7 +31,7 @@ pfDB["quests"]["data-turtle"][619] = {
   ["lvl"] = 52,
   ["min"] = 1,
   ["obj"] = {
-  ["I"] = { 4457, 4595 },
+    ["I"] = { 4457, 4595 },
   },
   ["pre"] = { 615 },
   ["start"] = {
@@ -59,6 +59,11 @@ pfDB["quests"]["data-turtle"][1027]["obj"] = {
   ["I"] = { 5519 },
   ["U"] = { 3928 },
   ["O"] = { 19021 },
+}
+
+-- A Little Slime Goes a Long Way
+pfDB["quests"]["data-turtle"][4512]["obj"] = {
+  ["U"] = { 7086, 7092 },
 }
 
 -- The Monogrammed Sash
