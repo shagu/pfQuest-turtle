@@ -61,6 +61,11 @@ pfDB["quests"]["data-turtle"][1027]["obj"] = {
   ["O"] = { 19021 },
 }
 
+-- The Stave of Equinex
+pfDB["quests"]["data-turtle"][2879]["obj"] = {
+  ["O"] = { 142185, 142186, 142187, 142188 },
+}
+
 -- A Little Slime Goes a Long Way
 pfDB["quests"]["data-turtle"][4512]["obj"] = {
   ["U"] = { 7086, 7092 },
