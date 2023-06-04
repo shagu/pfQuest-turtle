@@ -91,6 +91,12 @@ pfDB["quests"]["data-turtle"][40141]["obj"] = {
   ["U"] = { 1242, 92936 },
 }
 
+-- Sailors Innovation
+pfDB["quests"]["data-turtle"][40142]["obj"] = {
+  ["I"] = { 60206, 60207 },
+  ["U"] = { 91950 },
+}
+
 -- Southsea Reserve
 pfDB["quests"]["data-turtle"][40148]["obj"] = {
   ["U"] = { 92137 },
