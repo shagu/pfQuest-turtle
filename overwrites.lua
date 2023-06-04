@@ -71,6 +71,54 @@ pfDB["quests"]["data-turtle"][4512]["obj"] = {
   ["U"] = { 7086, 7092 },
 }
 
+-- The Northern Pylon
+pfDB["quests"]["data-turtle"][4285] = {
+  ["end"] = {
+    ["U"] = { 9117 },
+  },
+  ["lvl"] = 53,
+  ["min"] = 47,
+  ["obj"] = {
+    ["O"] = { 164955 },
+  },
+  ["pre"] = { 4284 },
+  ["start"] = {
+    ["U"] = { 9117 },
+  },
+}
+
+-- The Eastern Pylon
+pfDB["quests"]["data-turtle"][4287] = {
+  ["end"] = {
+    ["U"] = { 9117 },
+  },
+  ["lvl"] = 53,
+  ["min"] = 47,
+  ["obj"] = {
+    ["O"] = { 164957 },
+  },
+  ["pre"] = { 4284 },
+  ["start"] = {
+    ["U"] = { 9117 },
+  },
+}
+
+-- The Western Pylon
+pfDB["quests"]["data-turtle"][4288] = {
+  ["end"] = {
+    ["U"] = { 9117 },
+  },
+  ["lvl"] = 53,
+  ["min"] = 47,
+  ["obj"] = {
+    ["O"] = { 164956 },
+  },
+  ["pre"] = { 4284 },
+  ["start"] = {
+    ["U"] = { 9117 },
+  },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
