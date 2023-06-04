@@ -4,7 +4,7 @@
 -- by the extractor logic, this file here can be used to save overwrites.
 
 -- The Ensorcelled Parchment
-pfDB["quests"]["data-turtle"][551]["obj"] = {
+pfDB["quests"]["data-turtle"][551]["start"] = {
   ["O"] = { 1765 },
 }
 
