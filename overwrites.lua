@@ -304,7 +304,9 @@ ppfDB["units"]["data-turtle"][92023]["coords"] = {
   [1] = { 3.5, 50.6, 8, 25 },
 }
 
--- Various Goblins that are mislabelled as Neutral
+-- Various Units that are mislabelled as Neutral
+-- pfDB["units"]["data-turtle"][50530]["fac"] = "H"
+
 -- pfDB["units"]["data-turtle"][60443]["fac"] = "H"
   
 -- pfDB["units"]["data-turtle"][60960]["fac"] = "H"
@@ -323,7 +325,9 @@ ppfDB["units"]["data-turtle"][92023]["coords"] = {
   
 -- pfDB["units"]["data-turtle"][80121]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][80178]["fac"] = "H"
+-- pfDB["units"]["data-turtle"][80799]["fac"] = "H"
+
+-- pfDB["units"]["data-turtle"][80902]["fac"] = "H"
   
 -- pfDB["units"]["data-turtle"][80902]["fac"] = "H"
   
@@ -352,3 +356,7 @@ ppfDB["units"]["data-turtle"][92023]["coords"] = {
 -- pfDB["units"]["data-turtle"][91260]["fac"] = "H"
   
 -- pfDB["units"]["data-turtle"][91274]["fac"] = "H"
+
+-- pfDB["units"]["data-turtle"][92187]["fac"] = "H"
+
+-- pfDB["units"]["data-turtle"][92188]["fac"] = "H"
