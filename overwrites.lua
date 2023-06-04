@@ -134,6 +134,15 @@ pfDB["quests"]["data-turtle"][8552] = {
   },
 }
 
+-- Interfering Naga
+pfDB["quests"]["data-turtle"][40124]["obj"] = {
+  ["U"] = { 6195, 60312 },
+}
+pfDB["units"]["data-turtle"][60312]["coords"] = {
+  [1] = { 48.8, 55.2, 16, 333 },
+}
+-- pfDB["enUS"]["units"]["data-turtle"][60312] = "Spitelash Shrine"
+
 -- The Boran Family
 pfDB["quests"]["data-turtle"][40141]["obj"] = {
   ["I"] = { 60202, 60203 },
