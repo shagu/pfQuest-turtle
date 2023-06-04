@@ -134,8 +134,9 @@ pfDB["quests"]["data-turtle"][8552] = {
   },
 }
 
--- The Boran Family Objectives
+-- The Boran Family
 pfDB["quests"]["data-turtle"][40141]["obj"] = {
+  ["I"] = { 60202, 60203 },
   ["U"] = { 1242, 92936 },
 }
 
