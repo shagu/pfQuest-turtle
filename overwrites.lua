@@ -162,15 +162,23 @@ pfDB["quests"]["data-turtle"][40148]["obj"] = {
 
 -- The Way-Stones of Old
 pfDB["quests"]["data-turtle"][40252]["end"] = {
-  ["O"] = { 2010851 },
+  ["O"] = { 2010849 },
 }
 
 -- Restoring the Ley Lines
 pfDB["quests"]["data-turtle"][40253]["end"] = {
-  ["O"] = { 2010851 },
+  ["O"] = { 2010849 },
 }
 pfDB["quests"]["data-turtle"][40253]["obj"] = {
   ["O"] = { 2010851 },
+}
+
+-- Keeping Secrets
+pfDB["quests"]["data-turtle"][40254]["start"] = {
+  ["O"] = { 2010849 },
+}
+pfDB["quests"]["data-turtle"][40254]["end"] = {
+  ["O"] = { 2010849 },
 }
 
 -- Breaking the Felstar
