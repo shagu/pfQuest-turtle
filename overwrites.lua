@@ -305,58 +305,58 @@ ppfDB["units"]["data-turtle"][92023]["coords"] = {
 }
 
 -- Various Units that are mislabelled as Neutral
--- pfDB["units"]["data-turtle"][50530]["fac"] = "H"
+pfDB["units"]["data-turtle"][50530]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][60443]["fac"] = "H"
+pfDB["units"]["data-turtle"][60443]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][60960]["fac"] = "H"
+pfDB["units"]["data-turtle"][60960]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][60961]["fac"] = "H"
+pfDB["units"]["data-turtle"][60961]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][60962]["fac"] = "H"
+pfDB["units"]["data-turtle"][60962]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][60967]["fac"] = "H"
+pfDB["units"]["data-turtle"][60967]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][60970]["fac"] = "H"
+pfDB["units"]["data-turtle"][60970]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][61024]["fac"] = "H"
+pfDB["units"]["data-turtle"][61024]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][70060]["fac"] = "H"
+pfDB["units"]["data-turtle"][70060]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][80121]["fac"] = "H"
+pfDB["units"]["data-turtle"][80121]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][80799]["fac"] = "H"
+pfDB["units"]["data-turtle"][80799]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][80902]["fac"] = "H"
+pfDB["units"]["data-turtle"][80902]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][80902]["fac"] = "H"
+pfDB["units"]["data-turtle"][80902]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][80932]["fac"] = "H"
+pfDB["units"]["data-turtle"][80932]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][80961]["fac"] = "H"
+pfDB["units"]["data-turtle"][80961]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][81258]["fac"] = "H"
+pfDB["units"]["data-turtle"][81258]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][81259]["fac"] = "H"
+pfDB["units"]["data-turtle"][81259]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91200]["fac"] = "H"
+pfDB["units"]["data-turtle"][91200]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91208]["fac"] = "H"
+pfDB["units"]["data-turtle"][91208]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91213]["fac"] = "H"
+pfDB["units"]["data-turtle"][91213]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][91214]["fac"] = "H"
+pfDB["units"]["data-turtle"][91214]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91232]["fac"] = "H"
+pfDB["units"]["data-turtle"][91232]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91237]["fac"] = "H"
+pfDB["units"]["data-turtle"][91237]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91259]["fac"] = "H"
+pfDB["units"]["data-turtle"][91259]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91260]["fac"] = "H"
+pfDB["units"]["data-turtle"][91260]["fac"] = "H"
   
--- pfDB["units"]["data-turtle"][91274]["fac"] = "H"
+pfDB["units"]["data-turtle"][91274]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][92187]["fac"] = "H"
+pfDB["units"]["data-turtle"][92187]["fac"] = "H"
 
--- pfDB["units"]["data-turtle"][92188]["fac"] = "H"
+pfDB["units"]["data-turtle"][92188]["fac"] = "H"
