@@ -207,6 +207,15 @@ pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
 }
 
+-- Investigating Hateforge
+pfDB["quests"]["data-turtle"][40486]["obj"] = {
+  ["U"] = { 60376 },
+}
+pfDB["units"]["data-turtle"][60376]["coords"] = {
+  [1] = { 96.1, 57.6, 46, 900 },
+}
+-- pfDB["enUS"]["units"]["data-turtle"][60376] = "Hateforge Quarry"
+
 -- Preparation for Divination
 pfDB["quests"]["data-turtle"][40561]["obj"] = {
   ["I"] = { 1705, 60815, 60816 },
