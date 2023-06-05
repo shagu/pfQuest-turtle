@@ -119,6 +119,21 @@ pfDB["quests"]["data-turtle"][4288] = {
   },
 }
 
+-- Tablet of the Seven
+pfDB["quests"]["data-turtle"][4296] = {
+  ["end"] = {
+    ["U"] = { 9536 },
+  },
+  ["lvl"] = 50,
+  ["min"] = 50,
+  ["obj"] = {
+    ["O"] = { 169294 },
+  },
+  ["start"] = {
+    ["U"] = { 9536 },
+  },
+}
+
 -- The Monogrammed Sash
 pfDB["quests"]["data-turtle"][8552] = {
   ["end"] = {
