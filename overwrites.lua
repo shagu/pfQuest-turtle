@@ -303,6 +303,13 @@ pfDB["quests"]["data-turtle"][80205]["obj"] = {
   ["O"] = { 3000202 },
 }
 
+-- Dark Iron Scrapping
+pfDB["quests"]["data-turtle"][80207]["obj"] = {
+  ["I"] = { 80216 },
+  ["U"] = { 80205, 80206 },
+  ["O"] = { 3000203 },
+}
+
 -- The Lost Tablets
 pfDB["quests"]["data-turtle"][80290]["obj"] = {
   ["O"] = { 181583 },
