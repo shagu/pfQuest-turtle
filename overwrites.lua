@@ -310,6 +310,17 @@ pfDB["quests"]["data-turtle"][80207]["obj"] = {
   ["O"] = { 3000203 },
 }
 
+-- Sunblade Reunion
+pfDB["quests"]["data-turtle"][80208]["obj"] = {
+  ["U"] = { 80200 },
+}
+
+-- Porting to Goldshire
+pfDB["quests"]["data-turtle"][80209]["obj"] = {
+  ["U"] = { 80213 },
+  ["O"] = { 3000204 },
+}
+
 -- The Lost Tablets
 pfDB["quests"]["data-turtle"][80290]["obj"] = {
   ["O"] = { 181583 },
