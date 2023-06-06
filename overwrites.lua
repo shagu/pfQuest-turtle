@@ -222,6 +222,11 @@ pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
 }
 
+-- To Purchase Secret Information
+pfDB["quests"]["data-turtle"][40466]["obj"] = {
+  ["U"] = { 8139 },
+}
+
 -- Investigating Hateforge
 pfDB["quests"]["data-turtle"][40486]["obj"] = {
   ["U"] = { 60376 },
@@ -250,6 +255,11 @@ pfDB["quests"]["data-turtle"][40605]["obj"] = {
 -- Conflicting Questions
 pfDB["quests"]["data-turtle"][40698]["obj"] = {
   ["U"] = { 60471 },
+}
+
+-- The Missing Friend!
+pfDB["quests"]["data-turtle"][40771]["obj"] = {
+  ["U"] = { 61157 },
 }
 
 -- Words of Wisdom
