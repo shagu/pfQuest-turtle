@@ -287,6 +287,11 @@ pfDB["quests"]["data-turtle"][60005]["obj"] = {
   ["U"] = { 50610 },
 }
 
+-- Slaking Their Thirst
+pfDB["quests"]["data-turtle"][80205]["obj"] = {
+  ["O"] = { 3000202 },
+}
+
 -- The Lost Tablets
 pfDB["quests"]["data-turtle"][80290]["obj"] = {
   ["O"] = { 181583 },
