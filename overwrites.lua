@@ -287,6 +287,16 @@ pfDB["quests"]["data-turtle"][60005]["obj"] = {
   ["U"] = { 50610 },
 }
 
+-- Gathering Intel
+pfDB["quests"]["data-turtle"][80204]["obj"] = {
+  ["A"] = { 80204 },
+}
+pfDB["areatrigger"]["data-turtle"][80204] = {
+  ["coords"] = {
+    [1] = { 78.3, 72.3, 38 },
+  },
+}
+
 -- Slaking Their Thirst
 pfDB["quests"]["data-turtle"][80205]["obj"] = {
   ["O"] = { 3000202 },
