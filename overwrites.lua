@@ -137,6 +137,11 @@ pfDB["quests"]["data-turtle"][40807]["obj"] = {
   ["U"] = { 61143 },
 }
 
+-- Lucky Coin
+pfDB["quests"]["data-turtle"][60050]["obj"] = {
+  ["O"] = { 1000220 },
+}
+
 -- Once Upon a Sheep
 pfDB["quests"]["data-turtle"][60005]["obj"] = {
   ["U"] = { 50610 },
