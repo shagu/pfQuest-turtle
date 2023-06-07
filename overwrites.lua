@@ -107,6 +107,11 @@ pfDB["quests"]["data-turtle"][40605]["obj"] = {
   ["O"] = { 2010929 },
 }
 
+-- Controlling Sailors
+pfDB["quests"]["data-turtle"][40660]["obj"] = {
+  ["U"] = { 61013, 61015, 61016 },
+}
+
 -- Conflicting Questions
 pfDB["quests"]["data-turtle"][40698]["obj"] = {
   ["U"] = { 60471 },
