@@ -185,6 +185,11 @@ pfDB["quests"]["data-turtle"][80209]["obj"] = {
   ["O"] = { 3000204 },
 }
 
+-- Assisting the Children of the Sun
+pfDB["quests"]["data-turtle"][80250]["obj"] = {
+  ["U"] = { 1752 },
+}
+
 -- Teslinah's Search I
 pfDB["quests"]["data-turtle"][80261]["obj"] = {
   ["U"] = { 80270, 80271, 80272, 80273 },
