@@ -3,6 +3,192 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- Interfering Naga
+pfDB["quests"]["data-turtle"][40124]["obj"] = {
+  ["U"] = { 6195, 60312 },
+}
+pfDB["units"]["data-turtle"][60312]["coords"] = {
+  [1] = { 48.8, 55.2, 16, 333 },
+}
+-- pfDB["enUS"]["units"]["data-turtle"][60312] = "Spitelash Shrine"
+
+-- The Boran Family
+pfDB["quests"]["data-turtle"][40141]["obj"] = {
+  ["I"] = { 60202, 60203 },
+  ["U"] = { 1242, 92936 },
+}
+
+-- Sailors Innovation
+pfDB["quests"]["data-turtle"][40142]["obj"] = {
+  ["I"] = { 60206, 60207 },
+  ["U"] = { 91950 },
+}
+
+-- Southsea Reserve
+pfDB["quests"]["data-turtle"][40148]["obj"] = {
+  ["U"] = { 92137 },
+}
+
+-- The Way-Stones of Old
+pfDB["quests"]["data-turtle"][40252]["end"] = {
+  ["O"] = { 2010849 },
+}
+
+-- Restoring the Ley Lines
+pfDB["quests"]["data-turtle"][40253]["end"] = {
+  ["O"] = { 2010849 },
+}
+pfDB["quests"]["data-turtle"][40253]["obj"] = {
+  ["O"] = { 2010851 },
+}
+
+-- Keeping Secrets
+pfDB["quests"]["data-turtle"][40254]["start"] = {
+  ["O"] = { 2010849 },
+}
+pfDB["quests"]["data-turtle"][40254]["end"] = {
+  ["O"] = { 2010849 },
+}
+
+-- Breaking the Felstar
+pfDB["quests"]["data-turtle"][40377]["obj"] = {
+  ["I"] = { 60148 },
+  ["O"] = { 2010883 },
+}
+
+-- Sacred Waters of Eldre'thalas
+pfDB["quests"]["data-turtle"][40382]["obj"] = {
+  ["O"] = { 2010815 },
+}
+
+-- The Good Snuff
+pfDB["quests"]["data-turtle"][40411]["obj"] = {
+  ["U"] = { 8139 },
+}
+
+-- Report from Burnside
+pfDB["quests"]["data-turtle"][40433]["obj"] = {
+  ["U"] = { 60792 },
+}
+
+-- Fel Energy Irregularities I
+pfDB["quests"]["data-turtle"][40438]["obj"] = {
+  ["U"] = { 60794 },
+}
+
+-- To Purchase Secret Information
+pfDB["quests"]["data-turtle"][40466]["obj"] = {
+  ["U"] = { 8139 },
+}
+
+-- Investigating Hateforge
+pfDB["quests"]["data-turtle"][40486]["obj"] = {
+  ["A"] = { 40486 },
+}
+pfDB["areatrigger"]["data-turtle"][40486] = {
+  ["coords"] = {
+    [1] = { 96.1, 57.6, 46 },
+  },
+}
+
+-- Preparation for Divination
+pfDB["quests"]["data-turtle"][40561]["obj"] = {
+  ["I"] = { 1705, 60815, 60816 },
+  ["U"] = { 2543 },
+}
+
+-- Sleepwalking at Day
+pfDB["quests"]["data-turtle"][40567]["obj"] = {
+  ["U"] = { 52017 },
+}
+
+-- The Redbrand Archive
+pfDB["quests"]["data-turtle"][40605]["obj"] = {
+  ["O"] = { 2010929 },
+}
+
+-- Conflicting Questions
+pfDB["quests"]["data-turtle"][40698]["obj"] = {
+  ["U"] = { 60471 },
+}
+
+-- The Missing Friend!
+pfDB["quests"]["data-turtle"][40771]["obj"] = {
+  ["U"] = { 61157 },
+}
+
+-- Words of Wisdom
+pfDB["quests"]["data-turtle"][40799]["obj"] = {
+  ["U"] = { 4407, 6706, 4267, 3838 },
+}
+
+-- The Family Name
+pfDB["quests"]["data-turtle"][40800]["obj"] = {
+  ["U"] = { 12676 },
+}
+
+-- Patience is the Key
+pfDB["quests"]["data-turtle"][40801]["obj"] = {
+  ["U"] = { 61147 },
+}
+
+-- Pressure is the Key
+pfDB["quests"]["data-turtle"][40807]["obj"] = {
+  ["U"] = { 61143 },
+}
+
+-- Once Upon a Sheep
+pfDB["quests"]["data-turtle"][60005]["obj"] = {
+  ["U"] = { 50610 },
+}
+
+-- Gathering Intel
+pfDB["quests"]["data-turtle"][80204]["obj"] = {
+  ["A"] = { 80204 },
+}
+pfDB["areatrigger"]["data-turtle"][80204] = {
+  ["coords"] = {
+    [1] = { 78.3, 72.3, 38 },
+  },
+}
+
+-- Slaking Their Thirst
+pfDB["quests"]["data-turtle"][80205]["obj"] = {
+  ["O"] = { 3000202 },
+}
+
+-- Dark Iron Scrapping
+pfDB["quests"]["data-turtle"][80207]["obj"] = {
+  ["I"] = { 80216 },
+  ["U"] = { 80205, 80206 },
+  ["O"] = { 3000203 },
+}
+
+-- Sunblade Reunion
+pfDB["quests"]["data-turtle"][80208]["obj"] = {
+  ["U"] = { 80200 },
+}
+
+-- Porting to Goldshire
+pfDB["quests"]["data-turtle"][80209]["obj"] = {
+  ["U"] = { 80213 },
+  ["O"] = { 3000204 },
+}
+
+-- The Lost Tablets
+pfDB["quests"]["data-turtle"][80290]["obj"] = {
+  ["O"] = { 181583 },
+}
+
+-- The Shadow Well
+pfDB["quests"]["data-turtle"][80291]["obj"] = {
+  ["O"] = { 181584 },
+}
+
+-- VIP Invites
+pfDB["quests"]["data-turtle"][80392]["obj"] = {
+  ["U"] = { 3391, 2496 },
+}
 
 -- Angus Stern (Stormwind)
 pfDB["units"]["data-turtle"][1141] = {
