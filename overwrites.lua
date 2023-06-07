@@ -235,6 +235,22 @@ pfDB["quests"]["data-turtle"][80392]["obj"] = {
   ["U"] = { 3391, 2496 },
 }
 
+-- A Glittering Opportunity
+pfDB["quests"]["data-turtle"][80395]["obj"] = {
+  ["O"] = { 3000284 },
+}
+pfDB["quests"]["data-turtle"][80395]["end"] = {
+  ["O"] = { 3000284 },
+}
+
+-- A Bloody Good Deed
+pfDB["quests"]["data-turtle"][80396]["start"] = {
+  ["O"] = { 3000284 },
+}
+pfDB["quests"]["data-turtle"][80396]["end"] = {
+  ["O"] = { 3000284 },
+}
+
 -- Angus Stern (Stormwind)
 pfDB["units"]["data-turtle"][1141] = {
   ["coords"] = {
