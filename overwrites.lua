@@ -185,6 +185,11 @@ pfDB["quests"]["data-turtle"][80291]["obj"] = {
   ["O"] = { 181584 },
 }
 
+-- Apple a Day
+pfDB["quests"]["data-turtle"][80315]["obj"] = {
+  ["U"] = { 80900 },
+}
+
 -- VIP Invites
 pfDB["quests"]["data-turtle"][80392]["obj"] = {
   ["U"] = { 3391, 2496 },
