@@ -321,6 +321,31 @@ pfDB["quests"]["data-turtle"][80209]["obj"] = {
   ["O"] = { 3000204 },
 }
 
+-- Teslinah's Search I
+pfDB["quests"]["data-turtle"][80261]["obj"] = {
+  ["U"] = { 80270, 80271, 80272, 80273 },
+}
+
+-- Teslinah's Search II
+pfDB["quests"]["data-turtle"][80262]["obj"] = {
+  ["U"] = { 80274, 80275, 80276, 80277 },
+}
+
+-- Teslinah's Search III
+pfDB["quests"]["data-turtle"][80263]["obj"] = {
+  ["U"] = { 80278, 80279, 80280, 80281 },
+}
+
+-- Teslinah's Search IV
+pfDB["quests"]["data-turtle"][80264]["obj"] = {
+  ["U"] = { 80282, 80283, 80284, 80285 },
+}
+
+-- Teslinah's Search V
+pfDB["quests"]["data-turtle"][80265]["obj"] = {
+  ["U"] = { 80286, 80287, 80288, 80289 },
+}
+
 -- The Lost Tablets
 pfDB["quests"]["data-turtle"][80290]["obj"] = {
   ["O"] = { 181583 },
