@@ -251,6 +251,16 @@ pfDB["quests"]["data-turtle"][80396]["end"] = {
   ["O"] = { 3000284 },
 }
 
+-- AQ Commendation NPCs
+pfDB["units"]["data-turtle"][15761] = { }
+pfDB["units"]["data-turtle"][15762] = { }
+pfDB["units"]["data-turtle"][15763] = { }
+pfDB["units"]["data-turtle"][15764] = { }
+pfDB["units"]["data-turtle"][15765] = { }
+pfDB["units"]["data-turtle"][15766] = { }
+pfDB["units"]["data-turtle"][15767] = { }
+pfDB["units"]["data-turtle"][15768] = { }
+
 -- Joachim Brenlow (Stormwind)
 pfDB["units"]["data-turtle"][1311] = {
   ["coords"] = {
