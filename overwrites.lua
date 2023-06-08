@@ -251,6 +251,15 @@ pfDB["quests"]["data-turtle"][80396]["end"] = {
   ["O"] = { 3000284 },
 }
 
+-- Joachim Brenlow (Stormwind)
+pfDB["units"]["data-turtle"][1311] = {
+  ["coords"] = {
+    [1] = { 51.4, 94.1, 1519, 310 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "30",
+}
+
 -- Angus Stern (Stormwind)
 pfDB["units"]["data-turtle"][1141] = {
   ["coords"] = {
