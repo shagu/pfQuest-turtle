@@ -232,7 +232,7 @@ pfDB["quests"]["data-turtle"][40433]["obj"] = {
   ["U"] = { 60792 },
 }
 
--- Fel Energy Irregularities I Objective
+-- Fel Energy Irregularities I
 pfDB["quests"]["data-turtle"][40438]["obj"] = {
   ["U"] = { 60794 },
 }
@@ -267,6 +267,10 @@ pfDB["quests"]["data-turtle"][40567]["obj"] = {
 pfDB["quests"]["data-turtle"][40605]["obj"] = {
   ["O"] = { 2010929 },
 }
+-- Controlling Sailors
+pfDB["quests"]["data-turtle"][40660]["obj"] = {
+  ["U"] = { 61013, 61015, 61016 },
+}
 
 -- Conflicting Questions
 pfDB["quests"]["data-turtle"][40698]["obj"] = {
@@ -296,6 +300,11 @@ pfDB["quests"]["data-turtle"][40801]["obj"] = {
 -- Pressure is the Key
 pfDB["quests"]["data-turtle"][40807]["obj"] = {
   ["U"] = { 61143 },
+}
+
+-- Lucky Coin
+pfDB["quests"]["data-turtle"][60050]["obj"] = {
+  ["O"] = { 1000220 },
 }
 
 -- Once Upon a Sheep
@@ -336,6 +345,11 @@ pfDB["quests"]["data-turtle"][80209]["obj"] = {
   ["O"] = { 3000204 },
 }
 
+-- Assisting the Children of the Sun
+pfDB["quests"]["data-turtle"][80250]["obj"] = {
+  ["U"] = { 1752 },
+}
+
 -- Teslinah's Search I
 pfDB["quests"]["data-turtle"][80261]["obj"] = {
   ["U"] = { 80270, 80271, 80272, 80273 },
@@ -371,19 +385,49 @@ pfDB["quests"]["data-turtle"][80291]["obj"] = {
   ["O"] = { 181584 },
 }
 
+-- Apple a Day
+pfDB["quests"]["data-turtle"][80315]["obj"] = {
+  ["U"] = { 80900 },
+}
+
 -- VIP Invites
 pfDB["quests"]["data-turtle"][80392]["obj"] = {
   ["U"] = { 3391, 2496 },
 }
 
--- Fallen Hero of the Horde
-pfDB["units"]["data-turtle"][7572] = {
-    ["coords"] = {
-      [1] = { 34.3, 66.1, 8, 300 },
-	  [2] = { 52.8, 2.8, 4, 300 },
-    },
-    ["fac"] = "AH",
-    ["lvl"] = "60",
+-- A Glittering Opportunity
+pfDB["quests"]["data-turtle"][80395]["obj"] = {
+  ["O"] = { 3000284 },
+}
+pfDB["quests"]["data-turtle"][80395]["end"] = {
+  ["O"] = { 3000284 },
+}
+
+-- A Bloody Good Deed
+pfDB["quests"]["data-turtle"][80396]["start"] = {
+  ["O"] = { 3000284 },
+}
+pfDB["quests"]["data-turtle"][80396]["end"] = {
+  ["O"] = { 3000284 },
+}
+
+-- AQ Commendation NPCs
+pfDB["units"]["data-turtle"][15761] = { }
+pfDB["units"]["data-turtle"][15762] = { }
+pfDB["units"]["data-turtle"][15763] = { }
+pfDB["units"]["data-turtle"][15764] = { }
+pfDB["units"]["data-turtle"][15765] = { }
+pfDB["units"]["data-turtle"][15766] = { }
+pfDB["units"]["data-turtle"][15767] = { }
+pfDB["units"]["data-turtle"][15768] = { }
+
+-- Joachim Brenlow (Stormwind)
+pfDB["units"]["data-turtle"][1311] = {
+  ["coords"] = {
+    [1] = { 51.4, 94.1, 1519, 310 },
+  },
+  ["fac"] = "A",
+  ["lvl"] = "30",
 }
 
 -- Angus Stern (Stormwind)
@@ -416,6 +460,16 @@ pfDB["units"]["data-turtle"][1749] = {
 --  Duthorian Rall (Stormwind)
 pfDB["units"]["data-turtle"][6171]["coords"] = {
   [1] = { 50.5, 47.5, 1519, 30 },
+}
+
+-- Fallen Hero of the Horde
+pfDB["units"]["data-turtle"][7572] = {
+    ["coords"] = {
+      [1] = { 34.3, 66.1, 8, 300 },
+	  [2] = { 52.8, 2.8, 4, 300 },
+    },
+    ["fac"] = "AH",
+    ["lvl"] = "60",
 }
 
 -- Cork Gizelton
