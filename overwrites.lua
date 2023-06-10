@@ -3,6 +3,16 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
+-- Horde Defender's Axe
+pfDB["quests"]["data-turtle"][39995]["obj"] = {
+  ["O"] = { 300531 },
+}
+
+-- Horde Defender's Axe
+pfDB["quests"]["data-turtle"][39998]["obj"] = {
+  ["O"] = { 300532 },
+}
+
 -- Interfering Naga
 pfDB["quests"]["data-turtle"][40124]["obj"] = {
   ["U"] = { 6195, 60312 },
