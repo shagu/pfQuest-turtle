@@ -162,6 +162,15 @@ pfDB["quests"]["data-turtle"][8552] = {
   ["start"] = {
     ["U"] = { 1493 },
   },
+
+-- Horde Defender's Axe
+pfDB["quests"]["data-turtle"][39995]["obj"] = {
+  ["O"] = { 300531 },
+}
+
+-- Horde Defender's Axe
+pfDB["quests"]["data-turtle"][39998]["obj"] = {
+  ["O"] = { 300532 },
 }
 
 -- Interfering Naga
