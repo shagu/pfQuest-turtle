@@ -421,6 +421,21 @@ pfDB["quests"]["data-turtle"][80396]["end"] = {
   ["O"] = { 3000284 },
 }
 
+-- A Letter From a Friend
+pfDB["quests"]["data-turtle"][80407]["end"] = {
+  ["O"] = { 3000246 },
+}
+
+-- A Slaughter for Brains
+pfDB["quests"]["data-turtle"][80408]["start"] = {
+  ["O"] = { 3000246 },
+}
+
+-- Return to Kheyna
+pfDB["quests"]["data-turtle"][80409]["end"] = {
+  ["O"] = { 3000246 },
+}
+
 -- AQ Commendation NPCs
 pfDB["units"]["data-turtle"][15761] = { }
 pfDB["units"]["data-turtle"][15762] = { }
