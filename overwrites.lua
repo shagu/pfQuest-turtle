@@ -321,3 +321,8 @@ pfDB["units"]["data-turtle"][1749] = {
   ["fac"] = "A",
   ["lvl"] = "62",
 }
+
+-- Barltok Kettleburn (Dun Agrath)
+pfDB["units"]["data-turtle"][52068]["coords"] = {
+  [1] = { 21, 71.4, 11, 120 },
+}
