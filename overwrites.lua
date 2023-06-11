@@ -578,6 +578,14 @@ pfDB["units"]["data-turtle"][7572] = {
     ["lvl"] = "60",
 }
 
+-- Murkdeep (Darkshore)
+pfDB["units"]["data-turtle"][10323] = {
+  ["coords"] = {
+    [1] = { 36.6, 76.6, 148, 413 },
+  },
+  ["lvl"] = "19",
+}
+
 -- Cork Gizelton
 pfDB["units"]["data-turtle"][11625] = {
   ["coords"] = {
