@@ -101,6 +101,11 @@ pfDB["areatrigger"]["data-turtle"][40486] = {
   },
 }
 
+-- Family Above All
+pfDB["quests"]["data-turtle"][40541]["obj"] = {
+  ["O"] = { 2010918, 2010919 },
+}
+
 -- Preparation for Divination
 pfDB["quests"]["data-turtle"][40561]["obj"] = {
   ["I"] = { 1705, 60815, 60816 },
