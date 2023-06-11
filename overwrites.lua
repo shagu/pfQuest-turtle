@@ -54,6 +54,11 @@ pfDB["quests"]["data-turtle"][624] = {
   },
 }
 
+-- Sully Balloo's Letter
+pfDB["quests"]["data-turtle"][637]["start"] = {
+  ["O"] = { 2656 },
+}
+
 -- Raene's Cleansing
 pfDB["quests"]["data-turtle"][1027]["obj"] = {
   ["I"] = { 5519 },
