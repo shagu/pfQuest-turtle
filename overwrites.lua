@@ -12,6 +12,9 @@ do -- area trigger
 end
 
 do -- items
+  -- Once Upon a Sheep: Lost Farm Sheep (Interaction)
+  pfDB["items"]["data-turtle"][51220] = { ["U"] = { [50610] = 100 } }
+  
   -- The Boran Family: Letter from Karl & Letter from Samual (Interaction)
   pfDB["items"]["data-turtle"][60202] = { ["U"] = { [1242] = 100 } }
   pfDB["items"]["data-turtle"][60203] = { ["U"] = { [92936] = 100 } }
@@ -254,9 +257,6 @@ do -- quests
 
   -- Lucky Coin
   pfDB["quests"]["data-turtle"][60050]["obj"] = { ["O"] = { 1000220 } }
-
-  -- Once Upon a Sheep
-  pfDB["quests"]["data-turtle"][60005]["obj"] = { ["U"] = { 50610 } }
 
   -- Gathering Intel: Fake Area Trigger
   pfDB["quests"]["data-turtle"][80204]["obj"] = { ["A"] = { 80204 } }
