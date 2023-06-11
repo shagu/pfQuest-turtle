@@ -61,6 +61,11 @@ pfDB["quests"]["data-turtle"][1027]["obj"] = {
   ["O"] = { 19021 },
 }
 
+-- Lonebrow's Journal
+pfDB["quests"]["data-turtle"][1100]["start"] = {
+  ["O"] = { 19861 },
+}
+
 -- Plagued Lands
 pfDB["quests"]["data-turtle"][2118] = {
   ["end"] = {
