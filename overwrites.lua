@@ -3,402 +3,315 @@
 -- To be able to customize and/or fix entries that aren't yet detected
 -- by the extractor logic, this file here can be used to save overwrites.
 
--- Horde Defender's Axe
-pfDB["quests"]["data-turtle"][39995]["obj"] = {
-  ["O"] = { 300531 },
-}
+do -- area trigger
+  -- Investigating Hateforge (Quest)
+  pfDB["areatrigger"]["data-turtle"][40486] = { ["coords"] = { [1] = { 96.1, 57.6, 46 } } }
 
--- Horde Defender's Axe
-pfDB["quests"]["data-turtle"][39998]["obj"] = {
-  ["O"] = { 300532 },
-}
+  -- Gathering Intel (Quest)
+  pfDB["areatrigger"]["data-turtle"][80204] = { ["coords"] = { [1] = { 78.3, 72.3, 38 } } }
+end
 
--- Interfering Naga
-pfDB["quests"]["data-turtle"][40124]["obj"] = {
-  ["U"] = { 6195, 60312 },
-}
-pfDB["units"]["data-turtle"][60312]["coords"] = {
-  [1] = { 48.8, 55.2, 16, 333 },
-}
--- pfDB["enUS"]["units"]["data-turtle"][60312] = "Spitelash Shrine"
+do -- items
+  -- The Good Snuff (Interaction)
+  pfDB["items"]["data-turtle"][60597] = { ["U"] = { [8139] = 100 } }
+end
 
--- The Boran Family
-pfDB["quests"]["data-turtle"][40141]["obj"] = {
-  ["I"] = { 60202, 60203 },
-  ["U"] = { 1242, 92936 },
-}
+do -- units
+  -- AQ Commendation NPCs
+  pfDB["units"]["data-turtle"][15761] = { }
+  pfDB["units"]["data-turtle"][15762] = { }
+  pfDB["units"]["data-turtle"][15763] = { }
+  pfDB["units"]["data-turtle"][15764] = { }
+  pfDB["units"]["data-turtle"][15765] = { }
+  pfDB["units"]["data-turtle"][15766] = { }
+  pfDB["units"]["data-turtle"][15767] = { }
+  pfDB["units"]["data-turtle"][15768] = { }
 
--- Sailors Innovation
-pfDB["quests"]["data-turtle"][40142]["obj"] = {
-  ["I"] = { 60206, 60207 },
-  ["U"] = { 91950 },
-}
+  -- quest_40124_dummy_triger
+  pfDB["units"]["enUS-turtle"][60312] = "Spitelash Shrine"
+  pfDB["units"]["data-turtle"][60312]["coords"] = { [1] = { 48.8, 55.2, 16, 333 } }
 
--- Southsea Reserve
-pfDB["quests"]["data-turtle"][40148]["obj"] = {
-  ["U"] = { 92137 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80270] = "Search Mage Tower"
+  pfDB["units"]["data-turtle"][80270]["coords"] = { [1] = { 48.7, 87.4, 1519, 30 } }
 
--- The Way-Stones of Old
-pfDB["quests"]["data-turtle"][40252]["end"] = {
-  ["O"] = { 2010849 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80271] = "Search Mage District"
+  pfDB["units"]["data-turtle"][80271]["coords"] = { [1] = { 50.4, 86.5, 1519, 30 } }
 
--- Restoring the Ley Lines
-pfDB["quests"]["data-turtle"][40253]["end"] = {
-  ["O"] = { 2010849 },
-}
-pfDB["quests"]["data-turtle"][40253]["obj"] = {
-  ["O"] = { 2010851 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80272] = "Search Mage District Tavern"
+  pfDB["units"]["data-turtle"][80272]["coords"] = { [1] = { 41.7, 82.6, 1519, 30 } }
 
--- Keeping Secrets
-pfDB["quests"]["data-turtle"][40254]["start"] = {
-  ["O"] = { 2010849 },
-}
-pfDB["quests"]["data-turtle"][40254]["end"] = {
-  ["O"] = { 2010849 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80273] = "Search Mage District Tavern Basement"
+  pfDB["units"]["data-turtle"][80273]["coords"] = { [1] = { 39.5, 84.8, 1519, 30 } }
 
--- Breaking the Felstar
-pfDB["quests"]["data-turtle"][40377]["obj"] = {
-  ["I"] = { 60148 },
-  ["O"] = { 2010883 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80274] = "Search Stormwind Park"
+  pfDB["units"]["data-turtle"][80274]["coords"] = { [1] = { 36.5, 67.4, 1519, 30 } }
 
--- Sacred Waters of Eldre'thalas
-pfDB["quests"]["data-turtle"][40382]["obj"] = {
-  ["O"] = { 2010815 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80275] = "Search Dwarven District"
+  pfDB["units"]["data-turtle"][80275]["coords"] = { [1] = { 64.6, 38.3, 1519, 30 } }
 
--- The Good Snuff
-pfDB["quests"]["data-turtle"][40411]["obj"] = {
-  ["U"] = { 8139 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80276] = "Search Dwarf District Embassy"
+  pfDB["units"]["data-turtle"][80276]["coords"] = { [1] = { 65.4, 29.6, 1519, 30 } }
 
--- Report from Burnside
-pfDB["quests"]["data-turtle"][40433]["obj"] = {
-  ["U"] = { 60792 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80277] = "Search Little Silvermoon"
+  pfDB["units"]["data-turtle"][80277]["coords"] = { [1] = { 64.1, 46.8, 1519, 30 } }
 
--- Fel Energy Irregularities I
-pfDB["quests"]["data-turtle"][40438]["obj"] = {
-  ["U"] = { 60794 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80278] = "Search Deeprun Tram Entrance"
+  pfDB["units"]["data-turtle"][80278]["coords"] = { [1] = { 66.3, 34.3, 1519, 30 } }
 
--- To Purchase Secret Information
-pfDB["quests"]["data-turtle"][40466]["obj"] = {
-  ["U"] = { 8139 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80279] = "Search Stormwind Keep"
+  pfDB["units"]["data-turtle"][80279]["coords"] = { [1] = { 74.3, 46.3, 1519, 30 } }
 
--- Investigating Hateforge
-pfDB["quests"]["data-turtle"][40486]["obj"] = {
-  ["A"] = { 40486 },
-}
-pfDB["areatrigger"]["data-turtle"][40486] = {
-  ["coords"] = {
-    [1] = { 96.1, 57.6, 46 },
-  },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80280] = "Search Old Town"
+  pfDB["units"]["data-turtle"][80280]["coords"] = { [1] = { 75.6, 61.9, 1519, 30 } }
 
--- Family Above All
-pfDB["quests"]["data-turtle"][40541]["obj"] = {
-  ["O"] = { 2010918, 2010919 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80281] = "Search Old Town Tavern"
+  pfDB["units"]["data-turtle"][80281]["coords"] = { [1] = { 76.1, 54.2, 1519, 30 } }
 
--- Preparation for Divination
-pfDB["quests"]["data-turtle"][40561]["obj"] = {
-  ["I"] = { 1705, 60815, 60816 },
-  ["U"] = { 2543 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80282] = "Search Old Town Barracks"
+  pfDB["units"]["data-turtle"][80282]["coords"] = { [1] = { 77.6, 66.2, 1519, 30 } }
 
--- Sleepwalking at Day
-pfDB["quests"]["data-turtle"][40567]["obj"] = {
-  ["U"] = { 52017 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80283] = "Search Cathedral Square"
+  pfDB["units"]["data-turtle"][80283]["coords"] = { [1] = { 55.5, 56.6, 1519, 30 } }
 
--- The Redbrand Archive
-pfDB["quests"]["data-turtle"][40605]["obj"] = {
-  ["O"] = { 2010929 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80284] = "Search Orphanage"
+  pfDB["units"]["data-turtle"][80284]["coords"] = { [1] = { 56.4, 53.2, 1519, 30 } }
 
--- Controlling Sailors
-pfDB["quests"]["data-turtle"][40660]["obj"] = {
-  ["U"] = { 61013, 61015, 61016 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80285] = "Search Cathedral"
+  pfDB["units"]["data-turtle"][80285]["coords"] = { [1] = { 51.1, 47.7, 1519, 30 } }
 
--- Conflicting Questions
-pfDB["quests"]["data-turtle"][40698]["obj"] = {
-  ["U"] = { 60471 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80286] = "Search Cathedral Basement"
+  pfDB["units"]["data-turtle"][80286]["coords"] = { [1] = { 52.5, 43.5, 1519, 30 } }
 
--- The Land of Kings
-pfDB["quests"]["data-turtle"][40713]["obj"] = {
-  ["O"] = { 2010946 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80287] = "Search Cathedral Catacombs"
+  pfDB["units"]["data-turtle"][80287]["coords"] = { [1] = { 52.9, 44.8, 1519, 30 } }
 
--- The Missing Friend!
-pfDB["quests"]["data-turtle"][40771]["obj"] = {
-  ["U"] = { 61157 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80288] = "Search Trade District"
+  pfDB["units"]["data-turtle"][80288]["coords"] = { [1] = { 62.5, 72.8, 1519, 30 } }
 
--- Words of Wisdom
-pfDB["quests"]["data-turtle"][40799]["obj"] = {
-  ["U"] = { 4407, 6706, 4267, 3838 },
-}
+  -- Quest 80261 Custom Objective
+  pfDB["units"]["enUS-turtle"][80289] = "Search Stormwind Visitor Center"
+  pfDB["units"]["data-turtle"][80289]["coords"] = { [1] = { 64, 77.3, 1519, 30 } }
 
--- The Family Name
-pfDB["quests"]["data-turtle"][40800]["obj"] = {
-  ["U"] = { 12676 },
-}
+  -- Joachim Brenlow (Stormwind)
+  pfDB["units"]["data-turtle"][1311] = {
+    ["coords"] = {
+      [1] = { 51.4, 94.1, 1519, 310 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "30",
+  }
 
--- Patience is the Key
-pfDB["quests"]["data-turtle"][40801]["obj"] = {
-  ["U"] = { 61147 },
-}
+  -- Angus Stern (Stormwind)
+  pfDB["units"]["data-turtle"][1141] = {
+    ["coords"] = {
+      [1] = { 51.8, 93.6, 1519, 30 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "60",
+  }
 
--- Pressure is the Key
-pfDB["quests"]["data-turtle"][40807]["obj"] = {
-  ["U"] = { 61143 },
-}
+  -- Highlord Bolvar Fordragon (Stormwind)
+  pfDB["units"]["data-turtle"][1748] = {
+    ["coords"] = {
+      [1] = { 80.2, 38.3, 1519, 30 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "63",
+  }
 
--- Lucky Coin
-pfDB["quests"]["data-turtle"][60050]["obj"] = {
-  ["O"] = { 1000220 },
-}
+  -- Lady Katrana Prestor (Stormwind)
+  pfDB["units"]["data-turtle"][1749] = {
+    ["coords"] = {
+      [1] = { 80.1, 38.2, 1519, 30 },
+    },
+    ["fac"] = "A",
+    ["lvl"] = "62",
+  }
 
--- Once Upon a Sheep
-pfDB["quests"]["data-turtle"][60005]["obj"] = {
-  ["U"] = { 50610 },
-}
+  --  Duthorian Rall (Stormwind)
+  pfDB["units"]["data-turtle"][6171]["coords"] = {
+    [1] = { 50.5, 47.5, 1519, 30 },
+  }
 
--- Gathering Intel
-pfDB["quests"]["data-turtle"][80204]["obj"] = {
-  ["A"] = { 80204 },
-}
-pfDB["areatrigger"]["data-turtle"][80204] = {
-  ["coords"] = {
-    [1] = { 78.3, 72.3, 38 },
-  },
-}
+  -- Barltok Kettleburn (Dun Agrath)
+  pfDB["units"]["data-turtle"][52068]["coords"] = {
+    [1] = { 21, 71.4, 11, 120 },
+  }
+end
 
--- Slaking Their Thirst
-pfDB["quests"]["data-turtle"][80205]["obj"] = {
-  ["O"] = { 3000202 },
-}
+do -- quests
+  -- Horde Defender's Axe: Stolen Weapon Plans
+  pfDB["quests"]["data-turtle"][39995]["obj"]["O"] = { 300531 }
 
--- Dark Iron Scrapping
-pfDB["quests"]["data-turtle"][80207]["obj"] = {
-  ["I"] = { 80216 },
-  ["U"] = { 80205, 80206 },
-  ["O"] = { 3000203 },
-}
+  -- Horde Defender's Axe: Human Tombstone
+  pfDB["quests"]["data-turtle"][39998]["obj"]["O"] = { 300532 }
 
--- Sunblade Reunion
-pfDB["quests"]["data-turtle"][80208]["obj"] = {
-  ["U"] = { 80200 },
-}
+  -- Interfering Naga: quest_40124_dummy_triger (Spitelash Shrine)
+  pfDB["quests"]["data-turtle"][40124]["obj"]["U"] = { 6195, 60312 }
 
--- Porting to Goldshire
-pfDB["quests"]["data-turtle"][80209]["obj"] = {
-  ["U"] = { 80213 },
-  ["O"] = { 3000204 },
-}
+  -- The Boran Family: Karl Boran & Samual Boran
+  pfDB["quests"]["data-turtle"][40141]["obj"]["U"] = { 1242, 92936 }
 
--- Assisting the Children of the Sun
-pfDB["quests"]["data-turtle"][80250]["obj"] = {
-  ["U"] = { 1752 },
-}
+  -- Sailors Innovation: Chef Jenkel
+  pfDB["quests"]["data-turtle"][40142]["obj"]["U"] = { 91950 }
 
--- Teslinah's Search I
-pfDB["quests"]["data-turtle"][80261]["obj"] = {
-  ["U"] = { 80270, 80271, 80272, 80273 },
-}
-pfDB["units"]["data-turtle"][80270]["coords"] = {
-  [1] = { 48.7, 87.4, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80271]["coords"] = {
-  [1] = { 50.4, 86.5, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80272]["coords"] = {
-  [1] = { 41.7, 82.6, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80273]["coords"] = {
-  [1] = { 39.5, 84.8, 1519, 30 },
-}
+  -- Southsea Reserve: 'Moonshine' Marty
+  pfDB["quests"]["data-turtle"][40148]["obj"]["U"] = { 92137 }
 
+  -- The Way-Stones of Old: Way-Stone of Eldarath
+  pfDB["quests"]["data-turtle"][40252]["end"] = { ["O"] = { 2010849 } }
 
--- Teslinah's Search II
-pfDB["quests"]["data-turtle"][80262]["obj"] = {
-  ["U"] = { 80274, 80275, 80276, 80277 },
-}
-pfDB["units"]["data-turtle"][80274]["coords"] = {
-  [1] = { 36.5, 67.4, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80275]["coords"] = {
-  [1] = { 64.6, 38.3, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80276]["coords"] = {
-  [1] = { 65.4, 29.6, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80277]["coords"] = {
-  [1] = { 64.1, 46.8, 1519, 30 },
-}
+  -- Restoring the Ley Lines: Way-Stone of Eldarath
+  pfDB["quests"]["data-turtle"][40253]["end"] = { ["O"] = { 2010849 } }
 
--- Teslinah's Search III
-pfDB["quests"]["data-turtle"][80263]["obj"] = {
-  ["U"] = { 80278, 80279, 80280, 80281 },
-}
-pfDB["units"]["data-turtle"][80278]["coords"] = {
-  [1] = { 66.3, 34.3, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80279]["coords"] = {
-  [1] = { 74.3, 46.3, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80280]["coords"] = {
-  [1] = { 75.6, 61.9, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80281]["coords"] = {
-  [1] = { 76.1, 54.2, 1519, 30 },
-}
+  -- Restoring the Ley Lines: Ashan Stone
+  pfDB["quests"]["data-turtle"][40253]["obj"] = { ["O"] = { 2010851 } }
 
--- Teslinah's Search IV
-pfDB["quests"]["data-turtle"][80264]["obj"] = {
-  ["U"] = { 80282, 80283, 80284, 80285 },
-}
-pfDB["units"]["data-turtle"][80282]["coords"] = {
-  [1] = { 77.6, 66.2, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80283]["coords"] = {
-  [1] = { 55.5, 56.6, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80284]["coords"] = {
-  [1] = { 56.4, 53.2, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80285]["coords"] = {
-  [1] = { 51.1, 47.7, 1519, 30 },
-}
+  -- Keeping Secrets: Way-Stone of Eldarath
+  pfDB["quests"]["data-turtle"][40254]["start"] = { ["O"] = { 2010849 } }
+  pfDB["quests"]["data-turtle"][40254]["end"] = { ["O"] = { 2010849 } }
 
--- Teslinah's Search V
-pfDB["quests"]["data-turtle"][80265]["obj"] = {
-  ["U"] = { 80286, 80287, 80288, 80289 },
-}
-pfDB["units"]["data-turtle"][80286]["coords"] = {
-  [1] = { 52.5, 43.5, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80287]["coords"] = {
-  [1] = { 52.9, 44.8, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80288]["coords"] = {
-  [1] = { 62.5, 72.8, 1519, 30 },
-}
-pfDB["units"]["data-turtle"][80289]["coords"] = {
-  [1] = { 64, 77.3, 1519, 30 },
-}
+  -- Breaking the Felstar: Corrupted Felstone
+  pfDB["quests"]["data-turtle"][40377]["obj"]["O"] = { 2010883 }
 
--- The Lost Tablets
-pfDB["quests"]["data-turtle"][80290]["obj"] = {
-  ["O"] = { 181583 },
-}
+  -- Sacred Waters of Eldre'thalas: Bowl of Sacred Water
+  pfDB["quests"]["data-turtle"][40382]["obj"] = { ["O"] = { 2010815 } }
 
--- The Shadow Well
-pfDB["quests"]["data-turtle"][80291]["obj"] = {
-  ["O"] = { 181584 },
-}
+  -- Report from Burnside: Sergeant Burnside
+  pfDB["quests"]["data-turtle"][40433]["obj"] = { ["U"] = { 60792 } }
 
--- Apple a Day
-pfDB["quests"]["data-turtle"][80315]["obj"] = {
-  ["U"] = { 80900 },
-}
+  -- Fel Energy Irregularities I: Engineer Wigglestip
+  pfDB["quests"]["data-turtle"][40438]["obj"] = { ["U"] = { 60794 } }
 
--- VIP Invites
-pfDB["quests"]["data-turtle"][80392]["obj"] = {
-  ["U"] = { 3391, 2496 },
-}
+  -- To Purchase Secret Information: Jabbey
+  pfDB["quests"]["data-turtle"][40466]["obj"] = { ["U"] = { 8139 } }
 
--- A Glittering Opportunity
-pfDB["quests"]["data-turtle"][80395]["obj"] = {
-  ["O"] = { 3000284 },
-}
-pfDB["quests"]["data-turtle"][80395]["end"] = {
-  ["O"] = { 3000284 },
-}
+  -- Investigating Hateforge: Fake Area Trigger
+  pfDB["quests"]["data-turtle"][40486]["obj"] = { ["A"] = { 40486 } }
 
--- A Bloody Good Deed
-pfDB["quests"]["data-turtle"][80396]["start"] = {
-  ["O"] = { 3000284 },
-}
-pfDB["quests"]["data-turtle"][80396]["end"] = {
-  ["O"] = { 3000284 },
-}
+  -- Family Above All: Abandoned Murloc Hut & Abandoned Murloc Nest
+  pfDB["quests"]["data-turtle"][40541]["obj"] = { ["O"] = { 2010918, 2010919 } }
 
--- A Letter From a Friend
-pfDB["quests"]["data-turtle"][80407]["end"] = {
-  ["O"] = { 3000246 },
-}
+  -- Preparation for Divination: Archmage Ansirem Runeweaver
+  pfDB["quests"]["data-turtle"][40561]["obj"]["U"] = { 2543 }
 
--- A Slaughter for Brains
-pfDB["quests"]["data-turtle"][80408]["start"] = {
-  ["O"] = { 3000246 },
-}
+  -- Sleepwalking at Day: Bert Mano
+  pfDB["quests"]["data-turtle"][40567]["obj"] = { ["U"] = { 52017 } }
 
--- Return to Kheyna
-pfDB["quests"]["data-turtle"][80409]["end"] = {
-  ["O"] = { 3000246 },
-}
+  -- The Redbrand Archive
+  pfDB["quests"]["data-turtle"][40605]["obj"] = { ["O"] = { 2010929 } }
 
--- AQ Commendation NPCs
-pfDB["units"]["data-turtle"][15761] = { }
-pfDB["units"]["data-turtle"][15762] = { }
-pfDB["units"]["data-turtle"][15763] = { }
-pfDB["units"]["data-turtle"][15764] = { }
-pfDB["units"]["data-turtle"][15765] = { }
-pfDB["units"]["data-turtle"][15766] = { }
-pfDB["units"]["data-turtle"][15767] = { }
-pfDB["units"]["data-turtle"][15768] = { }
+  -- Controlling Sailors
+  pfDB["quests"]["data-turtle"][40660]["obj"] = { ["U"] = { 61013, 61015, 61016 } }
 
--- Joachim Brenlow (Stormwind)
-pfDB["units"]["data-turtle"][1311] = {
-  ["coords"] = {
-    [1] = { 51.4, 94.1, 1519, 310 },
-  },
-  ["fac"] = "A",
-  ["lvl"] = "30",
-}
+  -- Conflicting Questions
+  pfDB["quests"]["data-turtle"][40698]["obj"] = { ["U"] = { 60471 } }
 
--- Angus Stern (Stormwind)
-pfDB["units"]["data-turtle"][1141] = {
-  ["coords"] = {
-    [1] = { 51.8, 93.6, 1519, 30 },
-  },
-  ["fac"] = "A",
-  ["lvl"] = "60",
-}
+  -- The Land of Kings
+  pfDB["quests"]["data-turtle"][40713]["obj"] = { ["O"] = { 2010946 } }
 
--- Highlord Bolvar Fordragon (Stormwind)
-pfDB["units"]["data-turtle"][1748] = {
-  ["coords"] = {
-    [1] = { 80.2, 38.3, 1519, 30 },
-  },
-  ["fac"] = "A",
-  ["lvl"] = "63",
-}
+  -- The Missing Friend!
+  pfDB["quests"]["data-turtle"][40771]["obj"] = { ["U"] = { 61157 } }
 
--- Lady Katrana Prestor (Stormwind)
-pfDB["units"]["data-turtle"][1749] = {
-  ["coords"] = {
-    [1] = { 80.1, 38.2, 1519, 30 },
-  },
-  ["fac"] = "A",
-  ["lvl"] = "62",
-}
+  -- Words of Wisdom
+  pfDB["quests"]["data-turtle"][40799]["obj"] = { ["U"] = { 4407, 6706, 4267, 3838 } }
 
---  Duthorian Rall (Stormwind)
-pfDB["units"]["data-turtle"][6171]["coords"] = {
-  [1] = { 50.5, 47.5, 1519, 30 },
-}
+  -- The Family Name
+  pfDB["quests"]["data-turtle"][40800]["obj"] = { ["U"] = { 12676 } }
 
--- Barltok Kettleburn (Dun Agrath)
-pfDB["units"]["data-turtle"][52068]["coords"] = {
-  [1] = { 21, 71.4, 11, 120 },
-}
+  -- Patience is the Key
+  pfDB["quests"]["data-turtle"][40801]["obj"] = { ["U"] = { 61147 } }
+
+  -- Pressure is the Key
+  pfDB["quests"]["data-turtle"][40807]["obj"] = { ["U"] = { 61143 } }
+
+  -- Lucky Coin
+  pfDB["quests"]["data-turtle"][60050]["obj"] = { ["O"] = { 1000220 } }
+
+  -- Once Upon a Sheep
+  pfDB["quests"]["data-turtle"][60005]["obj"] = { ["U"] = { 50610 } }
+
+  -- Gathering Intel: Fake Area Trigger
+  pfDB["quests"]["data-turtle"][80204]["obj"] = { ["A"] = { 80204 } }
+
+  -- Slaking Their Thirst
+  pfDB["quests"]["data-turtle"][80205]["obj"] = { ["O"] = { 3000202 } }
+
+  -- Dark Iron Scrapping: Shadowforge Cage
+  pfDB["quests"]["data-turtle"][80207]["obj"]["O"] = { 3000203 }
+
+  -- Sunblade Reunion
+  pfDB["quests"]["data-turtle"][80208]["obj"] = { ["U"] = { 80200 } }
+
+  -- Porting to Goldshire: Magistrix Ishalah
+  pfDB["quests"]["data-turtle"][80209]["obj"]["U"] = { 80213 }
+
+  -- Porting to Goldshire: Portal to Goldshire
+  pfDB["quests"]["data-turtle"][80209]["obj"]["O"] = { 3000204 }
+
+  -- Assisting the Children of the Sun
+  pfDB["quests"]["data-turtle"][80250]["obj"] = { ["U"] = { 1752 } }
+
+  -- Teslinah's Search I
+  pfDB["quests"]["data-turtle"][80261]["obj"] = { ["U"] = { 80270, 80271, 80272, 80273 } }
+
+  -- Teslinah's Search II
+  pfDB["quests"]["data-turtle"][80262]["obj"] = { ["U"] = { 80274, 80275, 80276, 80277 } }
+
+  -- Teslinah's Search III
+  pfDB["quests"]["data-turtle"][80263]["obj"] = { ["U"] = { 80278, 80279, 80280, 80281 } }
+
+  -- Teslinah's Search IV
+  pfDB["quests"]["data-turtle"][80264]["obj"] = { ["U"] = { 80282, 80283, 80284, 80285 } }
+
+  -- Teslinah's Search V
+  pfDB["quests"]["data-turtle"][80265]["obj"] = { ["U"] = { 80286, 80287, 80288, 80289 } }
+
+  -- The Lost Tablets
+  pfDB["quests"]["data-turtle"][80290]["obj"] = { ["O"] = { 181583 } }
+
+  -- The Shadow Well
+  pfDB["quests"]["data-turtle"][80291]["obj"] = { ["O"] = { 181584 } }
+
+  -- Apple a Day
+  pfDB["quests"]["data-turtle"][80315]["obj"] = { ["U"] = { 80900 } }
+
+  -- VIP Invites
+  pfDB["quests"]["data-turtle"][80392]["obj"] = { ["U"] = { 3391, 2496 } }
+
+  -- A Glittering Opportunity
+  pfDB["quests"]["data-turtle"][80395]["obj"] = { ["O"] = { 3000284 } }
+  pfDB["quests"]["data-turtle"][80395]["end"] = { ["O"] = { 3000284 } }
+
+  -- A Bloody Good Deed: Mysterious Glittering Object
+  pfDB["quests"]["data-turtle"][80396]["start"] = { ["O"] = { 3000284 } }
+  pfDB["quests"]["data-turtle"][80396]["end"] = { ["O"] = { 3000284 } }
+
+  -- A Letter From a Friend
+  pfDB["quests"]["data-turtle"][80407]["end"] = { ["O"] = { 3000246 } }
+
+  -- A Slaughter for Brains
+  pfDB["quests"]["data-turtle"][80408]["start"] = { ["O"] = { 3000246 } }
+
+  -- Return to Kheyna
+  pfDB["quests"]["data-turtle"][80409]["end"] = { ["O"] = { 3000246 } }
+end
