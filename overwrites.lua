@@ -132,6 +132,11 @@ pfDB["quests"]["data-turtle"][40698]["obj"] = {
   ["U"] = { 60471 },
 }
 
+-- The Land of Kings
+pfDB["quests"]["data-turtle"][40713]["obj"] = {
+  ["O"] = { 2010946 },
+}
+
 -- The Missing Friend!
 pfDB["quests"]["data-turtle"][40771]["obj"] = {
   ["U"] = { 61157 },
