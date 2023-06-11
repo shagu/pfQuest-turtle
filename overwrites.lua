@@ -515,6 +515,11 @@ pfDB["units"]["data-turtle"][11626] = {
   ["lvl"] = "36",
 }
 
+-- Barltok Kettleburn (Dun Agrath)
+pfDB["units"]["data-turtle"][52068]["coords"] = {
+  [1] = { 21, 71.4, 11, 120 },
+}
+
 -- Gorlush the Trampler
 pfDB["units"]["data-turtle"][60844]["coords"] = {
   [1] = { 55.8, 3.4, 4, 300 },
