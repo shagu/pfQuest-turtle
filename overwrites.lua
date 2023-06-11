@@ -12,8 +12,34 @@ do -- area trigger
 end
 
 do -- items
-  -- The Good Snuff (Interaction)
+  -- The Boran Family: Letter from Karl & Letter from Samual (Interaction)
+  pfDB["items"]["data-turtle"][60202] = { ["U"] = { [1242] = 100 } }
+  pfDB["items"]["data-turtle"][60203] = { ["U"] = { [92936] = 100 } }
+
+  -- Sailors Innovation: Pinch of Salt (Interaction)
+  pfDB["items"]["data-turtle"][60207] = { ["U"] = { [91950] = 100 } }
+
+  
+  -- Southsea Reserve: Southsea Reserve (Interaction)
+  pfDB["items"]["data-turtle"][60217] = { ["U"] = { [92137] = 100 } }
+  
+  -- The Good Snuff: 'The Good Snuff' (Interaction)
   pfDB["items"]["data-turtle"][60597] = { ["U"] = { [8139] = 100 } }
+
+  -- Report from Burnside: Report from Burnside (Interaction)
+  pfDB["items"]["data-turtle"][60635] = { ["U"] = { [60792] = 100 } }
+  
+  -- Fel Energy Irregularities I: Engineer Wigglestip's Report (Interaction)
+  pfDB["items"]["data-turtle"][60640] = { ["U"] = { [60794] = 100 } }
+
+  -- To Purchase Secret Information: Arcane Golem Core Information (Interaction)
+  pfDB["items"]["data-turtle"][60670] = { ["U"] = { [8139] = 100 } }
+  
+  -- Preparation for Divination: Arcane Resonator (Interaction)
+  pfDB["items"]["data-turtle"][60815] = { ["U"] = { [2543] = 100 } }
+  
+  -- Apple a Day: Healing Balm (Interaction)
+  pfDB["items"]["data-turtle"][80865] = { ["U"] = { [8090] = 100 } }
 end
 
 do -- units
@@ -171,12 +197,6 @@ do -- quests
   -- The Boran Family: Karl Boran & Samual Boran
   pfDB["quests"]["data-turtle"][40141]["obj"]["U"] = { 1242, 92936 }
 
-  -- Sailors Innovation: Chef Jenkel
-  pfDB["quests"]["data-turtle"][40142]["obj"]["U"] = { 91950 }
-
-  -- Southsea Reserve: 'Moonshine' Marty
-  pfDB["quests"]["data-turtle"][40148]["obj"]["U"] = { 92137 }
-
   -- The Way-Stones of Old: Way-Stone of Eldarath
   pfDB["quests"]["data-turtle"][40252]["end"] = { ["O"] = { 2010849 } }
 
@@ -196,23 +216,11 @@ do -- quests
   -- Sacred Waters of Eldre'thalas: Bowl of Sacred Water
   pfDB["quests"]["data-turtle"][40382]["obj"] = { ["O"] = { 2010815 } }
 
-  -- Report from Burnside: Sergeant Burnside
-  pfDB["quests"]["data-turtle"][40433]["obj"] = { ["U"] = { 60792 } }
-
-  -- Fel Energy Irregularities I: Engineer Wigglestip
-  pfDB["quests"]["data-turtle"][40438]["obj"] = { ["U"] = { 60794 } }
-
-  -- To Purchase Secret Information: Jabbey
-  pfDB["quests"]["data-turtle"][40466]["obj"] = { ["U"] = { 8139 } }
-
   -- Investigating Hateforge: Fake Area Trigger
   pfDB["quests"]["data-turtle"][40486]["obj"] = { ["A"] = { 40486 } }
 
   -- Family Above All: Abandoned Murloc Hut & Abandoned Murloc Nest
   pfDB["quests"]["data-turtle"][40541]["obj"] = { ["O"] = { 2010918, 2010919 } }
-
-  -- Preparation for Divination: Archmage Ansirem Runeweaver
-  pfDB["quests"]["data-turtle"][40561]["obj"]["U"] = { 2543 }
 
   -- Sleepwalking at Day: Bert Mano
   pfDB["quests"]["data-turtle"][40567]["obj"] = { ["U"] = { 52017 } }
@@ -291,9 +299,6 @@ do -- quests
 
   -- The Shadow Well
   pfDB["quests"]["data-turtle"][80291]["obj"] = { ["O"] = { 181584 } }
-
-  -- Apple a Day
-  pfDB["quests"]["data-turtle"][80315]["obj"] = { ["U"] = { 80900 } }
 
   -- VIP Invites
   pfDB["quests"]["data-turtle"][80392]["obj"] = { ["U"] = { 3391, 2496 } }
