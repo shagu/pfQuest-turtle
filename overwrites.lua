@@ -322,6 +322,11 @@ pfDB["units"]["data-turtle"][1749] = {
   ["lvl"] = "62",
 }
 
+--  Duthorian Rall (Stormwind)
+pfDB["units"]["data-turtle"][6171]["coords"] = {
+  [1] = { 50.5, 47.5, 1519, 30 },
+}
+
 -- Barltok Kettleburn (Dun Agrath)
 pfDB["units"]["data-turtle"][52068]["coords"] = {
   [1] = { 21, 71.4, 11, 120 },
