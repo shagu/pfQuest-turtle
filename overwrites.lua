@@ -204,25 +204,86 @@ pfDB["quests"]["data-turtle"][80250]["obj"] = {
 pfDB["quests"]["data-turtle"][80261]["obj"] = {
   ["U"] = { 80270, 80271, 80272, 80273 },
 }
+pfDB["units"]["data-turtle"][80270]["coords"] = {
+  [1] = { 48.7, 87.4, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80271]["coords"] = {
+  [1] = { 50.4, 86.5, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80272]["coords"] = {
+  [1] = { 41.7, 82.6, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80273]["coords"] = {
+  [1] = { 39.5, 84.8, 1519, 30 },
+}
+
 
 -- Teslinah's Search II
 pfDB["quests"]["data-turtle"][80262]["obj"] = {
   ["U"] = { 80274, 80275, 80276, 80277 },
+}
+pfDB["units"]["data-turtle"][80274]["coords"] = {
+  [1] = { 36.5, 67.4, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80275]["coords"] = {
+  [1] = { 64.6, 38.3, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80276]["coords"] = {
+  [1] = { 65.4, 29.6, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80277]["coords"] = {
+  [1] = { 64.1, 46.8, 1519, 30 },
 }
 
 -- Teslinah's Search III
 pfDB["quests"]["data-turtle"][80263]["obj"] = {
   ["U"] = { 80278, 80279, 80280, 80281 },
 }
+pfDB["units"]["data-turtle"][80278]["coords"] = {
+  [1] = { 66.3, 34.3, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80279]["coords"] = {
+  [1] = { 74.3, 46.3, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80280]["coords"] = {
+  [1] = { 75.6, 61.9, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80281]["coords"] = {
+  [1] = { 76.1, 54.2, 1519, 30 },
+}
 
 -- Teslinah's Search IV
 pfDB["quests"]["data-turtle"][80264]["obj"] = {
   ["U"] = { 80282, 80283, 80284, 80285 },
 }
+pfDB["units"]["data-turtle"][80282]["coords"] = {
+  [1] = { 77.6, 66.2, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80283]["coords"] = {
+  [1] = { 55.5, 56.6, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80284]["coords"] = {
+  [1] = { 56.4, 53.2, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80285]["coords"] = {
+  [1] = { 51.1, 47.7, 1519, 30 },
+}
 
 -- Teslinah's Search V
 pfDB["quests"]["data-turtle"][80265]["obj"] = {
   ["U"] = { 80286, 80287, 80288, 80289 },
+}
+pfDB["units"]["data-turtle"][80286]["coords"] = {
+  [1] = { 52.5, 43.5, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80287]["coords"] = {
+  [1] = { 52.9, 44.8, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80288]["coords"] = {
+  [1] = { 62.5, 72.8, 1519, 30 },
+}
+pfDB["units"]["data-turtle"][80289]["coords"] = {
+  [1] = { 64, 77.3, 1519, 30 },
 }
 
 -- The Lost Tablets
