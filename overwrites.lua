@@ -21,7 +21,6 @@ do -- items
 
   -- Sailors Innovation: Pinch of Salt (Interaction)
   pfDB["items"]["data-turtle"][60207] = { ["U"] = { [91950] = 100 } }
-
   
   -- Southsea Reserve: Southsea Reserve (Interaction)
   pfDB["items"]["data-turtle"][60217] = { ["U"] = { [92137] = 100 } }
@@ -87,8 +86,11 @@ do -- units
   -- Pezzik Villamar: Horde only
   pfDB["units"]["data-turtle"][70060]["fac"] = "H"
   
-  -- Nert Blastentom: Horde only
+    -- Nert Blastentom (Razor Hill): Horde only
   pfDB["units"]["data-turtle"][80121]["fac"] = "H"
+  
+  -- Grand Taskmaster Nert Blastentom (Sparkwater Port): Horde only
+  pfDB["units"]["data-turtle"][80178]["fac"] = "H"
 
   -- Quest 80261 Custom Objective
   pfDB["units"]["enUS-turtle"][80270] = "Search Mage Tower"
