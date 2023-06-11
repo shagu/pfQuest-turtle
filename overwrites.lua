@@ -272,6 +272,11 @@ pfDB["areatrigger"]["data-turtle"][40486] = {
   },
 }
 
+-- Family Above All
+pfDB["quests"]["data-turtle"][40541]["obj"] = {
+  ["O"] = { 2010918, 2010919 },
+}
+
 -- Preparation for Divination
 pfDB["quests"]["data-turtle"][40561]["obj"] = {
   ["I"] = { 1705, 60815, 60816 },
@@ -295,6 +300,11 @@ pfDB["quests"]["data-turtle"][40660]["obj"] = {
 -- Conflicting Questions
 pfDB["quests"]["data-turtle"][40698]["obj"] = {
   ["U"] = { 60471 },
+}
+
+-- The Land of Kings
+pfDB["quests"]["data-turtle"][40713]["obj"] = {
+  ["O"] = { 2010946 },
 }
 
 -- The Missing Friend!
