@@ -56,9 +56,39 @@ do -- units
   pfDB["units"]["data-turtle"][15767] = { }
   pfDB["units"]["data-turtle"][15768] = { }
 
+  -- Fara Boltbreaker: Horde only
+  pfDB["units"]["data-turtle"][50530]["fac"] = "H"
+
   -- quest_40124_dummy_triger
   pfDB["units"]["enUS-turtle"][60312] = "Spitelash Shrine"
   pfDB["units"]["data-turtle"][60312]["coords"] = { [1] = { 48.8, 55.2, 16, 333 } }
+  
+  -- Kex Blowmaster: Horde only
+  pfDB["units"]["data-turtle"][60443]["fac"] = "H"
+  
+  -- Technician Steelbolt: Horde only
+  pfDB["units"]["data-turtle"][60960]["fac"] = "H"
+  
+  -- Head Technician Klazfit: Horde only
+  pfDB["units"]["data-turtle"][60961]["fac"] = "H"
+  
+  -- Fusemaster Blammo: Horde only
+  pfDB["units"]["data-turtle"][60962]["fac"] = "H"
+  
+  -- Gig Xevno: Horde only
+  pfDB["units"]["data-turtle"][60967]["fac"] = "H"
+  
+  -- Security Officer Mort Tozzlefume: Horde only
+  pfDB["units"]["data-turtle"][60970]["fac"] = "H"
+  
+  -- Senior Foreman Nazz Firecracker: Horde only
+  pfDB["units"]["data-turtle"][61024]["fac"] = "H"
+  
+  -- Pezzik Villamar: Horde only
+  pfDB["units"]["data-turtle"][70060]["fac"] = "H"
+  
+  -- Nert Blastentom: Horde only
+  pfDB["units"]["data-turtle"][80121]["fac"] = "H"
 
   -- Quest 80261 Custom Objective
   pfDB["units"]["enUS-turtle"][80270] = "Search Mage Tower"
@@ -139,6 +169,66 @@ do -- units
   -- Quest 80261 Custom Objective
   pfDB["units"]["enUS-turtle"][80289] = "Search Stormwind Visitor Center"
   pfDB["units"]["data-turtle"][80289]["coords"] = { [1] = { 64, 77.3, 1519, 30 } }
+  
+  -- Volz'draza: Horde only
+  pfDB["units"]["data-turtle"][80799]["fac"] = "H"
+  
+  -- Miley Wildbit: Horde only
+  pfDB["units"]["data-turtle"][80902]["fac"] = "H"
+  
+  -- Drazzit Dripvalve: Horde only
+  pfDB["units"]["data-turtle"][80932]["fac"] = "H"
+  
+  -- Vanessa Clang: Horde only
+  pfDB["units"]["data-turtle"][80961]["fac"] = "H"
+  
+  -- Moxie Steelgrille: Horde only
+  pfDB["units"]["data-turtle"][81250]["fac"] = "H"
+  
+  -- Vixie Dampknob: Horde only
+  pfDB["units"]["data-turtle"][81258]["fac"] = "H"
+  
+  -- Qik Peddlechin: Horde only
+  pfDB["units"]["data-turtle"][81259]["fac"] = "H"
+  
+  -- Wrix Ozzlenut: Horde only
+  pfDB["units"]["data-turtle"][91200]["fac"] = "H"
+  
+  -- Oilworker Razlik: Horde only
+  pfDB["units"]["data-turtle"][91208]["fac"] = "H"
+  
+  -- Oil Manager Tizzleflux: Horde only
+  pfDB["units"]["data-turtle"][91213]["fac"] = "H"
+  
+  -- Technician Spuzzle: Horde only
+  pfDB["units"]["data-turtle"][91214]["fac"] = "H"
+  
+  -- Krez the Wise: Horde only
+  pfDB["units"]["data-turtle"][91232]["fac"] = "H"
+  
+  -- Tradesman Laz: Horde only
+  pfDB["units"]["data-turtle"][91237]["fac"] = "H"
+    
+  -- Pazzle Brightwrench: Horde only
+  pfDB["units"]["data-turtle"][91259]["fac"] = "H"
+  
+  -- Shak 'The Hack': Horde only
+  pfDB["units"]["data-turtle"][91260]["fac"] = "H"
+  
+  -- Big Fraggle: Horde only
+  pfDB["units"]["data-turtle"][91274]["fac"] = "H"
+  
+  -- Tarlo Farcrack: Horde only
+  pfDB["units"]["data-turtle"][91292]["fac"] = "H"
+  
+  -- Flaz Fusemix: Horde only
+  pfDB["units"]["data-turtle"][92187]["fac"] = "H"
+  
+  -- Yeggle Powderscrew: Horde only
+  pfDB["units"]["data-turtle"][92188]["fac"] = "H"
+  
+  -- Blazno Blastpipe: Horde only
+  pfDB["units"]["data-turtle"][92192]["fac"] = "H"
 
   -- Joachim Brenlow (Stormwind)
   pfDB["units"]["data-turtle"][1311] = {
