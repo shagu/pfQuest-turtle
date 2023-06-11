@@ -347,49 +347,49 @@ do -- quests
   -- Sleepwalking at Day: Bert Mano
   pfDB["quests"]["data-turtle"][40567]["obj"] = { ["U"] = { 52017 } }
 
-  -- The Redbrand Archive
+  -- The Redbrand Archive: The Redbrand Archive
   pfDB["quests"]["data-turtle"][40605]["obj"] = { ["O"] = { 2010929 } }
 
-  -- Controlling Sailors
+  -- Controlling Sailors: Interaction with no item given
   pfDB["quests"]["data-turtle"][40660]["obj"] = { ["U"] = { 61013, 61015, 61016 } }
 
-  -- Conflicting Questions
+  -- Conflicting Questions: Interaction with no item given
   pfDB["quests"]["data-turtle"][40698]["obj"] = { ["U"] = { 60471 } }
 
-  -- The Land of Kings
+  -- The Land of Kings: Gong of Corthan
   pfDB["quests"]["data-turtle"][40713]["obj"] = { ["O"] = { 2010946 } }
 
-  -- The Missing Friend!
+  -- The Missing Friend!: Interaction with no item given
   pfDB["quests"]["data-turtle"][40771]["obj"] = { ["U"] = { 61157 } }
 
-  -- Words of Wisdom
+  -- Words of Wisdom: Interaction with no item given
   pfDB["quests"]["data-turtle"][40799]["obj"] = { ["U"] = { 4407, 6706, 4267, 3838 } }
 
-  -- The Family Name
+  -- The Family Name: Interaction with no item given
   pfDB["quests"]["data-turtle"][40800]["obj"] = { ["U"] = { 12676 } }
 
-  -- Patience is the Key
+  -- Patience is the Key: Interaction with no item given
   pfDB["quests"]["data-turtle"][40801]["obj"] = { ["U"] = { 61147 } }
 
-  -- Pressure is the Key
+  -- Pressure is the Key: Interaction with no item given
   pfDB["quests"]["data-turtle"][40807]["obj"] = { ["U"] = { 61143 } }
 
   -- WANTED: Shazknock!: end unit is Horde only
   pfDB["quests"]["data-turtle"][55049]["race"] = { 434 }
 
-  -- Lucky Coin
+  -- Lucky Coin: Use Teresa's Copper Coin (51425) at this object location
   pfDB["quests"]["data-turtle"][60050]["obj"] = { ["O"] = { 1000220 } }
 
   -- Gathering Intel: Fake Area Trigger
   pfDB["quests"]["data-turtle"][80204]["obj"] = { ["A"] = { 80204 } }
 
-  -- Slaking Their Thirst
+  -- Slaking Their Thirst: Well
   pfDB["quests"]["data-turtle"][80205]["obj"] = { ["O"] = { 3000202 } }
 
   -- Dark Iron Scrapping: Shadowforge Cage
   pfDB["quests"]["data-turtle"][80207]["obj"]["O"] = { 3000203 }
 
-  -- Sunblade Reunion
+  -- Sunblade Reunion: Interaction with no item given
   pfDB["quests"]["data-turtle"][80208]["obj"] = { ["U"] = { 80200 } }
 
   -- Porting to Goldshire: Magistrix Ishalah
@@ -398,47 +398,47 @@ do -- quests
   -- Porting to Goldshire: Portal to Goldshire
   pfDB["quests"]["data-turtle"][80209]["obj"]["O"] = { 3000204 }
 
-  -- Assisting the Children of the Sun
+  -- Assisting the Children of the Sun: Interaction with no item given
   pfDB["quests"]["data-turtle"][80250]["obj"] = { ["U"] = { 1752 } }
 
-  -- Teslinah's Search I
+  -- Teslinah's Search I: Stand at these units
   pfDB["quests"]["data-turtle"][80261]["obj"] = { ["U"] = { 80270, 80271, 80272, 80273 } }
 
-  -- Teslinah's Search II
+  -- Teslinah's Search II: Stand at these units
   pfDB["quests"]["data-turtle"][80262]["obj"] = { ["U"] = { 80274, 80275, 80276, 80277 } }
 
-  -- Teslinah's Search III
+  -- Teslinah's Search III: Stand at these units
   pfDB["quests"]["data-turtle"][80263]["obj"] = { ["U"] = { 80278, 80279, 80280, 80281 } }
 
-  -- Teslinah's Search IV
+  -- Teslinah's Search IV: Stand at these units
   pfDB["quests"]["data-turtle"][80264]["obj"] = { ["U"] = { 80282, 80283, 80284, 80285 } }
 
-  -- Teslinah's Search V
+  -- Teslinah's Search V: Stand at these units
   pfDB["quests"]["data-turtle"][80265]["obj"] = { ["U"] = { 80286, 80287, 80288, 80289 } }
 
-  -- The Lost Tablets
+  -- The Lost Tablets: Ancient Thalassian Tablet
   pfDB["quests"]["data-turtle"][80290]["obj"] = { ["O"] = { 181583 } }
 
-  -- The Shadow Well
+  -- The Shadow Well: Thalo's Skeleton
   pfDB["quests"]["data-turtle"][80291]["obj"] = { ["O"] = { 181584 } }
 
-  -- VIP Invites
+  -- VIP Invites: Interactions with no item given
   pfDB["quests"]["data-turtle"][80392]["obj"] = { ["U"] = { 3391, 2496 } }
 
-  -- A Glittering Opportunity
+  -- A Glittering Opportunity: Mysterious Glittering Object (The Barrens)
   pfDB["quests"]["data-turtle"][80395]["obj"] = { ["O"] = { 3000284 } }
   pfDB["quests"]["data-turtle"][80395]["end"] = { ["O"] = { 3000284 } }
 
-  -- A Bloody Good Deed: Mysterious Glittering Object
+  -- A Bloody Good Deed: Mysterious Glittering Object (The Barrens)
   pfDB["quests"]["data-turtle"][80396]["start"] = { ["O"] = { 3000284 } }
   pfDB["quests"]["data-turtle"][80396]["end"] = { ["O"] = { 3000284 } }
 
-  -- A Letter From a Friend
+  -- A Letter From a Friend: Mysterious Glittering Object (Tanaris)
   pfDB["quests"]["data-turtle"][80407]["end"] = { ["O"] = { 3000246 } }
 
-  -- A Slaughter for Brains
+  -- A Slaughter for Brains: Mysterious Glittering Object (Tanaris)
   pfDB["quests"]["data-turtle"][80408]["start"] = { ["O"] = { 3000246 } }
 
-  -- Return to Kheyna
+  -- Return to Kheyna: Mysterious Glittering Object (Tanaris)
   pfDB["quests"]["data-turtle"][80409]["end"] = { ["O"] = { 3000246 } }
 end
