@@ -44,7 +44,7 @@ do -- items
   pfDB["items"]["data-turtle"][80865] = { ["U"] = { [8090] = 100 } }
 end
 
-do -- units
+do -- units/npcs
   -- AQ Commendation NPCs
   pfDB["units"]["data-turtle"][15761] = { }
   pfDB["units"]["data-turtle"][15762] = { }
@@ -82,6 +82,9 @@ do -- units
   
   -- Senior Foreman Nazz Firecracker: Horde only
   pfDB["units"]["data-turtle"][61024]["fac"] = "H"
+  
+  -- Alleana Moonfeather (Ashenvale), coords missing
+  pfDB["units"]["data-turtle"][61292]["coords"] = { [1] = { 85, 43.5, 331, 280 } }
   
   -- Pezzik Villamar: Horde only
   pfDB["units"]["data-turtle"][70060]["fac"] = "H"
