@@ -356,6 +356,9 @@ do -- quests
   -- Controlling Sailors: Sailor Hylreth, Sailor Brewen, Sailor Pardol (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40660]["obj"] = { ["U"] = { 61013, 61015, 61016 } }
 
+  -- A Journey for Vengeance: Grumnir Battlebeard (Interaction with no item given)
+  pfDB["quests"]["data-turtle"][40691]["obj"] = { ["U"] = { 60993 } }
+
   -- Conflicting Questions: Faldan Moonshatter (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40698]["obj"] = { ["U"] = { 60471 } }
 
