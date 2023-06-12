@@ -353,28 +353,28 @@ do -- quests
   -- The Redbrand Archive: The Redbrand Archive
   pfDB["quests"]["data-turtle"][40605]["obj"] = { ["O"] = { 2010929 } }
 
-  -- Controlling Sailors: Interaction with no item given
+  -- Controlling Sailors: Sailor Hylreth, Sailor Brewen, Sailor Pardol (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40660]["obj"] = { ["U"] = { 61013, 61015, 61016 } }
 
-  -- Conflicting Questions: Interaction with no item given
+  -- Conflicting Questions: Faldan Moonshatter (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40698]["obj"] = { ["U"] = { 60471 } }
 
   -- The Land of Kings: Gong of Corthan
   pfDB["quests"]["data-turtle"][40713]["obj"] = { ["O"] = { 2010946 } }
 
-  -- The Missing Friend!: Interaction with no item given
+  -- The Missing Friend!: Nibu (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40771]["obj"] = { ["U"] = { 61157 } }
 
-  -- Words of Wisdom: Interaction with no item given
+  -- Words of Wisdom: Teloren, Baritanas Skyriver, Daelyshia, Vesprystus (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40799]["obj"] = { ["U"] = { 4407, 6706, 4267, 3838 } }
 
-  -- The Family Name: Interaction with no item given
+  -- The Family Name: Sharptalon (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40800]["obj"] = { ["U"] = { 12676 } }
 
-  -- Patience is the Key: Interaction with no item given
+  -- Patience is the Key: Brolthan Ironglade (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40801]["obj"] = { ["U"] = { 61147 } }
 
-  -- Pressure is the Key: Interaction with no item given
+  -- Pressure is the Key: Commander Starwind (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40807]["obj"] = { ["U"] = { 61143 } }
 
   -- WANTED: Shazknock!: end unit is Horde only
@@ -392,16 +392,16 @@ do -- quests
   -- Dark Iron Scrapping: Shadowforge Cage
   pfDB["quests"]["data-turtle"][80207]["obj"]["O"] = { 3000203 }
 
-  -- Sunblade Reunion: Interaction with no item given
+  -- Sunblade Reunion: Malvinah Sunblade (Interaction with no item given)
   pfDB["quests"]["data-turtle"][80208]["obj"] = { ["U"] = { 80200 } }
 
-  -- Porting to Goldshire: Magistrix Ishalah
+  -- Porting to Goldshire: Magistrix Ishalah (Interaction with no item given)
   pfDB["quests"]["data-turtle"][80209]["obj"]["U"] = { 80213 }
 
   -- Porting to Goldshire: Portal to Goldshire
   pfDB["quests"]["data-turtle"][80209]["obj"]["O"] = { 3000204 }
 
-  -- Assisting the Children of the Sun: Interaction with no item given
+  -- Assisting the Children of the Sun: Caledra Dawnbreeze (Interaction with no item given)
   pfDB["quests"]["data-turtle"][80250]["obj"] = { ["U"] = { 1752 } }
 
   -- Teslinah's Search I: Stand at these units
