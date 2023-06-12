@@ -375,7 +375,7 @@ do -- quests
   pfDB["quests"]["data-turtle"][40807]["obj"] = { ["U"] = { 61143 } }
 
   -- WANTED: Shazknock!: end unit is Horde only
-  pfDB["quests"]["data-turtle"][55049]["race"] = { 434 }
+  pfDB["quests"]["data-turtle"][55049]["race"] = 434
 
   -- Lucky Coin: Use Teresa's Copper Coin (51425) at this object location
   pfDB["quests"]["data-turtle"][60050]["obj"] = { ["O"] = { 1000220 } }
