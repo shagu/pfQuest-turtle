@@ -312,6 +312,9 @@ do -- units/npcs
 
   -- High Tinker Mekkatorque (Ironforge)
    pfDB["units"]["data-turtle"][7937]["coords"] = { [1] = { 68.7, 48.9, 1537, 280 } }
+
+  -- Tinkmaster Overspark(Ironforge)
+   pfDB["units"]["data-turtle"][7944]["coords"] = { [1] = { 69.5, 50.4, 1537, 280 } }
   
   -- Master Mechanic Castpipe (Ironforge)
    pfDB["units"]["data-turtle"][7950]["coords"] = { [1] = { 69.7, 48.1, 1537, 280 } }
