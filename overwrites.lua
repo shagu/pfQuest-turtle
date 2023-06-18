@@ -365,7 +365,10 @@ do -- quests
   -- Family Above All: Abandoned Murloc Hut & Abandoned Murloc Nest
   pfDB["quests"]["data-turtle"][40541]["obj"] = { ["O"] = { 2010918, 2010919 } }
 
-  -- Sleepwalking at Day: Bert Mano
+  -- The Shield's Owner: Private Talmand, Private Sleightor, Private Valnor (Interaction with no item given)
+  pfDB["quests"]["data-turtle"][40554]["obj"] = { ["U"] = { 60949, 60950, 60951 } }
+
+  -- Sleepwalking at Day: Bert Mano (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40567]["obj"] = { ["U"] = { 52017 } }
 
   -- The Redbrand Archive: The Redbrand Archive
