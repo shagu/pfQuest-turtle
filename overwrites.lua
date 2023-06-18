@@ -27,6 +27,10 @@ do -- items
   
   -- The Good Snuff: 'The Good Snuff' (Interaction)
   pfDB["items"]["data-turtle"][60597] = { ["U"] = { [8139] = 100 } }
+  
+  -- Reports of Dustwallow: Sentry Point Report & North Point Report (Interaction)
+  pfDB["items"]["data-turtle"][60602] = { ["U"] = { [60729] = 100 } }
+  pfDB["items"]["data-turtle"][60603] = { ["U"] = { [60730] = 100 } }
 
   -- Report from Burnside: Report from Burnside (Interaction)
   pfDB["items"]["data-turtle"][60635] = { ["U"] = { [60792] = 100 } }
