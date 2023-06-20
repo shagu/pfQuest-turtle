@@ -337,9 +337,6 @@ do -- quests
   -- Interfering Naga: quest_40124_dummy_triger (Spitelash Shrine)
   pfDB["quests"]["data-turtle"][40124]["obj"]["U"] = { 6195, 60312 }
 
-  -- The Boran Family: Karl Boran & Samual Boran
-  pfDB["quests"]["data-turtle"][40141]["obj"]["U"] = { 1242, 92936 }
-
   -- The Way-Stones of Old: Way-Stone of Eldarath
   pfDB["quests"]["data-turtle"][40252]["end"] = { ["O"] = { 2010849 } }
 
