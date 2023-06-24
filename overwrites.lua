@@ -214,7 +214,10 @@ do -- units/npcs
   
   -- Krez the Wise: Horde only
   pfDB["units"]["data-turtle"][91232]["fac"] = "H"
-  
+
+  -- Technician Grimzlow: Horde only
+  pfDB["units"]["data-turtle"][91234]["fac"] = "H"
+
   -- Tradesman Laz: Horde only
   pfDB["units"]["data-turtle"][91237]["fac"] = "H"
     
