@@ -27,6 +27,10 @@ do -- items
   
   -- The Good Snuff: 'The Good Snuff' (Interaction)
   pfDB["items"]["data-turtle"][60597] = { ["U"] = { [8139] = 100 } }
+  
+  -- Reports of Dustwallow: Sentry Point Report & North Point Report (Interaction)
+  pfDB["items"]["data-turtle"][60602] = { ["U"] = { [60729] = 100 } }
+  pfDB["items"]["data-turtle"][60603] = { ["U"] = { [60730] = 100 } }
 
   -- Report from Burnside: Report from Burnside (Interaction)
   pfDB["items"]["data-turtle"][60635] = { ["U"] = { [60792] = 100 } }
@@ -210,7 +214,10 @@ do -- units/npcs
   
   -- Krez the Wise: Horde only
   pfDB["units"]["data-turtle"][91232]["fac"] = "H"
-  
+
+  -- Technician Grimzlow: Horde only
+  pfDB["units"]["data-turtle"][91234]["fac"] = "H"
+
   -- Tradesman Laz: Horde only
   pfDB["units"]["data-turtle"][91237]["fac"] = "H"
     
@@ -333,9 +340,6 @@ do -- quests
   -- Interfering Naga: quest_40124_dummy_triger (Spitelash Shrine)
   pfDB["quests"]["data-turtle"][40124]["obj"]["U"] = { 6195, 60312 }
 
-  -- The Boran Family: Karl Boran & Samual Boran
-  pfDB["quests"]["data-turtle"][40141]["obj"]["U"] = { 1242, 92936 }
-
   -- The Way-Stones of Old: Way-Stone of Eldarath
   pfDB["quests"]["data-turtle"][40252]["end"] = { ["O"] = { 2010849 } }
 
@@ -361,7 +365,10 @@ do -- quests
   -- Family Above All: Abandoned Murloc Hut & Abandoned Murloc Nest
   pfDB["quests"]["data-turtle"][40541]["obj"] = { ["O"] = { 2010918, 2010919 } }
 
-  -- Sleepwalking at Day: Bert Mano
+  -- The Shield's Owner: Private Talmand, Private Sleightor, Private Valnor (Interaction with no item given)
+  pfDB["quests"]["data-turtle"][40554]["obj"] = { ["U"] = { 60949, 60950, 60951 } }
+
+  -- Sleepwalking at Day: Bert Mano (Interaction with no item given)
   pfDB["quests"]["data-turtle"][40567]["obj"] = { ["U"] = { 52017 } }
 
   -- The Redbrand Archive: The Redbrand Archive
