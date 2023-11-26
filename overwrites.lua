@@ -313,6 +313,10 @@ do -- units/npcs
 end
 
 do -- quests
+  -- Great Bear Spirit: Great Bear Spirit
+  pfDB["quests"]["data-turtle"][5929]["obj"] = { ["U"] = { 11956 } }
+  pfDB["quests"]["data-turtle"][5930]["obj"] = { ["U"] = { 11956 } }
+
   -- Horde Defender's Axe: Stolen Weapon Plans
   pfDB["quests"]["data-turtle"][39995]["obj"]["O"] = { 300531 }
 
