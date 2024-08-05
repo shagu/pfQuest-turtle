@@ -59,6 +59,77 @@ end
 -- Reload all pfQuest internal database shortcuts
 pfDatabase:Reload()
 
+local function strsplit(delimiter, subject)
+  if not subject then return nil end
+  local delimiter, fields = delimiter or ":", {}
+  local pattern = string.format("([^%s]+)", delimiter)
+  string.gsub(subject, pattern, function(c) fields[table.getn(fields)+1] = c end)
+  return unpack(fields)
+end
+
+-- Complete quest id including all pre quests
+local function complete(history, qid)
+  -- ignore empty or broken questid
+  if not qid or not tonumber(qid) then return end
+
+  -- mark quest as complete
+  local time = pfQuest_history[qid] and pfQuest_history[qid][1] or 0
+  local level = pfQuest_history[qid] and pfQuest_history[qid][2] or 0
+  history[qid] = { time, level }
+
+  -- mark all pre-quests done aswell
+  if pfDB["quests"]["data"][qid] and pfDB["quests"]["data"][qid]["pre"] then
+    for _, pre in pairs(pfDB["quests"]["data"][qid]["pre"]) do
+      complete(history, pre)
+    end
+  end
+end
+
+-- Add function to query for quest completion
+local query = CreateFrame("Frame")
+query:Hide()
+
+query:SetScript("OnEvent", function()
+  if arg1 == "TWQUEST" then
+    for _, qid in pairs({strsplit(" ", arg2)}) do
+      this.count = this.count + 1
+      complete(this.history, tonumber(qid))
+    end
+  end
+end)
+
+query:SetScript("OnShow", function()
+  this.history = {}
+  this.count = 0
+  this.time = GetTime()
+  this:RegisterEvent("CHAT_MSG_ADDON")
+  SendChatMessage(".queststatus", "GUILD")
+end)
+
+query:SetScript("OnHide", function()
+  this:UnregisterEvent("CHAT_MSG_ADDON")
+
+  local count = 0
+  for qid in pairs(this.history) do count = count + 1 end
+
+  DEFAULT_CHAT_FRAME:AddMessage("|cff33ffccpf|cffffffffQuest|r: A total of " .. count .. " quests have been marked as completed.")
+
+  pfQuest_history = this.history
+  this.history = nil
+
+  pfQuest:ResetAll()
+end)
+
+query:SetScript("OnUpdate", function()
+  if GetTime() > this.time + 3 then this:Hide() end
+end)
+
+function pfDatabase:QueryServer()
+  DEFAULT_CHAT_FRAME:AddMessage("|cff33ffccpf|cffffffffQuest|r: Receiving quest data from server...")
+  DEFAULT_CHAT_FRAME:AddMessage("Please keep in mind, this is a beta feature and may not detect *all* quests.")
+  query:Show()
+end
+
 -- Automatically clear quest cache if new turtle quests have been found
 local updatecheck = CreateFrame("Frame")
 updatecheck:RegisterEvent("PLAYER_ENTERING_WORLD")
