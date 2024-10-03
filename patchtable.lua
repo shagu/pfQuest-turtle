@@ -34,6 +34,12 @@ if loc_update then patchtable(loc_core, loc_update) end
 if pfDB["minimap-turtle"] then patchtable(pfDB["minimap"], pfDB["minimap-turtle"]) end
 if pfDB["meta-turtle"] then patchtable(pfDB["meta"], pfDB["meta-turtle"]) end
 
+-- Detect german client patch and switch some databases
+if TURTLE_DE_PATCH then
+  pfDB["zones"]["loc"] = pfDB["zones"]["deDE"] or pfDB["zones"]["enUS"]
+  pfDB["professions"]["loc"] = pfDB["professions"]["deDE"] or pfDB["professions"]["enUS"]
+end
+
 -- Update bitmasks to include custom races
 if pfDB.bitraces then
   pfDB.bitraces[256] = "Goblin"
