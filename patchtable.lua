@@ -82,13 +82,6 @@ local function complete(history, qid)
   local time = pfQuest_history[qid] and pfQuest_history[qid][1] or 0
   local level = pfQuest_history[qid] and pfQuest_history[qid][2] or 0
   history[qid] = { time, level }
-
-  -- mark all pre-quests done aswell
-  if pfDB["quests"]["data"][qid] and pfDB["quests"]["data"][qid]["pre"] then
-    for _, pre in pairs(pfDB["quests"]["data"][qid]["pre"]) do
-      complete(history, pre)
-    end
-  end
 end
 
 -- Add function to query for quest completion
@@ -132,7 +125,6 @@ end)
 
 function pfDatabase:QueryServer()
   DEFAULT_CHAT_FRAME:AddMessage("|cff33ffccpf|cffffffffQuest|r: Receiving quest data from server...")
-  DEFAULT_CHAT_FRAME:AddMessage("Please keep in mind, this is a beta feature and may not detect *all* quests.")
   query:Show()
 end
 
