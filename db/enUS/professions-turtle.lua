@@ -130,4 +130,7 @@ pfDB["professions"]["enUS-turtle"] = {
   [1005] = "ZzCompanions",
   [1006] = "ZMounts",
   [1007] = "ZzzGlyphs",
+  [1008] = "ZzzzToys",
+  [1009] = "Pet - Serpent",
+  [1010] = "Pet - Fox",
 }
