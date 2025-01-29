@@ -11,6 +11,7 @@ init\data-turtle.xml
 init\enUS-turtle.xml
 init\ruRU-turtle.xml
 init\zhCN-turtle.xml
+init\koKR-turtle.xml
 
 overwrites.lua
 
