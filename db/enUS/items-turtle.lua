@@ -620,6 +620,7 @@ pfDB["items"]["enUS-turtle"] = {
   [10594] = "_",
   [10596] = "_",
   [10683] = "Adventurer\'s Knapsack",
+  [10822] = "Dark Whelpling",
   [11026] = "Tree Frog",
   [11027] = "Wood Frog",
   [11110] = "Westfall Chicken",
