@@ -84,6 +84,35 @@ local function complete(history, qid)
   history[qid] = { time, level }
 end
 
+-- Temporary workaround for a faction group translation error
+if GetLocale() == "esES" then
+  local english, localized = UnitFactionGroup("player")
+
+  local _, race = UnitRace("player")
+  local horde_races = { "Orc", "Tauren", "Troll", "Scourge", "Goblin" }
+  local alliance_races = { "Human", "Dwarf", "NightElf", "Gnome", "BloodElf" }
+  local faction = "GM"
+
+  for _, r in ipairs(horde_races) do
+    if race == r then faction = "Horde" break end
+  end
+
+  for _, r in ipairs(alliance_races) do
+    if race == r then faction = "Alliance" break end
+  end
+
+  if faction ~= "GM" then
+    local oldUnitFactionGroup = UnitFactionGroup
+    UnitFactionGroup = function(unit)
+      if unit == "player" then
+        return faction, localized
+      else
+        return oldUnitFactionGroup(unit)
+      end
+    end
+  end
+end
+
 -- Add function to query for quest completion
 local query = CreateFrame("Frame")
 query:Hide()
