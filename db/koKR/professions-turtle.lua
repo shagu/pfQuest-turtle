@@ -1,4 +1,4 @@
-pfDB["professions"]["enUS-turtle"] = {
+pfDB["professions"]["koKR-turtle"] = {
   [6] = "Frost",
   [8] = "Fire",
   [26] = "Arms",

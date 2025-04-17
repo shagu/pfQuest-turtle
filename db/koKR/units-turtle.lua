@@ -1,4 +1,4 @@
-pfDB["units"]["enUS-turtle"] = {
+pfDB["units"]["koKR-turtle"] = {
   [7] = "*",
   [8] = "Trash Collector Gaston",
   [9] = "Baron Bobby",
