@@ -1,4 +1,4 @@
-pfDB["objects"]["enUS-turtle"] = {
+pfDB["objects"]["koKR-turtle"] = {
   [1] = "ONGOING ROLEPLAY EVENT",
   [2] = "Toy Piano",
   [4] = "_",
