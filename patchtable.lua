@@ -1,3 +1,50 @@
+do -- client fixes
+  -- this section includes workarounds to fix current client issues.
+  -- hopefully turtle-wow will release the updates soon so that i can remove this.
+
+  -- make sure that ptBR client returns "ptBR" instead of "xxYY"
+  if GetLocale() == "xxYY" then
+    GetLocale = function() return "ptBR" end
+  end
+
+  -- fix return values of wrong translated faction groups
+  -- currently each faction is called "player" instead of "horde" or "alliance"
+  if UnitFactionGroup("player") == "Player" then
+    local horde_races = {
+      ["Orc"] = true,
+      ["Tauren"] = true,
+      ["Troll"] = true,
+      ["Scourge"] = true,
+      ["Goblin"] = true,
+    }
+
+    local alliance_races = {
+      ["Human"] = true,
+      ["Dwarf"] = true,
+      ["NightElf"] = true,
+      ["Gnome"] = true,
+      ["BloodElf"] = true,
+    }
+
+    -- rewrite the function to manually return
+    -- the proper unlocalized faction
+    local hookUnitFactionGroup = UnitFactionGroup
+    UnitFactionGroup = function(unitstr)
+      local wrong, localized = hookUnitFactionGroup(unitstr)
+      local _, race = UnitRace(unitstr)
+
+      if horde_races[race] then
+        return "Horde", localized
+      elseif alliance_races[race] then
+        return "Alliance", localized
+      elseif wrong == "Player" then
+        return "GM", localized
+      end
+    end
+  end
+end
+
+-- Initialize all static variables
 local loc = GetLocale()
 local dbs = { "items", "quests", "quests-itemreq", "objects", "units", "zones", "professions", "areatrigger", "refloot" }
 local noloc = { "items", "quests", "objects", "units" }
@@ -85,33 +132,6 @@ local function complete(history, qid)
 end
 
 -- Temporary workaround for a faction group translation error
-if GetLocale() == "esES" then
-  local english, localized = UnitFactionGroup("player")
-
-  local _, race = UnitRace("player")
-  local horde_races = { "Orc", "Tauren", "Troll", "Scourge", "Goblin" }
-  local alliance_races = { "Human", "Dwarf", "NightElf", "Gnome", "BloodElf" }
-  local faction = "GM"
-
-  for _, r in ipairs(horde_races) do
-    if race == r then faction = "Horde" break end
-  end
-
-  for _, r in ipairs(alliance_races) do
-    if race == r then faction = "Alliance" break end
-  end
-
-  if faction ~= "GM" then
-    local oldUnitFactionGroup = UnitFactionGroup
-    UnitFactionGroup = function(unit)
-      if unit == "player" then
-        return faction, localized
-      else
-        return oldUnitFactionGroup(unit)
-      end
-    end
-  end
-end
 
 -- Add function to query for quest completion
 local query = CreateFrame("Frame")
