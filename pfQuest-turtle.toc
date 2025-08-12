@@ -9,6 +9,7 @@
 
 init\data-turtle.xml
 init\enUS-turtle.xml
+init\deDE-turtle.xml
 init\esES-turtle.xml
 init\ptBR-turtle.xml
 init\zhCN-turtle.xml

@@ -296,8 +296,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "La Leyenda de Stalvan",
   },
   [67] = {
-    ["D"] = "¿Stalvan, eh? Déjame revisar el registro de la ciudad.$b$bStalvan... Stalvan... veamos. ¡Ah, aquí está! Tengo un registro de un tal Sr. Stalvan Mantomelena. La última dirección registrada es la Escuela de Villa del Lago. ¡Vaya, eso está desactualizado!$b$bHazme un favor, ¿quieres, amigo? Si por casualidad vas a Villa del Lago, avísame si obtienes alguna actualización sobre este tipo. Me gusta mantener los registros limpios.",
-    ["O"] = "Viaja a la Escuela de Villa del Lago y trae cualquier información actualizada sobre Stalvan al Secretario Daltry.",
+    ["D"] = "¿Stalvan, eh? Déjame revisar el registro de la ciudad.$b$bStalvan... Stalvan... veamos. ¡Ah, aquí está! Tengo un registro de un tal Sr. Stalvan Mantomelena. La última dirección registrada es la Escuela de Arroyo de la Luna. ¡Vaya, eso está desactualizado!$b$bHazme un favor, ¿quieres, amigo? Si por casualidad vas a Villa del Lago, avísame si obtienes alguna actualización sobre este tipo. Me gusta mantener los registros limpios.",
+    ["O"] = "Viaja a la Escuela de Arroyo de la Luna y trae cualquier información actualizada sobre Stalvan al Secretario Daltry.",
     ["T"] = "La Leyenda de Stalvan",
   },
   [68] = {
@@ -1227,12 +1227,12 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [257] = {
     ["D"] = "¿Crees que puedes igualar el ingenio de Daryl el Audaz, eh? ¡Debería pensar que no! Por supuesto, eres más que bienvenido a intentarlo. Aquí tienes un desafío que debería estar por encima de tus habilidades, así que no te sientas mal si no puedes enfrentarlo.$b$bUna bandada de buitres ha anidado aquí en Loch Modan. ¿Por qué no intentas derribar a algunas de las bestias? Te diré qué, si cumples mi desafío en quince minutos, te daré mi arco o mi arma.$b$b<Te mira con desdén.>$b$bParece que no tienes mucho que perder, de todos modos.",
-    ["O"] = "Mata 6 Buitres de Montaña y regresa con Daryl el Joven en el Refugio del Errante en 15 minutos.",
+    ["O"] = "Mata 6 Buitres de Montaña y regresa con Daryl el Joven en el Refugio de los Exploradores Lejanos en 15 minutos.",
     ["T"] = "La Fanfarronería de un Cazador",
   },
   [258] = {
     ["D"] = "$nath, ¿verdad? Puedo ver que estás lleno de orgullo por completar la primera prueba, ¿eh? Como te dije antes, no es gran cosa.$B$BDeberías intentar cazar jabalíes. Créeme, esta no es una cacería de jabalíes de Vallefresno, así que será mejor que tengas cuidado con ellos. Te daré solo doce minutos esta vez.$B$BNo te sientas mal si fallas. ¡Te daría la camisa de mi espalda si tuvieras éxito!$B$B¿Te he contado alguna vez la historia de cómo recibí mi famosa cicatriz? ¿No? Fue hace dos años...",
-    ["O"] = "Mata 5 Jabalíes Montés Ancianos y regresa con Daryl el Joven en el Refugio del Errante en 12 minutos.",
+    ["O"] = "Mata 5 Jabalíes Montés Ancianos y regresa con Daryl el Joven en el Refugio de los Exploradores Lejanos en 12 minutos.",
     ["T"] = "El Desafío de un Cazador",
   },
   [259] = "_",
@@ -1289,7 +1289,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [271] = {
     ["D"] = "No supongo que estarías interesado en un poco de venganza contra Su Osadía, ¿verdad? Daryl tiene algo de habilidad, me duele decirlo.$B$BHace un año, un gran oso había sido el objetivo de la Cabaña del Errante, pero ninguno de los cazadores tuvo suerte con él. Entonces, Daryl pensó que intentaría suerte contra él. Todo lo que tuvo que mostrar por su esfuerzo fue esa fea cicatriz sobre su ojo.$B$BMata al oso, y estoy seguro de que incluso Daryl se quedaría sin palabras por una vez.$B$BEl oso, Viejo Hollín, se puede encontrar alrededor de su guarida en las colinas sobre Thelsamar.",
-    ["O"] = "Mata al Viejo Hollín y luego muestra tu trabajo a Daryl el Joven en el Refugio del Errante.",
+    ["O"] = "Mata al Viejo Hollín y luego muestra tu trabajo a Daryl el Joven en el Refugio de los Exploradores Lejanos.",
     ["T"] = "La Venganza de Vyrin",
   },
   [272] = {
@@ -1836,7 +1836,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [385] = {
     ["D"] = "Muchos cazadores son atraídos a Loch Modan para cazar a nuestros famosos crocoliscos. Siempre hay mercaderes que buscan pieles de crocolisco para prendas de vestir o armaduras, y también hay algunos que disfrutan del sabor de su carne.$B$BHacemos algo de comercio con esto, pero no mucho, ya que los crocoliscos son feroces y se han atrincherado en las islas del Loch. Pero no dejes que te disuada, es toda una experiencia luchar con las mandíbulas de estas bestias.$B$B¿Por qué, una vez...",
-    ["O"] = "Consigue 5 trozos de Carne de Crocolisco y 6 Pieles de Crocolisco para Marek Corazón de Hierro en el Refugio del Errante.",
+    ["O"] = "Consigue 5 trozos de Carne de Crocolisco y 6 Pieles de Crocolisco para Marek Corazón de Hierro en el Refugio de los Exploradores Lejanos.",
     ["T"] = "Cacería de Crocoliscos",
   },
   [386] = {
@@ -2395,7 +2395,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Elixir de Dolor",
   },
   [502] = {
-    ["D"] = "Ah, ¡nada como el olor a sangre fresca en las estribaciones!$B$BAhora mezclaremos un poco de esto y un poco de aquello, ¡y que comience la verdadera diversión! Lo que he creado con esta sangre, me gusta llamarlo Elixir del Dolor. Si mis cálculos son correctos, esta poción podría ser el comienzo de algo muy hermoso para la Dama Sylvanas. Pero lo que necesitamos es una prueba.$B$BLleva este elixir a la granja del norte en los Campos de Trabalomas, al suroeste. Veamos cómo le gusta a Stanley, el pequeño perro del granjero Ray, este \"regalo\".",
+    ["D"] = "Ah, ¡nada como el olor a sangre fresca en las estribaciones!$B$BAhora mezclaremos un poco de esto y un poco de aquello, ¡y que comience la verdadera diversión! Lo que he creado con esta sangre, me gusta llamarlo Elixir del Dolor. Si mis cálculos son correctos, esta poción podría ser el comienzo de algo muy hermoso para la Lady Sylvanas. Pero lo que necesitamos es una prueba.$B$BLleva este elixir a la granja del norte en los Campos de Trabalomas, al suroeste. Veamos cómo le gusta a Stanley, el pequeño perro del granjero Ray, este \"regalo\".",
     ["O"] = "Alimenta a Stanley con la Poción de Dolor.",
     ["T"] = "Elixir de Dolor",
   },
@@ -2717,12 +2717,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "¡Peligroso!",
   },
   [568] = {
-    ["D"] = "¡Throm\'ka, $c!$b$bTu llegada a Grom\'gol es oportuna, de hecho. Como comandante del campamento base del Jefe de Guerra aquí en la jungla, estoy obligado por el honor a garantizar la seguridad de todos los miembros de la Horda. Nuestra misión de proporcionar una cadena de suministro segura a Stonard está siendo obstaculizada por algunos de los habitantes locales.$b$bTe pongo a cargo de reducir la población de raptores fuera de Grom\'gol. Una vez que hayas hecho un progreso significativo, repórtame para reasignarte.",
+    ["D"] = "¡Throm\'ka, $c!$b$bTu llegada a Grom\'gol es oportuna, de hecho. Como comandante del campamento base del Jefe de Guerra aquí en la jungla, estoy obligado por el honor a garantizar la seguridad de todos los miembros de la Horda. Nuestra misión de proporcionar una cadena de suministro segura a Rocal está siendo obstaculizada por algunos de los habitantes locales.$b$bTe pongo a cargo de reducir la población de raptores fuera de Grom\'gol. Una vez que hayas hecho un progreso significativo, repórtame para reasignarte.",
     ["O"] = "El Comandante Aggro\'gosh del campamento base de Grom\'gol quiere que mates a 15 Raptores Colazote.",
     ["T"] = "La Defensa de Grom\'gol",
   },
   [569] = {
-    ["D"] = "Cuando llegamos por primera vez a esta jungla no teníamos la intención de hacer la guerra a las tribus locales. Nuestra misión de abastecer a Stonard es de la más alta prioridad. Pero han surgido complicaciones. Una banda local de ogros ha ocupado las Ruinas de Mizjah al sureste de Grom\'gol. A pesar de las advertencias, continúan emboscando nuestras caravanas de suministros.$B$BTe pongo a cargo de lidiar con estos ogros poco cooperativos.$B$BViaja a las ruinas e intenta expulsarlos del área. Al menos enviará un mensaje firme.",
+    ["D"] = "Cuando llegamos por primera vez a esta jungla no teníamos la intención de hacer la guerra a las tribus locales. Nuestra misión de abastecer a Rocal es de la más alta prioridad. Pero han surgido complicaciones. Una banda local de ogros ha ocupado las Ruinas de Mizjah al sureste de Grom\'gol. A pesar de las advertencias, continúan emboscando nuestras caravanas de suministros.$B$BTe pongo a cargo de lidiar con estos ogros poco cooperativos.$B$BViaja a las ruinas e intenta expulsarlos del área. Al menos enviará un mensaje firme.",
     ["O"] = "El Comandante Aggro\'gosh del campamento base de Grom\'gol quiere que mates a 10 Brutos Ogros y 5 Médicos Brujos Ogros.",
     ["T"] = "La Defensa de Grom\'gol",
   },
@@ -3363,7 +3363,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Falta de Excedentes",
   },
   [699] = {
-    ["D"] = "Con la amenaza de los múrlocs a lo largo de la costa, estamos estacionados aquí para proteger, o advertir si la fuerza es demasiado grande, de cualquier amenaza que se acerque a Stonard. No nos da mucho tiempo para relajarnos, y podríamos usar más ayuda si estás dispuesto.$B$BLas garras de los rompedientes son excelentes armas cuando se preparan adecuadamente. Tráeme algunas de sus garras y te recompensaré con una de nuestras armas a cambio de la carne fresca y la buena compañía.",
+    ["D"] = "Con la amenaza de los múrlocs a lo largo de la costa, estamos estacionados aquí para proteger, o advertir si la fuerza es demasiado grande, de cualquier amenaza que se acerque a Rocal. No nos da mucho tiempo para relajarnos, y podríamos usar más ayuda si estás dispuesto.$B$BLas garras de los rompedientes son excelentes armas cuando se preparan adecuadamente. Tráeme algunas de sus garras y te recompensaré con una de nuestras armas a cambio de la carne fresca y la buena compañía.",
     ["O"] = "Lleva 6 Garras de Tortuga Dientes de Sierra a Tok\'Kar en los Pantanos de las Penas.",
     ["T"] = "Falta de Excedentes",
   },
@@ -3488,7 +3488,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Perspectiva de Fe",
   },
   [724] = {
-    ["D"] = "Vale, vale... ¿quién sabría qué hacer?$B$B¡El historiador Karnik! ¡Eso es!$B$BEstá en Forjaz. Él podrá ayudar. Él y Hammertoe estaban trabajando juntos para encontrar los artefactos perdidos en Uldaman.$B$BSupongo que los Shadowforge se enteraron de que los dos sabían más de lo que decían.$B$BCuéntale a Karnik lo que le pasó a Hammertoe y dale el amuleto, él te dirá qué hacer a continuación.",
+    ["D"] = "Vale, vale... ¿quién sabría qué hacer?$B$B¡El historiador Karnik! ¡Eso es!$B$BEstá en Forjaz. Él podrá ayudar. Él y Hammertoe estaban trabajando juntos para encontrar los artefactos perdidos en Uldaman.$B$BSupongo que los Forjatiniebla se enteraron de que los dos sabían más de lo que decían.$B$BCuéntale a Karnik lo que le pasó a Hammertoe y dale el amuleto, él te dirá qué hacer a continuación.",
     ["O"] = "Lleva el Amuleto de Dedomartillo al Historiador Karnik en Forjaz.",
     ["T"] = "Perspectiva de Fe",
   },
@@ -3603,7 +3603,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "La Cacería Comienza",
   },
   [748] = {
-    ["D"] = "¡Los goblins y sus sirvientes han contaminado nuestros pozos de agua sagrados! No podemos permitir esto.$B$BPara limpiar cada pozo, debo crear un tótem de purificación, luego debes llevar el tótem al pozo y realizar un ritual de purificación.$B$BPrimero crearemos un tótem de purificación para el Pozo de Agua Winterhoof. Para hacer esto, la tierra debe ofrecer su ayuda. Caza lobos de la pradera por sus patas y avestruces adultos por sus garras. Están al suroeste.$B$BRegresa a mí con las patas y las garras, $N.",
+    ["D"] = "¡Los goblins y sus sirvientes han contaminado nuestros pozos de agua sagrados! No podemos permitir esto.$B$BPara limpiar cada pozo, debo crear un tótem de purificación, luego debes llevar el tótem al pozo y realizar un ritual de purificación.$B$BPrimero crearemos un tótem de purificación para el Pozo Pezuña Invernal. Para hacer esto, la tierra debe ofrecer su ayuda. Caza lobos de la pradera por sus patas y avestruces adultos por sus garras. Están al suroeste.$B$BRegresa a mí con las patas y las garras, $N.",
     ["O"] = "Lleva 6 Patas de Lobo de la Pradera y 4 Garras de Zancudo de la Llanura a Mull Cuernoatronador en Sangrapellejo.",
     ["T"] = "Agua Envenenada",
   },
@@ -3634,7 +3634,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [754] = {
     ["D"] = "He creado el tótem para purificar el Pozo Pezuña Invernal. Ahora, debes llevarlo al pozo y realizar un ritual de purificación. Lo encontrarás al sureste, ¡custodiado por malvados goblins!$B$BEsta no será una tarea fácil, pero debes hacerlo si alguna vez queremos usar sus aguas nuevamente.$B$BBuena suerte, $N.",
-    ["O"] = "Usa el Tótem de Purificación de Pezuña Invernal en el Pozo de Agua de Pezuña Invernal, luego regresa con Mull Thunderhorn.",
+    ["O"] = "Usa el Tótem de Purificación de Pezuña Invernal en el Pozo de Agua de Pezuña Invernal, luego regresa con Mull Tronacuerno.",
     ["T"] = "Purificación de Pezuña Invernal",
   },
   [755] = {
@@ -3663,14 +3663,14 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Tótem de Crin Salvaje",
   },
   [760] = {
-    ["D"] = "Tu purificación de los pozos de los Winterhoof y los Thunderhorn es hablada entre los espíritus, joven $N. El Tótem Wildmane está hecho, y tu última tarea está por delante.$B$BEl Pozo Wildmane está al norte de Cima del Trueno. ¡Realiza el ritual! ¡Sana la tierra de los venenos de los goblins! ¡Deja que el agua limpia fluya una vez más!",
-    ["O"] = "Usa el Tótem de Purificación de Ferocrín en el Pozo de Agua de Ferocrín, luego regresa con Mull Thunderhorn.",
-    ["T"] = "Purificación de Crin Salvaje",
+    ["D"] = "Tu purificación de los pozos de los Pezuña Invernal y los Tronacuerno es hablada entre los espíritus, joven $N. El Tótem de Bravacrín está hecho, y tu última tarea está por delante.$B$BEl Pozo de Agua Bravacrín está al norte de Cima del Trueno. ¡Realiza el ritual! ¡Sana la tierra de los venenos de los goblins! ¡Deja que el agua limpia fluya una vez más!",
+    ["O"] = "Usa el Tótem de Purificación de Bravacrín en el Pozo de Agua de Bravacrín, luego regresa con Mull Tronacuerno.",
+    ["T"] = "La Purificación de Bravacrín",
   },
   [761] = {
-    ["D"] = "El swoop es un pájaro astuto y difícil de encontrar y cazar. Una colección de Plumas de Swoop es una insignia de astucia y determinación para un cazador.$B$BSi estás dispuesto a asumir esta tarea, entonces entra en las llanuras y caza al swoop.$B$BTráeme sus plumas y trae honor a tu clan.$B$BLos swoops pueden encontrarse en cualquier lugar de Mulgore, pero tus ojos deben ser agudos para detectarlos y tus pezuñas deben ser rápidas para atraparlos.",
-    ["O"] = "Lleva 8 Plumas de Vuelo de Trofeo a Harken Tótem de Viento en Sangrapellejo.",
-    ["T"] = "Caza de Arpías",
+    ["D"] = "El aguilón es un pájaro astuto y difícil de encontrar y cazar. Una colección de Plumas de Aguilón es una insignia de astucia y determinación para un cazador.$B$BSi estás dispuesto a asumir esta tarea, entonces entra en las llanuras y caza aguilones.$B$BTráeme sus plumas y trae honor a tu clan.$B$BLos aguilones pueden encontrarse en cualquier lugar de Mulgore, pero tus ojos deben ser agudos para detectarlos y tus pezuñas deben ser rápidas para atraparlos.",
+    ["O"] = "Lleva 8 Plumas de Aguilón a Harken Tótem de Viento en Poblado Pezuña de Sangre.",
+    ["T"] = "Caza de Aguilones",
   },
   [762] = {
     ["D"] = "El Embajador Infernus fue enviado a la Fortaleza de Angor por el propio Ragnaros para supervisar a los Forjatiniebla que buscan artefactos perdidos en Uldaman.$B$BYa ha significado tremendas bajas para nuestra gente, pero obviamente ha empeorado. Dudo en adivinar cuántos artefactos podrían encontrar y usar contra Forjaz.$B$BNuestro objetivo es simple, $c. Regresa a las Tierras Inhóspitas y destruye al Embajador Infernus. Una vez que la amenaza sea eliminada, regresa con el Consejero Belgrum con una prueba de tu victoria.$B$BEstá en tus manos ahora.",
@@ -3693,8 +3693,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Supervisor Fizsprocket",
   },
   [766] = {
-    ["D"] = "Mi abuelo me contó historias sobre sus batallas con un acechador llamado Mazzranache. Me habló de sus ojos rojos demoníacos, garras afiladas como navajas y mordedura venenosa.$b$bPor fortuna, mientras viajaba por las llanuras, me lo encontré, y me dio un mordisco desagradable en el hombro. Era tan terrible como mi abuelo lo describió. Necesitaré algunas partes de animales difíciles de encontrar para limpiar la infección de su mordedura: un corazón de lobo, un fémur de puma, una escama de acechador y una molleja de zancudo.$b$bDate prisa, el tiempo es esencial.",
-    ["O"] = "Lleva un Corazón de Lobo de la Pradera, un Fémur de Puma de la Llanura, una Escama de Zancudo y una Molleja de Vuelo a Maur Clamalluvias en Sangrapellejo.",
+    ["D"] = "Mi abuelo me contó historias sobre sus batallas con un acechador llamado Mazzranache. Me habló de sus ojos rojos demoníacos, garras afiladas como navajas y mordedura venenosa.$b$bPor fortuna, mientras viajaba por las llanuras, me lo encontré, y me dio un mordisco desagradable en el hombro. Era tan terrible como mi abuelo lo describió. Necesitaré algunas partes de animales difíciles de encontrar para limpiar la infección de su mordedura: un corazón de lobo, un fémur de puma, una escama de acechador y una molleja de aguilón.$b$bDate prisa, el tiempo es esencial.",
+    ["O"] = "Lleva un Corazón de Lobo de la Pradera, un Fémur de Puma de la Llanura, una Escama de Zancudo de Llanura y una Molleja de Aguilón a Maur Clamalluvias en el Poblado Pezuña de Sangre.",
     ["T"] = "Mazzranache",
   },
   [767] = {
@@ -3791,7 +3791,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [787] = {
     ["D"] = "Throm\'ka, $c. Soy Eitrigg, encargado por Thrall de supervisar el entrenamiento de los reclutas.$b$bLa Horda ha cambiado de lo que una vez fue. Hubo un tiempo en que dejé la Horda, desilusionado por la creciente influencia de los peones sedientos de poder de la Legión Ardiente. Durante mi exilio, fui hecho prisionero por un grupo de humanos, pero fui rescatado por el Jefe de Guerra. Al escuchar su visión de la Horda libre de influencia demoníaca, guiada por los chamanes, regresé.$b$bGornek tendrá más instrucciones para ti.",
-    ["O"] = "Preséntate ante Gornek en El Cubil.",
+    ["O"] = "Preséntate ante Gornek en La Guardia.",
     ["T"] = "La Nueva Horda",
   },
   [788] = {
@@ -4280,9 +4280,9 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Armas de Elección",
   },
   [894] = {
-    ["D"] = "La Venture Co. estableció una pequeña instalación de investigación muy al norte de aquí, al suroeste del Fangal de la Ponzoña. No sé mucho sobre lo que están haciendo, pero logré descubrir que están experimentando con algo llamado \"samophlange\".$B$B¿Qué diablos es un samophlange? Bueno, sea lo que sea, quiero examinarlo, así que necesito que alguien vaya a buscarlo.$B$BObtení una copia de su manual de operaciones del sistema de control, deberías poder averiguar cómo desenganchar el samophlange a partir de él.",
+    ["D"] = "Ventura y Cía. ha montado un pequeño centro de investigación muy hacia el norte desde aquí, al suroeste de El Fangal. No tengo muy claro qué hacen allí pero logré descubrir que están haciendo pruebas con algo llamado \"churumbele\".$B$BY digo yo, ¿qué leches es un churumbele? Bueno, sea lo que sea, quiero examinarlo, así necesito que alguien me lo consiga.$B$BConseguí una copia de su manual de instrucciones del sistema de control, gracias al cual deberías poder encontrar la forma de desconectar el churumbele.",
     ["O"] = "Accede a la consola de control en el sitio de investigación de Venture Co.",
-    ["T"] = "Samophlange",
+    ["T"] = "El Churumbele",
   },
   [895] = {
     ["D"] = "¡SE BUSCA!$b$bBarón Longshore, Capitán del Heedless$b$bEl Capitán Longshore de Gilneas comanda barcos de los Corsarios de los Mares del Sur, y es buscado por cargos de piratería. ¡Los restos deben estar en condiciones identificables!$b$b-- Gazlowe",
@@ -4312,17 +4312,17 @@ pfDB["quests"]["esES-turtle"] = {
   [900] = {
     ["D"] = "Las tres válvulas de control están actualmente abiertas. Las diversas lecturas en el panel de control te llevan a presumir que deben cerrarse antes de que el aparato pueda apagarse.",
     ["O"] = "Cierra la Válvula de Control de Combustible, la Válvula Reguladora y la Válvula de Control Principal, luego usa la consola de control nuevamente.",
-    ["T"] = "Samophlange",
+    ["T"] = "Churumbele",
   },
   [901] = {
-    ["D"] = "Con el aparato desactivado, el panel de control puede abrirse y el samophlange puede ser retirado de la consola. Con todo lo demás en su lugar, lo único que queda es adquirir la llave para desbloquear la consola.",
+    ["D"] = "Con el aparato desactivado, el panel de control puede abrirse y el churumbele puede ser retirado de la consola. Con todo lo demás en su lugar, lo único que queda es adquirir la llave para desbloquear la consola.",
     ["O"] = "Consigue la Llave de la Consola de Tiritijón para usarla en la consola de control.",
-    ["T"] = "Samophlange",
+    ["T"] = "El Churumbele",
   },
   [902] = {
     ["D"] = "Al abrir la cara de la consola de control, se revela un denso enredo de cables, tubos y otros objetos mecánicos extraños, la mayoría de los cuales parecen no tener ningún propósito práctico. Al empujarlos a un lado y excavar más profundamente en la consola, encuentras el samophlange. Un tirón lo libera de su alojamiento.",
     ["O"] = "Devuelve el Samoplex a Valvulería en Ratchet.",
-    ["T"] = "Samophlange",
+    ["T"] = "Churumbele",
   },
   [903] = {
     ["D"] = "Ahora es el momento de ir tras algo que realmente muerde. Los merodeadores de Los Baldíos son una raza resistente. Resistentes, ingeniosos, astutos... y mortales. Los encontrarás entre las altas hierbas. Encontrarás muchos al suroeste de El Cruce.$B$BTen cuidado mientras los cazas, $n, o podrías encontrarte no como el depredador, sino como la presa.",
@@ -5275,12 +5275,12 @@ pfDB["quests"]["esES-turtle"] = {
   [1101] = {
     ["D"] = "¡Pobre Heralath! Y este enano... Lonebrow. Qué alma valiente fue.$b$bNo debemos dejar que su valentía sea en vano. Esta bruja... Charlga Filonavaja... debe ser detenida.$b$bSeguramente, infiltrarse en La Cárcel será peligroso. No hay tiempo para enviar palabra a Darnassus. $n, forma un grupo para matar a la bruja.$b$bTráeme el Medallón de Filonavaja como prueba de su muerte.",
     ["O"] = "Lleva el Medallón de Filocorto a Falfindel Errante en Thalanaar.",
-    ["T"] = "La Bruja del Kraul",
+    ["T"] = "La Bruja del Horado",
   },
   [1102] = {
     ["D"] = "Cairne es un líder noble por unir a nuestra gente aquí en Cima del Trueno.$b$bPero no puedo perdonar tan fácilmente a aquellos que nos expulsaron de nuestras tierras ancestrales como algunos. Mi gente habitó el sur de Los Baldíos durante décadas. La tierra era sagrada para nosotros. Pero fuimos expulsados por numerosos enemigos.$b$bUn destino vengativo espera a la bruja, Charlga Filonaval, que reúne un ejército vil dentro de Horado Rajacieno.$b$bTráeme el corazón de Filonaval y podré morir en paz, $n.",
     ["O"] = "Lleva el Corazón de Filocorto a Auld Pico de Piedra en Cima del Trueno.",
-    ["T"] = "Un Destino Vengativo",
+    ["T"] = "Un Destino Vengador",
   },
   [1103] = {
     ["D"] = "¡Saludos, $ghermano:hermana;! ¿También has venido a purificar las aguas aquí y demostrar tu comprensión a Islen?$B$BAcabo de derrotar al espíritu de agua corrupto, y estoy a punto de poner las brazaleras y las gotas restantes de agua en el brasero.$B$B¿Qué es eso? Ahhh. Tiev entiende demasiado bien cuando algo sale mal. Bueno, Tiev puede ayudarte mucho si necesitas ver al espíritu de agua puro nuevamente.$B$BTráeme un sapta de agua de Islen como prueba de que estás listo, y esperaré para entregar mis partes.",
@@ -5315,7 +5315,7 @@ pfDB["quests"]["esES-turtle"] = {
   [1109] = {
     ["D"] = "Como puedes ver, $n, estamos realizando algunos experimentos muy... interesantes en la Sociedad Real de Boticarios.$b$bComo Maestro aquí, es mi trabajo supervisar los intentos alquímicos más ambiciosos. ¡Tanto trabajo y tan poco tiempo!$b$bPareces bien viajado para un $c. Quizás puedas ayudarme.$b$bNecesito una sustancia rara. Es un material repugnante, proviene de una especie rara de murciélagos que solo se encuentra en el agujero fangoso conocido como Zarzal Rajacieno. Tráeme el guano de los murciélagos de Rajacieno para que podamos comenzar nuestro trabajo...",
     ["O"] = "Lleva 1 montón de Guano de Kraul al Maestro Boticario Faranell en Entrañas.",
-    ["T"] = "¡Yendo, yendo, guano!",
+    ["T"] = "Guano del Horado",
   },
   [1110] = {
     ["D"] = "Je je, con todas las carreras que hacen aquí, no es de extrañar que ocurran algunos accidentes en el camino. Si miras alrededor de los Llanos Brillantes, verás evidencia de choques pasados—¡trozos de partes de coches cohete están esparcidos por todas partes!$B$B¡Y esas partes valen dinero para los gnomos y los goblins! Siempre están buscando más artilugios para añadir a sus coches.$B$BAsí que sal y consígueme partes. Tráeme un montón y te pagaré bien.",
@@ -5704,7 +5704,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Los Esquemas de Rizzle",
   },
   [1195] = {
-    ["D"] = "Los centauros Galak en las Mil Agujas están protegiendo un artefacto de la época de la creación de los centauros.$b$bNos gustaría recuperarlo, pero necesitamos una redoma de agua de uno de los pozos lunares de los elfos nocturnos.$b$bPara recolectar el agua, primero necesitarás obtener una de las redomas que llevan las dríadas cerca del Refugio de Raynewood en el corazón de Argénteos. Hay un pozo lunar cerca de la orilla occidental del Río Falfarren, al sur del camino principal, donde puedes llenar la redoma.",
+    ["D"] = "Los centauros Galak de Las Mil Agujas custodian un artefacto desde el comienzo de sus tiempos.%b%bNos gustaría arrebatárselo pero para ello necesitamos una ampolla de agua de una de las pozas de la luna de los elfos nocturnos.$b$bPara conseguir el agua, primero tendrás que hacerte con una de las ampollas que portan los dríades cerca del Refugio de la Algaba en el corazón del Bosque de Vallefresno. Hay una poza de la luna cerca de la orilla occidental del Río Falfarren, al sur de la carretera principal, donde podrás llenar la ampolla de agua.",
     ["O"] = "Devuelve un Frasco Grabado Lleno a Zangen Pezuñapétrea en Cima del Trueno.",
     ["T"] = "La Llama Sagrada",
   },
@@ -5781,7 +5781,7 @@ pfDB["quests"]["esES-turtle"] = {
   [1221] = {
     ["D"] = "Los tubérculos de hoja azul son un manjar en todo el mundo. ¡Pero son raros, muy raros! El único lugar donde se encuentran es aquí en los Baldíos, en lo profundo de la tierra, en Horado Rajacieno.$B$B¡Y aún así, son imposibles de encontrar a menos que sepas exactamente dónde buscar! Por eso he entrenado a estos topos hociconariz para que los encuentren por mí. Tienen narices excelentes y pueden oler un tubérculo a cincuenta pasos de distancia.$B$BNo será fácil, pero si me consigues algunos tubérculos, te pagaré generosamente.",
     ["O"] = "Toma una Caja con Agujeros.$BToma un Bastón de Mando de Hocicono.$BToma y lee el Manual del Dueño de Hocicono.$B$BEn Zanja Cardizal, usa la Caja con Agujeros para invocar un Hocicono, y usa el Bastón de Mando en el hocicono para hacer que busque Tubérculos.$B$BTrae 6 Tubérculos Hoja Azul, el Bastón de Mando de Hocicono y la Caja con Agujeros a Mebok Mizzyrix en Ratchet.",
-    ["T"] = "Tubérculos de Hoja Azul",
+    ["T"] = "Los Tubérculos Hojazul",
   },
   [1222] = {
     ["D"] = "¡Genial, finalmente algo que no quiere comerme!$B$BNecesito ayuda para manejar las criaturas por aquí, y tú encajas en el molde, $gcompañero:compañera;.$B$BEl cocinero Morgan Stern está investigando una nueva receta, y me envió aquí para recolectar hojas de bogbean. Supongo que piensa que son sabrosas.$B$BDe todos modos, mientras buscaba una planta de bogbean... ¡me rodeé! ¿Puedes ayudarme a salir de aquí y cuidar mi espalda mientras busco el bogbean?",
@@ -6128,7 +6128,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Artilugio para Warug",
   },
   [1372] = {
-    ["D"] = "Nuestra fuerza expedicionaria fue enviada por orden de Varimathras para inspeccionar el sur de Azeroth.$b$bMientras exploraba, noté a un Infiltrador humano espiando en el Refugio del Mendigo. Antes de que pudiera capturarlo, algunos de nuestros hermanos orcos... lo capturaron y lo llevaron a Stonard, su fortaleza en el Pantano de las Penas.$b$bQuiero... ayudar... a nuestros aliados orcos. No vieron nuestro campamento aquí, pero de todos modos quiero echar una mano.$b$bTrabaja con Faustin aquí para desarrollar un... suero de la verdad para nuestro amigo en Stonard.",
+    ["D"] = "Nuestra fuerza expedicionaria fue enviada por orden de Varimathras para inspeccionar el sur de Azeroth.$b$bMientras exploraba, noté a un Infiltrador humano espiando en el Refugio del Mendigo. Antes de que pudiera capturarlo, algunos de nuestros hermanos orcos... lo capturaron y lo llevaron a Rocal, su fortaleza en el Pantano de las Penas.$b$bQuiero... ayudar... a nuestros aliados orcos. No vieron nuestro campamento aquí, pero de todos modos quiero echar una mano.$b$bTrabaja con Faustin aquí para desarrollar un... suero de la verdad para nuestro amigo en Rocal.",
     ["O"] = "Habla con el Boticario Faustin en el Refugio del Mendigo.",
     ["T"] = "Nada Más Que la Verdad",
   },
@@ -6203,8 +6203,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ups, Los Matamos Otra Vez.",
   },
   [1391] = {
-    ["D"] = "Necesitamos operar con cierta discreción. Después de todo, no es como si fueras a entrar allí y convencer al tonto de que beba la poción de Faustin aquí, ¿verdad?$b$bPero si hay algo que esos humanos no pueden negar es el alcohol. Tomaré el suero de Faustin y lo mezclaré en esta cerveza. Te garantizo que el pobre tonto no mostrará ninguna reticencia cuando se trate de beber.$b$bDate prisa a Stonard en el Pantano de las Penas, $n. Y mantén nuestra pequeña misión en silencio...",
-    ["O"] = "Lleva la Cerveza de Zraedus al Infiltrador Marksen en Stonard.",
+    ["D"] = "Necesitamos operar con cierta discreción. Después de todo, no es como si fueras a entrar allí y convencer al tonto de que beba la poción de Faustin aquí, ¿verdad?$b$bPero si hay algo que esos humanos no pueden negar es el alcohol. Tomaré el suero de Faustin y lo mezclaré en esta cerveza. Te garantizo que el pobre tonto no mostrará ninguna reticencia cuando se trate de beber.$b$bDate prisa a Rocal en el Pantano de las Penas, $n. Y mantén nuestra pequeña misión en silencio...",
+    ["O"] = "Lleva la Cerveza de Zraedus al Infiltrador Marksen en Rocal.",
     ["T"] = "Nada Más Que la Verdad",
   },
   [1392] = {
@@ -6213,7 +6213,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Noboru el Mazo",
   },
   [1393] = {
-    ["D"] = "¡Por favor, ayuda!  ¡Estas criaturas me van a comer!$B$B¡Ayúdame a salir de aquí, y te daré un gran tesoro!  Está en mi campamento en el pantano al norte de Stonard, pero está encerrado en una caja fuerte que solo se puede abrir con un truco que solo yo sé.$B$BSi me ayudas a escapar, entonces te lo enseñaré.",
+    ["D"] = "¡Por favor, ayuda!  ¡Estas criaturas me van a comer!$B$B¡Ayúdame a salir de aquí, y te daré un gran tesoro!  Está en mi campamento en el pantano al norte de Rocal, pero está encerrado en una caja fuerte que solo se puede abrir con un truco que solo yo sé.$B$BSi me ayudas a escapar, entonces te lo enseñaré.",
     ["O"] = "Escolta a Galen fuera de peligro, luego encuentra su campamento en los Pantanos de las Penas y abre su caja fuerte.",
     ["T"] = "El Escape de Galen",
   },
@@ -6238,7 +6238,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Madera a la Deriva",
   },
   [1418] = {
-    ["D"] = "Los Baldíos son un lugar duro y están cerca de las tierras de la Alianza en Loch Modan, por lo que la comunicación entre Stonard y el puesto de avanzada de Kargath en los Baldíos a menudo se corta.$B$BDemuestra tu valía, $N. Viaja a los Baldíos y habla con Neeka Sangrescara, la exploradora principal del puesto de avanzada de Kargath. Habla con ella y luego envía su informe de vuelta a mí.",
+    ["D"] = "Los Baldíos son un lugar duro y están cerca de las tierras de la Alianza en Loch Modan, por lo que la comunicación entre Rocal y el puesto de avanzada de Kargath en los Baldíos a menudo se corta.$B$BDemuestra tu valía, $N. Viaja a los Baldíos y habla con Neeka Sangrescara, la exploradora principal del puesto de avanzada de Kargath. Habla con ella y luego envía su informe de vuelta a mí.",
     ["O"] = "Habla con Neeka Cicatriz de Sangre.",
     ["T"] = "Neeka Cicatriz de Sangre",
   },
@@ -6248,8 +6248,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Ladrones de Coyotes",
   },
   [1420] = {
-    ["D"] = "Escribí un nuevo informe para Helgrum en Stonard. Tráeselo.$B$BY si te consideras un correcaminos, no pierdas el camino. O caigas ante un enemigo.",
-    ["O"] = "Lleva el Informe de Neeka a Helgrum el Veloz en Stonard.",
+    ["D"] = "Escribí un nuevo informe para Helgrum en Rocal. Tráeselo.$B$BY si te consideras un correcaminos, no pierdas el camino. O caigas ante un enemigo.",
+    ["O"] = "Lleva el Informe de Neeka a Helgrum el Veloz en Rocal.",
     ["T"] = "Informar a Helgrum",
   },
   [1421] = {
@@ -6360,12 +6360,12 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [1444] = {
     ["D"] = "Jammal\'an el Profeta me condenó al exilio del Templo de Atal\'Hakkar. Una vez creí que el sumo sacerdote era un líder digno.$b$bSu fe inquebrantable en su profecía llevará a la destrucción de los Atal\'ai. Si no lo ha hecho ya.$b$bCuando expresé mis preocupaciones, me etiquetaron como infiel y me expulsaron del templo.$b$bEsos artefactos que me trajiste son inofensivos. Pero si Jammal\'an ha encontrado el fetiche adecuado para el ritual de invocación, el mundo está en gran peligro....",
-    ["O"] = "Regresa con Fel\'Zerul en Stonard.",
+    ["O"] = "Regresa con Fel\'Zerul en Rocal.",
     ["T"] = "Regreso con Fel\'Zerul",
   },
   [1445] = {
     ["D"] = "¿Así que habló de la profecía de Jammal\'an?$b$bEl líder espiritual de los Atal\'ai cree que una vez que Hakkar regrese a Azeroth desde el Vacío, el dios les concederá la inmortalidad a la tribu Atal\'ai.$b$bUn engaño tonto para provocar un apocalipsis prematuro, si me preguntas.$b$b¿Pero dices que el exiliado habló de fetiches encantados? Esto me preocupa mucho. Si estos son de hecho la clave del ritual Atal\'ai que causó este desastre, debemos entender sus poderes intrínsecos.$b$b¡Aventúrate en el Templo y toma los fetiches!",
-    ["O"] = "Recolecta 20 Fetiches de Hakkar y llévaselos a Fel\'Zerul en Stonard.",
+    ["O"] = "Recolecta 20 Fetiches de Hakkar y llévaselos a Fel\'Zerul en Rocal.",
     ["T"] = "El Templo de Atal\'Hakkar",
   },
   [1446] = {
@@ -7645,7 +7645,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [2040] = {
     ["D"] = "¡Gnomeregan ha caído bajo el control de esos malvados troggs! La situación es grave, pero tal vez puedas ayudar, $N.$B$BEn lo profundo de las Minas de la Muerte hay una trituradora goblin funcional. Encuentra esa trituradora y trae de vuelta la fuente de energía intacta. Con la fuente de energía de la trituradora, podemos darle a nuestros excavadores girodrilmáticos el poder que necesitan para atravesar los bordes rocosos subterráneos de Gnomeregan, abriendo el camino para un asalto gnomo.",
-    ["O"] = "Recupera el Gnoam Sprecklesprocket de las Minas de la Muerte y llévaselo a Shoni el Silencioso en Ventormenta.",
+    ["O"] = "Recupera el Gnoam Sprecklesprocket de las Minas de la Muerte y llévaselo a Shoni la Silenciosa en Ventormenta.",
     ["T"] = "Asalto Subterráneo",
   },
   [2041] = {
@@ -8119,8 +8119,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Toque de Zanzil",
   },
   [2621] = {
-    ["D"] = "Arrepentimiento. Es todo lo que tengo ahora. Una mala decisión que resultó en varios resultados horribles. Si tan solo hubiera esperado esas órdenes. ¡Quizás habrían detallado los horrores que nos esperaban en esas tierras malditas! ¿Quizás habrían sido para redirigirnos a otra misión? Al final, fue mi culpa. Todo fue mi culpa.$B$BAsí que aquí estoy, esperando órdenes. Debo saberlo. Debo tener esas órdenes.$B$BEl Comandante Ruag reside en Stonard. Encuéntralo y descubre qué pasó con las órdenes.",
-    ["O"] = "Habla con el Comandante de Despachos Ruag en Stonard.",
+    ["D"] = "Arrepentimiento. Es todo lo que tengo ahora. Una mala decisión que resultó en varios resultados horribles. Si tan solo hubiera esperado esas órdenes. ¡Quizás habrían detallado los horrores que nos esperaban en esas tierras malditas! ¿Quizás habrían sido para redirigirnos a otra misión? Al final, fue mi culpa. Todo fue mi culpa.$B$BAsí que aquí estoy, esperando órdenes. Debo saberlo. Debo tener esas órdenes.$B$BEl Comandante Ruag reside en Rocal. Encuéntralo y descubre qué pasó con las órdenes.",
+    ["O"] = "Habla con el Comandante de Despachos Ruag en Rocal.",
     ["T"] = "El Deshonrado",
   },
   [2622] = {
@@ -9280,7 +9280,7 @@ pfDB["quests"]["esES-turtle"] = {
   [3341] = {
     ["D"] = "En las Tierras de la Peste del Oeste yace un horrible desastre de enredaderas enmarañadas llamado Túmulos de Rajacieno. Si bien nuestras primeras observaciones de este lugar revelaron poca amenaza, nuestros hallazgos recientes son mucho más serios...$B$BLos quilboar de Rajacieno se han aliado con la Plaga. Un Lich llamado Amnennar el Fríovehente los gobierna ahora, usando el poder de su enorme conciencia para controlar cada uno de sus movimientos.$B$BAmnennar tiene un enlace telepático directo con Ner\'zhul, debemos cortar este vínculo, $N. El Fríovehente debe ser detenido.",
     ["O"] = "Andrew Brownell quiere que mates a Amnennar el Portafrío y devuelvas su cráneo.",
-    ["T"] = "Trae el Fin",
+    ["T"] = "Acaba con la Amenaza",
   },
   [3361] = {
     ["D"] = "¡Expulsamos a los troggs de Gnomeregan, pero luego todo salió tan horriblemente mal! Ahora nuestro hogar está completamente irradiado, y los gnomos hemos sido dispersados por todo Dun Morogh.$B$BEn mi prisa por escapar de la radiación, perdí todas mis pertenencias y herramientas. Fueron los trolls quienes las tomaron. ¡Se llevaron mi cofre, mi caja y mi cubo de tornillos! Los llevaron de vuelta a sus campamentos al suroeste de Anvilmar.$B$BNo soy un aventurero, ¿podrías encontrar mis cosas y traérmelas aquí, por favor?",
@@ -9632,7 +9632,7 @@ pfDB["quests"]["esES-turtle"] = {
   [3525] = {
     ["D"] = "Cerca de la entrada hay un ídolo que funciona como un horno macabro para los Quilboar, las bestias... literalmente consumen a sus secuestrados de Los Baldíos. Puedo desactivar el ídolo y evitar que lo usen de nuevo, pero necesito tu ayuda para hacerlo. Mi plan: escoltarme al ídolo. Una vez que lleguemos, comenzaré el ritual. Apenas podré comunicarme contigo, y mucho menos defenderme. Protégeme mientras desactivo el ídolo. Si me derriban, entonces todo habrá terminado para nosotros.$B$B¿Estás conmigo?!",
     ["O"] = "Escolta a Belnistrasz hasta el ídolo de los Quilboar en los Horados de Rajacieno.$B$BProtege a Belnistrasz mientras realiza el ritual para desactivar el ídolo.",
-    ["T"] = "Extinguiendo el Ídolo",
+    ["T"] = "Extinguir el Ídolo",
   },
   [3526] = {
     ["D"] = "La ingeniería experta produce dos disciplinas distintas: gnomos y goblins. Claramente, la ingeniería goblin es la elección de todos los ingenieros brillantes. ¡Aprende a dominar el mundo a través del uso juicioso de explosivos altos y equipo fantástico!$B$B$N, lee este manual. Si quieres aprender sobre ingeniería goblin, llévaselo a Nixx Muellespring en Gadgetzan. Recuerda: la membresía es permanente y te impide unirte a la otra disciplina, así que asegúrate de que esto es lo que quieres antes de completar su tarea.",
@@ -10151,7 +10151,7 @@ pfDB["quests"]["esES-turtle"] = {
   [3924] = {
     ["D"] = "Creo que puedo arreglar el samofalange, pero primero necesitaré el manual del usuario. Cuando estaba en Venture Co., tenía un rival, el Jefe Copperplug, que acaparaba los secretos del samofalange, dando pequeños fragmentos de conocimiento sobre el dispositivo a aquellos en quienes confiaba. Yo no era uno de los pocos confiables...$B$BEl Jefe Copperplug solía quedarse en la Mina Veta de Pedrusco, en el noreste de Los Baldíos. Consigue el manual de él, y si le ha dado páginas a alguien, tendrás que recogerlas también.",
     ["O"] = "Lleva el Manual del Samoflange a Rilli Greasygob en Orgrimmar.",
-    ["T"] = "Manual de Samophlange",
+    ["T"] = "Manual de Churumbele",
   },
   [3941] = {
     ["D"] = "Pensando... Pensando... Sé que vine aquí por algo importante...$B$BTengo una idea, $N. En la cueva de allí hay una gnoma llamada J.D. que fue muy amable conmigo cuando llegué aquí por primera vez. Quizás en mi estado desorientado, podría haberle mencionado algo.$B$B¿Por qué no vas a preguntarle si sabe algo? Oh, pero ten cuidado, siempre está jugando con esos cristales brillantes locos que he visto en el cráter. ¡No estoy muy seguro de lo que está haciendo allí!",
@@ -10873,7 +10873,7 @@ pfDB["quests"]["esES-turtle"] = {
   [4463] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Libro de Meditación",
+    ["T"] = "Libram de Rumoración",
   },
   [4464] = {
     ["D"] = "",
@@ -10898,22 +10898,22 @@ pfDB["quests"]["esES-turtle"] = {
   [4481] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Libro de Constitución",
+    ["T"] = "Libram de Constitución",
   },
   [4482] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Libro de Tenacidad",
+    ["T"] = "Libram de Tenacidad",
   },
   [4483] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Libro de Resiliencia",
+    ["T"] = "Libram de Resiliencia",
   },
   [4484] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Libro de Voracidad",
+    ["T"] = "Libram de Voracidad",
   },
   [4485] = {
     ["D"] = "Hola, $N. Veo que tu dedicación sigue siendo fuerte, al igual que tu fe.$B$BCreo que es hora de que hables con Duthorian Rall en Ventormenta. Hay más lecciones para que aprendas, y siento que estás preparado.$B$BBúscalo en la Catedral de la Luz, y $N, toma estas lecciones en serio. Has alcanzado tu estatus a través de la humildad y el trabajo duro, no nos decepciones volviéndote arrogante.$B$BQue te vaya bien.",
@@ -11950,7 +11950,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [5146] = {
     ["D"] = "El trabajo de cuero elemental es lo que conozco, y si estás dispuesto a abrir tu mente a los mayores poderes de la sustancia, compartiré contigo todo lo que hay que aprender.$B$BSabe esto, $c: al elegir este camino, aceptas nunca aprender el trabajo de cuero de dragón o tribal, solo hay espacio para practicar una de las tres artes. Además, necesitaré pruebas adecuadas de que estás en sintonía con los elementos de la naturaleza, para ello, tráeme las esencias más puras de fuego, agua, tierra y viento.",
-    ["O"] = "Lleva 2 Corazones de Fuego, 2 Globos de Agua, 2 Núcleos de Tierra y 2 Alientos de Viento a Brumn Winterhoof en las Montañas de Arathi.$B$BCompletar esta misión te dará acceso a las artes de Peletería Elemental.$B$BLa finalización de esta misión te impedirá aprender Peletería de Escamas de Dragón y Peletería Tribal, asegúrate de que este es el camino que deseas seguir antes de hacerlo.",
+    ["O"] = "Lleva 2 Corazones de Fuego, 2 Globos de Agua, 2 Núcleos de Tierra y 2 Alientos de Viento a Brumn Pezuña Invernal en las Montañas de Arathi.$B$BCompletar esta misión te dará acceso a las artes de Peletería Elemental.$B$BLa finalización de esta misión te impedirá aprender Peletería de Escamas de Dragón y Peletería Tribal, asegúrate de que este es el camino que deseas seguir antes de hacerlo.",
     ["T"] = "Peletería Elemental",
   },
   [5147] = {
@@ -12118,9 +12118,9 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Agente Activo",
   },
   [5214] = {
-    ["D"] = "Algo terrible... lo que le pasó a Fras. Verás, la ciudad fue saqueada y Fras no quería dejar atrás sus preciados bienes. Lo último que recuerdo que dijo fue: \"¡Quemaré cada hoja antes de que pongan sus malditas y sucias manos sobre ellas!\"$B$BAunque me encanta un buen cigarro, no soy tonto. Dejé a Fras y su encantadora tienda ese día. Supongo que murió en llamas, pero si hay una posibilidad de que incluso una caja de su famoso tabaco esté intacta...$B$B¿Qué dices, $N? ¿Encuentras una caja para el viejo Smokey?",
-    ["O"] = "Encuentra la tienda de tabaco de Fras Siabi en Stratholme y recupera una caja de Tabaco Premium de Siabi. Regresa con Smokey LaRue cuando el trabajo esté hecho.",
-    ["T"] = "El Gran Fras Siabi",
+    ["D"] = "Algo terrible... lo que le pasó a Halric. Verás, la ciudad fue saqueada y Halric no quería dejar atrás sus preciados bienes. Lo último que recuerdo que dijo fue: \"¡Quemaré cada hoja antes de que pongan sus malditas y sucias manos sobre ellas!\"$B$BAunque me encanta un buen cigarro, no soy tonto. Dejé a Halric y su encantadora tienda ese día. Supongo que murió en llamas, pero si hay una posibilidad de que incluso una caja de su famoso tabaco esté intacta...$B$B¿Qué dices, $N? ¿Encuentras una caja para el viejo Smokey?",
+    ["O"] = "Encuentra la tienda de tabaco de Halric Emberlain en Stratholme y recupera una caja de Tabaco Premium de Siabi. Regresa con Smokey LaRue cuando el trabajo esté hecho.",
+    ["T"] = "El Gran Halric Emberlain",
   },
   [5215] = {
     ["D"] = "Dentro de las tierras del antiguo Lordaeron hay ocho calderos: cuatro aquí en el oeste y cuatro más atrincherados en el este. Estos calderos arrojan venenos al aire, propagando la plaga por toda la tierra para la Plaga.$B$BEl poder nigromántico de Kel\'Thuzad es demasiado fuerte para cerrar estos calderos directamente, pero creemos que podríamos tener una forma de subvertirlos para nuestra ventaja. Mi segunda, la Suma Sacerdotisa MacDonnell, será tu punto de contacto en esta misión, ella continuará el informe desde aquí.",
@@ -12308,9 +12308,9 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Cristal de Zin-Malor",
   },
   [5261] = {
-    ["D"] = "Eagan Desollador está buscando a alguien que cace lobos por él. Es una buena noticia, porque últimamente hemos visto muchos más lobos en el Valle de Villanorte.$B$BSi estás interesado, habla con Eagan. Está en el lateral de la abadía, a la izquierda.",
-    ["O"] = "Habla con Eagan Desuellador.",
-    ["T"] = "Eagan Desollador",
+    ["D"] = "Eagan Desollapieles está buscando a alguien que cace lobos por él. Es una buena noticia, porque últimamente hemos visto muchos más lobos en el Valle de Villanorte.$B$BSi estás interesado, habla con Eagan. Está en el lateral de la abadía, a la izquierda.",
+    ["O"] = "Habla con Eagan Desollapieles.",
+    ["T"] = "Eagan Desollapieles",
   },
   [5262] = {
     ["D"] = "Intentas reunir tus pensamientos mientras el polvo se asienta en la cámara. Repasas los eventos que acaban de ocurrir y aún no puedes comprender la gravedad de la situación.$B$B¿El Gran Cruzado de la Cruzada Escarlata un demonio? ¿Y no cualquier demonio, sino el hermano de Varimathras, señor archidemonio de Entrañas?$B$BGuardas con cuidado la cabeza cortada del señor del terror en tu mochila. Seguramente, nadie creería la historia que contarías sin pruebas.$B$B¡El Duque Nicholas Zverenhoff debe ser informado de inmediato!",
@@ -13332,14 +13332,14 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Libro de los Antiguos",
   },
   [6028] = {
-    ["D"] = "Estoy buscando a un individuo responsable que me ayude en un asunto pequeño pero importante. Estoy aquí como representante de los intereses del Alba Argenta ante el gobierno local de Vistalarga. Necesito entregar un informe de progreso a la Oficial de Plata Pureheart en el Campamento del Orvallo, está un poco lejos de aquí, ubicado en el borde sur de las Tierras de la Peste del Oeste.$B$BSi puedo ser tan atrevido, esta sería una manera perfecta de presentarte a mi superior y quizás ganar algo de trabajo de ella.",
-    ["O"] = "Entrega el Informe de Everlook al Oficial Argenta Corazón Puro en el Campamento del Orvallo, Tierras de la Peste del Oeste.",
-    ["T"] = "El Informe de Siempreviva",
+    ["D"] = "Estoy buscando a un individuo responsable que me ayude en un asunto pequeño pero importante. Estoy aquí como representante de los intereses del Alba Argenta ante el gobierno local de Vista Eterna. Necesito entregar un informe de progreso a la Oficial de Plata Pureheart en el Campamento del Orvallo, está un poco lejos de aquí, ubicado en el borde sur de las Tierras de la Peste del Oeste.$B$BSi puedo ser tan atrevido, esta sería una manera perfecta de presentarte a mi superior y quizás ganar algo de trabajo de ella.",
+    ["O"] = "Entrega el Informe de Vista Eterna al Oficial Argenta Corazón Puro en el Campamento del Orvallo, Tierras de la Peste del Oeste.",
+    ["T"] = "El Informe de Vista Eterna",
   },
   [6029] = {
-    ["D"] = "Estoy buscando a un individuo responsable que me ayude en un asunto pequeño pero importante. Estoy aquí como representante de los intereses del Alba Argenta ante el gobierno local de Ventalonia. Necesito enviar un informe de progreso al Oficial Argenta Garush en El Baluarte, está un poco lejos de aquí, ubicado en el borde occidental de las Tierras de la Peste del Oeste, al este del Bosque de Argénteos.$B$BSi me permites ser tan atrevido, esta sería una forma perfecta de presentarte a mi superior y quizás ganar algún trabajo de él.",
-    ["O"] = "Entrega el Informe de Everlook al Oficial Argenta Garush en El Baluarte, Tierras de la Peste del Oeste.",
-    ["T"] = "El Informe de Siempreviva",
+    ["D"] = "Estoy buscando a un individuo responsable que me ayude en un asunto pequeño pero importante. Estoy aquí como representante de los intereses del Alba Argenta ante el gobierno local de Vista Eterna. Necesito enviar un informe de progreso al Oficial Argenta Garush en El Baluarte, está un poco lejos de aquí, ubicado en el borde occidental de las Tierras de la Peste del Oeste, al este del Bosque de Argénteos.$B$BSi me permites ser tan atrevido, esta sería una forma perfecta de presentarte a mi superior y quizás ganar algún trabajo de él.",
+    ["O"] = "Entrega el Informe de Vista Eterna al Oficial Argenta Garush en El Baluarte, Tierras de la Peste del Oeste.",
+    ["T"] = "El Informe de Vista Eterna",
   },
   [6030] = {
     ["D"] = "Un ermitaño medio encontrado en estas partes llamado Umbranse ha proporcionado al Alba Argenta una verdadera obra maestra literaria... una que equivale posiblemente a la mayor colección de galimatías que he visto escrita.$B$BUno de los líderes más respetados del Alba, el Duque Nicholas Zverenhoff, es un lingüista brillante. ¿Podrías llevarle esto por mí, por una recompensa, por supuesto? La Capilla de la Esperanza de la Luz, ahí es donde está actualmente, muy al este de las Tierras de la Peste del Este.",
@@ -13482,12 +13482,12 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Domando a la Bestia",
   },
   [6088] = {
-    ["D"] = "La tarea final que tengo para ti requiere que domes una criatura que habita en el cielo. El swoop es un oponente difícil, pero como tu aliado, adquirirás sus ataques rápidos y su presencia amenazante.$B$BPor la voluntad de la Madre Tierra, cuando regreses te otorgaré las habilidades que necesitarás para domar un animal de tu elección para que sea tu compañero, esta criatura enfrentará los desafíos que tú enfrentes y ganará experiencia junto a ti. También te mostraré cómo llamarlo y despedirlo cuando lo desees.",
-    ["O"] = "Usa la Vara de Domesticar para domar un Arpía. Practica tus habilidades, luego devuelve la Vara de Domesticar a Yaw Sharpmane en el Poblado Pezuña de Sangre.",
+    ["D"] = "La tarea final que tengo para ti requiere que domes una criatura que habita en el cielo. El aguilón es un oponente difícil, pero como tu aliado, adquirirás sus ataques rápidos y su presencia amenazante.$B$BPor la voluntad de la Madre Tierra, cuando regreses te otorgaré las habilidades que necesitarás para domar un animal de tu elección para que sea tu compañero, esta criatura enfrentará los desafíos que tú enfrentes y ganará experiencia junto a ti. También te mostraré cómo llamarlo y despedirlo cuando lo desees.",
+    ["O"] = "Usa la Vara de Domesticar para domar un Aguilón. Practica tus habilidades, luego devuelve la Vara de Domesticar a Yaw Sharpmane en el Poblado Pezuña de Sangre.",
     ["T"] = "Domando a la Bestia",
   },
   [6089] = {
-    ["D"] = "Ahora tienes el poder de domesticar una mascota, pero también debes adquirir las habilidades para entrenarla.$B$BViaja a Cima del Trueno. Allí debes hablar con uno de nuestros cazadores más venerados, Holt Thunderhorn. Si te considera digno, te dará la habilidad de entrenar a tu nueva mascota.$B$BHolt ha vencido a las bestias más poderosas y temidas de Azeroth, y comanda muchas criaturas fuertes propias. Sus lazos con la Madre Tierra son fuertes, y puedes aprender mucho de él. Buena suerte, $N.",
+    ["D"] = "Ahora tienes el poder de domesticar una mascota, pero también debes adquirir las habilidades para entrenarla.$B$BViaja a Cima del Trueno. Allí debes hablar con uno de nuestros cazadores más venerados, Holt Tronacuerno. Si te considera digno, te dará la habilidad de entrenar a tu nueva mascota.$B$BHolt ha vencido a las bestias más poderosas y temidas de Azeroth, y comanda muchas criaturas fuertes propias. Sus lazos con la Madre Tierra son fuertes, y puedes aprender mucho de él. Buena suerte, $N.",
     ["O"] = "Habla con Holt Tronacuerno en el Alto de los Cazadores en Cima del Trueno.",
     ["T"] = "Entrenando a la Bestia",
   },
@@ -13945,12 +13945,12 @@ pfDB["quests"]["esES-turtle"] = {
   [6521] = {
     ["D"] = "Malcin afirma que está fuera de las Cuevas de los Lamentos. Este embajador debe ser asesinado, su misión debe ser un fracaso a los ojos del Rey Exánime.$B$BSu presencia allí explica mucho de lo que hemos descubierto sobre el área, algunos de los jabalíes se han vuelto terriblemente poderosos mientras muestran signos de la Plaga a su manera. Realmente debe ser una señal de algún tipo de trato que han hecho.$B$BEncuentra a Malcin y mátalo, $N. Regresa a mí después de que la tarea esté hecha.",
     ["O"] = "Lleva la Cabeza del Embajador Malcin a Varimathras en Entrañas.",
-    ["T"] = "Una Alianza Impía",
+    ["T"] = "Una Alianza Nefasta",
   },
   [6522] = {
     ["D"] = "Mi Señora,$B$BSabe muy bien lo que le estamos ofreciendo. La oportunidad de tomar Los Baldíos y las tierras más allá es grande. Simplemente queremos su ayuda a cambio. Por ayuda no queremos decir nada más que nos dé la libertad de actuar en el área.$B$BPor favor, permítanos discutir esto más. Tenemos un gran poder y estamos dispuestos a compartirlo con aquellos lo suficientemente sabios como para unirse a nosotros. Permaneceré fuera de los Horados de los Tuercepinos por el momento.$B$BSaludos cordiales,$BEmbajador Malcin",
     ["O"] = "Lleva el Pequeño Pergamino a Varimathras en Entrañas.",
-    ["T"] = "Una Alianza Impía",
+    ["T"] = "Una Alianza Nefasta",
   },
   [6523] = {
     ["D"] = "¡Gracias por rescatarme! Debemos irnos rápidamente antes de que descubran que estoy libre. Por favor, acompáñame al Campamento Aparaje. Desde allí, conozco el camino.$b$bMi padre, Makaba Pezuña Plana, estará desesperado por saber que estoy a salvo.",
@@ -14165,7 +14165,7 @@ pfDB["quests"]["esES-turtle"] = {
   [6626] = {
     ["D"] = "Los No-Muertos no transmiten su... enfermedad... por lo que he visto. Este diplomático parece estar otorgando no-muerte a posibles seguidores. Estoy empezando a pensar que es uno de la Plaga.$B$BPor ahora, mi preocupación no es con él, sino con las crecientes filas a su alrededor. Emergen de las sombras diariamente, casi rogándole por más poder.$B$BNo soy lo suficientemente poderoso para luchar contra ellos solo, $N. ¿Qué dices? ¿Estás listo para cazar?",
     ["O"] = "Mata 8 Guardias de Batalla de los Baldíos, 8 Tejeespinas de los Baldíos y 8 Cultistas Cabeza de la Muerte y regresa con Myriam Cantoluna cerca de la entrada a las Cuevas de los Lamentos.",
-    ["T"] = "Una Multitud de Maldad",
+    ["T"] = "Un Anfitrión del Mal",
   },
   [6627] = {
     ["D"] = "Me has traído el libro, y ahora es el momento de tu pregunta. ¿Estás listo?$B$BEl tiempo no es un problema, $c, así que no te sientas presionado. Puedes tomarte todo el tiempo que necesites para responder.",
@@ -14195,7 +14195,7 @@ pfDB["quests"]["esES-turtle"] = {
   [6643] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Favor Entre la Hermandad, Núcleo de Fuego",
+    ["T"] = "El Favor de la Hermandad, Núcleos Ardientes",
   },
   [6644] = {
     ["D"] = "",
@@ -14205,7 +14205,7 @@ pfDB["quests"]["esES-turtle"] = {
   [6645] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Favor Entre la Hermandad, Cuero del Núcleo",
+    ["T"] = "El Favor de la Hermandad, Cuero del Núcleo",
   },
   [6646] = {
     ["D"] = "",
@@ -14290,7 +14290,7 @@ pfDB["quests"]["esES-turtle"] = {
   [6824] = {
     ["D"] = "$N, tu servicio es de gran valor para nosotros, así que somos reacios a enviarte en esta última misión, ya que no queremos perder a un agente tan útil.$B$BPero su éxito ayudaría enormemente a nuestros esfuerzos de guerra y... se consideró que valía la pena arriesgarte.$B$BQueremos que estos capitanes en el Núcleo de Magma sean destruidos: Lucifron, Sulfuron, Gehennas y Shazzrah. ¡Mátalos y tráeme sus manos!$B$BEsta tarea requerirá todos tus recursos, $N, pero si puedes hacerlo, los Señores del Fuego recibirán un golpe terrible.",
     ["O"] = "Lleva las Manos de Lucifron, Sulfuron, Gehennas y Shazzrah al Duque Hydraxis en Azshara.",
-    ["T"] = "Manos del Enemigo",
+    ["T"] = "Las Manos de los Enemigos",
   },
   [6825] = {
     ["D"] = "",
@@ -14930,7 +14930,7 @@ pfDB["quests"]["esES-turtle"] = {
   [7487] = {
     ["D"] = "Los portales se agitan, se desgarran y colapsan a nuestro alrededor, $r. A dos pasos de donde estoy hay una grieta que atraviesa las profundidades de la Montaña Roca Negra, hacia las fauces del Señor del Fuego.$B$B¿Sorprendido? Lástima... Las razas mortales no pueden comprender lo que no pueden ver, tocar o sentir.$B$BTe aseguro que el portal está ahí y el acceso es posible.$B$B¿He despertado tu interés? La sintonización es simple. Aventúrate en las Profundidades de Roca Negra y recupera un fragmento de núcleo. Devuélvemelo y sintonizaré tu esencia con el portal.",
     ["O"] = "Viaja al portal de entrada del Núcleo de Magma en las Profundidades de Roca Negra y recupera un Fragmento del Núcleo. Regresa con Lothos Riftwaker en la Montaña Roca Negra cuando hayas recuperado el Fragmento del Núcleo.",
-    ["T"] = "Armonización con el Núcleo",
+    ["T"] = "La Armonización con el Núcleo",
   },
   [7488] = {
     ["D"] = "La maga Lethtendris, una elfa de sangre viciosa cuya brutalidad solo es igualada por su retorcida adicción a la magia, ha huido a La Masacre. Ha creado un dispositivo, una red para atrapar las energías mágicas de ese lugar y tememos que, si no se la detiene, causará un daño irreparable a nuestro mundo.$B$BDeténla, $N. Encuéntrala y recupera su red. Es probable que esté cerca de los sátiros en el Barrio Alabeo de La Masacre. Tráeme la red para que su poder pueda ser liberado de manera segura en la naturaleza.",
@@ -15180,7 +15180,7 @@ pfDB["quests"]["esES-turtle"] = {
   [7636] = {
     ["D"] = "Los agentes de la Legión Ardiente todavía están activos en nuestro mundo, $c. Estos agentes corrompen todo lo que tocan. La naturaleza se marchita y llora en su presencia.$B$BDebes rastrear a estos corruptores demoníacos y destruirlos, $N. Ten cuidado, debes enfrentarlos solo o huirán. Mientras estés solo, intentarán destruirte. Debes golpearlos, convirtiendo su arrogancia en miseria.$B$BTe concedo un pedazo de mi corteza, las inscripciones te guiarán a tus objetivos. Recupera sus cabezas.",
     ["O"] = "Debes encontrar y destruir a estos cuatro corruptores demoníacos:$B$BSimone la Seductora.$B$BKlinfran el Loco.$B$BSolenor el Destructor.$B$BArtorius el Presagio.$B$BDestruye a estas criaturas y regresa con Vartrus el Anciano en Frondavil con sus cabezas.$B$BConsulta la Corteza Petrificada en tu inventario para obtener pistas sobre su paradero.$B$BDEBES completar esta tarea por ti mismo.",
-    ["T"] = "Bastón de los Antiguos",
+    ["T"] = "El Bastón de los Ancestros",
   },
   [7637] = {
     ["D"] = "Para prepararte para esta tarea, primero debes mostrar el debido sacrificio y juicio... con énfasis en el sacrificio.$B$BDebes adquirir el incensario de exorcismo del Sumo Sacerdote Rohan para tu tarea. Aunque su uso será para buenas y justas razones, se debe dar una compensación adecuada por él.$B$BProcede a Forjaz y habla con el Sumo Sacerdote. Al traer suficiente moneda contigo para ayudar a compensar la pérdida de su incensario, mostrarás tu debido sacrificio.$B$BVe ahora $N, el tiempo es esencial.",
@@ -15766,7 +15766,7 @@ pfDB["quests"]["esES-turtle"] = {
   [7848] = {
     ["D"] = "Los portales se agitan, se desgarran y colapsan a nuestro alrededor, $r. A dos pasos de donde estoy hay una grieta que atraviesa las profundidades de la Montaña Roca Negra, hacia las fauces del Señor del Fuego.$B$B¿Sorprendido? Lástima... Las razas mortales no pueden comprender lo que no pueden ver, tocar o sentir.$B$BTe aseguro que el portal está ahí y el acceso es posible.$B$B¿He despertado tu interés? La sintonización es simple. Aventúrate en las Profundidades de Roca Negra y recupera un fragmento de núcleo. Devuélvemelo y sintonizaré tu esencia con el portal.",
     ["O"] = "Viaja al portal de entrada del Núcleo de Magma en las Profundidades de Roca Negra y recupera un Fragmento del Núcleo. Regresa con Lothos Riftwaker en la Montaña Roca Negra cuando hayas recuperado el Fragmento del Núcleo.",
-    ["T"] = "Armonización con el Núcleo",
+    ["T"] = "La Armonización con el Núcleo",
   },
   [7849] = {
     ["D"] = "Como muchos en nuestra aldea, yo también he perdido a un ser querido en las tierras salvajes. Por desgracia, fue mi hermano gemelo Malkhor, tomado en la misma redada que la compañera de Torntusk por los Vilebranch.$B$BTristemente, no estaba destinado a vivir y recibió una ejecución rápida y brutal, sus restos fueron alimentados a los mocos y lobos de los Vilebranch.$B$BEs demasiado tarde para salvar su vida, pero no es demasiado tarde para salvar su alma. Recupera sus restos, $N.",
@@ -17887,7 +17887,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [8530] = "_",
   [8532] = {
-    ["D"] = "Me alegra que hayas decidido ayudar aquí. No todos lo harían, así que necesito asegurarme de que entiendas lo que necesito. Barras de cobre, no mineral de cobre. No tenemos el tiempo ni la gente para hacer toda la fundición nosotros mismos, así que si fueras tan amable de encargarte de eso, tus esfuerzos serán debidamente notados. ¿Es algo que puedes manejar, $c?",
+    ["D"] = "Me alegra que hayas decidido ayudar aquí. No todos lo harían, así que necesito asegurarme de que entiendas lo que necesito. Barras de cobre, no menas de cobre. No tenemos el tiempo ni la gente para hacer toda la fundición nosotros mismos, así que si fueras tan amable de encargarte de eso, tus esfuerzos serán debidamente notados. ¿Es algo que puedes manejar, $c?",
     ["O"] = "Lleva 20 Barras de Cobre al Minero Cromwell en el Valle de los Espíritus en Orgrimmar.",
     ["T"] = "¡La Horda Necesita Barras de Cobre!",
   },
@@ -18075,7 +18075,7 @@ pfDB["quests"]["esES-turtle"] = {
   [8578] = {
     ["D"] = "<Escuchas un suspiro de alivio escapar del cajón.>$B$B¿Solo quieres sus gafas de visión? ¡Genial! Eso no será un problema... Solo dame un minuto para... ¡Oye! ¿Dónde está...? ¡Maldita sea!$B$BBueno, hay malas noticias y peores noticias. La mala noticia es que perdí las gafas. La peor noticia es que las perdí cuando estaba husmeando en el Núcleo de Magma el mes pasado. Sí, el Núcleo de Magma... Supongo que eso concluye nuestro negocio. ¡Adiós!",
     ["O"] = "Encuentra las Gafas de Visión de Narain y devuélveselas a Narain Hablacenteno en Tanaris.",
-    ["T"] = "¿Gafas de Visión? ¡No hay Problema!",
+    ["T"] = "¿Unas Gafas? ¡Sin Problemas!",
   },
   [8579] = {
     ["D"] = "",
@@ -18546,7 +18546,7 @@ pfDB["quests"]["esES-turtle"] = {
   [8674] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Winterhoof el Anciano",
+    ["T"] = "Pezuña Invernal el Anciano",
   },
   [8675] = {
     ["D"] = "",
@@ -18581,7 +18581,7 @@ pfDB["quests"]["esES-turtle"] = {
   [8681] = {
     ["D"] = "",
     ["O"] = "",
-    ["T"] = "Thunderhorn el Anciano",
+    ["T"] = "Tronacuerno el Anciano",
   },
   [8682] = {
     ["D"] = "",
@@ -21357,6 +21357,11 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "Habla con el Espíritu de Alexandros Mograine.",
     ["T"] = "El Fétido Hedor de la Cruzada Escarlata",
   },
+  [20006] = {
+    ["D"] = "Tracks whether player has disarmed war mode.",
+    ["O"] = "",
+    ["T"] = "Disabled Warmode",
+  },
   [39000] = {
     ["D"] = "¡Suban, gente, y contemplen la máquina mágica de Vizlow!$B$B<Vizlow te mira de arriba abajo.>$B$B¡Ah, un cliente potencial! Debes haber venido de todo el mundo para ver las maravillas que hacen mis máquinas.$B$B¿No? Bueno, no importa. Entonces debe ser el destino. ¡O cualquier deidad en la que creas te ha traído a mí! Escucha, esta máquina puede hacer maravillas, chico. ¡Puede expandir tus capacidades físicas y mentales!$B$B¡Y todo lo que necesitas hacer es insertar oro en ella para que funcione! Entonces, ¿qué dices? Paga diez de oro para activarla. Por supuesto, necesitaré 340, por... materiales, sí, materiales.",
     ["O"] = "Dale a Vizlow 350 monedas de oro para comprar y activar la máquina misteriosa.",
@@ -22384,22 +22389,22 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [40206] = {
     ["D"] = "Los pantanos están llenos de insectos, hongos y depredadores. Solo unos pocos de estos pueden ser disfrutables en las comidas. En lo profundo de los pantanos hay un tipo especial de hongo, uno con el que he jugueteado en el pasado. ¡Puede usarse como veneno, aunque en pequeñas dosis puede agregar mucho a las comidas, o si se prepara correctamente, los efectos nocivos de su veneno pueden neutralizarse.$B$BLos hongos Musgopena pueden encontrarse en todo el pantano, con mayor frecuencia debajo del denso dosel de árboles o a lo largo de los ríos serpenteantes, pero no siempre. Ve al Pantano de las Penas y recógeme 10 hongos Musgopena, deseo experimentar más con el hongo.",
-    ["O"] = "Recolecta 10 Hongos Musgoluto para Thultash en Stonard.",
+    ["O"] = "Recolecta 10 Hongos Musgoluto para Thultash en Rocal.",
     ["T"] = "Recolectando Hongos",
   },
   [40207] = {
-    ["D"] = "Las tarántulas Deathstrike son un enemigo formidable en los pantanos que se encuentran al sureste de Stonard. Se las puede encontrar arrastrándose por los pantanos y tendiendo trampas para sus presas.$B$BEs de estas tarántulas que te pido que recolectes su veneno. He estado intentando mezclar el sabor del veneno, una vez neutralizado, en la comida. En verdad, tengo motivos ulteriores para intentar que estas recetas funcionen. Quizás algún día pueda ser un cocinero renombrado en Orgrimmar, y no estar atrapado en el Pantano de las Penas.$B$B¡Adéntrate en el pantano y recógeme 5 venenos Deathstrike!",
-    ["O"] = "Recolecta 5 Venenos de Golpe Letal para Thultash en Stonard.",
+    ["D"] = "Las tarántulas Deathstrike son un enemigo formidable en los pantanos que se encuentran al sureste de Rocal. Se las puede encontrar arrastrándose por los pantanos y tendiendo trampas para sus presas.$B$BEs de estas tarántulas que te pido que recolectes su veneno. He estado intentando mezclar el sabor del veneno, una vez neutralizado, en la comida. En verdad, tengo motivos ulteriores para intentar que estas recetas funcionen. Quizás algún día pueda ser un cocinero renombrado en Orgrimmar, y no estar atrapado en el Pantano de las Penas.$B$B¡Adéntrate en el pantano y recógeme 5 venenos Deathstrike!",
+    ["O"] = "Recolecta 5 Venenos de Golpe Letal para Thultash en Rocal.",
     ["T"] = "Una Pizca de Veneno",
   },
   [40208] = {
     ["D"] = "He reflexionado durante mucho tiempo sobre la presencia del vuelo verde de dragones reunidos alrededor del templo hundido en el centro del lago. Han merodeado y patrullado con una defensa inquebrantable, dejándonos curiosos sobre lo que podría haber dentro.$B$BPor mucho que estos misterios hagan que mi mente se vuelva loca de curiosidad, no soy un alma aventurera como para descubrir por qué lo están protegiendo. He trabajado con objetos mágicos la mayor parte de mi vida, y he estado deseando tener en mis manos una Escama Verde Reluciente. Una que haya sido infundida por el poder de Ysera y cargada por su voluntad. Debo admitir, puede ser difícil conseguir una.$B$BViaja al Lago de las Lágrimas y caza a los dragonkin verdes, busca en sus cadáveres una Escama Verde Reluciente, entrelazada con magia poderosa, y tráemela.",
-    ["O"] = "Lleva una Escama Verde Reluciente a Thultazor en Stonard.",
+    ["O"] = "Lleva una Escama Verde Reluciente a Thultazor en Rocal.",
     ["T"] = "La Magia de los Dragones",
   },
   [40209] = {
     ["D"] = "Muchos largos meses he pasado en este infierno cazando un gran jaguar. Le he dado el apodo de Garra de la Penumbra, por su ferocidad y de dónde viene. He intentado atraparlo, luchar contra él e incluso acechar a Garra de la Penumbra, pero cada vez me ha superado.$B$BEs como si la bestia estuviera tres pasos por delante de mí en todo momento y anhelo ver su terror dentro del pantano llegar a su fin. Quizás seas un mejor cazador que yo, y quizás puedas rastrear a Garra de la Penumbra y matar a la bestia de una vez por todas.$B$BTe aseguro, no será una tarea fácil, y te recomiendo que traigas ayuda si realmente deseas tomar el relevo donde yo he fallado.",
-    ["O"] = "Lleva la Garra de Sorrowclaw a Zun\'dartha en Stonard.",
+    ["O"] = "Lleva la Garra de Sorrowclaw a Zun\'dartha en Rocal.",
     ["T"] = "La Cacería de Sorrowclaw",
   },
   [40210] = {
@@ -22648,7 +22653,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Yunque de Runa Oscura",
   },
   [40260] = {
-    ["D"] = "Ah, un cazador muy prometedor, pero me temo que no me queda nada que pueda enseñarte, ya que has seguido cumpliendo tus tareas para servir a los No-Muertos y a nuestra reina, supongo que es hora de que avances a Rémol.$B$BDespués de que termines con todas tus tareas aquí, busca a la Forestal Oscura Lanissa, estará en una tienda en el pueblo de Rémol.$B$BElla te enseñará todo lo que necesitas saber para continuar tu misión, estas forestales oscuras fueron traídas con nuestra Dama Sylvanas desde Quel\'thalas, como su nombre lo indica, son muy hábiles cuando se trata de puntería.$B$BAdiós, y recuerda mantenerte en las sombras, por los No-Muertos.",
+    ["D"] = "Ah, un cazador muy prometedor, pero me temo que no me queda nada que pueda enseñarte, ya que has seguido cumpliendo tus tareas para servir a los No-Muertos y a nuestra reina, supongo que es hora de que avances a Rémol.$B$BDespués de que termines con todas tus tareas aquí, busca a la Forestal Oscura Lanissa, estará en una tienda en el pueblo de Rémol.$B$BElla te enseñará todo lo que necesitas saber para continuar tu misión, estas forestales oscuras fueron traídas con nuestra Lady Sylvanas desde Quel\'thalas, como su nombre lo indica, son muy hábiles cuando se trata de puntería.$B$BAdiós, y recuerda mantenerte en las sombras, por los No-Muertos.",
     ["O"] = "Habla con la Forestal Oscura Lanissa en Rémol.",
     ["T"] = "La Maestría de una Forestal Oscura",
   },
@@ -22853,7 +22858,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Horneando Pan",
   },
   [40302] = {
-    ["D"] = "¡Hola, aventurero! Como sabrás, la Feria de la Luna Negra se mueve de Kalimdor a los Reinos del Este cada semana. De hecho, podemos movernos por la mayoría de las ciudades sin la barrera de la facción.$B$BCon el nuevo barco de Costa Oscura a Ventormenta, hemos cambiado drásticamente nuestra ruta.$B$BPara ser breve, esta semana acampamos cerca de la Playa de Zoram por la noche antes de llegar a Costa Oscura, y uno de esos Nagas robó un regalo muy preciado que una vez recibí en Tanaris.$B$B¡Ah sí, en mis días de búsqueda de maravillas y misterios encontré una curiosa tortuga cerca de las costas, su nombre era Torta, y podía hablar! Imagina, una tortuga que habla, ¡qué maravilla!$B$BElla me pidió que encontrara a su esposo, Tooga. Aparentemente se perdía mucho, pero también podía hablar. ¡Nunca en mi vida había visto algo así! Pero lamentablemente no quisieron unirse a la Feria, sin embargo, Torta me ofreció uno de sus huevos y ese es el regalo preciado del que hablo, creo que estaba a punto de eclosionar.$B$B¡Por favor, recupera mi huevo!",
+    ["D"] = "¡Hola, aventurero! Como sabrás, la Feria de la Luna Negra se mueve de Kalimdor a los Reinos del Este cada semana. De hecho, podemos movernos por la mayoría de las ciudades sin la barrera de facción.$B$BCon el nuevo barco de Costa Oscura a Ventormenta, hemos cambiado mucho nuestra ruta.$B$BEsta semana acampamos cerca de la Playa de Zoram por la noche antes de llegar a Costa Oscura, y uno de esos Nagas robó un regalo muy preciado que una vez recibí en Tanaris.$B$B¡Ah sí, en mis días de búsqueda de maravillas y misterios encontré una curiosa tortuga cerca de las costas, su nombre era Torta, y podía hablar! Imagina, una tortuga que habla, ¡qué maravilla!$B$BElla me pidió que encontrara a su esposo, Tooga. Aparentemente se perdía mucho, pero también podía hablar. ¡Nunca había visto algo así! Pero lamentablemente no quisieron unirse a la Feria, sin embargo, Torta me ofreció uno de sus huevos y ese es el regalo preciado del que hablo, creo que estaba a punto de eclosionar.$B$B¡Por favor, recupera mi huevo!",
     ["O"] = "Encuentra el Huevo de Torta en la Costa de Zoram.",
     ["T"] = "El Huevo de Torta",
   },
@@ -22864,12 +22869,12 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [40304] = {
     ["D"] = "He sido enviado por un consejo de magos de Orgrimmar para investigar el creciente poder que emana de Karazhan. He investigado mucho sobre la torre en sí y los artefactos que una vez pertenecieron a las ruinas a su alrededor.$B$BTengo algunas corazonadas, la primera de las cuales es que la energía que yo y los otros magos hemos sentido proviene de debajo de Karazhan. En una antigua y decrépita serie de catacumbas debajo de la torre. Si estoy en lo correcto, entonces necesitaremos un antiguo Colgante que tenga suficiente poder para recargar una llave creada por Medivh.$B$BEste artefacto es conocido como el Colgante de Ardan, considerado perdido durante algunos años. Mi única pista es la de los ogros del Paso de la Muerte, cuyo líder, Var\'zhog, ha comenzado a exhibir destreza mágica.$B$BEncuentra a Var\'zhog y reclama el Colgante de Ardan de él.",
-    ["O"] = "Busca el Colgante de Ardan, que se rumora está en posesión del ogro Var\'zhog, recógelo y devuélveselo a Kor\'gan en Stonard.",
+    ["O"] = "Busca el Colgante de Ardan, que se rumora está en posesión del ogro Var\'zhog, recógelo y devuélveselo a Kor\'gan en Rocal.",
     ["T"] = "Las Profundidades de Karazhan I",
   },
   [40305] = {
     ["D"] = "Con el Colgante de Ardan en nuestras manos, podemos volver nuestra atención hacia la torre misma y la magia que ha comenzado a convocar más fantasmas a su alrededor. Recientemente, los muertos han comenzado a materializarse, espíritus y ecos del pasado aferrándose a la torre como si aún estuvieran vivos.$B$BViaja a las ruinas alrededor de Karazhan y, de los fantasmas y muertos, tráeme 8 Sustancias Fantasmales. A partir de esta sustancia, podré verificar qué tipo de magia persiste en estos seres etéreos.$B$BTen cuidado, ya que también hay rumores de un Atracador Oscuro que custodia la entrada a Karazhan.",
-    ["O"] = "Reúne 8 Sustancias Fantasmales de los fantasmas alrededor de Karazhan y regresa con Kor\'gan en Stonard.",
+    ["O"] = "Reúne 8 Sustancias Fantasmales de los fantasmas alrededor de Karazhan y regresa con Kor\'gan en Rocal.",
     ["T"] = "Las Profundidades de Karazhan II",
   },
   [40306] = {
@@ -22879,12 +22884,12 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [40307] = {
     ["D"] = "Dios mío... Qué energía tan potente, siempre supuse que Karazhan tenía energía ley natural, de hecho se rumoreaba dentro de Dalaran. Kor\'gan tenía razón al traerme estas muestras, serán buenas para futuros proyectos. La energía que se esconde bajo lo arcano es la de la nigromancia, y una nigromancia bastante potente.$B$BHace mucho tiempo, pasé bastante tiempo en Karazhan. Estaba en misión del Kirin Tor para investigar la energía natural que permanecía allí. Sin duda, esto es obra de Alarus, un estudiante de Medivh por un breve período. Pasó gran parte de sus últimos días atendiendo las criptas que se extendían muy por debajo de la torre.$B$BSi tu tarea es entrar en esas catacumbas, necesitarás rehacer la llave. Requiere una Marca de Karazhan, en posesión de pocos a quienes se les dio entrada a la torre, así como la llave misma.$B$BLleva esta información a Kor\'gan, quizá encuentre una solución a este problema.",
-    ["O"] = "Regresa con Kor\'gan en Stonard con la información proporcionada por Gunther Arcanus.",
+    ["O"] = "Regresa con Kor\'gan en Rocal con la información proporcionada por Gunther Arcanus.",
     ["T"] = "Las Profundidades de Karazhan IV",
   },
   [40308] = {
     ["D"] = "Si vamos a rehacer la llave, necesitaremos los artículos que Gunther Arcanus insinuó. No tengo dudas de que ambos artículos se pueden encontrar merodeando alrededor de la torre.$B$BEl primer artículo que adquiriremos es la llave en sí, hay rumores de un humano enfermizo y pálido que emerge cuando no hay un alma viviente cerca, para cuidar los terrenos alrededor de Karazhan. Sería de él que se puede encontrar la Vieja Llave de la Cripta, encuéntralo y reclámala para nuestros propósitos, debería estar cerca.$B$BPor último, se requerirá una Marca de Karazhan, de las cuales no quedan muchas en este mundo mortal. He escuchado historias de un Capitán que merodea en las cuevas de la Cripta del Maestro. El Capitán Rothynn y su hermano gemelo recibieron una hace mucho tiempo, él debería tener una todavía.$B$BCuando obtengas estos artículos, regresa a mí y podré forjar la llave.",
-    ["O"] = "Reúne la Llave de la Cripta Antigua y la Marca de Karazhan de alrededor de las ruinas de Karazhan para Kor\'gan en Stonard.",
+    ["O"] = "Reúne la Llave de la Cripta Antigua y la Marca de Karazhan de alrededor de las ruinas de Karazhan para Kor\'gan en Rocal.",
     ["T"] = "Las Profundidades de Karazhan V",
   },
   [40309] = {
@@ -22894,7 +22899,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [40310] = {
     ["D"] = "Solo hay un paso más para nosotros, como miembros honorables de la Horda. Debemos avanzar hacia la oscuridad y aniquilar este mal antes de que crezca aún más. Si dejamos que los humanos se ocupen de esto, ¿quién sabe si podrían detenerlo?$B$BComo Grom Hellscream mató a Mannoroth, nosotros también debemos enfrentarnos a algo terrible y destruirlo de este mundo. Te pido que te adentres en las Criptas de Karazhan y pongas fin a esta locura, por el bien de este mundo.$B$BEsta no será una tarea que puedas manejar solo, asegúrate de traer aliados fuertes para acompañarte.",
-    ["O"] = "Adéntrate en las Criptas de Karazhan, una vez dentro mata a Alarus, el vigilante de las Criptas, para Kor\'gan en Stonard.",
+    ["O"] = "Adéntrate en las Criptas de Karazhan, una vez dentro mata a Alarus, el vigilante de las Criptas, para Kor\'gan en Rocal.",
     ["T"] = "Las Profundidades de Karazhan VII",
   },
   [40311] = {
@@ -23464,7 +23469,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [40424] = {
     ["D"] = "Gracias a tus acciones, hemos podido descansar un rato. También escribí el informe para Ruag. Entrégaselo y recuérdale que envíe algo de alcohol la próxima vez que piense que necesitamos ayuda.$B$BSangre y honor, amigo. Hoy ayudaste a nosotros y a la Horda.",
-    ["O"] = "Entrega el Informe de las Tierras Devastadas al Comandante de Despachos Ruag en Stonard.",
+    ["O"] = "Entrega el Informe de las Tierras Devastadas al Comandante de Despachos Ruag en Rocal.",
     ["T"] = "Informe desde una Tierra Devastada",
   },
   [40425] = {
@@ -23663,7 +23668,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Verdadero Alto Capataz",
   },
   [40464] = {
-    ["D"] = "Shadowforge fue una vez un hogar del que estaba orgulloso. Ahora sé la verdad de lo que realmente es, y es vil y corrupto.$B$BEn su corazón, muchas de las decisiones que toman los Senadores de Shadowforge son solo para promover sus propios intereses a expensas de las personas que viven dentro.$B$BTe pido un favor, uno más importante que cualquier cosa para mí.$B$BEl Senado de Shadowforge debe ser erradicado, están seguros y cómodos en lo profundo de la ciudad, haz que sientan miedo.$B$BPuedes entrar a Shadowforge en lo profundo de la Montaña Roca Negra, ve allí y adéntrate en las Profundidades de Roca Negra para encontrarlos y matarlos.",
+    ["D"] = "Forjatiniebla fue una vez un hogar del que estaba orgulloso. Ahora sé la verdad de lo que realmente es, y es vil y corrupto.$B$BEn su corazón, muchas de las decisiones que toman los Senadores de Forjatiniebla son solo para promover sus propios intereses a expensas de las personas que viven dentro.$B$BTe pido un favor, uno más importante que cualquier cosa para mí.$B$BEl Senado de Forjatiniebla debe ser erradicado, están seguros y cómodos en lo profundo de la ciudad, haz que sientan miedo.$B$BPuedes entrar a Forjatiniebla en lo profundo de la Montaña Roca Negra, ve allí y adéntrate en las Profundidades de Roca Negra para encontrarlos y matarlos.",
     ["O"] = "Mata 25 Senadores Forjatiniebla en lo profundo de las Profundidades de Roca Negra para Orvak Sternrock en el Paso Roca Negra en las Estepas Ardientes.",
     ["T"] = "Venganza Senatorial",
   },
@@ -24028,7 +24033,7 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Vínculo a Través de la Batalla",
   },
   [40537] = {
-    ["D"] = "Amigo mío, estás listo para recibir tu propio cachorro de hipogrifo ansioso. Pero para que te acepte como su nuevo compañero, debes traerle un regalo al hipogrifo. Durante muchos años, el hipogrifo y las arpías lucharon en el viento por el dominio de los cielos.$B$BPrueba ser un aliado para el cachorro, tráele la pluma más hermosa del ala de una arpía. Esto podría ser difícil, pero entiende que si la pluma no es elegida tanto por el destino como por tu propia conciencia, nunca podrás agradarle.$B$BLas Arpías Viento Furioso se encuentran alrededor de Mulgore, mátalas y tráeme una pluma que creas que complacerá a tu cachorro.",
+    ["D"] = "Amigo mío, estás listo para recibir tu propio cachorro de dracoleón ansioso. Pero para que te acepte como su nuevo compañero, debes traerle un regalo al hipogrifo. Durante muchos años, el hipogrifo y las arpías lucharon en el viento por el dominio de los cielos.$B$BPrueba ser un aliado para el cachorro, tráele la pluma más hermosa del ala de una arpía. Esto podría ser difícil, pero entiende que si la pluma no es elegida tanto por el destino como por tu propia conciencia, nunca podrás agradarle.$B$BLas Arpías Viento Furioso se encuentran alrededor de Mulgore, mátalas y tráeme una pluma que creas que complacerá a tu cachorro.",
     ["O"] = "Reúne una Pluma de Arpía Pristina de las Arpías Furiatiempo para el Entrenador Tokala en el Nido Nube Roja en Mulgore.",
     ["T"] = "Uno Pequeño y Ansioso",
   },
@@ -25648,9 +25653,9 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Compañero: Pequeño Cervatillo",
   },
   [40873] = {
-    ["D"] = "Si buscas obtener conocimiento de nuestros elixires más vitales y raros, has llegado al lugar correcto. Por tus esfuerzos en Hyjal, podría otorgarte el conocimiento de mis antepasados. El Elixir de Fragmento de Sueño es una mezcla alquímica bastante potente y poderosa.$B$BPodría usarse para cambiar el rumbo de un conflicto a tu favor.",
-    ["O"] = "Reúne 50 Fragmentos de Sueño Brillante para Evandil Brisa Nocturna en Nordanaar en Hyjal.",
-    ["T"] = "La Receta del Elixir de Fragmento Onírico",
+    ["D"] = "Si buscas conocer nuestros elixires más vitales y raros, has llegado al lugar indicado. Por tus esfuerzos en Hyjal, puedo otorgarte el conocimiento de mis antepasados. El Elixir Fragmento de Sueño es una mezcla alquímica bastante potente y poderosa.$B$BPodría usarse para cambiar el rumbo de un conflicto a tu favor.",
+    ["O"] = "Reúne 50 Fragmentos de Sueño Brillantes para Evandil Brisanocturna en Nordanaar, Hyjal.",
+    ["T"] = "La receta del Elixir Fragmento de Sueño",
   },
   [40874] = {
     ["D"] = "Los druidas de Hyjal aprendieron hace mucho tiempo a dominar una poción de lucidez, capaz de mantener al bebedor despierto e inmune al llamado del Sueño Esmeralda. Estoy dispuesto a ofrecerte esta fórmula por tus acciones y hechos en Hyjal.$B$BReúne Fragmentos de Sueño Brillante, y tú también podrás mantenerte lúcido y despierto ante el llamado de las pesadillas.",
@@ -26118,8 +26123,8 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Entrega de Veta de Cristal",
   },
   [40972] = {
-    ["D"] = "Bienvenido a los restos de Gilneas. $B$BLo que ves ante tus ojos puede no coincidir con la grandeza y el esplendor que imaginaste. Este otrora poderoso bastión del poder humano ahora se erige como un testimonio del implacable paso del tiempo y los estragos de la guerra. Nosotros también hemos sucumbido al destino que ha caído sobre gran parte del mundo.$B$BTómate un momento y escucha la historia de un viejo caballero.",
-    ["O"] = "Escucha el relato de Darius Bosquecorvo.",
+    ["D"] = "Bienvenido a los restos de Gilneas.$B$BLo que ves ante tus ojos puede no coincidir con la grandeza y el esplendor que imaginaste. Este poderoso bastión del poder humano ahora es un testimonio del implacable paso del tiempo y los estragos de la guerra. Hemos sucumbido al destino que ha caído sobre el mundo.$B$BTómate un momento y escucha la historia de un viejo caballero.",
+    ["O"] = "Escucha la historia de Darius Roblebosque",
     ["T"] = "La Rebelión",
   },
   [40973] = {
@@ -27215,7 +27220,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41195] = {
     ["D"] = "Rápido ahora, el tiempo es esencial. Este mensaje debe llegar al Consejo de Regencia con la rapidez del viento antes de que la situación empeore.$B$B<La Comandante Anarileth se inclina, bajando la voz a un susurro.>$B$BSin embargo, una advertencia pesa sobre estas palabras. No todos los miembros del Consejo son dignos de confianza absoluta. Asegúrate, con la máxima discreción, de que este mensaje llegue exclusivamente a las manos de Vereesa Brisaveloz. Solo a ella se le puede confiar su contenido.",
     ["O"] = "Lleva la Carta Tocada por lo Vil a Lady Vereesa Brisaveloz en Alah\'Thalas.",
-    ["T"] = "Mensaje para la Brisaveloz",
+    ["T"] = "Mensaje para Brisaveloz",
   },
   [41196] = {
     ["D"] = "¡No puedo soportarlo, no puedo soportarlo más! ¡Tú! ¡TÚ! ¡Ven aquí, pequeño...!$B$B <Ranathir se estremece y sacude la cabeza, bajando la voz.>$B$BNo, no, ese no soy yo. Lo siento. Lo siento, por favor, no... debes perdonarme, ese no era yo, no lo decía en serio. Pero yo... ya ves... no he tenido mi dosis de maná en... en...$B$B ¿Cuánto tiempo ha pasado? Siento que últimamente el tiempo se ha detenido y se está riendo de mí. Por favor, necesito que me traigas un cristal arcano de las minas. Los gólems lo hacen tan difícil de conseguir, y nunca hay suficientes. Nunca es suficiente...$B$BPor favor. Por favor, date prisa. No puedo... soportarlo.",
@@ -27787,6 +27792,21 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "Regresa con el Aceite de Piedras Preciosas de Zalashji para Fanzy Chispavínculo en Puerto Bonvapor.",
     ["T"] = "Más Gnomo Frágil",
   },
+  [41310] = {
+    ["D"] = "<El libro que encontraste no parece tan viejo como el resto de los tomos que yacen alrededor. Decorado con el sigilo del Kirin Tor, asumes que debió pertenecer a un poderoso mago.$B$BAl hojear las páginas, deduces que es el diario de un mago llamado Khadgar, de quien has oído antes. Antiguo aprendiz del Guardián Medivh y miembro de los Hijos de Lothar, quienes llevaron la ofensiva de la Alianza a Draenor durante la Segunda Guerra.$B$BEsperando desvelar otro misterio, estudias sus contenidos con más atención.",
+    ["O"] = "Lee el Diario de Khadgar y descubre el enigma que hay detrás.",
+    ["T"] = "Garras de Thanlar",
+  },
+  [41311] = {
+    ["D"] = "Estuve allí cuando Arthas asedió Dalaran bajo las órdenes de sus amos demoníacos. Mientras Menethil cometía actos atroces en su misión de robar el Libro de Medivh, su ejército saqueó la ciudad de otros peligrosos artefactos que estábamos asegurando en nuestras bóvedas. Defendiendo la ciudad mágica de punta a punta, me enfrenté a un poderoso guardia apocalíptico buscando destrucción y caos.$B$BSi es la Garra de Thanlar lo que buscas, entonces encontrar a ese guardia apocalíptico es lo que debes hacer. Durante mi recuperación después de la caída de Dalaran, los otros magos supervivientes discutieron sobre Archimonde y el próximo objetivo de su ejército, que resultó ser dirigirse hacia el oeste, a estas mismas tierras, en busca del Árbol del Mundo Nordrassil. Si el guardia apocalíptico todavía está en Azeroth, entonces supongo que está tramando su venganza en un abismo infestado de demonios, cerca del Monte Hyjal.",
+    ["O"] = "Mata al guardia vil del que Dolvan te estaba informando y regresa con la Garras de Thanlar. Te espera en su casa al sur de Theramore.",
+    ["T"] = "Bovar\'kez",
+  },
+  [41312] = {
+    ["D"] = "Cuando el embrague estaba bajo la custodia del Kirin Tor en Dalaran, estudié extensamente su forma, función y propósito. Aunque Medivh era un tipo reservado, todos sus implementos y artilugios mágicos llevan una marca mágica similar. Incluso los magos no familiarizados con el Guardián pueden sentir eso. Durante mi investigación llegué a la conclusión de que el embrague era parte de algo grandioso, y que a su vez era parte de algo aún mayor. A juzgar por su forma, una enorme gema debió haber tenido su lugar en la parte superior de su soporte.$B$BSi alguna vez te encuentras con una gema así en tus aventuras hacia la torre embrujada, estoy seguro de mis habilidades para restaurar el artefacto a su estado original. Para hacerlo, sin embargo, necesitaría un fuerte enfoque arcano para canalizar mi energía. El Vuelo Azul, protector de la magia de Azeroth, tiene custodia de tales objetos, aunque solo sus miembros más poderosos los llevan consigo.",
+    ["O"] = "Si deseas reparar la reliquia, lleva a Dolvan las partes necesarias y un foco arcano de un dragón azul de alto rango. El mago puede encontrarse a lo largo de la costa al sur de Theramore.",
+    ["T"] = "Restauración",
+  },
   [41313] = {
     ["D"] = "Esta tierra es rica en magia. Numerosas razones me trajeron aquí para mi investigación, y las muchas líneas ley que recorren la tierra son una de ellas. Potentes energías arcanas fluyen de sus arroyos, atrayendo a innumerables habitantes hambrientos de maná de este y otros mundos. Deseo entender más claramente por qué exactamente este paisaje olvidado y maldito es hogar de tal fenómeno. La curiosidad escapa de tus ojos: ¿pretendes ayudarme en mis esfuerzos?$B$BOtros asuntos me mantienen ocupado en mi torre, así que si salieras y adquirieras algunos reactivos para mí, serías recompensado por tus esfuerzos. Lo que necesito son formaciones cristalizadas de energía de líneas ley. Mis estudiantes pudieron localizar dos, al este y al sur de aquí. Sospecho que los dragones azules residentes y los elfos de sangre depravados son nuestras mejores pistas. Comienza tu búsqueda allí.",
     ["O"] = "Recolecta los cristales de línea ley para el Archimago Xylem en su torre en Azshara.",
@@ -28067,6 +28087,26 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "Mata al Intendente del Arsenal Daghelm y devuelve el diario de Basil a él en Entrañas.",
     ["T"] = "Reminiscencia de Acero",
   },
+  [41369] = {
+    ["D"] = "Vestigios de gran poder emanan de ti, extraño. Vestigios similares a los que circulan dentro de la maldita torre que se alza sobre este barranco muerto. Hace lo que parece una eternidad, los habitantes de esta iglesia recibimos la tarea de custodiar una reliquia, una que Hanvar restauró para ti no hace mucho. Es parte de un poderoso artefacto, un conducto de magia desatada. Anteriormente usado por el Guardián mismo, ahora está roto: una medida de seguridad para asegurar que ningún mal lo use para dañar a Azeroth como él lo hizo una vez.$B$BSus partes no solo están esparcidas por la torre, sino también por el mundo. Si logras adquirirlas en tu viaje, tráemelas y podré devolverlas a su forma original. Sin embargo, para lograr esto, se necesita una gran cantidad de energía arcana. No puedo dejar este lugar, así que depende de ti traerme algo así. La torre del guardián sería un lugar adecuado para encontrarla.",
+    ["O"] = "Para restaurar el Cetro de Medivh, Anelace la Clarividente en la Parcela de Morgan en el Paso de la Muerte necesita una gran cantidad de energía arcana.",
+    ["T"] = "Reminiscencia de Acero",
+  },
+  [41370] = {
+    ["D"] = "Lo que siento en ti—este calor paralizante, tanta presión, ¡apenas puedo soportarlo! Has regresado con la cabeza del cetro y anhela reunirse con su contraparte. No perdamos tiempo, no sea que la inmensa fuerza de estos objetos sea demasiado para soportar.$B$BEstá dentro de mis habilidades restaurar el Cetro de Medivh a su gloria completa, con la ayuda del residuo cósmico restante. Sin embargo, solo sería una restauración superficial. El cetro no es más que un adorno inútil si no está imbuido con la esencia del guardián, ya que fue su toque lo que lo despertó. A menos que encontremos una manera de sintonizarlo con Medivh, utilizarlo será imposible.$B$BComo el guardián ya no habita aquí, encontrar tales destellos de él parece imposible. Por favor, es imperativo que tú y yo lo localicemos, o el cetro permanecerá inactivo para siempre.",
+    ["O"] = "Un fragmento de Medivh es necesario para imbuir el Cetro de Medivh. Llévalo a Anelace la Clarividente en la Parcela de Morgan fuera de Karazhan.",
+    ["T"] = "El Cetro de Medivh",
+  },
+  [41371] = {
+    ["D"] = "El cetro está completo, pero... diferente a como lo recordaba. Se ve idéntico, pero la presencia que tiene se siente apagada, casi vacía. Aunque el poder del guardián es muy notable, hay un residuo inconfundible de energía extraña dentro del cetro mismo. Esta energía yace latente, dormida y anhela ser despertada. $N, temo que aún no hemos terminado, antes de que hayamos liberado esta magia de la reliquia.$B$BCuando enfoco mi mente en el artefacto, reconozco piedras flotantes, una tierra atormentada y fuego brotando del suelo. Una raza de místicos viajeros, sometidos por una llama esmeralda.$B$B$N, por favor perdóname por no ser lo suficientemente útil. Para aprovechar la magia extraña del cetro, necesitaría armonizarla con un objeto energizado de ese plano que te describí. Dónde encontrarías tal cosa, se escapa a mi vista, sin embargo.",
+    ["O"] = "Sintoniza las magias furiosas y alienígenas dentro del Cetro de Medivh llevando una fuente de magia similar a Anelace la Clarividente en la Parcela de Morgan fuera de Karazhan.",
+    ["T"] = "El Vestigio de Tirisfal",
+  },
+  [41372] = {
+    ["D"] = "La sintonización tomará algo de mi tiempo y energía. Por favor, avísame una vez que desees que comience el proceso.",
+    ["O"] = "Presencia la creación del Cetro de Medivh.",
+    ["T"] = "El Cetro de Medivh de Otro Mundo",
+  },
   [41373] = {
     ["D"] = "El texto está escrito en un argot goblin muy lento. Al hojear las páginas, recetas familiares llaman la atención, pero nada demasiado interesante. Con un suspiro, pasas a la siguiente página para notar una página faltante. No le darías importancia si el libro no terminara allí, pero ahora que lo hizo, estabas sopesando las posibilidades.$B$BUna docena de \"qué pasaría si\" vienen a la mente mientras decides cerrar el libro. En su parte posterior, puedes distinguir el nombre \"El Gran Gastino\" - ¿qué tenía de grandioso este libro común? ¿Quién es este Gastino, y quién podría decirte más? Mientras la curiosidad se arraiga profundamente en tu mente, recuerdas a un cocinero fantasmal en los pasillos inferiores de Karazhan.",
     ["O"] = "Encuentra al Cocinero en las Salas Inferiores de Karazhan.",
@@ -28176,6 +28216,11 @@ pfDB["quests"]["esES-turtle"] = {
     ["D"] = "Con las sombras persistentes de los pricoliches muertos y su influencia menguante, ha llegado el momento de limpiar la Guadaña de Elune. Sin embargo, tal hazaña no es una tarea simple, ya que los tentáculos de las magias oscuras tejidas dentro de su misma esencia están profundamente arraigados.$B$BAcércate, joven, y escucha mis palabras. Para comenzar el proceso de purificación, necesitaremos seis Piedras de Sueño Eternas y veinte Paños Lunares. Estos fragmentos formarán la piedra angular de nuestro esfuerzo, sirviendo como conductos para las energías purificadoras que fluirán a través de ellos.$B$BPero el camino hacia la pureza está plagado de peligros, ya que las magias oscuras que infestan la Guadaña anhelan ser liberadas una vez más en el mundo. Para contener fuerzas tan potentes, debemos crear un recipiente de una fuerza incomparable: el alma de un poderoso demonio. Entre las filas del vacío, se susurra sobre un señor del terror llamado Mephistroth.$B$BAventúrate en las profundidades del vacío y busca la esencia del alma de Mephistroth.",
     ["O"] = "Lleva 6 Fragmentos de Piedra de Sueño Eterna, 20 Telas lunares y Alma de un Señor del Terror al Archidruida Dreamwind.",
     ["T"] = "La Fuerza para Mover Montañas",
+  },
+  [41395] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Guadaña de la Diosa",
   },
   [41396] = {
     ["D"] = "$N, por favor, detente un momento. Justo ahora, sentí una oleada de energía del fragmento del espíritu de mi abuelo. Una cálida bienvenida, una que extrañé durante muchos milenios. Eso no es todo, sin embargo. Es difícil de entender, pero siento que el gran Malorne está tratando de comunicarse con nosotros, contigo. Puedo sentir la urgencia en su presencia. No puede ser de otra manera: Malorne desea otorgarte su bendición, estoy seguro de ello.$B$BPara recibir la bendición de mi abuelo, es imperativo que estés en sintonía con el Sueño Esmeralda, como lo estoy yo. Sin embargo, alinearte con el reino de Ysera es una tarea que solo los druidas veteranos logran después de años de meditación. Aún así, hay otra manera. Para eso, se requiere preparación. Ayúdame, $N, y allanaré el camino para que obtengas la Visión del Sueño.$B$BPrimero, necesitamos un velo onírico, tejido con piel de sueño e hilo de sueño. Además, hongos verdes, empapados en energía del Sueño. Encuéntralos en el Lago Jademir en Feralas. Por último, tráeme muchas pociones de descanso sin sueños.",
@@ -28790,7 +28835,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41518] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Botas de Furia de la Tierra",
+    ["T"] = "Maestría en Bastones",
   },
   [41519] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. ¿Quién hubiera pensado que algo tan simple como luchar con bastones podría llenar volúmenes enteros? Lo que más capta tu interés es una breve sección sobre los Pandaren, una raza enigmática de humanoides con aspecto de oso del otro lado del mar. Aparentemente, son conocidos como los maestros incomparables del combate con bastón. Intrigado, decides llevar el libro a Nora.>",
@@ -28805,7 +28850,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41521] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Legado de Cebatruenos",
+    ["T"] = "Maestría en Armas a Distancia",
   },
   [41522] = {
     ["D"] = "<El pesado tomo es un testimonio de la inquebrantable dedicación del Maestro Mathias al arte de la guerra. Simplemente hojear sus páginas deja una impresión formidable, mostrando relatos meticulosos de los trolls Amani, técnicas para manejar varias armas arrojadizas y el intrincado arte de lanzar gujares. Sin embargo, el conocimiento histórico por sí solo no equivale a maestría. Como debes devolver el libro a Nora, quizás ella pueda ayudarte a aplicar sus enseñanzas de manera práctica.>",
@@ -28820,7 +28865,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41524] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Hachas Arrojadizas de los Amani",
+    ["T"] = "Maestría en Armas de Fuego",
   },
   [41525] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. El libro continúa contradiciéndose la mayor parte del tiempo, afirmando que el arma de fuego es útil y defectuosa. Mientras su poder destructivo es grandemente considerado, su ruido y la necesidad de pólvora son desventajas considerables. Como investigadora, Nora podría ofrecer más información.>",
@@ -28835,7 +28880,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41527] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Pólvora de Roca Negra",
+    ["T"] = "Maestría en Ballestas",
   },
   [41528] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Se puede deducir una historia detallada de la invención y refinamiento de la ballesta, pero sientes que la verdadera esencia y conexiones de todo ello te eluden. Como debes devolver el libro a Nora de todos modos, quizás ella pueda ayudarte a comprenderlo mejor.>",
@@ -28850,7 +28895,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41530] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Una Estaca Carmesí en su Corazón",
+    ["T"] = "Maestría en Arcos",
   },
   [41531] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Un manifiesto sobre siglos de arquería de los Elfos Nocturnos, los inicios de la fabricación de arcos Arathi y las extrañas técnicas utilizadas por los trolls Zandalari son solo una fracción de la sabiduría contenida en estas páginas. Sintiéndote abrumado, te preguntas si esta Nora Sakgoth mencionada podría ayudarte a aprovechar al máximo el libro.>",
@@ -28865,7 +28910,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41533] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "El Arco de los Robles",
+    ["T"] = "Maestría en Armas de Asta",
   },
   [41534] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Las armas de asta se describen como efectivas y fuertes. Debido a su largo alcance, el portador puede atacar sin entablar combate cuerpo a cuerpo. Se afirma que los ejércitos humanos las preferían en batalla contra los orcos debido a su diferencia de tamaño. Sientes que este tipo de arma no recibe el respeto que merece, por lo que buscas a Nora para aprender más.>",
@@ -28880,7 +28925,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41536] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Apreciado en el Tiempo",
+    ["T"] = "Maestría en Espadas",
   },
   [41537] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Describe la Batalla de Aldea Darrowshire y un cierto Señor de la Plaga que selló su destino. El libro describe sus acciones como viles y crueles, pero no pierde la oportunidad de describir las espadas que usó Marduk el Negro. Confundido por la admiración ofrecida a tal monstruo, la sangre en tus venas hierve mientras te diriges hacia Nora.>",
@@ -28895,7 +28940,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41539] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Espada del Luto",
+    ["T"] = "Maestría en Mazas",
   },
   [41540] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. El libro habla de la importancia de los martillos en la cultura enana. Aunque no puedes entender la mayor parte, el libro termina con una leyenda. Supuestamente, los enanos reclamaban colinas y montañas lanzando sus martillos al aire, y dondequiera que cayera, ese sería su nuevo hogar. Intrigado por la leyenda, te diriges a Nora.>",
@@ -28910,7 +28955,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41542] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Rompededos",
+    ["T"] = "Maestría en Hachas",
   },
   [41543] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Un estudio sobre el amor de la Horda Orca por las hachas. A través de las páginas, un nombre es honrado varias veces. Abrumado por el profundo respeto retratado entre líneas, te diriges ansiosamente hacia Nora, deseando saber más.>",
@@ -28925,7 +28970,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41545] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Honrando al Guerrero",
+    ["T"] = "Maestría en Armas de Puño",
   },
   [41546] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Comienzas a darte cuenta de que siempre has llevado un arma. Desde el amanecer de las primeras razas de Azeroth, el comienzo de la evolución misma comenzó con un puño. ¿De qué otra manera habrían sobrevivido y se adaptado? Miras tus puños con admiración: no necesitas un arma si tú eres el arma. Estás listo para hablar con Nora sobre tu nueva admiración por tus puños.>",
@@ -28940,7 +28985,7 @@ pfDB["quests"]["esES-turtle"] = {
   [41548] = {
     ["D"] = "Ahora dime: ¿Cómo se siente ser considerado digno por el maestro? Cuando él me eligió como su aprendiz, fue el mayor honor que he sentido, seguramente tú sientes lo mismo.$B$BSi el maestro desea compartir su conocimiento contigo, puedo ayudarte con eso - por un precio, por supuesto. Él puede ser benevolente, pero no lo suficientemente tonto como para actuar por caridad, tienes que contribuir con tu parte del trabajo también. Ocultos en los lugares más peligrosos de Azeroth encontrarás textos, aquellos de tiempos antiguos, que contienen enseñanzas olvidadas hace mucho. Encuéntralos y con un poco de oro de tu parte, puedo ponerte en el camino correcto para desbloquear nuevas estrategias de batalla para ti.",
     ["O"] = "Preséntale a Sakgoth un Texto de Guerra Antiguo y 250 de oro para obtener acceso al conocimiento de las artes marciales. Te espera en la Isla Fray en los Baldíos.",
-    ["T"] = "Leyenda de Eskhandar",
+    ["T"] = "Maestria en Dagas",
   },
   [41549] = {
     ["D"] = "<El pesado libro es un testimonio de la devoción rigurosa del Maestro Mathias al arte de la guerra. Solo intentar obtener una visión general hojeando sus páginas te deja una expresión abrumadora. Aunque gran parte gira en torno a las diferentes formas y longitudes de las dagas, así como técnicas de parada y apuñalamiento, la mayoría del libro trata sobre anatomía: ubicación de órganos vitales, grupos musculares, tendones y arterias. Intrigado y abrumado al mismo tiempo, decides hablar con esta Nora sobre la obra del Maestro Mathias, con la esperanza de entender más.>",
@@ -29081,6 +29126,11 @@ pfDB["quests"]["esES-turtle"] = {
     ["D"] = "¡Oh, cielos, ¡qué barbaridad! ¿Así es como quieres ir a ver al Guardián? Audaz, debo decir, pero quizás un poco demasiado audaz. No puedo, por el amor a todo lo que engloba la moda, permitirte ascender por la torre con esos harapos. Por duro que suene, ¡es la verdad!$B$BEsa capa que llevas drapeada me da escalofríos y repelús. Quienquiera que diseñó esta atrocidad merece ser llevado a juicio. Puedo ayudarte y conseguirte los diseños de una nueva, más a la moda, si me ayudas con algunos de mis propios suministros. ¿Tenemos un trato?",
     ["O"] = "Lleva a Pietro Paraveno los suministros necesarios, espera en la Torre de Karazhan.",
     ["T"] = "El Abrazo del Buen Gusto",
+  },
+  [41577] = {
+    ["D"] = "En tus manos yace el corazón aún latente del Señor del Terror Mephistroth, gobernante de la Roca de la Desolación. Tú y tu expedición frustraste sus planes de usar Karazhan como punto de entrada para invadir Azeroth una vez más. Expulsado al Gran Vacío Oscuro para siempre, esto es todo lo que queda del infame conspirador.$B$BDeberías llevárselo a alguien capaz de expurgar su vida, solo para estar seguro.",
+    ["O"] = "Entrega el Corazón de Mephistroth a un hechicero lo suficientemente poderoso para destruirlo.",
+    ["T"] = "Una Capa de Calidad Inmaculada",
   },
   [41578] = {
     ["D"] = "Esta corona lleva el símbolo del Reino de Azeroth, y se asemeja mucho a la que usaba el Rey Llane. Quizás, incluso en su locura, Medivh aún mantenía a su amigo cerca de su corazón.$B$BFracturada, casi desmoronada, al igual que la Torre de Karazhan, un vigía perdido de la historia. Es sobre esta historia que podemos forjar algo nuevo. Tráeme los materiales que necesito y me aseguraré de que esta corona sea útil para su nuevo portador.",
@@ -29362,6 +29412,81 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "",
     ["T"] = "Anillo de Huesofuria",
   },
+  [41634] = {
+    ["D"] = "¡Qué niña tan insolente! He perdido la cuenta de cuántas veces le he instruido sobre los peligros de la magia arcana. Esa curiosidad imprudente suya algún día será la perdición para todos nosotros.$B$B¿Seguramente has notado la torre cuesta arriba desde esta humilde morada? Normalmente residiría allí con todos los demás interesados en la magia de Northwind y otros lugares, pero mi \"querida\" aprendiz Thronda pensó que sería una idea brillante invocar su propia asamblea de elementales arcanos para ayudar con sus quehaceres. ¡Qué lástima que se hayan descontrolado y ahora estén aterrorizando mi torre!$B$B$N, asciende y recupera mi almanaque, así como residuo de su destrucción. Una vez que esté sintonizado con su energía, puedo lanzar un hechizo para evitar que se rematerialicen.",
+    ["O"] = "La encantadora Magilou requiere su almanaque y ocho piezas de residuo de los elementales invasores en su torre en el oeste de Viento Norte.",
+    ["T"] = "El Desastre Mágico de Magilou",
+  },
+  [41635] = {
+    ["D"] = "He pasado toda mi vida aquí en Northwind y nunca había estado en tal desorden desde la Primera Guerra. Gnolls, orcos y Hierro Negro deambulan por nuestras pacíficas colinas y siembran el caos dondequiera que vayan. Incluso los pícaros Defias buscan beneficiarse de todo esto. Estos brutales bandidos se atrevieron a asaltar nuestro campamento maderero no lejos de aquí, al noreste de Ambershire. Todos los trabajadores huyeron, por supuesto, pero el pueblo no tiene suficiente espacio para albergarlos, así que por ahora están descansando aquí en mi almacén. ¡Si al menos la guardia de Amberwood tuviera la ambición de ayudar a los buenos ciudadanos de Northwind!$B$BParece que recae en manos de la gente una vez más. Aventurero, pareces de buena salud y mente, ¿nos ayudarás? ¡Expulsa a los Defias del campamento maderero; ayúdanos a restaurar incluso un ápice de paz a nuestro hermoso hogar!",
+    ["O"] = "Limpia el Campamento Maderero de Viento Norte de los Defias invasores.",
+    ["T"] = "Cortando Defias",
+  },
+  [41636] = {
+    ["D"] = "$C, ¿podrías darme un momento? Estoy en un poco de crisis en este momento, y pareces la persona adecuada para mi problema. Soy un comerciante ambulante que vende libros para todas las edades e intereses. Una vez al mes vengo aquí a Ambershire con un envío de la Iglesia en Ventormenta; donaciones de los ciudadanos para todos los niños huérfanos que asisten a las conferencias y la escuela en la iglesia de Ambershire al otro lado del río. Sin embargo, en mi camino aquí, fui robado por ladrones, ¡y entre su botín estaba dicha caja de donaciones!$B$BIntenté seguirlos, pero mi vejez me está alcanzando. Todo lo que vi fue que huían hacia las montañas al norte, uno de ellos llevaba una bufanda negra como el cuervo. Por favor, ayúdame a cumplir mi deber con los niños inocentes de este reino. Si encuentras la caja, llévasela a la Hermana Argent en la iglesia al norte de Ambershire.",
+    ["O"] = "Recupera el cajón de los ladrones en las montañas del norte y llévaselo a la Hermana Argent en la Iglesia de Villadorada.",
+    ["T"] = "¿Quién Pensará en los Niños?",
+  },
+  [41637] = {
+    ["D"] = "Una vez más, muchas gracias por traernos estos libros. Los niños estarán encantados de escuchar que no tenemos que cancelar la escuela de hoy. Uno esperaría que estuvieran molestos por tener que asistir a la escuela, pero en realidad disfrutan venir aquí y aprender más sobre el mundo juntos. Es una vista conmovedora y me da esperanza de que estén en el camino hacia un futuro prometedor.$B$BDebido al robo, estamos un poco atrasados en el tiempo, y necesito un poco de tiempo para preparar la conferencia de hoy. ¿Estarías dispuesto a echarnos una mano? Los niños ciertamente estarán ansiosos por hablar con quien valientemente salvó sus libros de ese bandido. La semana pasada les enseñamos la historia de Balor, una isla al oeste de aquí. Quizás puedas ayudarlos a reforzar su conocimiento recordándoselo. Puedes encontrar el libro que usamos aquí en la iglesia.",
+    ["O"] = "Habla con los niños en la Iglesia de Villadorada y revisa su conocimiento sobre Balor.",
+    ["T"] = "Ayuda Escolar",
+  },
+  [41638] = {
+    ["D"] = "Es aterrador ver lo que está sucediendo en Northwind. Cuando regresé aquí bajo la recomendación del Arzobispo Benedictus para asistir a la Hermana Argent, nunca hubiera imaginado que esto es lo que encontraría. La gente está aterrorizada por las invasiones de las tierras del este y los criminales han puesto un pie en nuestras colinas. Incluso la antigua abadía está...$B$BDisculpa, hablé fuera de lugar, perdóname. Verás, Northwind es mi lugar de nacimiento, recuerdo su naturaleza apacible y los días despreocupados que uno podía pasar aquí. Pero supongo que esos días se han ido. Si lo hubiera sabido, me habría llevado a mi madre conmigo. Su lugar de descanso siendo invadido por horrores del pasado; me rompe el corazón. Murió cuando yo todavía era joven, su urna fue colocada en la cripta de la Abadía de Santa Mara.$B$B$C, lo que pido es quizás demasiado, pero ¿estarías dispuesto a reunir la urna de mi madre? Significaría el mundo para mí y no estarías en desventaja, lo juro por mi juramento a la Luz.",
+    ["O"] = "Encuentra la urna de la madre del Hermano Graham y devuélvesela a él en la Iglesia de Villadorada en Viento Norte.",
+    ["T"] = "Los Muertos Agradecidos",
+  },
+  [41639] = {
+    ["D"] = "Qué vista tan inusual, rara vez la gente entra en mi aquelarre; y mucho menos en mi casa con tanta desfachatez. ¿Crees que eso es apropiado para un/a $r como tú? Claro que no. Pero prefiero no perder mi valioso tiempo criticando tu falta de modales, si en cambio puedo darle un buen uso a tu presencia.$B$BNecesito ciertos ingredientes. Normalmente, reunirlos no sería problema para mí, pero los bosques de Vientonorte han cambiado últimamente. Merodean individuos indeseables, a los cuales preferiría no tener cerca. Así que tú irás a buscarme lo que deseo. Una tarea sencilla para que olvide tu atrevimiento al irrumpir en mi hogar. Estoy segura de que serás capaz de cumplirla espléndidamente, querido/a. Puedes recolectarlos de la fauna local en Vientonorte.",
+    ["O"] = "Llévale a la Bruja de Viento Norte sus ingredientes a su casa en el norte de Viento Norte.",
+    ["T"] = "Los Bosques Han Cambiado",
+  },
+  [41640] = {
+    ["D"] = "¿Cómo pudo pasar esto? Esta misma mañana estaba preparando cerveza y comida para los montañeses, ¡y lo siguiente que vi fue a los Hierro Negro irrumpiendo en mi amada taberna! Los titanes deben estar velando por mí, ya que logré escapar con solo heridas menores. Los montañeses de este destacamento me ayudaron a recuperar algo de fuerzas, aunque aún estoy conmocionado por todo lo ocurrido.$B$BAun así, ¡no puedo permitir que esta injusticia continúe! Como los buenos hombres aquí no pueden ayudarme con tan poca antelación, ¿quizá tú puedas prestarme tu espada y tus hechizos? Pareces lo suficientemente fuerte y curtido para esta tarea.$B$BAl sur del Lago del Lecho de Helm hay un paso hacia mi refugio en la montaña. Estoy seguro de que ya ha sido invadido por esos malditos Hierro Negro. Si tú y quizá algún amigo pueden recuperar mis pertenencias personales de la taberna, calmaría mi angustiado corazón enormemente.",
+    ["O"] = "Devuelve las pertenencias de Durmir a él en la Guarnición de la Puerta Sur en Dun Morogh.",
+    ["T"] = "Inquieto",
+  },
+  [41641] = {
+    ["D"] = "Aka\'magosh, $C. El caos nos rodea. Nuestro sitio espiritual de comunión, el Anillo de la Tierra, ha sido tomado por un gran grupo de elementales de aire que causan estragos sin control. Normalmente podríamos expulsarlos con facilidad, pero solo estamos tres aquí desde su repentina aparición.$B$BMuchos de nuestros miembros están en peregrinación para sanar el mundo y restaurar su equilibrio roto; prueba de que algo grande está ocurriendo ante nuestros ojos. Debemos contener a estos elementales y expulsarlos del Anillo de la Tierra. Tu ayuda sería muy apreciada. Reduce su número y elimina a su líder, entonces podremos recuperar el control de la situación.",
+    ["O"] = "Desterrar a los elementales invasores en el Anillo de la Tierra en las Montañas de Stonetalon. Regresa con Clarividente Greka después.",
+    ["T"] = "Lo Que el Viento se Llevó",
+  },
+  [41642] = {
+    ["D"] = "Cuando el campamento maderero al noroeste fue atacado por los viles Defias, los leñadores escaparon casi ilesos. Mi padre y yo atendemos a los heridos aquí en su almacén, ya que no tienen otro lugar donde quedarse por ahora.$B$BAunque reconozco muchas caras entre ellos, uno de los buenos amigos de mi padre, Christoph, que trabajaba en el campamento, no ha aparecido ni aquí ni en Ambarvilla.$B$BChristoph tiene un hijo pequeño, y temo que haya ocurrido lo peor. Por favor, hazme este favor y búscalo. Tal vez se haya escondido cerca del campamento...",
+    ["O"] = "Busca a Christoph cerca del Campamento Maderero de Viento Norte.",
+    ["T"] = "Arnold el Solitario",
+  },
+  [41643] = {
+    ["D"] = "Honor del Rey, $c. Admito que no es buen momento para visitar Vientonorte. Normalmente este valle es un lugar tranquilo, ajeno a los problemas del mundo. Pero últimamente, muchas crisis han caído sobre estas colinas. Si vienes desde Ventormenta, sabrás de lo que hablo.$B$BSin embargo, hay sucesos aún más inquietantes ocurriendo en las sombras de la noche. Durante varias semanas hemos recibido reportes de desapariciones en el reino. Al principio eran escasas, pero el número ha aumentado alarmantemente.$B$BEsta información es confidencial, pero me han asignado como único investigador. Y claramente no puedo hacer esto solo. La SI:7 está ocupada con los Defias en Villanorte, así que te nombro mi ayudante. No te preocupes, te daré una buena recompensa.$B$BComienza interrogando a los aldeanos restantes: el jardinero, el alguacil y un familiar de una de las víctimas.",
+    ["O"] = "Interroga a los habitantes de Villadorada.",
+    ["T"] = "Casas Vacías",
+  },
+  [41644] = {
+    ["D"] = "Los testimonios de Ignatz y Judith coinciden con nuestros reportes sobre la creciente actividad Defias en la región. Con alta probabilidad, esos \"personajes furtivos\" deben ser maleantes Defias, explorando la zona en busca de oportunidades para robar.$B$BAún no hemos localizado su base de operaciones, así que podríamos matar dos pájaros de un tiro.$B$BExplora los alrededores de Ambarvilla en busca de actividad Defias e información sobre desde dónde operan. Una vez lo sepas, infiltra su base y tráeme cualquier pista que nos ayude a encontrar a los desaparecidos.",
+    ["O"] = "Localiza la sede de los Defias en Viento Norte y busca pistas sobre los secuestros.",
+    ["T"] = "Desafiando las Probabilidades",
+  },
+  [41645] = {
+    ["D"] = "En las tierras de Khaz Modan, más allá de la cadena montañosa helada, los enanos de Forjaz están en constante conflicto con sus hermanos renegados, los Hierro Negro. Estos enanos habitan la volcánica Montaña Roca Negra y son conocidos por sus intensas operaciones mineras en sus cavernas ennegrecidas.$B$BPara desgracia de la Alianza, no trabajan solos, sino que utilizan esclavos de forma despiadada. El Mayor Birkton me informó de su reciente incursión en Vientonorte, un giro inquietante.$B$BSi existe la posibilidad de que estén secuestrando ciudadanos de Vientonorte para usarlos como esclavos, debemos investigarlo. Viaja a la Cantera Sherwood al noroeste y reúne información sobre esta investigación.",
+    ["O"] = "Busca en la Cantera Sherwood. Regresa con el agente Hawthorne en Villadorada con cualquier cosa útil que encuentres.",
+    ["T"] = "Los Esclavistas",
+  },
+  [41646] = {
+    ["D"] = "Nuestra última preocupación son los orcos Roca Negra, con quienes seguramente ya te has cruzado. Según nuestros informes, comenzaron a avanzar hacia Vientonorte hace unas semanas, sin motivo aparente. Esto ocurrió poco después de la agresión de los Hierro Negro, así que podría haber una conexión.$B$BEl saqueo de Birkhaven fue solo el comienzo, me temo.$B$BPor ahora enfocaremos nuestros esfuerzos en la unidad orca que aseguró la torre de vigilancia al norte. Están muy por delante de la fuerza principal, así que deben tener un objetivo distinto.$B$BSabes lo que tienes que hacer; esperaré tus resultados aquí en Ambarvilla.",
+    ["O"] = "Descubre la intención de la expansión de los orcos Roca Negra hacia la torre de vigilancia del norte. Informa al agente Hawthorne en Villadorada.",
+    ["T"] = "Cubriendo Todas las Posibilidades",
+  },
+  [41647] = {
+    ["D"] = "$C, ¿puedo hablar contigo un momento? Escuché tu conversación con el agente Hawthorne. Un esfuerzo encomiable de ambos para resolver nuestros problemas más urgentes, pero que Stormwind solo le haya asignado a él es preocupante, por decir lo menos. Northwind fue golpeado en el peor momento imaginable, con Lord Amberwood enviando la mayor parte de su ejército a la propia Stormwind. Una decisión extraña, si me preguntas, considerando cómo están las demás regiones del Reino. Respecto a tu investigación, creo que puedo mostrarte cómo retomar lo que tuviste que abandonar.$B$BMuy al noroeste, encontrarás un bosquecillo anidado en las montañas. Una anciana vive allí bajo los árboles rojo oscuro; estoy seguro de que ella podrá ayudarte.",
+    ["O"] = "Reúnete con la enigmática mujer del bosque.",
+    ["T"] = "Medios Poco Convencionales",
+  },
+  [41648] = {
+    ["D"] = "Así que estás perdido. Cariño, lo veo en tu rostro tan claro como el día. Necesitas a alguien que te guíe, y te han dicho que esa persona podría ser yo. Debe haber sido esa chica tonta, Lydia. Desde que dejó mi coven, no se ha molestado en visitarme de nuevo. Sus ambiciones y deberes como alcaldesa la atan, bloqueando su verdadero potencial, si tan solo lo aceptara. Dejando a un lado mis divagaciones, ella tiene razón. Puedo y te ayudaré en lo que necesites, pero no por la bondad de mi corazón. ¡Todos estos matones que marchan hacia mis bosques no tienen nada que hacer aquí!$B$B Lo que necesito de ti es bastante simple: Hongos Deathcap y Widow\'s Frill, nativos de estas colinas. El Deathcap crece en cavernas y tiene un sombrero anaranjado, el Widow\'s Frill crece en grupos de tres cerca de suelo húmedo; busca en los bosques cerca del Gran Abedul junto al Lago Grimmen. Tráeme estos y algo personal de una persona recientemente secuestrada. Estoy segura de que encontrarás lo que deseo en el pueblo.",
+    ["O"] = "Consigue los materiales necesarios para la Bruja de Viento Norte en su aquelarre al noroeste de Viento Norte.",
+    ["T"] = "Sombra Mortal y Branquias de Viuda",
+  },
   [41649] = {
     ["D"] = "Si hay una cosa que Zappo Zapblast no soporta, son los gruñones que se esfuerzan por arruinar la diversión de los demás. Durante la transmisión de ayer, mi equipo y yo perdimos la conexión con nuestra torre, solo para escuchar un mensaje misterioso enviado a través de nuestro canal de salida segundos después. ¡El tipo descarado robó el protagonismo durante mis anuncios y comenzó a difamarnos más que un zombi intoxicado! Apagar la torre de transmisión no era una opción, trabajamos todo el día para mantenerla en funcionamiento después de las recientes tormentas de nieve. ¡Todo lo que estamos transmitiendo ahora es estática interminable! ¡Una catástrofe!$B$BPareces animado... más o menos. Podría usar algo de ayuda para exponer a este farsante. ¡Nadie simplemente interfiere con Zappo Zapblast y se sale con la suya!$B$BPuedes encontrar nuestra caja de grabación junto a mí. Solo presiona el botón verde, luego desliza el control hacia abajo y gira la perilla hacia la izquierda hasta el máximo de salida. Escuchar la interferencia nuevamente nos ayudará a llegar al fondo de todo.",
     ["O"] = "Escucha la grabación de Zappo Zapblast. La caja de grabación está junto a él en Siempreviva.",
@@ -29397,6 +29522,291 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "Recupera un Token Lunar de los enemigos más poderosos de las mazmorras de Azeroth para Lissandra Alacielo.",
     ["T"] = "Reverencia a los Antepasados",
   },
+  [41656] = {
+    ["D"] = "Se ofrece una recompensa a los valientes dispuestos a combatir al Clan Faucedraco. Muchos de nuestros valientes hermanos y hermanas han caído en este conflicto. Si no hacemos algo para calmar esta agresión, más de los nuestros caerán.$B$BLa seguridad de Shatterblade está en riesgo, y se insta a los capaces a luchar en nombre de la Horda.$B$BActualmente se sabe que se están reuniendo al oeste, en varios lugares de Grim Reaches.$B$BLleva pruebas de tu tarea al Comandante Aggnash para recibir tu recompensa.",
+    ["O"] = "Recoge 30 medallones Faucedraco de los orcos Faucedraco en Las Garras Sombrías para el comandante Aggnash en el Punto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Recompensa por Faucedraco",
+  },
+  [41657] = {
+    ["D"] = "Una carta gastada es descubierta en el cadáver de Zuluhed. Parece estar dirigida a él, escrita en una letra tosca que dice:$B$B<¿Así que al fin has regresado? ¿Cuánto ha pasado desde que desapareciste tras perseguir tu artefacto mientras el resto de nosotros luchábamos con uñas y dientes por sobrevivir? Abandonaste al Clan Faucedraco por tu propia gloria insensata, y ahora, porque has regresado, esperas que todos los jefes se unan sin remordimientos ni animosidad?$B$BNo esperes que sea tan tonto como los demás, Zuluhed. Puedes esconderte en las entrañas de Grim Batol todo lo que desees. Yo lideraré a nuestro clan hacia una gloriosa y gran victoria aquí en el suelo de Grim Reaches, no escondido en cavernas como Rend y los suyos. Hay algunos de nosotros que conocemos la verdad sobre los Roca Negra y no deseamos ocultar los hechos tras nociones de una gloriosa \"Horda Oscura\"... Tu orden es rechazada, viejo amigo.$B$BKorlag Doomsong, Clan Faucedraco.>",
+    ["O"] = "Lleva la carta a alguien de alta autoridad en Las Garras Sombrías.",
+    ["T"] = "Carta de Korlag Canciónfatal",
+  },
+  [41658] = {
+    ["D"] = "Esta carta confirma algunos de los rumores que han circulado: el Clan Faucedraco no estaba completamente unido.$B$BAhora que Zuluhed ha sido asesinado, solo queda uno que dispute el liderazgo: el Comandante Korlag Doomsong. Si alguna vez queremos reclamar la victoria sobre los Faucedraco, primero debemos matar al propio Korlag.$B$BTe advierto, es un enemigo peligroso y debe ser tratado con el máximo respeto por su habilidad en las armas. Te sugiero que lleves un grupo de guerreros para ayudarte en la batalla que se avecina.$B$BEncontrarás a Korlag en lo profundo de la Fortaleza Zarm\'geth, al noroeste de aquí. Tráeme su cabeza y regresa con gloria.",
+    ["O"] = "Mata a Korlag Canto Funesto dentro de la Fortaleza Zarm\'geth y lleva su cabeza al comandante Aggnash en el Punto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Destrucción de los Faucedraco",
+  },
+  [41659] = {
+    ["D"] = "Muy al sur se encuentran las Minas Sal\'Galaz, una vez ocupadas por los enanos de Dun Kithas, ahora invadidas por los sucios troggs Huesorrajados. Si la Horda quiere reclamar Grim Reaches, la infestación debe ser tratada, y con firmeza. Tu tarea es matar a los Huesorrajados y limpiar su presencia maligna.",
+    ["O"] = "Mata 6 troggs Partehuesos, 6 videntes Partehuesos, 6 trituradores Partehuesos y 6 machacacráneos Partehuesos para el bruto Morkan en el Punto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Las Minas Sal\'Galaz",
+  },
+  [41660] = {
+    ["D"] = "Hace algunas semanas, un gran grupo de Hierro Negro llegó a Grim Reaches, asentándose justo al norte de Shatterblade en la Excavación de Groldan. Ya están sondeando nuestras defensas; mis espías los han visto más de una vez. Están planeando algo, estoy seguro.$B$BSi queremos mantener nuestra seguridad, debemos asestar el primer golpe y reducir sus filas para disuadirlos de realizar cualquier ataque. Dirígete a la Excavación de Groldan y haz que sangren por su intrusión.",
+    ["O"] = "Mata enanos Hierro Negro alrededor de la Excavación de Groldan y recoge 15 sellos Forjahonda para el bruto Morkan en el Punto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Incursiones Forjatiniebla",
+  },
+  [41661] = {
+    ["D"] = "A menudo me encuentro mirando— un mal hábito para un guardia, ¿no? Sin embargo, no puedo evitarlo; mis ojos se desvían hacia los árboles. A medida que caen las hojas, la brisa las lleva a un torbellino de batalla, de baile— como si las hojas mismas se batieran en duelo.$B$B<Gaspar sonríe, mirando más allá de ti hacia el paisaje que se despliega.>$B$BMh, solía ser pintor antes de empuñar las armas. Un sacrificio necesario en los días que vivimos. Mi hogar remoto, ahora abandonado, mientras vigilo esta torre día y noche. Y aunque mis ojos contemplan la belleza, mis oídos son atormentados por esa risa maníaca.$B$BNo puedo dejar mi torre. Incluso con Ventormenta tan cerca, la Carretera del Mercader todavía está plagada de esos horribles gnolls. Te pido, por favor, reduce su número por la paz de mi mente.",
+    ["O"] = "Mata a 9 gnolls Zarpa Ámbar y devuelve los Suministros de Ventormenta al Mirador del León.",
+    ["T"] = "Recompensa de Zarpaámbar",
+  },
+  [41662] = {
+    ["D"] = "Uno podría pensar que viajar desde Ventormenta hasta Northwind sería una empresa placentera, un simple paseo por el parque— cualquier cosa menos huir de una manada de gnolls sanguinarios y babeantes.$B$BDesde que el Rey se embarcó en su misión diplomática, las condiciones solo han empeorado. ¡Es inconcebible que no podamos confiar en nuestros propios guardias! Nos vimos obligados a formar una milicia entre la gente común. Es verdaderamente trágico.$B$BBah, pero esos malditos y codiciosos cerdos de la Casa de los Nobles todavía extienden sus manos para exigir impuestos. Yo— perdona mi arrebato. De camino aquí, mi preciado anillo se me cayó del dedo mientras huía del peligro inminente.$B$BMi mercancía está perdida, qué le vamos a hacer. Pero no puedo, en buena conciencia, desprenderme de ese anillo; es una reliquia familiar muy preciada. Debe haber caído en uno de los montones de hojas en la Carretera del Mercader. ¿Serías tan amable de recuperarlo por mí?",
+    ["O"] = "Encuentra el anillo perdido de Leon entre los montones de hojas.",
+    ["T"] = "Recompensa de Hojaverde",
+  },
+  [41663] = {
+    ["D"] = "Palabras, rumores— un vuelo sin alas que llevan. Y con ellos, las semillas de la duda y la curiosidad florecen en las mentes de los hombres simples. ¿Quién podría culparlos? Después de todo, las palabras de muchos siempre son más fuertes que las palabras de unos pocos. Nuestra comunidad ha estado en caos durante meses.$B$BHace mucho que la gente de Northwind no temía por el mañana. Sin embargo, nuestros superiores ignoran el peligro inminente y juegan el papel de sus propios tontos. Imagina que asaltan tu hogar y, en lugar de buscar ayuda de otros nobles o proporcionar a la gente medios de defensa, convocan un torneo de justas.$B$BUn bufón, un tonto— solo uno de estos dos haría tal cosa. A menos que consideremos una tercera posibilidad. Algunos recurren al caos como medio para alcanzar el poder, y creo que ese podría ser el caso esta vez también. Informa de mis preocupaciones al Duque Sherwood en los Campos de Justas. Ese hombre solo se levantará ante la ocasión cuando otros no lo harían.",
+    ["O"] = "Informa al duque Sherwood en el Terreno de Justas.",
+    ["T"] = "Entre los Justadores",
+  },
+  [41664] = {
+    ["D"] = "De alguna manera, el viejo zorro astuto ha adivinado correctamente una vez más. Es una de las cosas más exasperantes que puedo pensar hoy. Si ya no fuera ridículo suficiente que debamos rebajarnos tanto como para representar este extraño giro de los eventos, es decir, pintar toda nuestra región como \"segura\" para que todos los reinos humanos la vean, lo que queda de ellos de todos modos, mientras lidiamos con gnolls, orcos, Defias y la Luz sabe qué más, también estamos cargados con este \"Caballero Oscuro\".$B$B<El Duque alcanza su frente y suspira, sus ojos cansados te miran con un atisbo de esperanza.>$B$BEste debe ser algún esquema astuto, uno para el cual estoy demasiado ocupado para abordar. Ayúdame; la gente de Northwind depende de ti y de mí. Sé que tienes poco que ganar con esto, pero te ruego que actúes desde el corazón. Solo necesito que te infiltres en la tienda del Caballero Oscuro y busques algo... incriminatorio.",
+    ["O"] = "Registra la tienda del Caballero Oscuro y regresa con el duque Sherwood con tus hallazgos.",
+    ["T"] = "Renace un Caballero Oscuro",
+  },
+  [41665] = {
+    ["D"] = "El pobre Lord Amberwood, maldito por cargar con este peso —no es el peso del liderazgo, sino el peso de tener semejante hermano. Ay, no tenemos el lujo de elegir a nuestra familia. Lord Amberwood es un hombre compasivo; demasiadas veces ha pasado por alto las acciones de su hermano... pero dudo que tolere esta.$B$BTemo por el resultado. Northwind ya está destrozada —si el corazón de nuestro Lord también se rompe, puede que nunca nos recuperemos. Ruego a la Luz que esta información fortalezca su determinación en lugar de nublar su mente. Pero, ¿cómo no va a dolerle el corazón cuando su propio hermano busca su muerte?$B$BEl hermano mayor busca gobernar, con el apoyo de la Casa de los Nobles, para acabar con su propio hermano— a manos de este Caballero Oscuro. Pensar que continúan con sus maquinaciones incluso ahora.$B$BLa gente común no son más que juguetes para estos \"nobles\". Entrega esta carta a Lord Amberwood, pero no menciones nada de lo que sabes. Yo reuniré lo que quede de la verdadera nobleza y le contaré la verdad yo mismo.",
+    ["O"] = "Entrega la invitación del duque Sherwood al lord Amberwood.",
+    ["T"] = "En Ámbar y Asco",
+  },
+  [41666] = {
+    ["D"] = "¿Viniste a probar nuestros Donuts Amberglaze, tan celebrados y buscados? No podría estar más contenta, pero, lamentablemente, se nos han acabado. ¡Parece que son un verdadero éxito! Si tan solo lo hubiera anticipado. La gente quiere más, y aquí estoy yo sin ingredientes.$B$BSi pudieras ayudarme a conseguir algunos de los ingredientes, estaría orgullosa de freír algunos de mis famosos donuts para ti. Incluso te pagaré, para ser honesta. Necesito harina, sal, azúcar y miel. El resto lo puedo conseguir yo misma. Menciono estos ingredientes específicamente porque requieren un poco de viaje para obtenerlos.$B$BTe daré una lista; deberías encontrarlos todos aquí en Ambershire. Realmente aprecio tu ayuda.",
+    ["O"] = "Reúne los ingredientes necesarios para los Donuts de Ámbar y regresa con Mitchell.",
+    ["T"] = "Donas Glaseámbar",
+  },
+  [41667] = {
+    ["D"] = "Este torneo es una farsa. ¿Cómo podemos esperar ganar? Apuesto a que han encantado sus herraduras. ¡Lo sé, simplemente lo sé! No puedo permitir que Stromgarde sea derrotado por un reino de ratones de biblioteca y un recién formado, eh, ni siquiera lo llamaría reino.$B$BTheramore y Kul Tiras estarán demasiado ocupados entre ellos, pero la verdadera amenaza es Dalaran. No me gusta la mirada de reojo que esa mujer Modera me está dando; tienen un truco bajo la manga, ¡lo sé!$B$BEscucha, $R, te pagaré generosamente. Regresa a Ventormenta, toma el barco a Costa Oscura y luego viaja a Alah\'Thalas. He oído rumores de un hombre llamado Chaddus Suncarrier que puede proporcionar un par de herraduras encantadas. Recúperalas para mí, y tu servicio a Stromgarde no será olvidado, y tu bolsillo estará un poco más lleno.",
+    ["O"] = "Busca a Chaddus Portasol en Alah\'Thalas sobre un par de herraduras encantadas y regresa con el comandante Leder.",
+    ["T"] = "Necesita Zapatos",
+  },
+  [41668] = {
+    ["D"] = "¿Podrías hacerle un encargo a una anciana, aventurero? Hace tanto tiempo que no veo a mi nieto, y no puedo llegar a él. Me aconsejaron que no saliera de Northwind debido a mi vejez, y él no tiene permitido salir del Castillo por razones de seguridad, o eso me han dicho.$B$BMe gustaría enviarle una bolsa de provisiones. El pobre niño puede que no esté comiendo bien y esté demasiado estresado por los tontos adultos que lo siguen a todas partes. ¿Podrías visitar los Terrenos de Justas para comprar un Paquete de Donuts Amberglaze, luego ir con Marisa en la posada por un Manojo de Manzanas, y finalmente pasar por mi casa, junto al Ayuntamiento, para recoger el pastel que horneé esta mañana?$B$BTráemelos todos mientras preparo el resto del paquete. Hay algunas otras cosas que necesito agregar.",
+    ["O"] = "Reúne un paquete de Donuts de Ámbar, un Manojo de Manzanas y el Pastel de Ingvild y devuélveselos a ella junto a la estatua.",
+    ["T"] = "Bolsa de Golosinas",
+  },
+  [41669] = {
+    ["D"] = "Con todo reunido, todo lo que necesitas hacer es viajar al Castillo de Ventormenta y entregar esta bolsa al Príncipe Anduin, pero solo a él, ¿entiendes? De lo contrario, esas molestas moscas nobles lo rodearán y la inspeccionarán. Sé tan terco como una mula si es necesario. Debes presentar esta bolsa a Anduin tú mismo, ¿entendido?$B$BAquí tienes un poco de monedas por tus problemas, junto con la bolsa que debes entregar y este juguete de peluche. Guárdalo cerca; podría costarte la vida. Bromeo, por supuesto, pero perteneció a mi Tiffin. Sé que el niño estará contento de tener algo de ella. Ve ahora y dile que lo amo mientras las hojas caigan.",
+    ["O"] = "Entrega los bienes empacados a Anduin Wrynn, en la Fortaleza de Ventormenta.",
+    ["T"] = "¡Digno de un Príncipe!",
+  },
+  [41670] = {
+    ["D"] = "Es mi deber cuidar del lugar de descanso final de nuestros seres queridos. Por muy gris que sea este deber, cuidar el cementerio con estas dos manos trae orgullo a mi corazón y alma. ¿Qué mejor deber hay que cuidar de aquellos que ya no están con nosotros? La mayoría de los ciudadanos de Ambershire vienen aquí a diario, con flores en mano. Recordar a los muertos se ha convertido en una rutina.$B$BSin embargo, los tiempos se han vuelto oscuros, muy oscuros. Es costumbre encender una vela junto con las flores colocadas en la lápida de un ser querido. De esta manera, el destello de la vela puede guiar el alma de regreso a nuestro mundo para que pueda recibir las ofrendas. Pocos comerciantes todavía caminan por el camino que lleva el nombre de su profesión, y así la iglesia se ha quedado sin velas.$B$BUnos kobolds ladrones robaron las pocas que nos quedaban una noche, escondiéndose en su cueva. Para llegar a esta cueva, debes seguir el camino. Regresa a Lion\'s Watch, camina hacia la Posada Plump Pumpkin y, después de cruzar el Lago Grimmen, encontrarás la cueva cerca. Devuélveme las velas.",
+    ["O"] = "Recupera 20 velas de la Caverna Bigotera y devuélveselas al Custodio Clive.",
+    ["T"] = "Para Iluminar el Más Allá",
+  },
+  [41671] = {
+    ["D"] = "La Luz ha puesto a prueba las tierras de nuestro reino muchas veces. Para un puñado de personas, eso fue suficiente para atenuar su creencia. Se celebraba un evangelio anual en nuestra abadía, donde recordábamos a todos los muertos de estas tierras, sin importar cuántas horas tomara. El abad hizo de su deber pronunciar cada nombre.$B$BLa música sombría y lúgubre de la abadía fue interrumpida por los lamentos de una mujer en llamas. \"¡Fuego, fuego!\", gritaba, su voz resonando por los muros de la abadía. En llamas, se desplomó en el suelo, sus lágrimas secadas por el calor, su piel chamuscada por las llamas. Sus lamentos salvaron las vidas de muchos, aunque unas pocas se perdieron.$B$BAlgunos susurros dicen que fueron los gnolls quienes prendieron fuego a la abadía; otros creen que fue la ira de la Luz. Incluso unos pocos piensan que la pobre monja accidentalmente inició el incendio ella misma. ¿Quién dice la verdad? Ve al este, a las ruinas de la abadía. Los muros de piedra aún permanecen, y quizás con ellos, nuestra necrología también. Devuélvela a mí, para que podamos honrar a los muertos este año una vez más.",
+    ["O"] = "Mata a la Monja Llorona en la antigua Abadía y recupera la Necrología de Viento Norte, devuélvesela al Custodio Clive.",
+    ["T"] = "Recordar a los Muertos",
+  },
+  [41672] = {
+    ["D"] = "Los múrlocs son exactamente como cucarachas. En el momento en que matas uno, dos más eclosionan de sus asquerosos criaderos. Es increíble cuántas de estas criaturas repugnantes merodean por el mundo. Es como si dondequiera que el mundo respira agua, están destinados a aparecer. Hmph, un mundo para vivir, mientras el mundo mismo parece estar tras tu vida.$B$BRecae en aventureros como tú diezmar a estas criaturas depravadas. Puedes ver arrogancia detrás de mi enojo, pero en realidad es autocompasión. Si pudiera lidiar con estas criaturas yo mismo, tomaría las armas sin dudarlo. Pero no puedo. No importa cuántos días lo intente, nunca podré blandir una espada. Mis habilidades son mejores en otro lugar.$B$BHazme este favor y te recompensaré lo mejor que pueda. Reduce sus números, no importa cuántos, solo hazlo. Cuantos menos, mejor.",
+    ["O"] = "Mata a 10 múrlocs Aletaámbar, 8 acechadores Aletaámbar y 4 clamamareas Aletaámbar. Regresa con Jarold Thorpe en La Calabaza Gorda en Viento Norte después.",
+    ["T"] = "Recompensa por Aletámbar",
+  },
+  [41673] = {
+    ["D"] = "¿Fuera a matar algunos múrlocs, aventurero? Theresa y yo estábamos charlando hasta hace unos segundos. Como ella señaló, vio a una mujer serpiente dando órdenes a esas cosas feas. Digo \"dar órdenes\" porque en realidad no entendimos lo que decía. Creo que se supone que es su alfa o algo así; no sé mucho sobre múrlocs.$B$BDe todos modos, Theresa notó que la mujer llevaba una enorme perla ámbar, ¡del tamaño de su cabeza, afirma! Si te aventuras en esa cueva y la derrotas, ¿podrías traerme la perla? Me gustaría ofrecérsela como regalo a Theresa. Ha sido una gran amiga para mí y me gustaría agradecerle adecuadamente.",
+    ["O"] = "Entra en la cueva de la costa y mata a Lady Dzash, devuelve su perla a Henry en el muelle.",
+    ["T"] = "La Perla Ámbar",
+  },
+  [41674] = {
+    ["D"] = "¡Mi viña está perdida para esos brutos grises! ¡Bah! ¡Maldita sea! Pensar que debemos enfrentarnos a los orcos una y otra vez. Estoy absolutamente harto y cansado de sus caras de cerdo. ¡Si solo no fuera tan viejo, agarraría mi horquilla y no dejaría a ninguno en pie!$B$BOjalá mis hijos compartieran este sentimiento. Ahí están, gimiendo como niños todavía. Fui demasiado blando con ellos; no conocen la guerra, y esto es lo que ha provocado. Todo lo que nuestra familia tiene está en manos de los malditos orcos. Intenté espiarlos, y lo que vi me enfureció muchísimo. No solo estaban festejando con mis uvas y bebiendo todo mi vino, ¡sino que también profanaron mi hogar!$B$BDeben ser eliminados. Ayúdame, aventurero, y la reliquia de mi familia será tuya. Por favor, te lo ruego, ¡haz lo que yo, y mis hijos cobardes, no podemos!",
+    ["O"] = "Mata a 20 invasores Roca Negra en los campos exteriores de la Viña de Viento Norte. Regresa con el Viejo Crawford cuando termines.",
+    ["T"] = "Vengador del Vino",
+  },
+  [41675] = {
+    ["D"] = "Ese viejo cascarrabias al que llamo padre lo ha perdido por completo. Ya sea por la vejez o su tan llamada decepción de que no estemos dispuestos a morir inútilmente contra una horda de orcos, no ha dejado de resoplar y resoplar. No es que no entienda su frustración, pero no soy un soldado; soy un maldito vinicultor. ¿Cómo se supone que voy a luchar contra algo diez veces más fuerte que yo?$B$BSi no estuviera ya quedándome calvo, me arrancaría un puñado de cabello. Apenas tengo veintitantos años, y este viejo me ha estresado tanto que se me está cayendo el pelo. \"Necesitamos una nueva receta, Jerry, haz esto, Jerry, haz aquello, Jerry\". Nunca deja de divagar. Aún así, amo al viejo; es mi padre, después de todo. A decir verdad, si tuviera que elegir a cualquier hombre de una multitud para ser mi padre, todavía lo elegiría a él.$B$BPor eso, antes de que sus venas estallen de frustración, quiero que vea la nueva receta que hice. La encontrarás en el piso superior de la viña; la escondí en mi armario antes de huir.",
+    ["O"] = "Recupera la receta del Ámbar de Viento Norte del piso superior de la Viña Crawford. Devuélvesela al Viejo Crawford en la Posada La Calabaza Gorda.",
+    ["T"] = "Ámbar del Viento Norte",
+  },
+  [41676] = {
+    ["D"] = "Por muy descerebrados que parezcan estos orcos cenicientos, la realidad es completamente diferente. Logré que algunas personas, bueno, ¿cómo lo digo? Algunas personas MUY hábiles y sigilosas recopilaran información para mí. La información resultó fructífera, pero no hay mucho que podamos hacer. Si bien las personas que mencioné antes son muy hábiles para recopilar información, no harán mucho en una pelea.$B$BPor eso creo que un grupo de aventureros, liderado por alguien tan experimentado como tú, podría ser capaz de poner fin a esta amenaza orca. Hay tres de ellos. Encontrarás al Overlord Throkk en una cueva que hemos llamado Blackrock Breach, a Ozuk Doomspike dando órdenes desde una casa en ruinas, y a Shuni Steeltooth infiltrándose tan profundamente en nuestro territorio que se ha apoderado de una de nuestras torres de vigilancia. Encontrarás la torre en la colina que solía vigilar nuestro Altar de los Héroes.$B$BPon fin a ellos.",
+    ["O"] = "Mata al señor de la guerra Throkk, a Ozuk Púa Funesta y a Shuni Dienteférreo para el coronel Driscol y regresa con él.",
+    ["T"] = "Orcos en Nuestras Fronteras",
+  },
+  [41677] = {
+    ["D"] = "¿No eran suficientes los orcos como amenaza? También tenemos que lidiar con los Hierro Negro, que han dejado sus tierras abrasadas para cavar una cantera en las nuestras. ¡Por la Luz, lo juro, por cada Hierro Negro en este mundo, existe una cantera! Es como si alguna intervención divina quisiera que los enanos y las canteras prosperaran por todas partes.$B$BDejando a un lado la comedia, necesito a alguien capaz y lo suficientemente valiente como para sabotearlos. No tenemos los números y, francamente, carecemos de paciencia para lidiar con enanos en este momento; los orcos representan una amenaza mayor. Afortunadamente, los Hierro Negro trajeron barriles de pólvora con ellos, un blanco fácil para el sabotaje. Escóndete o no, realmente no me importa, ¡pero haz explotar esos barriles!",
+    ["O"] = "Sabotea quince barriles de pólvora Hierro Negro y regresa con el coronel Driscol en La Calabaza Gorda en Viento Norte.",
+    ["T"] = "Más Oscuro que el Hierro",
+  },
+  [41678] = {
+    ["D"] = "Vine aquí para difundir la buena palabra de la Luz y que la gente se uniera a nuestra cruzada contra la Plaga. Sin embargo, mientras miro a mi alrededor, no veo más que dificultades y desconfianza hacia la Luz. Estas personas apenas pueden ayudarse a sí mismas; creen que han sido abandonadas por ella.$B$BNo son verdaderos creyentes, eso es todo. Lordaeron cayó completamente ante la Plaga, y sin embargo, nuestro Monasterio Escarlata todavía brilla con el resplandor de la Luz. Casi lamento a estos tontos. Hmph. A decir verdad, tengo una tarea para ti. En el momento en que recuperes el objeto que necesito, regresaré al monasterio; no soporto más la vista de estos miserables.$B$BAhogándose en culpa y alcohol, así están. De todos modos, el objeto que busco todavía debe estar en la abadía quemada; es un cáliz que el antiguo abad usaba para bendecir las aguas. Todavía tiene ese poder, y mi gente lo necesita más que estos bribones. Devuélvemelo y te pagaré una moneda de oro entera.",
+    ["O"] = "Recupera el Cáliz de la Luz de la antigua Abadía para el inquisidor Abbadon.",
+    ["T"] = "Una Luz Ámbar",
+  },
+  [41679] = {
+    ["D"] = "Wiggles, inútil, idiota renacido dos veces... oh, ese no eres tú, Wiggles, ¿eh? Qué situación.$B$B<Tirion parpadea dos veces mientras juega con un frasco.>$B$B¿Qué haces ahí parado? Fuera, vete. Estoy ocupado aquí, realizando un experimento... ¿eh, quieres ser mi conejillo de indias? ¿No? El descaro de algunas personas. Deberías estar orgulloso de que incluso te lo pregunte, hmph. Entonces, ¿eres... qué, un aventurero? ¿Es por eso que viniste tontamente hasta los confines de un reino humano, por aventura? Bah, tonto.$B$BVe a golpear algunos de esos huesos cerca de la abadía quemada; necesito huesos carbonizados. ¡No preguntes por qué! Es para una aventura.$B$B<Murmura para sí mismo.>$BPobre idiota.",
+    ["O"] = "Recoge huesos carbonizados para Triston Lancaster en la cripta de la abadía en Viento Norte.",
+    ["T"] = "Huesos Carbonizados",
+  },
+  [41680] = {
+    ["D"] = "Mi inútil asistente aún no ha regresado, lo que me enfurece enormemente. Así que tú irás a buscarlo. Toda una aventura, ¿no crees? Bien, bien, dejaré de tomarte el pelo. Realmente podría usar la ayuda. Envié a Wiggles a Birkhaven, o lo que queda de ella, o como quieras llamarlo.$B$BSe suponía que debía matar a un hechicero orco de estos invasores Roca Negra. ¿Supongo que has oído hablar de un Pyremaster antes? ¿No? En resumen, es una especie de orco... ¿con talentos nigrománticos, pero que también trabaja con fuego? No estoy seguro, por eso necesito que esté muerto, para poder revivirlo y aprender sus secretos.$B$BPor el camino entonces. Encuentra a Wiggles. Ah, sí, Wiggles tiene el pelo blanco y calvo. Deberías poder encontrarlo fácilmente, no te preocupes por eso.",
+    ["O"] = "¡Encuentra a Wiggles!",
+    ["T"] = "¿Dónde Está Wiggles?",
+  },
+  [41681] = {
+    ["D"] = "Wiggles huele a amo en carne-carne, ¿ayuda Wiggles?$B$BWiggles encuentra orco apestoso, ¡uerk! ¡UERGH!$BOrco muy apestoso.$B$BOrco apestoso se esconde bajo tienda junto a catapulta. ¡WOOSH–DONK–BONK!$B¡Piedra grande choca, destruye Wiggles! Wiggles triste.$B¡No más Wiggles si piedra grande choca! ¡BONK BONK WIGGLES SE FUE!$B$B¿Carne va, Wiggles se queda?",
+    ["O"] = "Mata al Piromastero Roca Negra y regresa con Wiggles.",
+    ["T"] = "Wiggles Conoce el Camino",
+  },
+  [41682] = {
+    ["D"] = "¡Lok-tar, cachorro de la Nueva Horda! Soy Dul Wolfsnarl y vengo de Karfang Hold. Aunque no hemos sido aliados por mucho tiempo, juzgo que eres lo suficientemente confiable para ser mi compañía. No necesito saber qué te trajo a estas tierras, pero espero que estés aquí para causar un poco de caos.$B$BNuestro jefe me envió para vigilar a algunos de nuestros parientes que aún se inclinan ante la Montaña Roca Negra. Si esos miserables no fueran suficientes, los hierro negro también se infiltraron en estas tierras para hacer lo que mejor saben hacer: cavar una cantera. No entiendo este amor por cavar, pero están cavando sus propias tumbas.$B$BLleva esta bolsa a la Cantera Sherwood y haz explotar sus barriles de pólvora. Que ninguno quede para la mañana.",
+    ["O"] = "Sabotea quince barriles de pólvora Hierro Negro y regresa con Dul Gruñido de Lobo en el norte de Viento Norte.",
+    ["T"] = "Viles Cerdos Enanos",
+  },
+  [41683] = {
+    ["D"] = "Cada vez que nuestro líder de guerra decidía enfrentarse a los vástagos de Blackhand, dejaba un gran vacío en las filas de la Montaña Roca Negra. Muchos de nuestro pueblo eran guerreros honorables o ancianos respetados; la verdad es que éramos los destinados a atacar estas tierras. Para bien o para mal, no lo hicimos.$B$BSin embargo, escoria fue nombrada en nuestro lugar. Una tragedia, un insulto al poder de Karfang. Mientras yo reduzco sus números por otros medios, te insto a que encuentres fuerza en números y mates a esos ingratos.$B$BEncontrarás al Overlord Throkk en una cueva llamada Blackrock Breach, a Ozuk Doomspike dando órdenes desde una casa en ruinas, y a Shuni Steeltooth infiltrándose profundamente en territorio humano, tan profundo que se ha apoderado de una de sus torres de vigilancia. Encontrarás la torre en la colina que solía vigilar el Altar de los Héroes. Córtales la cabeza y tráemelas.",
+    ["O"] = "Mata al señor de la guerra Throkk, a Ozuk Púa Funesta y a Shuni Dienteférreo para Dul Gruñido de Lobo y regresa con él.",
+    ["T"] = "La Escoria Debe Quedarse como Escoria",
+  },
+  [41684] = {
+    ["D"] = "<La bruja revuelve la poción de hongos, haciendo que cambie de color de un rojo claro a un azul vibrante. Con una sonrisa pícara, se traga la poción antes de entrar en trance. Congelada en su lugar, susurra palabras ininteligibles. Después de un momento, sus sentidos regresan.>$B$BTienes mucha suerte, jovencito. He visto a quien buscas, y todavía están aquí en Northwind. Si pretendes capturarlos, date prisa. Mi visión me mostró la ubicación de la joven cuyo peine trajiste. Sube las colinas más allá del Castillo Amberwood y sigue sus senderos. El mal te espera allí.",
+    ["O"] = "Encuentra el lugar descrito por la Bruja de Viento Norte e informa al agente Hawthorne en Villadorada después.",
+    ["T"] = "Visión de la Sombra",
+  },
+  [41685] = {
+    ["D"] = "Estaré ocupado aquí en Northwind por un tiempo, por lo que necesito que entregues este informe en mi lugar. Contiene toda la evidencia que hemos recopilado, así como la carta que encontraste en los orcos. Yo mismo no puedo descifrarla, pero mi superior está versado en muchos idiomas, incluido el orco. Llévaselo al Maestro Mathias Shaw en el Viejo Town de Ventormenta lo antes posible. Cuéntale en persona lo que has visto y experimentado.$B$BTe deseo la mejor de las suertes. Honor del Rey, amigo.",
+    ["O"] = "Entrega el Diario de Hawthorne al maestro Mathias Shaw en el Viejo Town de Ventormenta.",
+    ["T"] = "Una Amenaza Velada",
+  },
+  [41686] = {
+    ["D"] = "Seguramente te has preguntado adónde podrían haber llevado a las personas secuestradas. Afortunadamente para nosotros, este documento nos dice desde dónde están operando. Por mucho que nos ayude, leer el nombre de la isla me heló la sangre. La maldita y temible isla de Balor, frente a la costa oeste del Puerto de Ventormenta. El reino no ha puesto un pie en ella durante décadas, pues su legado es uno de desgracia y desastre aterrador.$B$BNo podemos esperar mucho más. Si Balor es realmente su base de operaciones, entonces el destino de los ciudadanos capturados es sombrío. Enviaré una fuerza de tareas de inmediato, y quiero que los acompañes. Prepárate para esta isla maldita, no lo tomes a la ligera. El agente Simmons en el Puerto de Ventormenta se asegurará de ponerte en el camino correcto hacia Balor. Una vez allí, repórtate con Verona Gillian, ella liderará las operaciones.$B$BHaz lo mejor que puedas, $C.",
+    ["O"] = "Viaja a Balor para continuar tu investigación.",
+    ["T"] = "Al Pasado Torturado",
+  },
+  [41687] = {
+    ["D"] = "¡Estos malditos Hierro Negro! ¿Cómo se atreven a caer en nuestro hermoso valle? Como si su hogar en la montaña no fuera suficiente, ¡no! Simplemente no pudieron evitar apoderarse de mi maravillosa cantera, que había gobernado con tanto esmero. Oh, solo pensarlo me pone furioso. ¡Tú! Toma tu arma, hechizos o lo que uses para matar cosas y ve a la Cantera Sherwood, muy al noreste. Quiero que elimines cada una de las plagas que puedas encontrar allí y les hagas sentir la misma agonía que infligieron a mis subordinados. ¡No quedarán impunes!",
+    ["O"] = "Repele el asedio Hierro Negro en la Cantera Sherwood y regresa con el duque Sherwood en el Terreno de Justas en Viento Norte.",
+    ["T"] = "Miseria en la Cantera Sherwood",
+  },
+  [41688] = {
+    ["D"] = "Saludos, $C. ¿Disfrutas de tu estancia en el Castillo Amberwood? Mis nobles compatriotas y yo tenemos más que suficientes problemas que resolver, así que me temo que la mínima hospitalidad es todo lo que podemos ofrecer en este momento. Aún así, pareces del tipo enérgico; ¿interesado en echar una mano? Te prometo que valdrá la pena.$B$BMi nombre es Josephine Mildenhall y superviso las instalaciones agrícolas de Northwind, principalmente la Granja de Caballos Mildenhall y la Viña Crawford. La primera tiene las manos atadas por dos cosas: el torneo de justas y un envío perdido de alimento para caballos. Se encargan de todos los corceles de los participantes y necesitan alimento para caballos de alta calidad, pedido directamente desde Westfall, para garantizar condiciones óptimas el día de las competencias. Para mi consternación, este envío fue robado por los delincuentes gnolls que merodean por el Bosque Auburn al sur de aquí, ejerciendo una inmensa presión sobre mis subordinados. Por favor, recupera los sacos y llévaselos a Horsekeeper Geringt en la granja de caballos.",
+    ["O"] = "Devuelve el alimento para caballos robado a Cuidador de Caballos Geringt en la Granja de Caballos de Mildenhall en Viento Norte.",
+    ["T"] = "No se le Mira el Diente a un Caballo Regalado",
+  },
+  [41689] = {
+    ["D"] = "<El pato debilitado está recostado contra la pared de la caverna, resoplando aire por su pico y emitiendo débiles sonidos. A juzgar por la mancha roja en su ala, ha estado en una pelea, posiblemente escapando de los sanguinarios múrlocs que viven alrededor del Lago Grimmen. Intentando consolar al animal herido, guías tu mano hacia su pequeño cuerpo. Todavía en shock, el ave acuática grita y aletea asustada, salpicando sangre en el suelo. Sin calmarlo primero, hay pocas posibilidades de tratar la herida. Quizás puedas ganarte su confianza recolectando algunas verduras a lo largo del río y la costa alrededor del Lago Grimmen.>",
+    ["O"] = "Recoge diez verduras Grimmen para el pato herido en el Lago Grimmen en Viento Norte. ¡No olvides traer un vendaje para su herida!",
+    ["T"] = "Un Buen Samaritano",
+  },
+  [41690] = {
+    ["D"] = "<Aunque las verduras y el vendaje ciertamente han ayudado, el pato no parece haber superado lo peor. Tembloroso e inestable sobre sus patas, se tambalea mientras intenta salir de la cueva. No puedes dejarlo solo en el mundo así y decides llevarlo con alguien aquí en Northwind que pueda hacer más.>",
+    ["O"] = "Busca en Viento Norte a alguien que pueda ayudarte con el pato herido.",
+    ["T"] = "Aún no es Suficiente",
+  },
+  [41691] = {
+    ["D"] = "Northwind alberga muchas hierbas y plantas de diversos usos. La gente de Ventormenta aprendió a aprovechar sus propiedades hace mucho tiempo y las ha utilizado desde entonces. Verlos adquirir su conocimiento mediante prueba y error fue divertido, la verdad. Para ayudar a tu pequeño amigo pato aquí, necesito que recojas algunos tallos de Winter\'s Kiss para mí, una flor con un vibrante florecimiento blanco. Un primo lejano de la hierba Winter\'s Bite, puede detener rápidamente el sangrado y las infecciones si se procesa correctamente. La flor crece al este de aquí, a lo largo de las crestas nevadas del norte. Para crear un ungüento potente, también se necesita Savia Ámbar. Los osos residentes disfrutan de la savia de los árboles castaños, y algo de ella se pega a su pelaje. Recógela para mí y el pequeño estará a salvo.",
+    ["O"] = "Reúne los ingredientes necesarios para la Bruja de Viento Norte en su casa en el Aquelarre de Brujas.",
+    ["T"] = "Algunos lo Llaman Charlatanería",
+  },
+  [41692] = {
+    ["D"] = "Es bueno tener más manos a bordo. Shaw no envió exactamente un regimiento completo a esta maldita isla, lo que significa que tenemos que arreglárnoslas con lo que tenemos. Nuestro objetivo principal actual es explorar el área y descubrir qué están haciendo los Machacatormentas y por qué razón. Todavía no nos hemos encontrado con ningún orco en la zona, lo que significa que estamos un poco secos en cuanto a pistas. Menos mal que ahora te tenemos con nosotros.$B$BPoco después de llegar aquí, enviamos una unidad de reconocimiento a la isla principal para inspeccionar las ruinas del puerto en busca de cualquier actividad sospechosa. Tan sospechosa como puede ser, realmente. No hemos tenido noticias de ellos durante unas horas, lo que no es una buena señal. Necesito que los revises en la meseta que domina las Ruinas de Brisalegre. Si todavía viven, ayúdalos. Si no... averigua qué pasó.",
+    ["O"] = "Reúnete con el cuerpo de SI:7 en la meseta cerca de las Ruinas de Brisapura en Balor.",
+    ["T"] = "Evaluar la Situación",
+  },
+  [41693] = {
+    ["D"] = "<El diario presenta listas dedicadas de avistamientos, observaciones, horarios de turnos y rarezas encontradas durante las pocas horas que el cuerpo estuvo estacionado en la meseta. A pesar de haber visto varios espectros de antiguos habitantes, nada reveló algo relacionado con las desapariciones de Northwind. Mientras se veía humo emanando de las ruinas del castillo al otro lado de los barrancos, aún no se hicieron intentos de reconocimiento. Además, parece que una pequeña fuerza de la Horda de Thrall se ha asentado en una de las islas más pequeñas. Lo que sea que estén planeando en esta isla sigue siendo un enigma por ahora.$B$BLa última página de este libro describe los preparativos para investigar la posada abandonada en el Lago Penamore, justo al pie de esta meseta. Quizás puedas encontrar supervivientes allí.>",
+    ["O"] = "Busca más pistas en el Lago Sorrowmore en Balor.",
+    ["T"] = "Las Últimas Líneas",
+  },
+  [41694] = {
+    ["D"] = "Mi cuerpo consistía en diez operativos, inspeccionando el perímetro alrededor de la Meseta del Croar. De los pocos que sobrevivieron, fui el único encerrado en esta posada. No sé por qué razón. Lo que pude ver, sin embargo, fue a tres de mis camaradas —Flynn, Elroy y Cherys— siendo arrastrados más allá del campo de batalla al sur de aquí. Por suerte entendí algunas de las palabras orcas que pronunciaron. \"Cueva\", \"colina\" y \"amo\" es lo que pude descifrar de su discurso. Puede que no sea mucho, pero es mejor que nada, supongo. Mis disculpas, pero no podré ser de mucha ayuda para ti con estas heridas; informaré a la Operativa Gillian y le contaré lo que pasó, eso es lo mínimo que puedo hacer. Ruego que puedas descubrir más y regresar sano y salvo al puesto de avanzada.",
+    ["O"] = "Encuentra a los compañeros del agente Deryl e información potencial sobre tus enemigos usando las pistas que te dio. Regresa con Verona Gillian en el Puesto de SI:7 en Balor después.",
+    ["T"] = "Hacia los Lugares Más Oscuros",
+  },
+  [41695] = {
+    ["D"] = "El SI:7 tiene muchas fuerzas especializadas dentro de su organización: agentes de exploración, espías, expertos en explosivos, médicos de campo, archivistas... Noppsy Spickerspan es uno de esos archivistas, su objetivo es documentar todo lo que ocurre durante operaciones a gran escala. Como tal, está versado en muchos talentos, la traducción es uno de ellos. Puedes imaginar lo útil que es tener a alguien a tu disposición que pueda descifrar la inteligencia enemiga. Entrégale el pergamino y averigüemos qué están tramando esos bastardos ocultos.",
+    ["O"] = "Llévale a Noppsy Spickerspan en Balor el Pergamino de los Atracatempos.",
+    ["T"] = "Noppsy Spickerspan",
+  },
+  [41696] = {
+    ["D"] = "<Noppsy abre el pergamino y escanea la superficie del viejo pergamino. Sus cejas fruncidas indican que este documento puede ser más difícil de lo esperado.>$B$BEste es todo un enigma, no solo está en orco, sino también codificado de una manera que no es típica de los mensajes orcos. Me tomará un tiempo descifrar el código y traducirlo. Por suerte no tienes que sentarte aquí, esperando a que termine. Estoy seguro de que este pergamino no es el único de su tipo. Debe haber otros, repartidos entre los orcos Machacatormentas aquí en Balor. ¡Si puedo poner mis manos en más de sus correspondencias, aceleraría enormemente el proceso de traducción!",
+    ["O"] = "Consigue Escritos de los Atracatempos para Noppsy Spickerspan en el Puesto de SI:7 en Balor.",
+    ["T"] = "Puedes Llamar Esto Trampa...",
+  },
+  [41697] = {
+    ["D"] = "Mi hermano Noppsy es un poco raro, incluso entre nosotros los gnomos. Su admiración fanática por todo lo académico lo hizo famoso —o más bien infame— incluso en Gnomeregan. No estoy muy segura de si debería apoyar que fomentes su obsesión, pero ni siquiera yo puedo negar que su conjunto de habilidades nos ha ayudado a resolver más operaciones de las que me gustaría admitir.$B$BTengo un trabajo para ti, mientras estás ahí fuera buscando los escritos orcos. Nuestros agentes han localizado una cueva en el lado opuesto de Balor, llena de una variedad preocupante de demonios. Como si los orcos no fueran suficientes, continúan con su hábito de comunión con fuerzas demoníacas. Quiero que infiltres la cueva, elimines a cualquier posible líder y reduzcas sus números. Cuantos menos tengamos que lidiar, mejor.",
+    ["O"] = "Limpia la cueva de demonios en el lado oeste de Balor para Nippsy Spickerspan en el Puesto de SI:7.",
+    ["T"] = "Demonios por Montones",
+  },
+  [41698] = {
+    ["D"] = "<Rufus abre una pequeña caja de estaño llena de pólvora negra, antes de inhalar profundamente con su gran nariz. Un suspiro de satisfacción se escapa de él.>$B$BNo dejes que Gillian sepa que guardo esto escondido, de lo contrario estaré de nuevo en servicio de letrinas. ¡Qué desastre, te lo digo! ¿Escuché que el buen Noppsy te pidió ayuda? ¿No te importa que yo también te pida un favor? Lo creas o no, pero el SI:7 no solo hace trabajos del tipo silencioso. No, no. La infiltración y el sabotaje van de la mano, y yo soy el hombre si quieres ver las cosas explotar. Las antiguas fortificaciones de Balor están en su mayoría decrépitas y abiertas, pero aún ofrecen una ventaja significativa a nuestros enemigos. Coloca estos cerca de la torre de vigilancia rota y sus campamentos en el antiguo campo de batalla. ¡Estarán listos cuando llegue el momento!",
+    ["O"] = "Regresa con Rufus Martilloforte en el Puesto de SI:7 después de colocar los explosivos en Balor.",
+    ["T"] = "¡Los Explosivos Me Hacen Latir el Corazón!",
+  },
+  [41699] = {
+    ["D"] = "<El gnomo está perdido en una profunda contemplación. Sus cejas están fruncidas y una expresión determinada está tallada en su rostro.>$B$B¡Oh, $N! Disculpas, mis pensamientos desenfrenados hicieron que no me diera cuenta de que habías regresado. Acabo de terminar de descifrar tanto el pergamino como la tableta que encontraste en esa cueva de demonios. Lo que descubrí es... bueno, horripilante, para decirlo suavemente.$B$BEl pergamino que encontraste en ese necrolito Machacatormentas habla de experimentos aberrantes realizados en sus cautivos. Muchos de ellos \"no son adecuados\", lo que resulta en —si traduje correctamente— licuefacción. Igualmente alarmante es el contenido de la tabla de piedra que mi hermana Nippsy me entregó. El plan del demonio es ayudar a los orcos Machacatormentas a invocar un demonio de poder insuperable —uno al que llaman Mergothid. Calculo que necesitarán una gran cantidad de energía para que eso se logre...$B$B$N, por favor entrégale este informe a la Operativa Gillian. Si mi comprensión de la situación es correcta, y estoy seguro de que lo es, entonces no podemos esperar mucho más.",
+    ["O"] = "Dale a Verona Gillian en Balor el informe de Noppsy Spickerspan.",
+    ["T"] = "Noticias Angustiosas",
+  },
+  [41700] = {
+    ["D"] = "Nuestro timonel Verix nos condujo sobre esta isla, sin darse cuenta de que estaríamos volando directamente hacia un avispero de tormentas eléctricas. Lo estaría maldiciendo a los barrios bajos de Trinquete, pero si hay alguien a quien culpar sería a mí por permitirle desviar el rumbo. ¡Por eso mismo es mi deber sacarnos a todos de esta maldita isla! Sin mi brújula, sin embargo, ¡tenemos pocas posibilidades de escapar de este clima severo y regresar a Bahía del Botín!$B$B¡El escurridizo cobarde de Verix se la llevó consigo, prácticamente manteniéndonos como rehenes! Parece que conoce esta isla, ya que farfulló sobre un tesoro infinito durmiendo en sus ruinas. Francamente, si nuestra situación no fuera tan grave, lo acompañaría, pero la supervivencia de mi tripulación es mi máxima prioridad. Su diario dice algo sobre una cripta llena de oro, ¡ve a buscarlo y tráeme de vuelta mi brújula!",
+    ["O"] = "Encuentra al Timonel Verix y devuelve el Compás de Yunie a ella en la isla al norte de Balor.",
+    ["T"] = "La Experiencia Dorada",
+  },
+  [41701] = {
+    ["D"] = "Déjame preguntarte algo: ¿alguna vez has visto una langosta del doble de tu tamaño devorar vivo a un goblin? ¿O has visto a un hombre pez caminar sobre la tierra mordisqueando la cabeza de un pobre compañero? Si es así, seguramente compartirás mi odio ardiente por estos monstruos abisales. Múrlocs, makrura, naga, lo que sea; ¡incluso perdí a un buen socio comercial por una almeja una vez en los arrecifes de Tuercespina! Como si el destino estuviera jugando sucio con nuestra desafortunada tripulación, hemos quedado varados justo en medio de una guerra territorial entre las cabezas de pescado que gorjean y sus vecinos que hacen clac. Diría que dejen que se rompan la cabeza si no tienen nada mejor que hacer, pero están empezando a invadir nuestro campamento y estamos demasiado cansados de reparar el zepelín para seguir defendiéndonos por mucho más tiempo.$B$BVeo ese fuego en tus ojos, amigo. Sal y comienza a limpiar el lugar; debería haber suficientes de ellos en el océano al sureste de aquí.",
+    ["O"] = "Penny Plainsteel en la isla norte de Balor quiere que erradiques a los makrura y múrlocs locales.",
+    ["T"] = "El Modo Goblin de Pescar",
+  },
+  [41702] = {
+    ["D"] = "Mientras estabas ocupado ocupándote de este pequeño inconveniente, Rikki regresó de su ronda de exploración rutinaria. Notó actividades sospechosas provenientes justo al norte de nuestra pequeña isla. Ondulaciones de agua y olas crecientes, así como vórtices turbulentos formándose sobre la superficie del océano. Mi mejor apuesta es que debe ser un makrura poderoso que maneja la magia, quizás incluso su líder. Coincidentemente, algo similar se podía ver justo más allá de la isla al este de aquí. Llámenme paranoico, pero estos son signos reveladores de que los múrlocs y los makrura están jugando a lo grande en esta guerra territorial.$B$BSea lo que sea, ambos representan un peligro para nuestro escape. $N, sin que alguien los detenga, nuestras posibilidades de escapar de esta isla son escasas. Ya has demostrado ser capaz de lidiar con los peces pequeños; ¿crees que estás listo para enemigos más desafiantes?",
+    ["O"] = "Deshazte de los líderes makrura y múrlocs para allanar el camino para el escape del Ala de Gaviota. Regresa con Penny Plainsteel en los Restos del Ala de Gaviota en Balor después.",
+    ["T"] = "Limpieza de Marea",
+  },
+  [41703] = {
+    ["D"] = "Las reparaciones de nuestro zepelín están en pleno apogeo, tanto como pueden estar con los materiales improvisados que tenemos a mano. Sin embargo, dudo que lleguemos muy lejos con lo que tenemos ahora mismo. Llámalo mala suerte o fortuna, pero hay un barco pirata justo al este de nuestra pequeña isla. No sé para qué están aquí, pero dado que son piratas, solo puedo asumir que es por botín. Aprovechemos al máximo su presencia. Un barco como el suyo parece estar repleto de suministros y necesidades que podríamos usar para mejorar nuestras vidas. Si bien estoy seguro de que no se separarán de sus pertenencias voluntariamente, tu actitud es lo suficientemente convincente como para que cambien de opinión, ¿no crees?$B$B<Kixqal te da un codazo con un guiño agresivo.>$B$BMientras estás fuera, ¿podrías pasar por Bahía del Botín y pedirle a nuestro contratista un motor de zepelín de repuesto? Estoy seguro de que es de su interés que salgamos de aquí y entreguemos sus mercancías. Markel Smythe es el nombre, debería estar cerca del ayuntamiento de la ciudad en los muelles.",
+    ["O"] = "Alivia a los piratas en la isla noreste de Balor de sus suministros y llévaselos al Mecánico Kixqal en los Restos del Ala de Gaviota. También trae un nuevo Motor de Zepelín de Markel Smythe en Bahía del Botín.",
+    ["T"] = "Favor por Repuestos",
+  },
+  [41704] = {
+    ["D"] = "A diferencia de mí, mis sirvientes no son conscientes de su espantosa condición. Incluso la mente de mi hermana se le escapa lentamente. Los campesinos y trabajadores comienzan a vagar sin rumbo por la isla, aferrándose a lo que hacían cuando aún estaban vivos. Un purgatorio interminable, incapaz de pasar a la otra vida. Como su señor, es mi obligación liberarlos de ese limbo, pero no puedo.$B$BUna petición muy humilde, amable viajero: Rompe sus cuerpos espectrales y permite que sus almas se unan a la Luz. Me duele verlos sufrir todavía.",
+    ["O"] = "Purifica a los sirvientes del lord Grahan y regresa con él en su finca en el oeste de Balor.",
+    ["T"] = "Dales Descanso",
+  },
+  [41705] = {
+    ["D"] = "<La mujer frente a ti yace casi inmóvil. Su cuerpo demacrado es una vista horrible, acompañado de una respiración irregular y áspera. Apretado en su mano huesuda hay un trozo de arcilla, toscamente formado en forma humana. Justo al lado, símbolos primitivos están dibujados en la gruesa capa de polvo en el suelo de la iglesia. Por lo que puedes descifrar, representan dos humanoides, uno más grande que el otro. Una línea conecta las figuras con otro dibujo, un círculo irregular en una curva; debajo de él, muchas cruces esparcidas frenéticamente en el polvo. Recuerdas una cueva apenas visible en la colina que domina el campo de batalla desolado.$B$BEstá claro para ti que ella no sobrevivirá por mucho tiempo. Quizás puedas encontrar algo en esa cueva para aliviar sus últimos momentos.>",
+    ["O"] = "Busca en la cueva en lo alto del campo de batalla en Balor y regresa con un recuerdo para la mujer dentro de la iglesia de Balor.",
+    ["T"] = "Pobre Muñeca de Porcelana",
+  },
+  [41706] = {
+    ["D"] = "Que la naturaleza te acompañe, viajero. Qué peculiar encontrar otra alma afín aquí en esta isla. Supuse que solo Olmir y yo estábamos anclados en estos acantilados. Permíteme presentarme: Mi nombre es Methendra Garra de Búho, soy una druida del Círculo Cenarion en una misión para mi Shan\'do Corzocelada. En su infinita sabiduría, sintió una terrible oscuridad impregnando esta isla, una que sintió por última vez durante la Tercera Guerra en Kalimdor. En nuestro breve tiempo aquí noté comportamientos sospechosos en la vida silvestre local. Independientemente de las duras condiciones de vida, muestran una cantidad inusual de agresión y frecuentes arañazos en su entorno. Algo los está plagando, y depende de nosotros descubrir por qué.$B$BPon fin al sufrimiento de los animales doloridos y recupera las esencias de su agonía. Esperemos que arrojen luz sobre lo que les está sucediendo.",
+    ["O"] = "Recoge Esencias Pútridas de la vida silvestre de Balor para Methendra Garra de Búho en el acantilado occidental de la isla.",
+    ["T"] = "Esencias Asquerosas",
+  },
+  [41707] = {
+    ["D"] = "Las enfermedades y dolencias campan a sus anchas en esta isla. Un crisol de enfermedades, acompañado de una niebla antinatural de oscuridad que emerge del suelo enfermizo. Nuestros operativos comienzan a verse afectados por una dolencia causada por estos fenómenos. Fiebre alta, erupciones irritadas y calambres agonizantes tanto en los órganos como en los músculos. En mi deber como médico de la expedición, erradicaré sus síntomas; y deseo que me ayudes.$B$BHe teorizado que el progenitor proviene de las diminutas esporas de hongos que impregnan la atmósfera de la isla. Supongo que a lo largo de los años, se desarrolló un gran cultivo de hongos tóxicos debajo de la tierra que ahora envían sus brotes para su propagación. Algunos de ellos incluso cobraron vida en forma de horribles bestias de esporas, como informan nuestros exploradores; en una mina abandonada, más allá del campo de batalla desolado. Para contrarrestar los síntomas, necesito las esporas más potentes, que creo que se pueden encontrar en ellas.",
+    ["O"] = "Kinrial requiere esporas potentes para su suero. Espera en el Puesto de SI:7 en Balor.",
+    ["T"] = "Fiebre Fúngica",
+  },
+  [41708] = {
+    ["D"] = "Respeto a la Agente Gillian como nuestra líder, al igual que cualquiera en este puesto de avanzada. Sus procedimientos son metódicos y logran un equilibrio justo entre la seguridad de su fuerza de tareas y el éxito de la misión. No tiene miedo de tomar acciones en sus propias manos, un miedo que recuerda a mi gente en Kalimdor. Nos aconsejó aprovechar el entorno y las circunstancias únicas de Balor, una orden que estoy más que feliz de cumplir. Cuando recorrí la isla antes, fui testigo de una escena fascinante. Uno de los orcos malignos buscó escaramuza con la población local de arácnidos al norte. Ella cayó víctima de una mordedura, seguida rápidamente por una letargo repentino hasta que se convirtió en una presa fácil. Estas arañas deben poseer un veneno muy potente con propiedades narcóticas y paralizantes. Si lo extraemos, podría proporcionar amplios usos para nuestra campaña en Balor. Tráeme sus sacos de veneno y reduce su número mientras lo haces. Pueden ser útiles para nosotros, pero siguen siendo un peligro.",
+    ["O"] = "Para reforzar sus suministros de veneno, Kinrial en el Puesto de SI:7 en Balor necesita sacos de veneno de las arañas Corteza de Niebla.",
+    ["T"] = "Canción de Cuna Punzante",
+  },
+  [41709] = {
+    ["D"] = "Las tormentas de Balor me fascinan. Durante mi estancia en Davenburg ocasionalmente podía mirar a la distancia y ver las pesadas nubes cernirse sobre la isla como un manto de miseria y penumbra. Conversé con mis compañeros hidromantes y concebí algunas teorías sobre cuál podría ser la causa de este fenómeno antinatural. Sin embargo, nunca hubo una oportunidad real para que exploráramos esta isla con seguridad, pero con la expedición del SI:7 aventurándose aquí, surgió tal oportunidad y naturalmente me ofrecí como voluntario para ayudarlos.$B$BSentir la tempestad de cerca me hizo darme cuenta de que era seguramente diferente de los vendavales que encontramos en mar abierto en Kul Tiras. Además, comencé a observar a los múrlocs locales, ya que parecen manejar algún tipo de magia de las mareas no muy diferente a la nuestra. $N, busca al clamamareas múrloc y mira si poseen algo inusual. Nuestros últimos informes dicen que se congregaron en las islas del noroeste.",
+    ["O"] = "Sigue a los múrlocs con inclinaciones mágicas en Balor y búscalos por algo sospechoso. Regresa con el Hidromántico Finnigan en Balor después.",
+    ["T"] = "Tormentas Incesantes",
+  },
+  [41710] = {
+    ["D"] = "La perla que encontraste posee energía de las mareas, lo que significa que su mera presencia controla el flujo del océano y el temperamento del cielo. Dado que está dañada en gran medida, explicaría por qué la tempestad está tan desatada por aquí. Qué verdaderamente fascinante ver tal reliquia en esta isla desolada. ¿Siempre ha estado aquí? Sin embargo, podemos preocuparnos por esto más tarde. Primero y principal, necesitamos nivelar la energía desenfrenada dentro de la perla.$B$BPuedo disminuir el poder desbocado de la perla con un hechizo, pero necesito algunos ingredientes para eso. Un cristal reflectante, facetado y afilado. Los basiliscos Faucepétrea cerca del río norte en la Vega de Tuercespina crean estas piedras a medida que envejecen. Tráeme el más grande que puedas encontrar. También necesito mi viejo libro de hechizos, que le regalé a mi buen amigo Maestro de Historia Dibbs en Costasur de los Campos de Páramos de Trabalomas. Dile que yo te envié, y él con gusto me lo devolverá. Para completar todo, tráeme también tres esencias astrales superiores.",
+    ["O"] = "Regresa con los reactivos necesarios al Hidromántico Finnigan en el Puesto de SI:7 en Balor.",
+    ["T"] = "Pieza de un Rompecabezas Mayor",
+  },
+  [41711] = {
+    ["D"] = "<Finnigan coloca los reactivos en la mesa frente a él. Recitando hechizos escritos en su viejo diario, puedes sentir el aire crepitando con energía tenue alrededor del cristal que recuperaste en la Vega de Tuercespina. Comienza a brillar en varios tonos de azul, alternando entre la oscuridad y la luz brillante. Con un último movimiento de sus manos, el hidromante termina la hechicería y el cristal ahora yace quieto, zumbando en perfecta armonía.>$B$BEstá hecho. Rápidamente, toma el cristal y sostenlo cerca de la perla destrozada, en las islas del noroeste. La energía armoniosa del cristal debería ser suficiente para calmar la energía furiosa de la perla. Ten cuidado con lo que pueda pasar; la magia de las mareas es impredecible e indómita.",
+    ["O"] = "Calma la perla y regresa con el Hidromántico Finnigan en el Puesto de SI:7 en Balor después.",
+    ["T"] = "Calmando la Tempestad",
+  },
+  [41712] = {
+    ["D"] = "<Casi escondido en el ático del establo encuentras los restos de una persona fallecida, sus huesos agrietados te hablan de su vejez. Junto a él, un trozo de papel, igual de viejo, pero aún lo suficientemente legible como para reconocer su contenido. Al leerlo, debe haberlo llevado consigo antes de huir a estos establos. Quizás puedas ser tú quien lo entregue después de todos estos años.>",
+    ["O"] = "Lleva la carta a su destinatario previsto.",
+    ["T"] = "Carta Lejana de Casa",
+  },
   [41713] = {
     ["D"] = "¿Puedes imaginar una miseria mayor que ser consciente de tu perpetuo estado de no-muerto? ¿Estar atado a esta maldita torre hasta el fin de los tiempos? Ciertamente yo no puedo. Condenado para siempre a investigar los misterios de lo Arcano, muchos de nosotros ya hemos perdido la razón. ¿Quién puede culparlos? Uno podría pensar que sería una salida fácil a esta desolación. Pero yo no soy un hombre que cede ante el camino de menor resistencia. Por mi orgullo como erudito, me liberaré del amarre mágico de esta aguja, y tú me asistirás.$B$BBusca en la biblioteca. El enloquecido maestro de la torre posee un libro con un título llamativo, un tomo pesado que necesito que encuentres. \"Soluciones a la Resonancia Arcana\", eso es lo que necesito. Tráemelo y finalmente podremos liberarnos de este eterno grillete.",
     ["O"] = "Lleva el libro \"Soluciones a la Resonancia Arcana\" a Ralwen Ivon. Puedes encontrarlo en el repositorio oculto dentro de la Torre de Karazhan.",
@@ -29412,6 +29822,141 @@ pfDB["quests"]["esES-turtle"] = {
     ["O"] = "",
     ["T"] = "La Amenaza de los Faucedraco",
   },
+  [41716] = {
+    ["D"] = "Nuestra situación aquí en Puesto Hojafilada es precaria. Estamos lejos de casa, y nuestras líneas de suministro están extraordinariamente estiradas. Esta ciertamente no es la situación ideal para ningún guerrero, ni para ningún puesto de avanzada.$B$BMi asesor Ranagg está más al día con la información. Si realmente deseas ayudarnos aquí, habla con él, y él puede ponerte al tanto.",
+    ["O"] = "Habla con el consejero Ranagg en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "La Expedición Hojarrasga",
+  },
+  [41717] = {
+    ["D"] = "Nuestra mayor amenaza es la del Clan Faucedraco. Sus números son vastos, y su fuerza siempre está presente. Recientemente han atacado y arruinado la Rampa de Baggoth. Una de las estructuras defensivas clave para los enanos de Dun Kithas.$B$BTemo que con esta victoria se volverán más audaces en sus acciones.$B$BDebemos descubrir sus planes futuros. Necesito que te dirijas a la Rampa de Baggoth al suroeste, y encuentres las órdenes Faucedraco de los atacantes. Estoy seguro de que uno de ellos las tiene.$B$BCuando recuperes las órdenes, regresa conmigo.",
+    ["O"] = "Recupera las Órdenes Faucedraco de uno de los orcos en el Baluarte de Baggoth y regresa con el consejero Ranagg en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "La Amenaza Faucedraco",
+  },
+  [41718] = {
+    ["D"] = "Detallados en estos planes hay más asaltos a Dun Kithas, pero más importante aún, a Puesto Hojafilada. Estos planes parecen estar coordinados por Geshgan Blackhollow, uno de los capitanes Faucedraco.$B$BLleva esta información al Comandante Aggnash, él decidirá nuestro próximo curso de acción.",
+    ["O"] = "Lleva las órdenes al comandante Aggnash en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Las Órdenes Faucedraco",
+  },
+  [41719] = {
+    ["D"] = "Geshgan Blackhollow, ese nombre me es familiar.$B$BCuando llegamos por primera vez a las Territorios Oscuros, realizamos una serie de investigaciones sobre el Clan Faucedraco. Geshgan es un capitán leal que comanda su propio séquito de guerreros hábiles y endurecidos por la batalla. Es hora de que pongamos fin a sus planes.$B$BGeshgan se puede encontrar al acecho en las Ruinas del Castillo Stolgaz al noroeste. Te aconsejo que traigas aliados, porque ese lugar olvidado está lleno de guerreros Faucedraco. Mátalo y tráeme su cabeza como prueba.",
+    ["O"] = "Mata a Geshgan Cuenca Negra y lleva su cabeza al comandante Aggnash en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Muerte a Geshgan",
+  },
+  [41720] = {
+    ["D"] = "Escuché que tienes la intención de desafiar el Castillo Stolgaz, si lo haces, tengo una tarea que requiere atención.$B$BHace algún tiempo, el Castillo Stolgaz fue una vez el corazón de las Territorios Oscuros. Proyectaba poder y contenía muchos documentos importantes.$B$BSon estos documentos los que necesito, y estoy seguro de que puedo encontrar algo útil entre ellos. Viaja al Castillo Stolgaz al noroeste y encuentra una caja de estos documentos. Tráemelos y te recompensaré.",
+    ["O"] = "Recupera los Documentos de Stolgaz del Bastión Stolgaz para el consejero Ranagg en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Documentos de Stolgaz",
+  },
+  [41721] = {
+    ["D"] = "El momento de la batalla ha llegado, y el momento de los héroes es ahora. Es hora de golpear el corazón de nuestro enemigo y aplastarlo. La Fortaleza de Zarm\'geth al noroeste es el cuartel general del Clan Faucedraco en las Territorios Oscuros. Es allí donde aseguraremos nuestra victoria.$B$B¡Viaja allí y mátalos en nombre de la Horda! Hazles conocer nuestra furia y regresa cuando hayan sido diezmados.",
+    ["O"] = "Mata a 7 élites Faucedraco, 7 campeones Faucedraco y 7 tejedores oscuros Faucedraco para el comandante Aggnash en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Fortaleza Zarm\'geth",
+  },
+  [41722] = {
+    ["D"] = "¡Lok\'tar amigo! Soy Bargolnak, y estoy a cargo de la cocina aquí en el pueblo. Si sabes algo sobre estar en los márgenes, es que las cosas pueden volverse bastante aburridas.$B$BEs mi trabajo ofrecer algo de variedad a los que están estacionados aquí. Te sorprendería lo que un cambio de comida puede hacer por la moral.$B$BEl único racionamiento que tengo disponible es carne y me gustaría algo de variedad.$B$BPodrás encontrar muchas Reclusas Marrones por todas las Territorios Oscuros, si pudieras reunir seis patas de reclusa, sería de gran ayuda para mí.",
+    ["O"] = "Reúne 6 patas de reclusa de las arañas Reclusa Parda para Bargolnak en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Estofado Hojarrasga",
+  },
+  [41723] = {
+    ["D"] = "Los salvajes Fauces Salvajes al norte de Puesto Hojafilada se han convertido en una amenaza mayor de lo que se pensaba. Su hostilidad y ubicación representan una amenaza para nuestras operaciones aquí dentro de la región.$B$BSe ofrece una recompensa a cualquiera que ofrezca sus servicios en nombre de la Horda. Reduciendo la población de Fauces Salvajes para que sus números no representen un peligro real para la expedición, y busca al Grunt Morkan en Puesto Hojafilada para la recompensa una vez completado.",
+    ["O"] = "Mata a 6 yetis Faucesalvaje y a 10 Faucesalvaje enormes para el bruto Morkan en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Recompensa por Faucesalvaje",
+  },
+  [41724] = {
+    ["D"] = "Una vez tuvimos un brujo aquí dentro de Puesto Hojafilada, uno que hablaba de honor, de lealtad. En realidad, sus lealtades estaban con el clan Faucedraco.$B$BEste orco se llama Rethkag Mirefang. Una criatura verdaderamente vil y sin carácter. Lo ayudé a encontrar una reliquia familiar, ayudándolo a encontrar paz. Incluso consideré a este gusano un querido amigo durante muchos meses.$B$BSus acciones han herido mucho más que cualquier herida que haya sufrido, y ahora exijo su sangre. Puedes encontrarlo, observando la región desde su torre en Geth\'kar, justo al noroeste de aquí. Mátalo y regresa conmigo.",
+    ["O"] = "Mata a Rethkag Colmillo Pantanoso en Geth\'kar para Gar\'gekk en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "La Traición de Rethkag",
+  },
+  [41725] = {
+    ["D"] = "Bah, el estado de este lugar está casi más allá de la salvación. Me asignaron ser un ingeniero de asedio sin maquinaria ni piezas reales.$B$B¿El único equipo con el que tengo que trabajar son dos catapultas Faucedraco capturadas? Si alguna vez voy a crear o trabajar en algo, tendré que improvisar.$B$BLa excavación enana cercana al sur ha sido ocupada recientemente por los Hierro Negro. Si hay algo que saben, son contracciones e ingeniería malévolas.$B$BQuiero que te dirijas a la Excavación de Groldan al sur de aquí y encuentres cualquier componente de Hierro Negro que puedan tener por ahí. Harán un mejor uso en mis manos que en las de nuestros enemigos.",
+    ["O"] = "Reúne 6 componentes Hierro Negro de la Excavación de Groldan al sur para Harlekk en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Componentes Hierro Negro",
+  },
+  [41726] = {
+    ["D"] = "Ahora que he recuperado algunos componentes, me gustaría conseguir piezas más complicadas. Hace algún tiempo, muchos tanques de vapor fueron destruidos durante la guerra entre los enanos de Dun Kithas y los Faucedraco. Estas poderosas máquinas yacen inactivas en el campo al oeste y suroeste, pudriéndose.$B$BSemejante ingeniería no es algo que pueda replicar aquí en el campo. Encuéntrame siete de estas intrincadas piezas de los restos alrededor de la región y me aseguraré de que seas generosamente recompensado.",
+    ["O"] = "Recoge 6 piezas intrincadas de los restos de tanques de vapor en la región para Harlekk en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Recolectando los Restos",
+  },
+  [41727] = {
+    ["D"] = "Tú, $c. Necesito ayuda en una tarea vital para la Horda, una que podría asegurar nuestro lugar aquí en los Territorios Oscuros. Hay un poder latente en la región, y es mi deseo reclamarlo para mí.$B$BPara aprovechar tales energías se necesitan materiales naturales imbuidos de vitalidad mágica. Necesito que reúnas la sangre de los dragonkin encantados cercanos. Estas criaturas están bajo el control del clan Faucedraco y pueden encontrarse al suroeste de aquí. Reúne su sangre y tráemela.",
+    ["O"] = "Reúne 5 viales de Sangre Encantada para el Profeta Lejano Mothang en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Magia Hechizada",
+  },
+  [41728] = {
+    ["D"] = "Si debo capturar verdaderamente la magia de la región, necesitaré una serie de materiales naturales para amplificar mis habilidades. Nuestro verdadero trabajo está por venir, pero debemos prepararnos de todos modos.$B$BNecesito un rastro de energía vil de los demonios de la Legión Ardiente, sé que tienen presencia en Desolace, búscalos allí.$B$BPor último, necesitaré la escama de un basilisco, basilisco Espinacristal para ser más específico. Esta rara especie puede encontrarse a lo largo de la Costa Salvaje en Vega de Tuercespina, búscalos y tráeme una de sus escamas.",
+    ["O"] = "Reúne Energía Vil persistente de los demonios en Desolace, y una Escama de Espinazo de Cristal de los basiliscos en Vega de Tuercespina para el Profeta Lejano Mothang en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Remedios Naturales",
+  },
+  [41729] = {
+    ["D"] = "Hay un material final que necesito antes de que nuestra tarea esté completa. Al sur de la región se encuentra un lugar llamado El Hueco Sombrío. Es una tierra desolada y corrupta que ha sido retorcida por un poder oscuro y desconocido.$B$BEste poder es lo que busco, y puede ser reclamado por los espíritus de enanos que ahora acechan el hueco mismo. Mátalos y tráeme una Esencia Oscura de sus restos.",
+    ["O"] = "Recupera una Esencia Oscura de los fantasmas de El Hueco Sombrío para el Profeta Lejano Mothang en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Esencia Oscura",
+  },
+  [41730] = {
+    ["D"] = "Todos los materiales han sido reunidos. Hemos llegado a la culminación de nuestros esfuerzos. Si queremos aprovechar verdaderamente tal energía, primero debemos encontrar un conducto adecuado para contenerla.$B$BHace mucho tiempo, una gran gema de inmenso poder fue traída a este mundo por Gul\'dan y sus secuaces. El Colgante de Uth\'okk fue dejado a Oronok Corazón Roto, uno de los lugartenientes de Gul\'dan. Es este colgante el que busco. Puedes encontrarlo al acecho en las profundidades de las Ruinas Forjatormenta en la isla de Balor. Esta no será una tarea fácil, pero deseo que lo mates y me traigas el poder del Colgante de Uth\'okk.$B$BHaz esto y serás recompensado.",
+    ["O"] = "Mata a Oronok Corazón Roto y recupera el Colgante de Uth\'okk de las Ruinas Forjadas por la Tormenta para el Profeta Lejano Mothang en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "El Poder de Uth\'okk",
+  },
+  [41731] = {
+    ["D"] = "Ahora que has recuperado el Colgante de Uth\'okk, puedo comenzar mi hechizo. Te pido que retrocedas y esperes a que termine mi ritual.",
+    ["O"] = "Espera a que el Profeta Lejano Mothang termine su ritual.",
+    ["T"] = "El Ritual de Uth\'okk",
+  },
+  [41732] = {
+    ["D"] = "<Un relicario impecable y envejcido yace ante tus ojos. Contiene mecanismos intrincados y antiguos que eluden tu mente. Este objeto parece haber sido creado con una forma y propósito meticulosos. Deberías encontrar a alguien que pueda estar familiarizado con tal objeto.>",
+    ["O"] = "Encuentra a alguien que pueda estar familiarizado con la reliquia que posees.",
+    ["T"] = "Mecanismo de Reliquia Dañado",
+  },
+  [41733] = {
+    ["D"] = "Este relicario que me has traído posiblemente esté relacionado con tecnología que proviene de Uldaman y aquellos que una vez lo construyeron. El hecho de que esto provenga de los Territorios Oscuros es asombroso y solo deja más preguntas.$B$BSi queremos reconstruir este relicario para que funcione, necesitaremos algo de la magia que una vez alimentó este dispositivo. Por lo que sé, el único lugar donde existe tal poder es en el propio Uldaman.$B$BSugeriría reunir un grupo y adentrarse profundamente. Tráeme un Módulo de Poder Antiguo desde dentro de Uldaman y un Núcleo de Poder Dorado de un ingeniero. Una vez adquiridos los objetos, restauraré este relicario lo mejor que pueda.",
+    ["O"] = "Reúne un Núcleo de Energía Dorado y un Módulo de Energía Antiguo para Tarwegg Polvohombro en Forjaz.",
+    ["T"] = "Reconstruyendo la Reliquia",
+  },
+  [41734] = {
+    ["D"] = "<Un relicario impecable y envejcido yace ante tus ojos. Contiene mecanismos intrincados y antiguos que eluden tu mente. Este objeto parece haber sido creado con una forma y propósito meticulosos. Deberías encontrar a alguien que pueda estar familiarizado con tal objeto.>",
+    ["O"] = "Encuentra a alguien que pueda estar familiarizado con la reliquia que posees.",
+    ["T"] = "Mecanismo de Reliquia Dañado",
+  },
+  [41735] = {
+    ["D"] = "Tú, ¿estás buscando ir al Puesto Filorrupta? Si es así, tengo un buen amigo que reside allí, y estoy seguro de que podría usar un favor. Bargolnakk está a cargo de la cocina como carnicero del puesto, y siempre está buscando un suministro fresco de carne.$B$BSi pudieras hacerme un favor y traerle ocho Flancos Pielpiedra de los jabalíes Pielpiedra locales, estoy seguro de que significaría mucho.$B$BPuedes encontrar el Puesto Filorrupta al este, reúne los flancos y llévaselos a Bargolnakk.",
+    ["O"] = "Reúne 8 falda de Pellejopiedra para Bargolnakk en el Puesto Rompehoja en Las Garras Sombrías.",
+    ["T"] = "Raciones de Pielpétrea",
+  },
+  [41736] = {
+    ["D"] = "Hace unos meses llegué con Mothang para estudiar los elementos aquí en los Territorios Oscuros. Como puedes ver, ahora me quedé solo en esta tarea, porque Mothang se ha perdido en la búsqueda del poder...$B$B<Yor\'thegg deja escapar un suspiro.>$B$BLa tierra misma clama por ayuda. Puedo sentir la angustia de los elementos aquí y busco responderles. Si deseas ayudar, necesito Raíz de Confín, una hierba local que crece por toda la región, reúne ocho manojos y vuelve conmigo.",
+    ["O"] = "Reúne 8 raíz de Las Garras para Yor\'thegg el Sabio en Las Garras Sombrías.",
+    ["T"] = "Una Tierra en Peligro",
+  },
+  [41737] = {
+    ["D"] = "Si realmente queremos entender la magnitud de la corrupción dentro de los Territorios Oscuros, debemos recolectar una muestra de ella. Las manifestaciones de esta energía vil han echado raíces en forma de moco que plaga la tierra. Te pido que me traigas seis Corrupciones Persistentes del Moco Repugnante de los Territorios Oscuros. Puedes encontrar una concentración de ellos en la Fosa de Brangar al noreste de aquí.",
+    ["O"] = "Reúne 6 Corrupción Persistente de los mocos repugnantes cercanos para Yor\'thegg el Sabio en Las Garras Sombrías.",
+    ["T"] = "Signos de Corrupción",
+  },
+  [41738] = {
+    ["D"] = "La situación es como temía, la tierra está corrupta y en un estado de agitación. Necesitaré comunicarme con los elementos rápidamente.$B$BEste ritual requerirá materiales naturales locales para llevarse a cabo. Primero, necesito cinco Plumas Ornamentadas de los trilladores cercanos. Tres Llamas Vinculantes de los Vinculallamas Faucedraco al noroeste. Y finalmente, necesito un Corazón Pielpiedra Pristino de los Jabalíes Pielpiedra Ancestrales. Reúne todos estos materiales y vuelve conmigo.",
+    ["O"] = "Reúne 5 Plumas Ornamentadas, 3 Llamas Vinculantes y un Corazón de Pellejopiedra Pristino para Yor\'thegg el Sabio en Las Garras Sombrías.",
+    ["T"] = "El Ritual de Yor\'thegg",
+  },
+  [41739] = {
+    ["D"] = "¿La Llama de Dagnoth? Los elementos nos han dado una pieza de información muy clave, pero es algo que no conozco. Solo hay un nombre que me viene a la mente que pueda saber sobre este fuego misterioso. Dorthas Read$B$BEs un humano que viaja por los Territorios Oscuros. La última vez que hablé con él, parecía saber bastante sobre la región, sospecho que sabe algo sobre esta llama. Encuéntralo al suroeste, cerca de la entrada a los Territorios Oscuros, e indaga sobre la Llama de Dagnoth.",
+    ["O"] = "Habla con Dorthas Read cerca de la entrada de Las Garras Sombrías e indaga sobre la Llama de Dagnoth.",
+    ["T"] = "La Llama de Dagnoth",
+  },
+  [41740] = {
+    ["D"] = "Si hay algo que he aprendido aquí en Azeroth, es que todo tiene un costo. Si quieres información sobre la Llama de Dagnoth, necesito que demuestres que estás de mi lado y no eres algún agente enemigo disfrazado.$B$BParece un compromiso justo, ¿no?$B$BNecesito que vayas a las Tierras Inhóspitas al suroeste y localices la presencia de dragonkin negro en la Quebrada Lethlor. He escuchado rumores de que sus escamas están encantadas con energía dracónica latente. Tráeme una Escama de Cría Encantada de los Críos Escaldantes y tendrás la información que solicitas.",
+    ["O"] = "Reúne una Escama de Cría Encantada de las crías abrasadoras en las Tierras Inhóspitas para Dorthas Read en Las Garras Sombrías.",
+    ["T"] = "El Título de Dorthas",
+  },
+  [41741] = {
+    ["D"] = "La Llama de Dagnoth es un antiguo pozo de magia enana, casi ancestral. Esta llama comenzó hace mucho tiempo como una tradición para honrar a los espíritus de los muertos.$B$BSin embargo, esta llama una vez honorable ha sido retorcida y corrompida.$B$BLa Llama de Dagnoth todavía arde hoy, en lo profundo del corazón del Hueco Sombrío, agitando a los antiguos espíritus para que despierten una vez más.$B$BLleva esta información de vuelta a Yor\'thegg, tal vez pueda pensar en una manera de purgar este mal.",
+    ["O"] = "Lleva la información recopilada a Yor\'thegg el Sabio en Las Garras Sombrías.",
+    ["T"] = "Regreso a Yor\'thegg",
+  },
+  [41742] = {
+    ["D"] = "Prepárate, porque el verdadero desafío ha llegado por fin. Si queremos traer paz a los elementos, debemos expulsar el mal vinculado a la Llama de Dagnoth. Su veneno ha persistido por demasiado tiempo y ha causado un gran estrago a todos.$B$BEncuentra la Llama de Dagnoth y arroja este polvo mágico sobre el fuego. Debería manifestar la energía maligna, permitiendo que sea destruida de una vez por todas, haz esto, por el bien de los elementos y por el bien de la tierra misma.",
+    ["O"] = "Destruye la energía maligna que persiste en la Llama de Dagnoth para Yor\'thegg el Sabio en Las Garras Sombrías.",
+    ["T"] = "Expulsando el Mal",
+  },
   [41743] = {
     ["D"] = "",
     ["O"] = "",
@@ -29423,9 +29968,759 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "Tesoros del Maestro de Juego",
   },
   [41745] = {
-    ["D"] = "Listen well, young $c, for the wisdom I impart comes from the heart of the forests and the whispers of the wind. Take heed, for the Scythe of Elune is a potent artifact, its power intertwined with the fate of our world. Hold it with reverence and wield it with wisdom, for its influence transcends the realms of mortals. Guard it against the grasp of those who seek power for selfish ends, for in their hands, it could unleash untold calamity upon our lands.$B$BLet us begin.",
-    ["O"] = "Witness the cleansing of the Scythe of Elune.",
-    ["T"] = "The Power of the Goddess",
+    ["D"] = "Escucha bien, joven $c, porque la sabiduría que imparto viene del corazón de los bosques y los susurros del viento. Ten cuidado, porque la Guadaña de Elune es un artefacto poderoso, su poder entrelazado con el destino de nuestro mundo. Sosténla con reverencia y úsala con sabiduría, porque su influencia trasciende los reinos de los mortales. Protégela contra el alcance de aquellos que buscan poder para fines egoístas, porque en sus manos, podría desatar calamidades incalculables sobre nuestras tierras.$B$BComencemos.",
+    ["O"] = "Presencia la purificación de la Guadaña de Elune.",
+    ["T"] = "El Poder de la Diosa",
+  },
+  [41746] = {
+    ["D"] = "Hace algunas semanas, la Torre de Azora estaba realizando investigaciones sobre propiedades arcanas en nombre de los magos del Kirin Tor. Lamentablemente, este experimento terminó con una sobrecarga de energías arcanas que ahora se han manifestado en los bosques cercanos.$B$B¿Has notado los elementales errantes que ahora pueblan partes del bosque alrededor de esta torre? Si puedes ser de ayuda, necesitamos que sean destruidos. Tráenos su residuo antes de que esta situación se salga completamente de control.",
+    ["O"] = "Reúne 8 Residuos Arcanos Menores de los elementales arcano cercanos para Antonas Mirador de la Falla en la Torre de Azora en Elwynn.",
+    ["T"] = "Emanaciones Arcanas",
+  },
+  [41747] = {
+    ["D"] = "Una vez fui alumno de los magos de la Torre de Azora. Allí aprendí muchas de mis habilidades y practiqué mi experiencia en lo arcano. He mantenido mi relación con ellos a lo largo de los años y a menudo he llevado envíos de pergaminos a la torre. ¡Parecen gastar bastante con todos los hechizos e invocaciones que practican!$B$B<Zaldimar suelta una risita suave.>$B$BNecesito que alguien lleve el envío de pergaminos en mi nombre, ya que mis estudios actualmente me tienen atado aquí en Villadorada. Puedes encontrar la Torre de Azora al este, justo pasando el Lago Cristal. La gran torre no debería ser difícil de encontrar.",
+    ["O"] = "Entrega el Envío de Pergaminos a Antonas Mirador de la Falla en la Torre de Azora en Elwynn.",
+    ["T"] = "La Torre de Azora",
+  },
+  [41748] = {
+    ["D"] = "Hace muchos años tomé a un estudiante bajo mi ala. Para enseñarle los secretos de lo arcano y aprovechar su mente para cosas mayores. Ralthas era un estudiante brillante, destinado a un futuro prometedor. Podría haber dominado las artes arcanas y, potencialmente, algún día dirigir la Torre de Azora.$B$BMe duele pensar que su mente ha sido envenenada por la inútil tontería de la política y la ira. Ahora anda suelto, enseñando a cualquier matón y embaucador nuestros secretos para aprovecharse de los débiles y perturbar la paz de Elwynn.$B$BRalthas debe ser detenido, y me rompería el corazón si tuviera que enfrentarlo yo mismo. Te pido que lo derrotes. He escuchado que a menudo merodea alrededor del Lago de los Cairns de Piedra al noreste de aquí. Tráeme el collar que lleva para que sepa que su terror en el Bosque de Elwynn ha sido puesto en descanso, de una vez por todas.",
+    ["O"] = "Encuentra al mago renegado Ralthas y pon fin a su terror. Lleva el Collar de Azora a Theocritus en la Torre de Azora en Elwynn.",
+    ["T"] = "El Maestro y el Alumno",
+  },
+  [41749] = {
+    ["D"] = "¿Podrías prestarme un momento? Pareces del tipo rudo, listo para lanzarse a la acción, buscando la emoción de la aventura y el olor del oro y la riqueza. Justamente el tipo de persona que estoy buscando. Verás, cualquier goblin que se respete tiene muchos contactos cuando se trata de posibles ingresos; algunos más legales que otros. Muchos de mis contratistas pertenecen a estos últimos, y uno en particular está interesado en algo que no se encuentra todos los días.$B$BAL sureste, justo antes de las grandes cataratas que vienen de Loch Modan, hay una antigua instalación minera, ahora llamada Refugio Faucedraco. Dentro de ella hay gólems igualmente antiguos que aún recorren los pasillos inestables, atrapados en viejos protocolos. Si puedes traerme una de las runas con las que funcionan, ¡te pagaré un buen precio por ella!",
+    ["O"] = "Consigue la piedra rúnica de un Gólem de Piedra Desmoronado dentro del Refugio Faucedraco y llévasela a Kixxle en el camino principal de Los Humedales.",
+    ["T"] = "Recuperación de Gólems de Piedra",
+  },
+  [41750] = {
+    ["D"] = "<El gnoll babea de pura furia, con los colmillos expuestos y el vapor saliendo de su hocico en el aire húmedo del pantano.>$B$B¡Traidor! ¡Gowlfang gran traidor! Se fue con chamán Bogpaw. ¡Ahora lidera a los Pelomossy sin nosotros! Ayudamos a Gowlfang, fuimos leales. ¡Ahora estamos aquí para morir, solos! ¡Traidor se fue con poderosos guerreros de piel verde! Al sureste, entraron en las montañas en una cueva, ¡una cueva grande! ¡Grimbite quiere la cabeza del traidor! ¡Síguelos, al hogar de los guerreros verdes que comandan lagartos que escupen fuego!",
+    ["O"] = "Venga a los gnolls Mosshide matando a su antiguo líder Gowlfang en el Reposo Faucedraco. Regresa con Grimbite en su campamento en El Cinturón Verde en Los Humedales después.",
+    ["T"] = "Derrota de Colmillomiedo",
+  },
+  [41751] = {
+    ["D"] = "Mortal, una vez más la carga de la sumisión recae sobre mi vuelo. Una vez más, los horrores del pasado oscurecen el noble vuelo de la Reina Dragón. El Clan Faucedraco orco continúa ejecutando sus horrendos actos de sometimiento sobre los de mi especie, forzándolos a obedecer sus órdenes. Mientras el Vuelo Rojo se ocupa de la eterna vigilancia sobre Grim Batol, recae en mí liberar a mi hermano caído Searistrasz y su prole.$B$BAlcanzo a oír sus gritos dolorosos resonar desde las antiguas minas enanas al sur, las cuales ahora han sido reclamadas por los Faucedraco. Mortal, adéntrate en el Refugio Faucedraco y absuelve a mi hermano y a sus hijos de este pecado impuesto sobre ellos.",
+    ["O"] = "Nydiszanz en las Puertas Faucedraco en Los Humedales desea liberar a su hermano Searistrasz de su captura por los orcos Faucedraco en el Reposo Faucedraco.",
+    ["T"] = "La Camada Faucedraco",
+  },
+  [41752] = {
+    ["D"] = "He sido un débil toda mi vida, no nací como el guerrero que mi madre deseaba. Los grandes defensores de Martillo de Guerra se alzan firmes contra nuestros enemigos, pero yo elegí un camino diferente. Cortar y aplastar al enemigo puede ser glorioso, pero ver a tu enemigo retorcerse de dolor por una simple gota de veneno es aún más satisfactorio. No muchos de los míos comparten este pensamiento, y no los culpo, pero no estoy aquí para ser inútil. Si puedo servir a la Horda de alguna forma, nadie me quitará ese derecho.$B$BBuscando nuevos y poderosos venenos, encontré información intrigante. Los viles orcos Faucedraco han esclavizado una camada de arañas en los túneles mineros bajo Grim Batol. Usando artes oscuras, las han potenciado hasta niveles inimaginables. Estas arañas deben poseer un veneno sin igual, así que tráeme el saco de veneno de la madre de la camada.",
+    ["O"] = "Mata a la Madre de la Camada Cavernícola en el Reposo Faucedraco y entrega su saco de veneno a Okal en Quijaforte.",
+    ["T"] = "Extracto de Telaraña Cavernosa",
+  },
+  [41753] = {
+    ["D"] = "Las ambiciones de la Dama Oscura son numerosas e intrincadas. En su camino hacia la venganza, usará cualquier herramienta a su alcance, sin importar el costo. Por ello, varias reliquias poderosas han captado su atención; reliquias que serán clave para sus maquinaciones.$B$BLos orcos guardan los secretos de sus antiguas magias con gran recelo, escondiéndolos de quienes podrían darles un uso mejor que su primitiva hechicería. Una de ellas es la Llama Eterna, una fuente de energía poderosa, protegida y alimentada por sus maestros del fuego. La Dama Oscura desea este artefacto, y serás tú quien cumplirá su voluntad.$B$BAl sur, en los Pantanos de los Humedales de Khaz Modan, encontrarás el nido de ratas llamado Refugio Faucedraco. Una antigua instalación minera bajo la maldita montaña de Grim Batol, ahora hogar de los restos maníacos del antiguo Clan Faucedraco. Infiltra su patético escondite y tráeme la Llama Eterna, protegida por su guardallamas.",
+    ["O"] = "Recupera la Llama Eterna de dentro del Reposo Faucedraco y llévasela a Shara Blazen en Molino Tarren.",
+    ["T"] = "Un Fuego Inagotable",
+  },
+  [41754] = {
+    ["D"] = "<La tablilla que tienes en las manos muestra runas y grabados que no has visto antes. Parecen más una obra de arte antigua que un simple escrito. El texto y las líneas talladas en la piedra no tienen sentido para ti. Dada su procedencia y los restos espectrales del enano ante ti, debe tratarse de una tipografía enana olvidada por el tiempo. ¿Quizás los grandes historiadores de Forjaz puedan descifrar su significado?>",
+    ["O"] = "Lleva la Tablilla Brandirroja a uno de los historiadores en La Biblioteca de Forjaz.",
+    ["T"] = "La Mentira de los Bandidos Rojo",
+  },
+  [41755] = {
+    ["D"] = "$N, los Barbarrubia deben encargarse de este asunto internamente, por mucho que mi curiosidad me impulse a compartirlo con mis colegas. Aquí, toma de nuevo la tablilla y llévala a la Hacienda Barbarrubia en el Barrio Místico, justo por allí. Ha dedicado su vida a completar el linaje de su familia, es en su mejor interés conocer esta parte de la historia enana.",
+    ["O"] = "Lleva la Tablilla Brandirroja a Torwyn Brandirroja en el Distrito Místico de Forjaz.",
+    ["T"] = "La Mentira de los Bandidos Rojo",
+  },
+  [41756] = {
+    ["D"] = "El disperso Clan Faucedraco sigue siendo una amenaza para nuestras tierras, incluso años después de su humillante derrota en Grim Batol. Mientras uno de sus grupos de guerreros despreciables aterroriza las montañas del sur, su fuerza principal se oculta en una antigua instalación minera en el extremo oriental. Nuestros informes hablan de orcos salvajes reuniéndose en los pasillos ruinosos, ganando fuerza con cada día que pasa. Destacan sus veteranos, sobrevivientes curtidos de la Segunda Guerra que harán lo que sea por cumplir los designios de sus enloquecidos líderes. Son la columna vertebral de su ejército y deben ser eliminados si queremos tener siquiera una mínima posibilidad contra ellos.$B$BAdéntrate en la instalación minera que ahora llamamos Refugio Faucedraco y reduce sus filas. Cuanto antes, mejor.",
+    ["O"] = "Mata a veteranos Faucedraco en el Reposo Faucedraco y regresa con el Capitán Puño Fuerte en el Puerto de Menethil.",
+    ["T"] = "Aplastar a los Faucedraco",
+  },
+  [41757] = {
+    ["D"] = "$N, ahora que nos hemos encargado de Nek\'rosh y su división, podemos centrar nuestra atención en la amenaza mayor. Nek\'rosh no era más que una pieza de ajedrez en este juego; poderosa, sí, pero solo una pieza. Nuestros valientes hombres y mujeres de la milicia han hablado de un aterrador orco Faucedraco, el líder de las despiadadas incursiones que se han vuelto cada vez más frecuentes en las últimas semanas. Un verdadero monstruo, responsable del secuestro y asesinato de los pobres ciudadanos del Puerto de Menethil. Quiero que esté muerto, lo antes posible. Con el poco tiempo que ganamos al eliminar a Nek\'rosh podemos preparar un contraataque contra su base de operaciones.$B$BInfiltra el Refugio Faucedraco, muy al este, bajo la montaña de Grim Batol, y corta la cabeza de esa despreciable criatura.",
+    ["O"] = "Llévale la cabeza del Señor de la Guerra Negrazón al Capitán Puño Fuerte en el Puerto de Menethil.",
+    ["T"] = "La Caída de Corazónoscuro",
+  },
+  [41758] = {
+    ["D"] = "Los quilboar son una raza primitiva y hostil, su especie ha estado en desacuerdo con nosotros por más tiempo del que puedo recordar. Dondequiera que vayan, suelen tejer grandes y pesadas ramas de espinas. Es esta misma magia la que está torciendo el orden natural, acercándonos a la corrupción. Durante algunos meses he podido sentir algo extraño y ajeno.$B$BBusco prueba de esta corrupción natural, y estoy seguro de que se encuentra en el corazón de Razorfen Kraul. Encuentra la encarnación viviente de esta magia retorcida y destrúyela. Cuando termines esta tarea, regresa a mí.",
+    ["O"] = "Destruye la encarnación viva de la corrupción natural dentro de las profundidades de Razorfen Kraul y lleva el Corazón de Espinas Corrompido a Kym Wildmane en Thunderbluff.",
+    ["T"] = "Corazón de zarza corrompido",
+  },
+  [41759] = {
+    ["D"] = "Saludos, viajero. Soy Calaran Windseeker, un druida de Darnassus. He estado investigando el reciente desorden en el hogar de los quilboar. He escuchado historias sobre abominaciones retorcidas de espinas y energía natural. Estoy seguro de que estas criaturas se han manifestado por la ira de sus maestros quilboar y deseo restaurar el orden en el mundo natural. Estas criaturas de la naturaleza deben ser eliminadas, y quiero recolectar sus raíces para estudiarlas.$B$BAdéntrate en Razorfen Kraul, encuentra estos monstruos y destrúyelos. Puedes encontrar este maldito refugio arriba, cerca del gran ascensor al este, una vez que llegues a la cima, ve hacia el oeste y busca a los quilboar. Recolecta tres de las raíces retorcidas y te recompensaré generosamente.",
+    ["O"] = "Recoge 3 Raíces Retorcidas de Bramblehide de los elementales dentro de Razorfen Kraul para Calaran Windseeker en Thalanaar en Feralas.",
+    ["T"] = "El Cuero de Zarza Retorcida",
+  },
+  [41760] = {
+    ["D"] = "La familia Balor tuvo soberanía sobre esta isla durante muchos años. Incluso después de convertirse en un estado vasallo, el rey de Stormwind permitió que el primer duque gobernara el estado que él construyó bajo muchas dificultades y tribulaciones. Sus descendientes continuaron su legado, cada uno de ellos reinando sobre el paraíso mercantil con una mirada vigilante y un alma misericordiosa. Nosotros, los Grahans, actuábamos como sus consejeros y protectores, y desempeñábamos ese papel con orgullo. Por ello, la inmensa vergüenza que aún llena mi ser por haber fallado a mi señor hace tantos años es aún más insoportable. Tal vez no pueda reescribir el pasado, pero aún puedo honrar el legado de la familia Balor.$B$BMi espíritu está atado a esta propiedad, por lo que te imploro que cumplas esta misión en mi lugar. Entra en Stormwrought Castle y busca los restos de mi viejo amigo. Sus huesos pueden haber pasado a cenizas dentro de los malditos pasillos de su hogar, pero su anillo de sigil aún puede permanecer. Encuentra el anillo, devuélveme la banda, y estarás en deuda conmigo por siempre.",
+    ["O"] = "Entra en el Castillo Stormwrought y recupera el Anillo de Sello de Balor para Lord Olivert Grahan en su mansión en el oeste de Balor.",
+    ["T"] = "Calavera y Huesos",
+  },
+  [41761] = {
+    ["D"] = "Por lo que pude reunir de los hallazgos de Spickerspan, no creo que estemos tratando solo con los orcos Stormreaver y sus demonios. Una operación de tal magnitud es demasiado grande para un clan disperso de la Segunda Guerra. Tiene que haber algo más en juego aquí. ¿Quién más está involucrado en este asunto es el siguiente paso. Sube a la isla, entra al patio de Stormwrought Castle y elimina a sus enemigos. Busca en el área información crucial que nos pueda faltar. Elimina cualquier oficial de alto rango que encuentres, debemos ser rápidos y mortales. Yo mismo enviaré un aviso a Master Shaw para reunir a tantos agentes como podamos. Personalmente, no espero que el Rey nos ayude en esta tragedia. $B$BMantente alerta, $C, espero resultados suficientes.",
+    ["O"] = "Infiltrarte en el Castillo Stormwrought en Balor y descubre quién está conspirando con los orcos Stormreaver. Informa a Verona Gillian en el Puesto Avanzado SI:7 en Balor cuando termines.",
+    ["T"] = "Hacia el Nido de Avispas",
+  },
+  [41762] = {
+    ["D"] = "¡Oye, psst, amigo! ¿Se te acabó el oro? Claro que sí, ya puedo ver esa cara. Tengo un trabajo para ti que será más fácil que cambiar el pañal a un ogro. Escucha, realmente, no necesitas hacer preguntas, te prometo que te beneficiará. En las montañas al suroeste, el Durotar Labor Union está operando grandes esquemas de extracción de petróleo. Un poco arriesgado, si me preguntas; en fin, mis clientes no están demasiado contentos con lo que están haciendo, y tú serás el que los detenga. Aquí, toma estos sobrecargadores y ponlos en sus estaciones de bombeo. Cuidado con sus trabajadores, seguro intentarán detenerte. Cuando termines, regresa a mí para tu bien merecida recompensa.",
+    ["O"] = "Sabotea las estaciones de bombeo de la Slickwick Oil Rig y regresa al Individuo Sombra en Gadgetzan.",
+    ["T"] = "Un trato que vale la pena",
+  },
+  [41763] = {
+    ["D"] = "¡Esos roedores de Venture Co. están por todas partes! ¡Donde sea que vayan, sus sucias manos agarran todo lo que pueden! Ya sea en las Montañas Stonetalon, en la Bahía de Stranglethorn o aquí, nadie está a salvo de su robo. El trabajo honesto y un poco gris moralmente no es posible con ellos extendiendo tanto su influencia. Si me preguntas, es hora de que empiecen a recibir el mensaje de quién es la nueva estrella en el mundo de la economía goblin. $B$BPero hablemos de la verdadera tragedia; cuando estaba trabajando en la plataforma de petróleo cerca de la playa, tenía mi pequeña... uhm, colección de pinturas valiosas guardada en el almacén cercano, ¡era muy importante para mí! ¡Es una serie única y no debe llegar hasta Undermine y ser vendida en una miserable subasta del mercado negro! ¡Recupérala para mí, estoy seguro de que uno de esos matones agarró la llave de mi cofre cuando huí por mi vida!",
+    ["O"] = "Recupera el Pictorial Lascivo de Kwabit en el almacén cerca de la Slickwick Oil Rig en Tanaris.",
+    ["T"] = "Arte Intrincado",
+  },
+  [41764] = {
+    ["D"] = "¡Problema tras problema tras problema! No puedo creer que haya sido tan ingenuo como para pensar que nada malo le ocurriría al Durotar Labor Union por una vez, pero ya sabes cómo va esto: ¡te lo maldices en el momento en que las palabras salen de tu boca! Ahora estoy hasta el cuello de trabajo sin resolver, ¡trabajo que tengo que solucionar por mi cuenta! ¡La jefa es una genio como no hay otro, le debemos mucho por nuestra cuota excepcional, por lo que realmente me molesta estar en este aprieto! Hemos perdido el control de nuestras estaciones de bombeo, lo que sea que estos demonios de Venture Co. hayan hecho, ¡las bombas se han vuelto completamente locas y no tuvimos oportunidad de desactivarlas para repararlas con todo el lío de petróleo arruinando nuestro día! Pero ahora que estás aquí, ¡la suerte está de nuestro lado!$B$BEn la playa tenemos nuestra gran plataforma de petróleo, en la sala de control encontrarás mi regulador de energía. Tuve que dejarlo atrás durante su asalto. ¡Con eso podrás apagar las cuatro estaciones de bombeo fuera de la ciudad! Cuando termines, regresa a mí.",
+    ["O"] = "Desactiva las estaciones de bombeo Slickwick usando el Regulador de Energía y regresa al Ingeniero Jefe Kalke en la Slickwick Oil Rig después.",
+    ["T"] = "Quejas a Base de Aceite",
+  },
+  [41765] = {
+    ["D"] = "Las cosas se están calentando en Undermine, amiguito. No es que haya estado tranquilo allá, pero la Venture Co. ha comenzado a ganar tracción en varios tipos de comercio en todo Azeroth. Siempre han sido más... digamos, \"poco ortodoxos\" en sus prácticas comerciales, pero lo que están planeando no pinta nada bien. Todo lo que tienes que hacer es bajar a la playa y verlo por ti mismo.$B$BVerás, me uní al Durotar Labor Union no hace mucho; Nert fue rápido en asignarme un proyecto a mí, considerando lo que ocurrió en Blackstone Island y mi impecable historial con la optimización de ganancias en Kezan. Una vez que comenzamos, no pasó mucho tiempo antes de que la Venture Co. se acercara a hacer su jugada. Si me preguntas, ya es hora de vengarnos. ¿Qué opinas?",
+    ["O"] = "Elimina a los intrusos de Venture Co. en la Slickwick Oil Rig y regresa al Jefe Slickwick después.",
+    ["T"] = "Odio a la Compañía Aventura",
+  },
+  [41766] = {
+    ["D"] = "Los goblins no funcionan bien sin alguien que les dé órdenes, ya se ha intentado una y otra vez. Sin alguien a quien echarle la culpa, lo único que hacen es destrozarse entre ellos. Así que naturalmente, todos estos matones deben tener a alguien que los mande. Debe ser alguien importante de la Venture Co., dada la magnitud de este sabotaje. No es muy diferente a lo que pasó en Blackstone Island, solo que mucho menos sutil.$B$BRegresa a la playa, encuentra a ese villano y hazle pagar por lo que hizo. Nadie se mete con mi negocio y sale impune.",
+    ["O"] = "Encuentra al líder de la intrusión de Venture Co. y elimínalo. Trae cualquier cosa útil que encuentres en él al Jefe Slickwick en la Slickwick Oil Rig.",
+    ["T"] = "Jubilación Prematura de Shrillfluke",
+  },
+  [41767] = {
+    ["D"] = "Dado que nos ayudaste enormemente, supongo que puedo compartir un pequeño secreto contigo. Muchos goblins se unieron al Durotar Labor Union en el pasado, y muchos siguen haciéndolo. Causó un gran revuelo en Undermine. ¿Una joven y prometedora unión de trabajadores que se enfrenta a la autoritaria Venture Co.? ¡Salió en los periódicos! Los rumores comenzaron a correr, uno más loco que el otro, así que al final mi jefe me dio una nueva tarea: unirme al Durotar Labor Union y ver qué está pasando en realidad. No anticipé que me metería en acción tan rápido.$B$BY ahora estamos aquí. Debo decir que tanto el Labor Union como la Horda superaron mis expectativas. Son un grupo extraño, pero un grupo fuerte. Manejan los fondos y la economía de manera desastrosa, pero lo lograrán - eventualmente. Nert es un gran activo, créeme. Hablando de eso, ¿podrías llevarle este informe? El pobre debe estar bastante ansioso esperando que regrese en Sparkwater Port. Dale un buen empujón cuando lo veas, ¿de acuerdo?",
+    ["O"] = "Entrega el Informe del Jefe Slickwick a Nert Blastentom en el Puerto de Sparkwater en Durotar.",
+    ["T"] = "El Ascenso de la Compañía Aventura",
+  },
+  [41768] = {
+    ["D"] = "Tengo que admitirlo, $C, Northwind está en un estado miserable. Birkhaven ha sido saqueada, hemos perdido el control de Sherwood Quarry y no tengo suficientes hombres para proteger a mis ciudadanos. Por más que duela mi orgullo como noble y líder, tengo las manos atadas. Según tu apariencia, supongo que eres del tipo viajero. Si es así, tal vez estés interesado en una misión importante para mí. No puedo ceder más de mis súbditos, sus números están muy reducidos.$B$BLady Katrana Prestor, consejera de su Alteza, ha enviado a la mayoría de mis hombres a proteger a Stormwind hace meses. Yo mismo estoy desesperado y pediré que algunos regresen para proteger Northwind. La misión que te encomiendo es crucial para mí y mi pueblo. Aquí, lleva este pergamino a Lady Prestor en Stormwind Keep. En tu camino, recoge los informes de Sir Amberwood, mi hermano, y Bailiff Lancaster. Los encontrarás supervisando el torneo de justas y en el ayuntamiento de Ambershire.",
+    ["O"] = "Entrega los informes de Northwind a Lady Katrana Prestor en el Castillo de Stormwind.",
+    ["T"] = "El Mensajero del Viento del Norte",
+  },
+  [41769] = {
+    ["D"] = "Dominar y montar un Ravasaur sin estar preparado es una tarea de tontos. Su piel exuda un líquido venenoso, recubriéndola con una capa letal; un solo toque podría ser tu sentencia de muerte. Sin embargo, no es imposible someter a la poderosa criatura a tu voluntad, si deseas seguir el arduo camino de tal compromiso. Puedo enseñarte las antiguas maneras de mi pueblo para someter a estos bestiales.",
+    ["O"] = "Trae un huevo de Ravasaur que esté casi listo para eclosionar a Jama’nali en la entrada este del Cráter Un’goro.",
+    ["T"] = "El Cría Venenosa",
+  },
+  [41770] = {
+    ["D"] = "Tan frágil como es ahora, el joven no es peligroso. Ni su mordedura ni su piel pueden dañarte, ya que su veneno aún no se ha desarrollado. Al pasar tiempo con él y criar al cachorro, tu cuerpo se ajustará naturalmente al veneno en su interior. Una vez que llegue a la adultez, serás lo suficientemente resistente como para montarlo sin consecuencias.$B$BRecorre la jungla en busca de comida y aliméntalo con carne bestial. Con cada comida, su mandíbula, cuerpo y mente crecerán y cambiarán. Demuéstrame tu compromiso con tu cría presentándome sus dientes, los dientes que perderá mientras madura. Solo entonces te enseñaré los ritos del montar un Ravasaur.",
+    ["O"] = "Reúne suficientes dientes de Ravasaur para Jama’nali en la entrada sureste del Cráter Un’goro.",
+    ["T"] = "Montar el Ravasaur",
+  },
+  [41771] = {
+    ["D"] = "Las antiguas bestias de Un\'goro poseen una carne de sabor peculiar. Solo el olor es suficiente para que algunos sucumban a convulsiones incómodas. Sin embargo, a tu cría no le basta con ello. Las crías de Ravasaur se desarrollan rápidamente y por lo tanto requieren enormes cantidades de alimento. Normalmente seguirían a su madre en la caza, pero esta tarea ahora recae sobre ti.$B$B Caza las criaturas del cráter y permite que tu cría prospere.",
+    ["O"] = "Recoge carne de las bestias menores de Un’goro y llévasela a Jama’nali en la entrada sureste del Cráter.",
+    ["T"] = "Carne Primordial",
+  },
+  [41772] = {
+    ["D"] = "Lejos al oeste, en un valle de pilares de piedra llamado Terror Run, residen los poderosos stegodones, que demuelen todo a su alrededor. Sobresaliendo por encima de la mayoría de los habitantes del cráter, su tamaño masivo se debe a las glándulas gruesas que aumentan el crecimiento muscular y la fuerza. Para asegurarnos de que el joven Ravasaur crezca correctamente, necesitamos esas glándulas.$B$BViaja a Terror Run y mata a los stegodones. Ten cuidado, son más fuertes que tu bestia promedio.",
+    ["O"] = "Recoge Glándulas de Stegodon y llévaselas a Jama’nali en la entrada sureste del Cráter Un’goro.",
+    ["T"] = "Glándulas de Stegodon",
+  },
+  [41773] = {
+    ["D"] = "Vagando por la jungla de Un\'goro, seguramente has sentido temblores en la tierra de vez en cuando. Lejanos rugidos de terror y el rompimiento de árboles y ramas. El temible devilsaur es el depredador más fuerte de Un\'goro, ninguna otra bestia puede rivalizar con su incomparable fuerza. Cazar uno de ellos ya es un gran logro, pero derribar uno muestra capacidades excepcionales. El poderoso músculo que es su corazón será una fuente fantástica de nutrición para la cría.",
+    ["O"] = "Entrega Corazones de Devilsaur a Jama’nali en la entrada sureste del Cráter Un’goro.",
+    ["T"] = "El Poder del Devilsaur",
+  },
+  [41774] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Pedestal de la Unidad",
+  },
+  [41775] = {
+    ["D"] = "$C, acércate. Tus contribuciones al Athenaeum han sido abundantes y muchos tomos abandonados han vuelto a nuestra posesión. Los Shen\'dralar están agradecidos por tus acciones hasta ahora, por lo que me veo obligado a pedirte un favor más.$B$B Mientras nuestro tesoro de conocimientos crece, todavía nos falta un grimorio antiguo y crucial que es infame entre nuestros sabios. Escrito por la deshonrada princesa hechicera Aszune, el libro detalla el meticuloso proceso de romper y converger fragmentos mágicos y cristales. ¡Es primordial que regrese al Athenaeum!$B$B Las energías mágicas que emanan del libro son únicas, y las recuerdo bien. Afortunadamente para nosotros, no han salido de Eldre\'thalas. Percibo su presencia arriba, cerca del asiento del despreciable rey ogro. Ciertamente, su corpulento consejero lo está mancillando con sus manos sucias. Recupéralo de él, ¡pero ten cuidado! El libro es antiguo y se daña con facilidad.",
+    ["O"] = "Recupera el libro \"Estudios sobre la Materialización Cósmica\" de Cho’rush el Observador en Dire Maul y regresa con Lorekeeper Javon en el Athenaeum.",
+    ["T"] = "Las Prácticas Olvidadas",
+  },
+  [41776] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Quiebre del Nexo",
+  },
+  [41777] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Convergencia del Nexo",
+  },
+  [41778] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Libram de Voracidad",
+  },
+  [41779] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Libram de Constitución",
+  },
+  [41780] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Libram de Resiliencia",
+  },
+  [41781] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Libram de Rumoración",
+  },
+  [41782] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Libram de Tenacidad",
+  },
+  [41783] = {
+    ["D"] = "Puedes pensar que un archivista no tiene mucho que hacer en una expedición como esta, ¡pero estás muy equivocado con esa suposición! Además de mis otros talentos como traductor y mi destreza analítica, muchos de los lugares en los que SI:7 se establece están llenos de una rica historia. Esto es especialmente cierto para un lugar tan cargado de historia como Balor. Infame entre los ciudadanos del reino, muchas historias y rumores sobre el antiguo estado de la nave enterrada se cuentan entre las generaciones. Si bien debo realizar mis tareas de manera objetiva, aún hay ciertos documentos que quiero cronometrar por interés personal.$B$BEl libro de bitácora del guardabosques del faro. El faro se encuentra al norte de aquí, justo más allá de la bahía de Breezehaven.$B$B Los registros de la familia Grahan, las ruinas de su mansión están en las montañas occidentales.$B$BLos sermones de la iglesia más allá de las puertas de la ciudad rota.$B$B Búscalos durante tus viajes a la isla.",
+    ["O"] = "Adquiere los documentos para Noppsy Spickerspan en el Puesto Avanzado SI:7 en Balor.",
+    ["T"] = "Historias Olvidadas",
+  },
+  [41784] = {
+    ["D"] = "¡Oye, tú allí! ¡Pareces el tipo de aventurero valiente! Apostaría a que podrías usar un dulce que restaure tu apetito en tiempo récord... ¡Sí, sí, ya lo veo en tu cara, lo quieres ahora! Bueno, lo siento amigo, mis pasteles de fruta Kezan son una rareza, y una que necesita una compra previa. Si quieres tener la oportunidad de comprar mis productos, tendrás que pagarme por el lujo primero.$B$B ¿Qué tal, cien monedas de oro? Mis pasteles son solo para clientes adinerados, después de todo, no estoy dispuesto a darle una rareza como esa a algún mendigo. Consigues las monedas y vuelves a verme, ¿suena bien, chico?",
+    ["O"] = "Paga a Nizzle 100 de oro por el lujo de comprar sus pastelitos de fruta.",
+    ["T"] = "Importaciones de Pastel Kezan",
+  },
+  [41785] = {
+    ["D"] = "<En tus manos está el fragmento brillante que antes poseía Zuluhed, Jefe del Clan Faucedraco. Al mirar su cuerpo sin vida, recuerdas lo que pudo lograr con la reliquia que ahora tienes: Un fragmento del Alma del Demonio, el artefacto legendario que Nekros Rompecráneos usó para esclavizar a la Reina Dragón Alexstrasza, el Aspecto del Vuelo Dragón Rojo. Aún lleno del poder que se le otorgó hace mucho, contemplas qué hacer con él. Quizás puedas encontrar a un miembro del Vuelo Dragón Rojo dispuesto a hablar contigo sobre este peligroso artefacto.>",
+    ["O"] = "Procure no Pântano por um dragão vermelho disposto a ouvir você.",
+    ["T"] = "Yugo de la Reina Dragón",
+  },
+  [41786] = {
+    ["D"] = "Esta isla me está jugando una mala pasada. Cubierta por una densa niebla todo el día, y si no es eso, veo nubes de humo saliendo del océano. ¡Sí, del océano! No hay tierra a la vista, pero el humo se eleva al cielo como si fuera lo más lógico. Nos estás ayudando en nuestra operación, ¿verdad? Si tienes tiempo, ¿podrías revisar el mar abierto al noroeste desde aquí y darme la tranquilidad que tanto necesito?",
+    ["O"] = "Investigue a fumaça suspeita que sai do mar aberto perto de Balor.",
+    ["T"] = "Sospechas del Mar",
+  },
+  [41787] = {
+    ["D"] = "El Consejo de las Sombras. Parece que los esbirros de Doomhammer fueron descuidados. Si no los conoces, el Consejo de las Sombras son — o mejor dicho eran — los seguidores fanáticos de Gul\'dan. Una camarilla de herejes y pecadores, dedicados a sus señores demoníacos. Se dijo que fueron erradicados tras la muerte de su maestro durante la Segunda Guerra, pero su depravación aún persiste. Si este mensaje es fiable, entonces los Atracasombras están liderados por un brujo poderoso y de alto rango del Consejo, operando desde el Castillo de Tempesforja.$B$B$N, no hay tiempo para descanso. Reúne una fuerza élite y asalta el castillo caído. Debemos detener a su líder de invocar ese demonio del Vacío y rescatar a los ciudadanos que aún están bajo su control. ¡No tomes esto a la ligera, prepárate para cualquier eventualidad!",
+    ["O"] = "Pare o Conselho das Sombras nas Ruínas Tempesforjadas.",
+    ["T"] = "Corazón de la Oscuridad",
+  },
+  [41788] = {
+    ["D"] = "Los Gnarlpine no son la única tribu furbolg que habita las ramas de Teldrassil.$B$BAl suroeste, escondida entre las alturas veladas por la niebla, yace una tribu esquiva: los Ursan. Han evitado los caminos de otros, escondiéndose tanto de nuestros ojos como de nuestras voces.$B$BPero... siento la misma oscuridad que se agita entre ellos — el musgo vil se extiende, corrompiendo todo lo que toca. Enviamos a un druida, Drethanis, a buscar la verdad en su dominio. Pero... el viento no ha traído noticias de él desde entonces.$B$BTemo por su destino.$B$BAyúdame. Búscalo entre las sombras de las Alturas Ursan — el camino está al oeste de las Pozas de Arlithrien.$B$BSi aún respira, allí lo encontrarás.",
+    ["O"] = "Encontre Drethanis nas Alturas Ursan a oeste das Poças de Arlithrien.",
+    ["T"] = "Alturas de Ursan",
+  },
+  [41789] = {
+    ["D"] = "Mira a tu alrededor. La tribu Ursan — antes noble, para una raza menor — ahora está presa de la locura inducida por el vil. Sus corazones están destrozados, sus mentes perdidas.$B$BProfanaron uno de nuestros sagrados pozos lunares... y mataron a su guardián. Tal transgresión no puede quedar sin respuesta.$B$BSi los tiempos fueran menos graves, intentaría sanar sus espíritus. Pero ya viste lo que hace el musgo vil en estos bosques. Una vez que arraiga, no hay redención para su especie.$B$BMátalos. A tantos como puedas. Tráeme sus amuletos — relicarios lamentables, una vez hechos por sus chamanes para alejar a los espíritus malignos. Una creencia ingenua.$B$B<Él esboza una leve sonrisa amarga.>$B$BClaramente... fallaron.",
+    ["O"] = "Traga 20 Amuletos Ursan para Drethanis nas Alturas Ursan.",
+    ["T"] = "Tribu Ursan",
+  },
+  [41790] = {
+    ["D"] = "La tribu está rota, su fuerza dispersa al viento. Ahora es tiempo de reclamar lo que es nuestro — el pozo lunar no debe permanecer manchado por su hedor.$B$BSu supuesto líder, Arkod el Blanco, probablemente anda por las aguas sagradas incluso ahora, profanando lo que queda de sus guardianes. Fue un devoto servidor de Ursol... uno de los clérigos más reverenciados del dios oso.$B$B¿Curioso, no? Caer tan bajo. Uno se pregunta qué blasfemia le valió el silencio de Ursol.$B$BMátalo. Corta la cabeza de su corrupción y tráemela. Sin él, la tribu caerá — y limpiaré el pozo lunar de su suciedad de una vez por todas.",
+    ["O"] = "Traga a cabeça de Arkod, o Branco, para Drethanis.",
+    ["T"] = "Recuperando el Pozo de la Luna",
+  },
+  [41791] = {
+    ["D"] = "Nuestra expansión hacia los Reinos del Este es muy exitosa. La fundación de Kargath fue un momento vital para afianzar nuestra presencia en los límites de Khaz Modan. Pero eso fue solo un paso en el plan del Jefe de Guerra para las tierras más allá del Gran Mar.$B$BAl noreste del gran estanque de Loch Modan, un pasaje conduce a los Extremos Sombríos, tierras libres de los enanos de las colinas, plagadas por los orcos Faucedraco. El comandante Aggnash estableció el Puesto de la Hoja Quebrada en las afueras noreste, una fortaleza construida para neutralizar la agresión de los Faucedraco en esta parte del Reino del Este. Ve allí y ayúdalo a cumplir la causa del Jefe de Guerra.",
+    ["O"] = "Belgrom Punho de Pedra quer que você fale com o Comandante Aggnash no Posto Lâmina Quebrada, nos Extremos Sombrio.",
+    ["T"] = "El Puesto de la Hoja Quebrada",
+  },
+  [41792] = {
+    ["D"] = "Mi hermano Morkan está estacionado en el Puesto Hoja Quebrada en los Extremos Sombríos. Una tierra agreste, al este de Loch Modan y los Humedales. Los enanos y los orcos Faucedraco han estado peleando por el control durante mucho tiempo, y nuestro Jefe de Guerra Thrall quiere evaluar la situación personalmente. La naturaleza es traicionera e implacable, y mi hermano, aunque ambicioso y disciplinado, aún es joven e inexperto. Para levantar su ánimo, quiero que le lleves este cerdo cocido que preparé, es su favorito. Si pudieras entregárselo, te estaría muy agradecido, $c.",
+    ["O"] = "Leve o Porco Assado ao Grunhidor Morkan no Posto Lâmina Quebrada, nos Extremos Sombrio. Você pode chegar passando por um túnel ao sudeste do Lago Modan.",
+    ["T"] = "Cerdo para Morkan",
+  },
+  [41793] = {
+    ["D"] = "El pasado de la Horda está lleno de culpas y errores. Nuestras antiguas alianzas con varios clanes orcos mancharon nuestro honor, una mancha que debemos limpiar si queremos avanzar hacia un nuevo futuro. El Clan Faucedraco, fanáticos veteranos responsables de esclavizar al Vuelo Dragón Rojo, se reunieron en los Extremos Sombríos, un lugar accidentado al este de Loch Modan. Sus delirios los hacen aferrarse como locos a sus viejas costumbres, incapaces de ver la locura de todo esto.$B$BEnviamos una unidad a los Extremos Sombríos por orden del Jefe de Guerra Thrall, a través de Loch Modan, pasando por el túnel en el Refugio de Errante al Sureste del lago. Quiero que los sigas y te unas a ellos en el Puesto Hoja Quebrada. Ayúdalos en todo lo que puedas. ¡Lleva honor a la Horda, cachorro!",
+    ["O"] = "Vá até o Posto Lâmina Quebrada nos Extremos Sombrio e fale com o comandante.",
+    ["T"] = "Cicatrices del Pasado",
+  },
+  [41794] = {
+    ["D"] = "Mok\'rah, joven. Más allá de las bahías del Gran Mar hacia el norte está la desolada isla de Balor. Tormentas antinaturales azotan sus costas, y la siniestra magia de la corrupción de Gul\'dan aún perdura en su tierra décadas después de su destrucción. Mi clan, los Vacío Sangrante, está estacionado en una de las islas orientales alrededor de Balor, en nombre de nuestro Jefe de Guerra Thrall. El jefe Kilrogg mismo se ofreció para liderar esta ofensiva contra el resurgido clan Atracasombras.$B$B¿Podrías hacerme un favor? Mi clan mate, el Vidente Sarno, necesita esta poción para sus adivinaciones. Si pudieras llevársela, harías un gran servicio a la Horda. Habla con Thysta, la Maestra de Jinetes del Viento, que está justo allí, y ella te llevará a Balor rápidamente.",
+    ["O"] = "Entregue a Poção de Mok\'thardin ao Vidente Sarno no Ponto Quebra Tempesforja.",
+    ["T"] = "Las Tormentas de Balor",
+  },
+  [41795] = {
+    ["D"] = "Una terrible oscuridad emergió de nuestro pasado, joven. Una oscuridad que amenaza no solo a la Horda, sino a toda la vida en Azeroth. No hace mucho recibimos una carta misteriosa de un remitente desconocido, escrita con tinta negra. Nos advertía sobre una reliquia de la Segunda Guerra, renacida para sembrar caos en el mundo. El Clan Atracasombras, títeres de Gul\'dan, regresaron y se unieron a sus viejos aliados, el Consejo de las Sombras. Sus brujos han cometido innumerables atrocidades y si no los detenemos, temo que enfrentemos una nueva era de terror. Ordené a uno de mis consejeros y jefe del clan Vacío Sangrante, Kilrogg Ojo Muerto, que sofocara su levantamiento. Partió hacia la isla de Balor, su antigua base de operaciones.$B$B$N, quiero que lo sigas y ayudes al clan Vacío Sangrante. Toma el zeppelín al Campamento Base Grom\'gol y habla con la Maestra de Jinetes del Viento local. Ella puede llevarte a la isla al oeste de Stormwind.",
+    ["O"] = "Fale com Kilrogg Olho Morto em Balor.",
+    ["T"] = "Una Carta Desconocida",
+  },
+  [41796] = {
+    ["D"] = "Saludos, buen $c. ¿Has oído hablar del gran torneo en Viento Norte? Los nobles locales están organizando un torneo de justas e invitaron a varias naciones humanas a participar, ¡incluido Theramore! Lady Proudmoore eligió a algunos de nuestros guardias como concursantes, ¡y mis hermosos hijos están entre ellos! Apenas tuve tiempo de despedirme, tuvieron que partir rápido. Dime, ¿por casualidad viajas a Viento Norte? ¿Serías tan amable de entregar estas bufandas a mi hijo Boris? Considera esto como mi apoyo desde la distancia como su padre.$B$BEscuché que puedes llegar a Viento Norte atravesando el puerto de Stormwind. ¡Buena suerte!",
+    ["O"] = "Entregue os Cachecóis Vento Longe para Boris Vento Longe no Campo de Justas em Vento Norte.",
+    ["T"] = "Lejos de Casa",
+  },
+  [41797] = {
+    ["D"] = "Duskwood se vuelve más peligroso cada día que pasa. Ya sea por los worgen rabiosos, los muertos errantes o los ladrones asesinos, siempre hay algo que quiere matarte aquí. Al final, uno se pregunta por qué seguimos aquí. La respuesta es simple: estos bosques son nuestro hogar y no permitiremos que estas monstruosidades nos los arrebaten.$B$BSin embargo, estar aquí pesa mucho en el corazón de mis amigos, en especial en Barbara. Ella es la flechera de Lord Amberwood, el noble gobernante de Viento Norte, al norte de Stormwind. No la he visto ni escrito en mucho tiempo. Debe estar preocupada por mí, y eso me avergüenza profundamente. Si tienes un momento, ¿podrías entregarle esta carta? Contiene cosas que debí decirle hace mucho, así que te confío una tarea muy importante. Si lo haces, te estaré eternamente agradecido.$B$BLa forma más rápida de llegar a Viento Norte es pasando por el puerto de Stormwind.",
+    ["O"] = "Entregue a Carta de Avette Fellwood para Barbara Lee na Fortaleza Amberwood em Vento Norte.",
+    ["T"] = "Un Buen Amigo",
+  },
+  [41798] = {
+    ["D"] = "Buen día, $c. Pareces del tipo aventurero. ¿Has enfrentado muchos de los peligros que abundan hoy? No importa dónde vayas, parece que las crisis no están lejos. No es el mundo en que queremos que crezcan nuestros hijos. Mi esposa hace lo posible por mejorar Azeroth, pero incluso en la organización en la que está, es una tarea casi imposible. ¿Te interesaría ayudarla como mercenario? La operación en la que está asignada esta vez es... particularmente delicada, o eso me dijo. Para ser sincero, me preocupa su bienestar, esto podría ser demasiado para ella. Te estaría eternamente agradecido si la ayudas.$B$BSi aceptas, dirígete al puerto, justo al oeste de aquí. En uno de los muelles del sur encontrarás a un colega suyo — Simmons se llama, creo. Dile que la Operativa Gillian pidió más ayuda externa, y él te llevará a ella, a la isla de Balor.",
+    ["O"] = "Ronald Gillian pediu para você se juntar à esposa dele em Balor para ajudar no trabalho dela.",
+    ["T"] = "Mi Querida Esposa",
+  },
+  [41799] = {
+    ["D"] = "¡Ese buen para nada Finnigan! Juro que algún día alguna de sus travesuras será su final. No hace mucho un grupo de agentes SI:7 se reunió en los muelles. Por lo que escuchamos, iban a completar una misión peligrosa en la isla justo frente a la costa de Costa Oscura. Se llama Balor. Esa isla ha estado cubierta por una tormenta interminable incluso antes de que nos estableciéramos aquí en Davenburg. Kul Tiras ha estado en contacto con Balor y su gente en el pasado, por lo que el lugar no nos es desconocido.$B$BSea como sea, Finnigan, nuestro hidromántico local, se ofreció para ayudar a SI:7 con su misión en Balor y ahora está con ellos en su puesto avanzado. Lo necesitamos de vuelta en Davenburg lo antes posible para no poner en riesgo nuestra misión diplomática. $C, ¿estarías dispuesto a ayudarlo a terminar lo que empezó para que pueda regresar? Uno de los agentes se quedó en los muelles del sur, seguro que puede llevarte a la isla.",
+    ["O"] = "Fale com o Hidromante Finnigan no Posto Avançado da SI:7 em Balor.",
+    ["T"] = "La Curiosidad de un Hidromante",
+  },
+  [41800] = {
+    ["D"] = "Esta tierra ha sido testigo del ascenso y la caída de héroes, de hazañas cantadas en leyendas y penas mejor dejadas al silencio de los siglos. Aquí, donde el viento susurra secretos a la piedra y la tierra bebe profundamente la sangre de los guerreros, las batallas de antaño se libraron con espada y hechizo, y los ecos de esos conflictos aún permanecen en el aire.$B$BEn lo profundo del sombrío valle de los Huecos Sombríos yace la Tumba de los Ancestros, un santuario tan antiguo como el propio Grim Batol. Allí descansan los huesos de los antepasados enanos, sus nombres grabados en runas y memoria. Creíamos que descansaban en paz... Nos equivocamos.$B$BAlgo se agita en su interior.$B$BLos muertos ya no duermen como deberían. Sus espíritus vagan por las brumas del Hueco. Una presencia oscura se enrosca bajo el pantano, invisible e impura, perturbando el orden de cosas largamente establecido.$B$BAsí que te digo, alma valiente: aventúrate en las tierras pantanosas veladas. Encuentra la fuente de esta plaga. Devuelve el descanso a sus ancestros una vez más, y no permitas que ninguna sombra se interponga entre los vivos y los honorables muertos.",
+    ["O"] = "Libera 10 almas errantes y 10 ancestros desplazados.",
+    ["T"] = "El Hueco Sombrío",
+  },
+  [41801] = {
+    ["D"] = "Hay uno que puede tener la respuesta a esta inquietante pregunta. En el corazón del Hueco Sombrío se alza un gran roble, un centinela antiguo que ha echado raíces en estas tierras desde antes de que los primeros enanos pisaran aquí. Su edad es incalculable, y su presencia ha sido objeto de reverencia silenciosa.$B$BPero últimamente, mis amigos enanos han traído noticias de un dragonante azul que ha establecido su campamento bajo sus poderosas ramas. No puedo decir por qué se queda allí, aunque sospecho que su presencia puede estar ligada a la corrupción que se filtra por la tierra. Los dragones, como bien sabes, son seres de gran poder y aún mayor misterio; rara vez se preocupan por los asuntos de los mortales.$B$BSi decides acercarte a él, hazlo con cautela, porque la paciencia de un dragón es tan delgada como el acero fundido. Sin embargo, si logras ganar su atención, es posible que pueda arrojar luz sobre la oscuridad que cae sobre el Hueco Sombrío.",
+    ["O"] = "Encuentra un dragonante azul cerca de un gran roble en el Hueco Sombrío.",
+    ["T"] = "Los Dragonantes Azules",
+  },
+  [41802] = {
+    ["D"] = "Solo los ciegos podrían no ver la corrupción que se ha apoderado de estos pantanos, sus repugnantes tentáculos filtrándose en cada raíz y sombra. Fui enviado aquí para descubrir la verdad de lo que aflige al Hueco Sombrío, pero mi tarea no ha sido nada fácil. Los pantanos son patrullados por dragonantes rojos, sus mentes atrapadas por la misma corrupción que envenena esta tierra.$B$BLos dragones compartimos un vínculo, un sentido de nuestra estirpe, y ellos me perciben tan claramente como yo los percibo a ellos. Cada vez que he intentado acercarme a la Tumba de los Ancestros, me han interceptado, impulsados no por la razón, sino por la oscuridad que nubla sus mentes. Y así, me quedo aquí, refugiado bajo este roble antiguo, pero incapaz de cumplir el propósito que me trajo a este lugar maldito.$B$BTú, sin embargo, no estás atado por los lazos de los dragones. Debes aventurarte en las profundidades de la Tumba de los Ancestros y descubrir la fuente de esta corrupción. Estoy seguro de que yace dentro, enconándose y extendiendo su mancha. El destino de estas tierras puede depender de tu valor mortal.",
+    ["O"] = "Llega a las profundidades de la Tumba de los Ancestros.",
+    ["T"] = "Tumba de los Ancestros",
+  },
+  [41803] = {
+    ["D"] = "Ahora, mortal, escucha bien. Si quieres comprender la gravedad de lo que enfrentamos, primero debes entender a los skardyn y el vil origen que los engendró. Su historia es una de traición, corrupción y una oscuridad que debería haber permanecido enterrada. Presta atención, porque este conocimiento es tan peligroso como necesario.",
+    ["O"] = "Escucha la historia de Sarthyss Corazón de Escamas.",
+    ["T"] = "Los Skardyn",
+  },
+  [41804] = {
+    ["D"] = "Skardyn... seres de terrible poder y furia sombría. Mucho más fuertes que tú, mortal, y más fuertes aún que cualquier grupo común de aventureros. Enfrentarlos directamente sería una locura. Su carne está protegida por escamas impregnadas de hechicería vil, sus formas resguardadas por maldiciones tejidas en lo profundo de su esencia.$B$BSi queremos tener alguna posibilidad, necesitaremos forjar un arma, una imbuida con el poder de perforar sus oscuros encantamientos. Pero debo confesar, mortal... que incluso con todo mi conocimiento, no sé qué arma sería esa. Los secretos de su destrucción están más allá de mi alcance.$B$BSin embargo, puede haber otro camino. Los skardyn fueron alguna vez enanos Hierro Negro, retorcidos por la sombra, sí, pero alguna vez parientes de aquellos que aún caminan en la superficie. Quizás sus descendientes hayan guardado registros de lo que les ocurrió a sus parientes malditos.$B$BDebes ir a la Fortaleza de Angor, en las Tierras Inhóspitas. Allí, los Hierro Negro aún permanecen, recluidos, secretos y peligrosos. Pero si alguno de ellos recuerda la verdad de lo que ocurrió bajo Grim Batol... es allí donde la encontrarás.",
+    ["O"] = "Viaja a la Fortaleza de Angor en las Tierras Inhóspitas y encuentra pistas sobre cómo derrotar a los skardyn.",
+    ["T"] = "Recuerdos de Hierro Negro",
+  },
+  [41805] = {
+    ["D"] = "Ahora, escucha, mortal.$B$BLos dragonantes rojos que acechan estos pantanos fétidos... sus mentes ya no les pertenecen. La repugnante hechicería de los skardyn se ha infiltrado en sus pensamientos, convirtiendo a orgullosos drakes en marionetas gruñonas. Una desgracia... pero no sin utilidad.$B$BSus glándulas de fuego, libres de corrupción, aún arden con intensidad. Cósquelas. Que sus últimas brasas sirvan a un propósito mayor que la locura. Con ellas, reduciremos las defensas de los skardyn a cenizas.$B$BNo confundas esto con misericordia. Es una necesidad. Su sufrimiento termina... y el de los skardyn también.$B$BAhora ve. Y no malgastes su fuego.",
+    ["O"] = "Extrae 3 glándulas de fuego intactas de dragonantes rojos en el Hueco Sombrío.",
+    ["T"] = "Bañado en Fuego de Dragón",
+  },
+  [41806] = {
+    ["D"] = "Las glándulas de fuego por sí solas no bastarán para romper las defensas de los skardyn, no, ni por asomo. Su carne retorcida ha sido endurecida por la sombra, protegida contra el mero fuego. Lo que necesitamos es un catalizador, un conducto enfocado a través del cual la furia del fuego de dragón pueda ser canalizada adecuadamente.$B$BHay un gnomo, curioso y astuto, llamado Oblethorpe Obloticus, que reside en ese caótico muladar que los mortales llaman Bahía del Botín. En sus años más jóvenes, trabajó con llamas volátiles en un intento por limpiar la plaga de Gnomeregan. Sus métodos eran... poco ortodoxos, y no exentos de controversia. El Maestro Trinquete mismo se opuso a ellos.$B$BSin embargo, si existe una mente capaz de forjar un artefacto de fuego de dragón lo suficientemente potente como para romper la piel forjada en sombras de los skardyn, es la suya.$B$BBúscalo. El tiempo no está de nuestro lado.",
+    ["O"] = "Encuentra un experto en explosivos de fuego de dragón en Bahía del Botín.",
+    ["T"] = "¡Bombas de Fuego de Dragón!",
+  },
+  [41807] = {
+    ["D"] = "¡Ajá! Hmm... bueno, esto no es del todo un desastre. Tengo, veamos, resortes espirales, reguladores de flujo, gel de contención... ¡Sí! Tengo casi todo lo que necesito.$B$B¡Sin embargo! Me estoy quedando un poco bajo en algunos componentes clave, concretamente, Polvo de Explosión Sólido, Estructuras de Bronce y Artefactos de Bronce Zumbantes. ¡Nada demasiado exótico! Cualquier ingeniero medianamente competente podría improvisarlos con los materiales adecuados. ¡Sin ofender si solo eres un cuarto competente, por supuesto!$B$BAhora, una cosa podría ser un poco más complicada... el gatillo resistente al calor. No es un gatillo cualquiera, fíjate, es una pieza especial de Undermine. Construido para soportar temperaturas extremas. La última vez que supe, el último envío de Undermine fue interceptado por esos canallas piratas Velasangre.$B$BSi tienes suerte, y todavía tienes todas tus extremidades al final, podrías encontrar uno de esos preciosos gatillos escondidos en los campamentos piratas al sureste.$B$B¡Ahora ve! ¡Tráeme los materiales y yo traeré el boom!",
+    ["O"] = "Lleva los materiales requeridos a Oblethorpe Obloticus en Bahía del Botín.",
+    ["T"] = "Me he convertido en Muerte...",
+  },
+  [41808] = {
+    ["D"] = "<Oblethorpe observa la bomba terminada con una mezcla de orgullo y profunda preocupación creciente>$B$BBueno... tras reflexionarlo un poco, y tal vez con un poquito de retrospectiva, no estoy completamente convencido de que fabricar eso para ti haya sido la mejor idea que he tenido...$B$BT-tal vez debería quedármelo... ya sabes, para mantener el mundo intacto uno o dos días más...$B$B¡Vale, vale! ¡No hace falta esa mirada de muerte, por favor! ¡Solo... toma esa maldita cosa! ¡Pero haznos un favor a todos y llévala lo más lejos posible! ¡Evita el fuego, los goblins, los movimientos bruscos, los ruidos fuertes y especialmente a mí cuando la tengas!$B$B<Coloca la bomba con cuidado en tus manos>$B$B¡Ahora vete, vete! ¡Fuera de aquí antes de que cambie de opinión!$B$B¡Ooooh, pero espera! ¡Todo este trabajo me ha dado la idea más brillante: ¡PATOS EXPLOSIVOS! ¡Nadie espera un pato explosivo! ¡Ji, ji! ¡El caminar! ¡La detonación! ¡LAS POSIBILIDADES!",
+    ["O"] = "Regresa con Sarthyss Corazón de Escamas con la bomba.",
+    ["T"] = "Me he convertido en Muerte...",
+  },
+  [41809] = {
+    ["D"] = "Basta de esperar, mortal.$B$BEsa escoria skardyn se esconde abajo, con sus garras hundidas en las venas de la tierra, envenenando todo lo que toca. Sus protecciones pueden ser fuertes, pero no contra el fuego que ahora llevas. Que la furia de mis parientes caídos sea la chispa que reduzca sus defensas a cenizas.$B$BLuego, córtale la cabeza. Limpiamente. Que su sangre sea la última corrupción que derrame.$B$BPero no seas tonto. Si entras solo, serás solo otro cadáver en su colección. Trae guerreros. Trae acero. Trae suficiente furia para igualar su traición.$B$BAhora vete. Y no me decepciones.",
+    ["O"] = "Usa la bomba de fuego de dragón para debilitar el escudo del skardyn y luego derrota al hechicero skardyn.",
+    ["T"] = "Olor a Fuego de Dragón",
+  },
+  [41810] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "Runa Verdosa",
+  },
+  [41811] = {
+    ["D"] = "<Zalsu parece perdido en concentración, como si intentara escuchar algo lejano. Su atención se rompe de sus pensamientos distantes, solo para mirarte con curiosidad.>$B$BSiento que estás aquí con un propósito, ¿puedes oírlo, deslizándose sobre las arenas y elevándose desde las dunas? Sí... algo malvado ha surgido, algo repugnante. Lo he sentido desde lo profundo de Zul\'Farrak, y ha manchado las mismas dunas de Tanaris. ¡Los espíritus están enfurecidos por la presencia de un mal antiguo, y no tengo dudas de que es el regreso de Zel\'jeb.$B$BAquel que era viejo cuando el mundo era joven, uno de los señores de la guerra más venerables de los Farraki, empoderado por el embalsamamiento oscuro y la magia vil. Si ha de haber paz en estas tierras, su alma debe ser llevada a su fin. Encuéntralo en lo profundo de Zul\'Farrak, y lleva a tus aliados más confiables, los necesitarás para derrotar a Zel\'jeb.",
+    ["O"] = "Aventúrate en Zul\'Farrak y mata a Zel\'jeb el Ancestro, luego regresa con Zalsu el Errante, quien puede encontrarse al sur de Zul\'Farrak.",
+    ["T"] = "El Ancestro Farraki",
+  },
+  [41812] = {
+    ["D"] = "Muy por debajo de nuestros pies yace un antiguo templo una vez dedicado a Elune, es allí donde los druidas plantaron un árbol mágico de gran poder para revitalizar la naturaleza misma. La belleza de este árbol solo ha sido vista por pocos, aunque ahora temo que está en manos del mal.$B$BHe escuchado rumores de que los sátiros ahora merodean por estos antiguos salones sagrados en las profundidades de las Cavernas de Brazanegra. Te encomiendo recuperar una semilla de este árbol y traérmela para que mis compañeros druidas puedan quizás descubrir el poder de los druidas de antaño.",
+    ["O"] = "Adéntrate en las profundidades de las Cavernas de Brazanegra y recupera una \"Semilla de Floración\" de las Ruinas del Santuario Lunar. Una vez adquirida, regresa con Aelennia Florestelar al este de La Ensenada Zoram en Vallefresno.",
+    ["T"] = "Las Ruinas del Santuario Lunar",
+  },
+  [41813] = {
+    ["D"] = "¡La Liga de Expedicionarios no es lo que solía ser, te lo digo! Les dije que vendría aquí para descubrir historia, reliquias familiares, algo tan grandioso que sería colocado en el Salón de los Expedicionarios de Forjaz. ¡Pero se burlaron de mí y no me dieron fondos! ¿Cómo se supone que este enano pueda pagar su cerveza sin financiación?$B$BHijos de cabras y carneros, eso es lo que son. Pfft. Eh, hablando de eso, dudo que lleves mucho dinero contigo, así que me saltaré la parte del financiamiento. Escuché a algunos humanos hablar mucho sobre que Balor tenía su propio licor casero en el pasado. Un tipo llamado Vander solía ser dueño de una granja, y se decía que preparaba una bebida fuerte. Dudo que el hombre viva, pero quizás encuentres algo de su brebaje en su antigua casa.",
+    ["O"] = "Encuentra la caja de licor en la granja Vander y devuélvela a Olmir Cuernomedio.",
+    ["T"] = "El Licor de Balor",
+  },
+  [41814] = {
+    ["D"] = "Prometí a la Liga de Expedicionarios un premio cuando salí de Forjaz, ¡principalmente porque hirieron mi orgullo! Cavé aquí y allá, pero no había mucho que encontrar en este lado de la isla, y no soy lo suficientemente fuerte como para enfrentarme a todo un ejército de orcos solo para cumplir mi ambición. Por mucho que me duela, podría tener que regresar con las manos vacías.$B$BA menos que... ¿Qué tal si hacemos un intercambio? Una reliquia por una reliquia. Tú me rascas la espalda, yo te rasco la tuya, ese tipo de cosas. Tengo este artefacto que desenterré en otra expedición que estoy dispuesto a intercambiar, si regresas con algo del castillo del Duque. Soy lo suficientemente hombre como para admitir que mi conocimiento de Balor es bastante limitado, pero el difunto Duque debe haber tenido algo valioso. Una espada, un escudo, una corona, lo que sea que encuentres, tráemelo y haremos el intercambio.",
+    ["O"] = "Devuelve la Corona de Balor a Olmir Cuernomedio.",
+    ["T"] = "El Difunto Duque Balor",
+  },
+  [41815] = {
+    ["D"] = "Hay un campamento pirata al noroeste, ratas de cloaca en el sentido más puro. Mi suposición es que vinieron aquí para saquear el castillo. Lástima que esté embrujado por fantasmas y acechado por demonios y sus amos, ¿eh?$B$BDe todos modos, esto simplemente significa una oportunidad de trabajo para ambos. Soy un artesano, un comerciante, pero sobre todo, ¡soy un goblin de Kezan! Nunca podría dejar pasar mercancía gratis.$B$BBueno, \"gratis\"... Ya sabes, tendrás que robarla de sus frías manos. Pero sigue siendo gratis, ¿verdad? Muévete, entonces.",
+    ["O"] = "Recolecta 20 armas de Rata de Sentina de los piratas en el Complejo de Aguasnegras y regresa con Grexx en Punta Rompetormenta.",
+    ["T"] = "Mercancía Gratis",
+  },
+  [41816] = {
+    ["D"] = "Trueno. Trueno rugiente. Las nubes tiemblan cada vez que el cielo se agrieta, y también mi cuerpo. ¡Cómo desearía estar sobre una bestia poderosa sobre las nubes, rugiendo para que todos escuchen! Viviendo a la altura del nombre de mi clan, Señores del Trueno, un nombre pronto olvidado por este mundo. Pocos comparten mi corazón melancólico; es por eso que lo sigo, a ese viejo orco gruñón.$B$BLamentar el pasado no sirve de nada. La Horda es lo que somos ahora. Solo deseo transmitir el espíritu de la caza, el corazón y la mente de aquellos que vinieron antes, para que ellos, y yo, vivamos para siempre.$B$BY tú, eres la vela que encendí con mi fuego. Un día, de tu llama, nacerá otro.$B$BEncuentra tu camino hacia la isla principal, a través del puerto en ruinas de Breezhaven. Pasando la mina y el huerto, gira a la derecha para encontrar el lago Sorrowmere. Píntate con sangre de crocolisco y regresa con cinco de sus colas. Ha pasado mucho tiempo desde que probé su carne.$B$BSé audaz, sé cuidadoso y, por todos los medios, emociónate con la caza.",
+    ["O"] = "Mata 10 crocoliscos de Pesaroscuro y entrega 5 de sus colas a Gre\'shka Mordida de Lobo en Punta Rompetormenta, Balor.",
+    ["T"] = "El Primero de Muchos",
+  },
+  [41817] = {
+    ["D"] = "Una sensación cálida, ¿no es así? Un intento exitoso, uno cuyo botín compartiste con otro, unido a ti por el respeto mutuo por la caza.$B$BEste momento que compartimos ahora, lo he compartido innumerables veces con mi gente en casa. No pasaba un día sin que regresáramos con una presa, festejando con nuestro botín y contando historias de nuestras cacerías.$B$BEs una buena vida la que tuvimos, la que tenemos. Aunque incluso entonces, muchos se perdieron; una simple negligencia puede costarte la vida.$B$BEl miedo es tu rival, amigo mío. Debes controlarlo, o gobernará sobre ti. No te preocupes por competir contra otros, compite contra tu miedo. Un segundo es suficiente para que perezcas.$B$BCon eso en mente, debes regresar al lago Sorrowmere y seguir los largos puentes hacia el Matorral Corredizo. Tu próxima cacería espera. Mata a las arañas Corteza de Niebla y observa cómo te va contra un enemigo de muchas patas y una mordedura venenosa.$B$BMientras caminas hacia allí, recuerda lo que te dije: no es realmente a ellos a quienes estás luchando, sino a tu miedo.",
+    ["O"] = "Mata 5 arañas Corteza de Niebla y 6 tejedoras Corteza de Niebla, luego regresa con Gre\'shka Mordida de Lobo en Punta Rompetormenta.",
+    ["T"] = "El Miedo es tu Rival",
+  },
+  [41818] = {
+    ["D"] = "Una cacería mucho más desafiante, pero muchas más esperan. Una lección que debes aprender es que ninguna criatura nace igual. Aquellos que dicen lo contrario carecen de visión o sentido común.$B$BEn tus viajes, enfrentarás muchas pruebas. Azeroth es vasto y cruel; debes estar preparado para cualquier cosa.$B$BLa desigualdad también marca nuestra singularidad. No veas la palabra \"desigual\" y te hundas en pensamientos oscuros. Mira más allá, entiende que aunque el mundo no se incline ante ti, ser tú mismo es suficiente. Encontrarás un camino, tu camino, y serás único.$B$BHas enfrentado tu miedo, y ese fue el primer paso para encontrar tu propio camino.$B$BAhora, regresa a la isla principal. Donde el camino se divide en el huerto, gira a la izquierda y pasa por las paredes del castillo en ruinas. Más allá de la iglesia y la cripta, encuentra la otra entrada. Pásala y pasa la cueva. En las colinas sueltas más allá, encontrarás buitres y zopilotes. Enfréntalos y aprende a luchar contra un enemigo volador.",
+    ["O"] = "Mata 6 buitres Alatormenta y 9 zopilotes Alatormenta, luego regresa con Gre\'shka Mordida de Lobo en Punta Rompetormenta.",
+    ["T"] = "No Nacemos Iguales",
+  },
+  [41819] = {
+    ["D"] = "Nunca me ha gustado el sabor del pescado, principalmente porque era una comida tan frecuente en las Islas Darkspear. Sin embargo, desde que nos vimos obligados a abandonar nuestro hogar, no es el sabor sino los recuerdos que trae lo que me molesta. La malvada Bruja del Mar, sus naga y sus esbirros múrlocs sin mente le costaron caro a nuestro pueblo. Aunque no me aferro al pasado, no puedo evitar sentir un ardiente deseo de ver a estas criaturas sucias muertas.$B$BPreveo un gran futuro para nuestra tribu dentro de la Horda, al igual que mi padre y mi abuelo antes que yo. Llevo con orgullo su bandera, pero mis pensamientos me traicionan hoy. Así que te encomiendo, tú que ayudarás a dar forma al futuro de la Horda junto a mí, matar a los Muckgills en tu camino para eliminar al líder sombrío que se esconde entre ellos.$B$BBaja por la colina y en esa cueva los encontrarás custodiando la entrada para cualquier plan que pueda tener el Heraldo del Mar.",
+    ["O"] = "Mata 5 cazadores Murloc Mofillón, 7 murlocs Mofillón y al Heraldo del Mar, luego regresa con O\'jin en Punta Rompetormenta.",
+    ["T"] = "Una Marea Oscura se Levantará",
+  },
+  [41820] = {
+    ["D"] = "Mi deber es permanecer aquí y ver cómo se acaba el Consejo de la Sombra. Sin embargo, no puedo evitar reflexionar sobre lo que esto realmente significa. Que la Bruja del Mar resurja después de tanto tiempo... es inquietante. Debes entender, mi gente ha perdido mucho por culpa de ella. Aunque pueda estar repitiéndome, es porque busco tu empatía.$B$BNo puedo irme de este lugar. Aunque mis pies arden por moverse, no soporto la idea de dejar a Kilrogg y a nuestros aliados para enfrentar esto solos. Soy solo un trol, es cierto, pero me he encariñado con el viejo jefe, para ser justos. Es espantoso, pero sabio. Apasionado y explosivo, hay mucho que puedo aprender de él. Un día, tomaré el manto de jefe Darkspear, y con él viene una gran responsabilidad.$B$BEste orco ha soportado muchas dificultades, y sus hombros aún están pesados. Le daré la oportunidad de nutrir a la próxima generación de la Horda a través de mí. Y así, te pido que viajes de regreso a Orgrimmar y entregues este pergamino a mi padre, Vol\'jin. Lo encontrarás en el Fuerte Grommash, al lado del Jefe de Guerra.",
+    ["O"] = "Entrega el mensaje a Vol\'jin en el Bastión Grommash, Orgrimmar.",
+    ["T"] = "A Mi Padre, Vol\'jin",
+  },
+  [41821] = {
+    ["D"] = "Los susurros vienen y van; los espíritus están siempre inquietos aquí. Pero incluso con todo este parloteo, hay algunas voces que no puedo silenciar.$B$BEl enemigo es repugnante, vil y más allá de cualquier salvación por lo que han hecho. Lo escucho, tan fuerte y claro, puedo escucharlo.$B$BUna abominación, nacida de una intención cruel, de un miserable sin alma. No lo soporto más.$B$BDebes encontrar tu camino en ese castillo y acabar con él. No puedo describirlo con palabras, debes verlo por ti mismo. Es espeluznante.$B$BDebes matarlo, matarlo para liberarlos, a esas pobres y jóvenes almas.$B$BNo dejes vivo a ningún Rompeolas; deben sufrir la ira del mundo viviente para que los que están más allá puedan descansar.$B$BVe ahora. Solo ve. Lo sabrás cuando lo veas...",
+    ["O"] = "Mata los restos de los inocentes y regresa con O\'jin en Punta Rompetormenta.",
+    ["T"] = "Inocencia Perdida",
+  },
+  [41822] = {
+    ["D"] = "Hecho por manos de hombres, la única luz aún visible a través de Balor está prisionera justo debajo de nuestras narices. Un faro, una extraña forma de luz artificial. El mundo es vasto más allá de las aldeas de mi tribu, y la Madre Tierra tiene muchos hijos, pero a algunos, tuvo que adoptarlos.$B$BLa Horda tampoco es ajena a ellos, y por mucho que me gustaría decir lo contrario, no creo que alguna vez los mire con verdadera empatía. ¿Un espectro de respeto? Lástima, quizás. Sin embargo, me estoy desviando del propósito de nuestra conversación.$B$BBajo la mirada de ese faro, encontrarás muchos llamados Místicos, aunque puedes buscarlos en otro lugar si lo deseas.$B$BTe encomiendo matar a tantos como puedas. Las cáscaras vacías de la corrupción vil, y su carne podrida servirán como alimento con el tiempo, permitiendo que la naturaleza siga su curso una vez más.",
+    ["O"] = "Mata 12 místicos rompetormenta y regresa a Punta Rompetormenta cuando completes tu tarea.",
+    ["T"] = "Luz Solar Sombría",
+  },
+  [41823] = {
+    ["D"] = "Entre el campo de batalla en ruinas, se puede encontrar una cueva, una antigua mina, tal vez. Es allí donde he sentido una perturbación antinatural.$B$BAlgo que una vez fue inmóvil se ha levantado sobre sus propios pies para vivir. Al igual que los no muertos esparcidos por esta tierra arruinada, estas criaturas no tienen mente y atacarán a cualquiera a la vista.$B$BTe encomiendo ir allí, encontrarlos y matar a algunos. Necesitaré muestras, así que asegúrate de traer algo afilado. Con esas muestras, puedo estudiar qué los hizo levantarse.$B$BDebería decirte de antemano que esto no ayudará a nuestros esfuerzos para eliminar a los Rompeolas, pero tendré una recompensa lista para ti.$B$BNo me hagas esperar.",
+    ["O"] = "Recolecta 7 muestras vegetativas de las bestias hongos venenosas y vivas y regresa con Uda\'pe Pastosol en Punta Rompetormenta, Balor.",
+    ["T"] = "Hongo Viviente",
+  },
+  [41824] = {
+    ["D"] = "Estas muestras tienen una sensación oscura. No sé si puedes notarlo, pero parece que han sido infundidas con algún tipo de magia, magia que las trajo a un estado de vida.$B$BPor lo que puedo decir, se parecen a las criaturas boggling de Kalimdor, pero están mucho más retorcidas. Todavía no he intentado purificarlas, aunque, a decir verdad, en este punto son solo tejido muerto.$B$BCreo que estos hongos vivientes provienen de una fuente común. Para ser claro, debería haber uno más grande que infectó al resto. No digo esto por capricho, sino porque siento algo desde la isla, alrededor del área del castillo en ruinas, o más bien, debajo de él.$B$BCreo que la fuente de la contaminación viene de allí. Si puedes encontrar un camino debajo del castillo, podrías descubrir las respuestas que buscamos.$B$BDevuélveme cualquier cosa que consideres importante.",
+    ["O"] = "Mata a Mycellakos y trae el Núcleo de Mycellakos de vuelta a Uda\'pe Pastosol en Punta Rompetormenta.",
+    ["T"] = "Mycellakos",
+  },
+  [41825] = {
+    ["D"] = "Purificar este núcleo está muy por encima de mis habilidades. Por mucho que odie admitirlo, no hay forma de que pueda hacer esto solo.$B$BEs con un corazón pesado que me separo de este núcleo; no deseaba nada más que investigarlo y descubrir qué lo hizo cobrar vida. Sin embargo, este es un conocimiento que debe transmitirse.$B$BHay alguien que seguramente sabrá cómo manejar el núcleo: nuestra Matriarca. La encontrarás en Cima del Trueno, en el Alto de los Ancestros.$B$BNo hagas caso a Cor y Grom; te daré mi marca y podrás pasar libremente junto a ellos.$B$BNo hables demasiado ante la Matriarca. Tiene un temperamento corto y, aunque no lo creas, me he encariñado contigo.",
+    ["O"] = "Lleva el Núcleo de Mycellakos a Magatha Tótem Siniestro en La Elevación de los Ancianos, Cima del Trueno.",
+    ["T"] = "La Matriarca Sabrá",
+  },
+  [41826] = {
+    ["D"] = "Un puñado de cenizas. Eso es lo que siempre creí que sería mi destino. Sin embargo, el destino tenía otros planes. En lugar de caer en el fuego que una vez comandé, sucumbí al frío abrazo del Vacío Abisal. Un final apropiado para alguien que abandonó a sus ancestros y abrazó a la Legión Ardiente.$B$BSin embargo, maldigo mi destino. Seguí a mi jefe, mi anciano, Ner\'zhul. Donde los elementos alguna vez hablaron, yo escuché. Pero los traicioné. Susurros demoníacos llenaron el vacío, y los acogí. Era más fuerte que nunca. No me arrepiento completamente de mi camino; todavía uso el poder otorgado por nuestros antiguos amos.$B$B Lo que busco ahora es venganza, contra todos los que dicen seguir a Gul\'dan. Mi alma, atrapada en un fragmento, fue negada a la muerte. Y ahora estoy en la carne podrida de una mujer lo suficientemente tonta como para desafiar a la Horda. No hay descanso para los malvados, pero no todos conservan su sentido de sí mismos. Viaja a las Ruinas de Breezehaven y da descanso a los que quedan.",
+    ["O"] = "Mata 3 campesinos persistentes, 5 trabajadores espectrales, 7 memorias vengativas, 9 residentes putrefactos y regresa con Mok\'gun Dedos de Escarcha en Punta Rompetormenta.",
+    ["T"] = "Los Que Permanecen",
+  },
+  [41827] = {
+    ["D"] = "Nunca fui uno para la ironía. Sin embargo, no puedo evitar verla en este escenario. Al final, solo los tontos parecen ser sonreídos por la suerte, así que supongo. Cuando Gul\'dan nunca regresó de la Tumba de Sargeras, todos estuvieron de acuerdo en que él, y aquellos que lo siguieron en esa tarea de tontos, habían perdido la vida.$B$BSin embargo, uno sobrevivió, y está aquí. Varado en el caparazón de una tortuga, regresado de las Islas Abruptas. Todavía no sé si está aquí para ayudar a la escoria que se esconde en esta isla, o si su propósito refleja el nuestro. Lo que sí sé es esto: tenerlo de nuestro lado, o al menos obtener algo de información de él, valdrá la pena nuestro tiempo.$B$BMás allá de la pequeña isla del faro, nada hacia adelante y encontrarás su choza. Solo sal de esta cueva y ve recto. Pero ten cuidado con los múrlocs que acechan las aguas. Y cuando lo veas... escúpele en la cara por mí. O no. Tú decides.",
+    ["O"] = "Encuentra a Drak\'thul en su choza, flotando sobre las aguas de Balor.",
+    ["T"] = "Viejo Amigo",
+  },
+  [41828] = {
+    ["D"] = "Hace años, cuando nuestra gente puso un pie en este mundo por primera vez, nos creímos invencibles. Antes de que comenzara la Primera Guerra, unidos por ese sucio mongol de dos cabezas Cho\'gall, trajimos la ruina a las tierras humanas. Nuestros ejércitos marcharon hasta las puertas de la Ciudad de Ventormenta, y la victoria estaba al alcance de la mano. Claramente éramos los guerreros superiores.$B$BArrogancia, joven. El mayor enemigo de aquellos que se consideran fuertes. Desde las puertas, los guerreros montados golpearon como un rayo. Respaldados por la magia, estos caballeros obligaron a este orgulloso jefe a retirarse con el rabo entre las piernas. Humildad, un rasgo que todo guerrero listo para morir en batalla debe llevar. Siempre asume que tu enemigo es más fuerte. Siempre cree que, si sobrevives, serás más fuerte que antes.$B$BNo subestimes a la humanidad. Sal de este campamento sin precaución, y puedes encontrar una daga en tu espalda. Acechan en las sombras, más cerca de lo que es cómodo. Puede que no sean nuestro enfoque principal, pero encuéntralos y mátalos.",
+    ["O"] = "Mata a 7 infiltrados Si:7 y regresa con Kilrogg Ojo Muerto en Punta Rompetormenta.",
+    ["T"] = "Bichos en Mi Isla",
+  },
+  [41829] = {
+    ["D"] = "En su eterna burla, estos tontos brujos han nombrado una de sus habilidades después de mi ojo faltante. No hay forma de que pueda aceptar este insulto con una cara seria. Es una desgracia, ¡para mi nombre, para todo lo que soy!$B$BSi no estuviera atrapado aquí bajo esta tienda miserable por cualquier poder travieso que me obliga a confiar en ti en lugar de hacer justicia por mi cuenta, saldría y recogería los ojos de esos malditos tontos hambrientos de vil.$B$B Pero como se me niega ese derecho, lo harás en mi lugar. Aventúrate de regreso a la isla de Balor y mata a los Brujos Rompeolas. ¡Tráeme no menos de treinta de sus ojos! Dicen que si crees en \"ojo por ojo\", el mundo algún día quedará ciego. Los Rompeolas ya no necesitarán su vista, una vez que hayas terminado con ellos.",
+    ["O"] = "Recolecta 30 ojos de brujo rompetormenta y regresa con Kilrogg Ojo Muerto en Punta Rompetormenta.",
+    ["T"] = "Ojos de Foso Tormentoso",
+  },
+  [41830] = {
+    ["D"] = "Te doy la bienvenida al legado de crimen de lo que llamas hogar, refugio, familia. Atestigua el estrago causado por las manos de la Horda esclavista. Esto es lo que habría quedado de todo Azeroth, si no nos hubiéramos librado de nuestros amos demoníacos. Tómalo. Y luego concéntrate, no estamos aquí para conquistar ni para salvar. Estamos aquí para asumir la responsabilidad.$B$BComo siempre, los malditos mestizos del Consejo de la Sombra no fallan en hacer que su especie sea tan detestable como uno podría ser. Como si no fuera suficiente que sus números plagan esta tierra marcada por la guerra, han ido más allá para levantar tanto carne como alma más allá del velo de la muerte.$B$BEn lo que fue Breezehaven, encontrarás una mina. Elimina los números de huesos y carne podrida que se interponen entre tú y sus patéticos amos. Encuentra a estos llamados nigromantes y mancha tu hoja con su sangre infestada de vil. Debo una deuda personal a la escoria que se atrevió a llamarse Rompeolas. ¿Qué es incluso una tormenta frente a un hueco que tragará todo lo que hay?",
+    ["O"] = "Mata a 5 nigromantes RompeTormentas, 8 supervisores inmundos y 8 mineros Espinazo y regresa con Kilrogg Ojo Muerto en Punta Rompetormentas.",
+    ["T"] = "En lo Profundo de las Minas",
+  },
+  [41831] = {
+    ["D"] = "Desde que recuperé mi libertad, he llegado a pensar en muchas cosas. Muchas preguntas han enredado mi mente en laberintos que he luchado por superar. Fue por esa razón sola que elegí apartarme por un tiempo. Sin embargo, no esperaba ser olvidado tan fácilmente. Meros pensamientos.$B$BEn mi corta vida de ermitaño, una o dos veces me desafiaron a duelo la noción de maldad. ¿Nacemos malvados o nos volvemos así más tarde, debido a las circunstancias? La conclusión a la que llegué fue bastante simple: todos llevamos una semilla de maldad en la raíz de nuestro propio ser, pero es por elección si crece o no.$B$BLo que nos lleva a tu próxima tarea. Si crees que mis palabras anteriores no son más que un aburrimiento, escúchame ahora. El caos es lo que conocen, así que el caos es lo que les darás. Ve más allá de Breezehaven, acércate al castillo, tus objetivos te esperan. No eres un asesino, eres la consecuencia de sus acciones, viniendo a cobrar lo que se debe.",
+    ["O"] = "Mata a 5 exploradores RompeTormentas, 10 devastadores RompeTormentas, 5 drones RompeTormentas, 5 asaltantes RompeTormentas y regresa con Kilrogg Ojo Muerto en Punta Rompetormentas.",
+    ["T"] = "Meros Pensamientos",
+  },
+  [41832] = {
+    ["D"] = "¿Eres de los que se preocupan por los insectos, soldado? He tomado un gran interés en las hormigas. Verás, aunque difieren en especie, jerarquía e incluso costumbres, si abrieras tu mente para verlas así, solo hay una verdad. El momento en que la reina muere, tres cosas pueden suceder: la colonia se desmorona, muriendo lentamente sin nuevos trabajadores; tiene más de una reina, por lo que aún sobreviven; o cría una nueva reina para asegurar que la colonia perdure.$B$BAl igual que las hormigas, el Clan Rompeolas cuenta con muchos. Tus esfuerzos, aunque no en vano, apenas han causado daño a su verdadera fuerza. Entonces, para asegurar el objetivo de nuestra misión, debes ir una vez más y despejarnos un camino, esta vez, más cerca de su nido. Viaja a las Ruinas del Castillo Stormwrought. No te detengas. Ve tan lejos como puedas. En ese campo de batalla eterno, serás la bota que pisa la colonia.$B$BAventúrate no solo, busca ayuda de tus hermanos y hermanas.",
+    ["O"] = "Mata a 6 brutos RompeTormentas, 6 torturadores RompeTormentas, 4 invocadores de sombras RompeTormentas, 2 espadachines RompeTormentas y regresa con Kilrogg Ojo Muerto en Punta Rompetormentas.",
+    ["T"] = "Colonia de Hormigas",
+  },
+  [41833] = {
+    ["D"] = "Si aún no has buscado a Drak\'thul, ahora es el momento. Drak\'thul tiene la clave para asaltar el castillo, y tu próxima tarea es poner todo a descansar. Un viejo conocido me ha hecho una visita. Aunque no estamos de acuerdo en muchas cosas, hay un odio que compartimos: el odio por un ser despreciable que estuvo junto a Gul\'dan durante la formación de este clan.$B$BAunque el cobarde no está aquí en persona, ha enviado a su alumno más preciado para supervisar el nuevo levantamiento. Si bien él es tu objetivo principal, no te alejes de matar a todos los que veas, especialmente a Dagar y Oronok. Prepárate; no tengo idea de lo que tienen preparado para ti.$B$BAunque mi odio por ellos arde como los pozos más bajos de la Montaña Roca Negra, sé mejor, sé que son capaces, aunque despreciables. Pero creo que tú eres aún más capaz. Comunícate con tus aliados una vez más y haz que se haga. Me pregunto... ¿volverá el sol a esta isla cuando te vea regresar? Después de todo, no puede llover todo el tiempo.",
+    ["O"] = "Mata a Dagar el Glotón, Oronok Corazón Destrozado, Ighal\'for y regresa con Kilrogg Ojo Muerto en Punta Rompetormentas.",
+    ["T"] = "No Puede Llover Todo el Tiempo",
+  },
+  [41834] = {
+    ["D"] = "Cuando me enviaron a esta isla, creí que el Jefe de Guerra, como la mayoría, solo veía a un viejo orco, listo para morir. Me ordenó servir como comandante, no como guerrero. De no ser por el consejo de Eitrigg y las palabras burlonas de Saurfang, dudo que hubiera cumplido mi papel. Pero confié en mis amigos, y ellos confiaron en el Jefe de Guerra.$B$BUn corazón Lobo Gélido late en su pecho. Es sabio más allá de sus años, al igual que Drek\'thar y Orgrim. Parece que tenía razón sobre mí. Aunque anhelaba luchar a tu lado, teñir esta isla de rojo con mi hacha, he aprendido algo más.$B$BSoy el último jefe de los Foso Sangrante, anciano de la Horda, y con estas manos guiaré a la próxima generación. Ve ahora, con la victoria en tu corazón, al Fuerte Grommash. Presenta nuestro triunfo al Jefe de Guerra y dile que pronto regresaré. Quizás visite el memorial de Hellscream cuando lo haga.",
+    ["O"] = "Reporta a Thrall en el Bastión Grommash, el Valle de la Sabiduría, Orgrimmar.",
+    ["T"] = "El Fin de la Tormenta",
+  },
+  [41835] = {
+    ["D"] = "Aunque ya ocupan la mayor parte de la isla, parece que no se han bañado realmente en su propia arrogancia. Como si esperaran que tanto la Alianza como la Horda vinieran, se ha convocado una gran cantidad de demonios. Puedo sentir su presencia que resuena desde aquí. Ya sea para protección o invasión, no lo sé.$B$BNi siquiera importa, ya que frustrarás sus planes. Puedes encontrar estos demonios en una cueva cerca del extremo suroeste de la isla. Justo más allá de los campos de batalla en ruinas al oeste del castillo Stormwrought. Si bien los diablillos pueden no representar un verdadero desafío, tendrás que lidiar con felhunters y súcubos.$B$BMe pregunto, ¿caerás ante el fuego de un diablillo, la glotonería del felhunter o quizás la lujuria de las súcubos? Realmente espero que no, porque tu papel aquí aún no ha terminado. Te ofreceré una piedra de salud, no es que no confíe en ti, pero es mejor tener los medios para curarte cuando ocurra lo inesperado, ¿no?",
+    ["O"] = "Mata a 10 diablos salvajes, 10 acechadores sedientos y 5 maestras del dolor y regresa con Drak\'thul en su choza.",
+    ["T"] = "Legión o No, Aquí Vengo",
+  },
+  [41836] = {
+    ["D"] = "Estoy seguro de que estás ansioso por llevar la batalla al castillo a toda costa lo antes posible. Pero para que lo hagas, primero debemos encontrar la llave para abrirlo. Dentro de la misma cueva a la que te he enviado a cazar a los demonios convocados por el Clan Rompeolas, también encontrarás uno que ha reclamado el liderazgo sobre el resto. Ella se hace llamar Lady Harelyss.$B$BEste demonio tiene una gran importancia, simplemente porque, si mis propios esbirros dicen la verdad, tiene un objeto que nos asegurará la llave del castillo. Aunque no puedo hacer que la traigas aquí, ya que tendrías que arrastrarla a través de un campo de batalla, te daré un fragmento de alma. En el momento en que asestes el golpe final, capturarás su alma en él, simplemente por tenerlo contigo.$B$BAsegúrate de recuperar el objeto que estamos buscando, su muerte es inevitable y capturar su alma es simplemente nuestro seguro en caso de que necesitemos reunir más información.",
+    ["O"] = "Mata a Lady Harelyss, devuelve su alma y el objeto que porta a Drak\'thul en su choza.",
+    ["T"] = "¿Dama Quién?",
+  },
+  [41837] = {
+    ["D"] = "<Drak\'thul comienza un lento recorrido, mirando alternativamente entre ti y la caja. Su rostro pinta una imagen perfecta de sorpresa mezclada con decepción. Coloca la caja en el suelo, atrapas un vistazo fugaz del interior pero no puedes entender lo que ves. Antes de que puedas mirar de cerca, vuelve a colocar la tapa, aumentando tu curiosidad>$B$BNo tengo palabras. Nunca en mi vida esperé algo como esto. No puedo evitar sentirme desanimado. Incluso podría reírme, si este viejo cuerpo no estuviera destinado a traicionarme en el momento en que lo intente.$B$BNo puedo decir si esto es verdad o no. Parte de mí se niega a aceptarlo. No puedo... simplemente tómalo y vete. Mansión Grahan. Lleva la caja allí y obtendrás la llave. Sabrás cuando lo hayas encontrado.",
+    ["O"] = "Encuentra la llave en la finca Grahan.",
+    ["T"] = "La Llave de su Corazón",
+  },
+  [41838] = {
+    ["D"] = "¡Oye tú! Pareces un tipo duro, y un tipo duro es justo lo que necesitamos. Al sur, cerca de las montañas de Thistleshrub Valley, comenzamos con nuestro último gran plan para hacer dinero, la Plataforma Petrolera Slickwick. Todo iba bien por un tiempo, hasta que las estaciones de bombeo se volvieron locas y el petróleo comenzó a moverse por sí solo. ¡He trotado por todo el desierto de regreso a Gadgetzan para obtener ayuda para nuestro problema, y pareces ser justo el $c que necesitamos! No te preocupes, te pagaremos una buena suma de glorioso oro. Una vez que llegues a las montañas del sur, cerca de los grandes cactus encontrarás una pendiente hacia la cordillera. La plataforma petrolera no está lejos de allí. Habla con la Asistente Steamflare, ella sabrá que te envié.$B$B¡Ah, y podrías limpiar un poco del petróleo en tu camino allí? Valdrá la pena el esfuerzo, ¡confía en mí!",
+    ["O"] = "Viaja a la plataforma petrolera Slickwick y habla con el asistente Flama Vapor, elimina algunas criaturas de petróleo en el camino.",
+    ["T"] = "Problemas en la Plataforma Petrolera Slickwick",
+  },
+  [41840] = {
+    ["D"] = "<Entre el charco dejado por la monstruosidad, encuentras una espada de madera muy dañada. Su tamaño es pequeño y el ácido de la sustancia corrosiva grabó la mayor parte de su superficie. Sin embargo, puedes descifrar las palabras \"Sir Tim-\" en la empuñadura del juguete. Quizás eso sea suficiente para saber a quién pertenecía.>",
+    ["O"] = "Lleva la espada de juguete de madera a alguien que conociera a su dueño. Puedes tener suerte en Viento Norte, donde todo comenzó.",
+    ["T"] = "Todo Lo Que Queda",
+  },
+  [41841] = {
+    ["D"] = "<En tu mano está el colgante de piedra de sangre roto usado por Ighal\'for, discípulo del loco Cho\'gall, para invocar al aborrecible beholder Mergothid en Azeroth. Las heridas de la feroz batalla contra el demonio todavía están esparcidas por tu cuerpo. La sangre corre por tu brazo hasta tu palma. De repente, el colgante se sacude violentamente, emitiendo un chillido retorcido mientras absorbe el líquido rojo. Poco después, la sangre desaparece, y el colgante comienza a palpitar.$B$BRecuerdas haber ayudado a un guardiana Renegado en Molino Tarren a recuperar artefactos similares; reliquias que pertenecían a la Dama Oscura, Sylvanas Windrunner. Será mejor que devuelvas sus adornos robados.$B$B¡No te demores!",
+    ["O"] = "Entrega el colgante de piedra de sangre a Lady Sylvanas Brisaveloz en Entrañas.",
+    ["T"] = "Artefacto de la Dama Oscura",
+  },
+  [41842] = {
+    ["D"] = "Si estás entrando en el Castillo Stormwrought, tengo una humilde solicitud para ti. La familia Balor acumuló innumerables libros y tomos durante los muchos años que ejercieron autoridad sobre la isla. Tras décadas de comercio, recopilaron una cantidad inimaginable de conocimiento en su biblioteca. Uno de ellos, las enseñanzas y conferencias personales sobre las prácticas ocultas del comercio de Sir Walton Balor, hermano menor del segundo Duque de Balor, es un libro que tanto yo como Ventormenta estamos muy interesados.$B$BSi te encuentras con la vasta biblioteca del Castillo Stormwrought, busca allí dicho libro. Y $N: Cuidado con los peligros en el interior. No me atrevo a pensar en los horrores que te esperan dentro de esos salones viles.",
+    ["O"] = "Recupera el \"Compendio de Comercio Exitoso\" dentro del Castillo Forjatormenta para Noppsy Spickerspan en el puesto avanzado Si:7 en Balor.",
+    ["T"] = "Antigüedades",
+  },
+  [41843] = {
+    ["D"] = "Así que finalmente ha llegado el momento de infiltrarse en el Castillo Stormwrought. Esta guarida de demonios exigirá cada último bit de tu enfoque y habilidad para que regreses en una sola pieza. No endulzaré mis palabras, pero seguramente ya lo sabes, ¿no? Los demás y yo aseguraremos el perímetro en el patio del castillo para evitar que los refuerzos detengan tus operaciones.$B$BLa Operativa Gillian te ha ordenado eliminar la cabeza de la hidra, que sin duda es la tarea más crucial de todas. Aún así, para asegurarnos de que no haya un resurgimiento por parte de los líderes sobrevivientes, debemos asegurarnos de eliminarlos también. Liquida a cualquier tipo duro con el que te encuentres. No queremos lidiar con esa escoria de nuevo.",
+    ["O"] = "Reduce la cadena de mando dentro de las Ruinas Forjatormenta y regresa con Nippsy Spickerspan en el puesto avanzado Si:7 en Balor.",
+    ["T"] = "Asesino en Entrenamiento",
+  },
+  [41844] = {
+    ["D"] = "Cuando aterrizamos aquí en esta isla, notamos que la mayor parte de nuestra carga había caído en las vastas extensiones del océano. Aunque todavía tenemos una buena parte asegurada, no es suficiente para satisfacer a nuestros destinatarios en Bahía del Botín. Yunie y los demás están ocupados reparando el zepelín y asegurándose de que no nos coman crustáceos monstruosos. Por otro lado, tuve la oportunidad de oro de explorar la isla cuando estábamos buscando a Verix hace un tiempo. Y, ¿adivina qué? Hay un castillo gigante en lo alto de los acantilados. Probablemente puedas adivinar a qué me refiero. Aunque no soy tan loco y suicida como Verix, sería negligente si dejara pasar esta oportunidad de agarrar algunas cosas valiosas que ningún goblin ha visto antes.$B$BAhí es donde entras tú. Reúne algunos amigos o paga a alguien si no tienes ninguno y toma tantas cosas valiosas como puedas de ese castillo al otro lado de Balor. Valdrá la pena, ¡confía en mí!",
+    ["O"] = "Rikki Fizmask quiere que saqueen las Ruinas Forjatormenta en Balor y regresen con ella en los restos del Alabarda del Gaviota.",
+    ["T"] = "Los Muertos No Pueden Quejarse",
+  },
+  [41845] = {
+    ["D"] = "Aberraciones merodean por estos salones. Monstruos nacidos de la malicia y demonios de las profundidades de la depravación llaman a este lugar una vez espléndido su hogar. Todavía lo recuerdo vívidamente, Balor, cómo solía ser. Lleno de vida y comercio. Nada de eso queda, excepto los espíritus de aquellos que aún se aferran. La crueldad infligida sobre nosotros hace décadas nos ata a nuestro antiguo hogar, impidiéndonos seguir adelante. Buen $C, ¿serás tú quien rompa nuestras cadenas?$B$BEn lo profundo del castillo, más allá de los calabozos, los aliados demoníacos de los orcos realizan experimentos viles. Una de sus supervisoras, una vil demonio con alas y pezuñas, guarda un fragmento de mi alma, manteniéndome congelado en el tiempo. Mátala y recupéralo. Entonces quizás...",
+    ["O"] = "Mata a la súcubo que retiene el alma de Arthur y devuélvesela en la sala del trono del Castillo Forjatormenta.",
+    ["T"] = "La Voluntad de Balor",
+  },
+  [41846] = {
+    ["D"] = "¡Los parientes Martillo Salvaje de Dun Kithas están en grave necesidad de ayuda! El Clan Faucedraco se vuelve más audaz cada día, y el Magistrado Hurdam Toughhand teme que ataquen en cualquier momento.$B$BMientras preparamos nuestras fuerzas para una defensa adecuada, nos corresponde a nosotros llamar a aventureros como tú para que echen una mano. Has sido elegido para ayudar al Magistrado Hurdam y al pueblo de Dun Kithas en esta hora crítica.$B$BPara llegar a Grim Reaches, viaja a través del Paso Alto, un túnel montañoso cerca del Refugio del Errante en Loch Modan. Mantente alerta, porque los Faucedraco no son una amenaza trivial. Una vez que llegues a Dun Kithas, repórtate con el Magistrado Hurdam sin demora. ¡Que la fuerza de la montaña te guíe!",
+    ["O"] = "Reporta al Magistrado Hurdam Manodura en Dun Kithas, en las Tierras Sombrías.",
+    ["T"] = "Los Territorios Oscuros",
+  },
+  [41847] = {
+    ["D"] = "Hubo un tiempo, hace mucho, cuando estábamos unidos con los nobles enanos Martillo Salvaje, una alianza forjada en respeto mutuo y necesidad. En nuestro momento de mayor necesidad, no vacilaron. Pico Nidal abrió sus puertas a cientos de refugiados, y sus resistentes montañeses protegieron innumerables caravanas de los peligros de la naturaleza. Sus acciones, nobles y desinteresadas, son una deuda que llevaremos por la eternidad, aunque ninguna cantidad de gratitud podría pagarlas.$B$BAsí que es con el corazón pesado que escucho sobre la difícil situación que enfrenta el asentamiento de Dun Kithas, enclavado en los lejanos y peligrosos Grim Reaches. En su momento de peligro, no podemos permanecer inactivos. Ya he enviado un destacamento de nuestros mejores forestales para ayudarlos, pero confío en que aceptarán cualquier mano adicional con la calidez de su legendaria hospitalidad.$B$BCuando llegues a Dun Kithas, busca a la Forestal Paso Veloz. Se le ha confiado una tarea muy delicada, una en la que tus habilidades pueden ser llamadas a ayudar. Ve con prisa, porque cada momento cuenta.",
+    ["O"] = "Reporta a la guardabosques Faellina Paso Veloz en Dun Kithas.",
+    ["T"] = "Honrando Viejas Alianzas",
+  },
+  [41848] = {
+    ["D"] = "Debes haberlos visto, los Marchitos, cuando caminaste por los senderos de Alah\'thalas. Seres miserables... su sed de lo arcano ha consumido sus mentes, dejando solo cáscaras vacías.$B$BUna tragedia, verdaderamente. Y lo que más hiere el espíritu es saber que sus números crecen con cada amanecer. La Marchitez, una vez comenzada, no puede deshacerse, solo retrasarse. Pero incluso eso exige un torrente de maná, un precio que muchos consideran demasiado alto para aquellos ya perdidos en el hambre...$B$BSin embargo, Lord Theron tiene esperanza. Cree que estas mismas tierras pueden contener la clave para una cura. Una esperanza delgada, pero esperanza al fin.$B$BAún así, todo a su debido tiempo. Por ahora, tengo una tarea para ti. Corre la voz de un antiguo pasaje destruido hacia Grim Batol, en algún lugar hacia el oeste, enterrado entre las colinas. Si los relatos son ciertos y descubres este camino olvidado... regresa a mí con prisa.",
+    ["O"] = "Encuentra un pasaje olvidado a Grim Batol en las colinas de las Tierras Sombrías.",
+    ["T"] = "Curar a los Marchitos",
+  },
+  [41849] = {
+    ["D"] = "Ahora bien... Hay una vieja leyenda que habla de un joyero enano que una vez habitó en esta misma parte de Grim Batol. Su oficio no tenía igual, se decía que las gemas que forjaba brillaban con el resplandor de la luz de las estrellas.$B$BPero más que mera belleza... se dice que podía dar forma a cristales capaces de almacenar maná, no solo eso, sino cristales que podían recargarse una y otra vez, sin fracturarse. Un logro raro y maravilloso, si es que alguna vez hubo uno.$B$BYa ves a dónde lleva esto, ¿verdad? Si recuperamos incluso una sola de esas gemas, nuestros arcanistas podrían desentrañar el secreto de su fabricación. La carga de fabricar cristales de maná podría aliviarse... y con eso, quizás, podríamos atender mejor a los Marchitos.$B$BSi te atrevieras a adentrarte en las ruinas y buscar cualquier rastro de estas piedras encantadas, un fragmento, una pista, o mejor aún, un cristal aún intacto, sería una bendición para nuestro pueblo más allá de toda medida.",
+    ["O"] = "Encuentra un Cristal de Maná Reponible dentro del Paso Sombrío, al noroeste de Dun Kithas.",
+    ["T"] = "Para Curar a los Marchitos",
+  },
+  [41850] = {
+    ["D"] = "Justo más allá de estas colinas al este se encuentran las Minas Sal\'Galaz. Sí, han sido trabajadas por los robustos habitantes de Dun Kithas durante décadas, hasta que llegaron los troggs. Los mineros, maldita sea su codicia, probablemente rompieron algunos túneles antiguos y oscuros donde esas criaturas repugnantes estaban al acecho.$B$BAhora, normalmente no me preocuparía mucho por eso, hay mucha riqueza bajo tierra en estas partes, pero hay algo en esas minas. Algo raro. Justo antes de que aparecieran los troggs, los mineros descubrieron una gema en el pozo más al sur. Y no cualquier gema, si los rumores son ciertos, esta podría ser la Gema de Naraz, forjada por los mismísimos Creadores.$B$BLa debo tener. Pero no soy un luchador, y esos troggs son demasiado para mí. Tráeme esa gema, y tendrás tu recompensa, te lo juro.",
+    ["O"] = "Recupera la gema de Naraz de las minas Sal\'Galaz para el Prospector Dustshoulder.",
+    ["T"] = "La Gema de Naraz",
+  },
+  [41851] = {
+    ["D"] = "El prospectador Piemartillo fue enviado a las Tierras Inhóspitas para desenterrar reliquias de los Creadores. El tonto siempre tuvo un ojo para los tesoros antiguos, y estaba convencido de que la Gema de Naraz podría estar allí. No estábamos de acuerdo en eso, así que tomamos caminos separados, yo llevé mi búsqueda a los Grim Reaches en su lugar. Resulta que ambos teníamos razón en cierto modo. La gema está dividida en dos.$B$BPero eso no importa ahora. Lo que importa es que necesito que vayas a las Tierras Inhóspitas, a su sitio de excavación, y encuentres la gema. Si la han descubierto, bueno... dudo que Piemartillo note si desaparece.$B$BMe la traes, ¿entendido? La Gema de Naraz debe ser mía, para restaurarla a su verdadera forma.",
+    ["O"] = "Recupera la segunda gema de Naraz para el Prospector Dustshoulder.",
+    ["T"] = "La Gema de Naraz",
+  },
+  [41852] = {
+    ["D"] = "¡$C! ¡La Liga de Expedicionarios necesita urgentemente tu ayuda!$B$BSeguramente ya habrás escuchado, ¡nuestro sitio de excavación, justo al norte de aquí, ha sido atacado salvajemente por esos malditos enanos Hierro Negro! ¡Los brutos nos emboscaron, mataron a nuestros hermanos y comenzaron a cavar como bestias rabiosas, sin respeto por el proceso arqueológico o las sagradas ruinas de los Earthen!$B$B¡Necesito que vayas allí y recuperes cualquier reliquia Earthen que pueda haber sobrevivido a su saqueo imprudente! Por favor, el tiempo está en nuestra contra, ¡el mismo legado de nuestra gente pende de un hilo!",
+    ["O"] = "Recupera 10 reliquias terrestres de la excavación de Groldan.",
+    ["T"] = "Reliquias de los Terrígenos",
+  },
+  [41853] = {
+    ["D"] = "¡Esto no puede quedar así! ¡Por mi barba, juro venganza contra los Hierro Negro y su vil pandilla!$B$BYo lideré la excavación de la Liga de Expedicionarios aquí en los Grim Reaches, un esfuerzo pacífico, ¿sabes? Entonces, de la nada, ¡esos traicioneros Hierro Negro nos atacaron bajo el manto de la noche! Solo un puñado de nosotros escapó con vida, ¡la mayoría de mis camaradas fueron masacrados donde estaban!$B$B¡Debemos contraatacar! Dirígete al noreste a mi antiguo sitio de excavación y mata a tantos de esa escoria Hierro Negro como puedas. Tráeme sus cabezas como prueba. No les muestres piedad, no la merecen.$B$BY escucha, si por casualidad encuentras mi alijo personal allí, tráemelo. Contiene valiosas notas de la excavación, ¡notas que no puedo permitirme perder!",
+    ["O"] = "Entrega 20 cabezas de enanos Forjador en sombra a Groldan Forjahierro.",
+    ["T"] = "El Rencor de Groldan",
+  },
+  [41854] = {
+    ["D"] = "Encuentras un alijo lleno de notas, artefactos y varias piezas de basura. El nombre \"Groldan Forjanegra\" está escrito en la cerradura.",
+    ["O"] = "Entrega el alijo de vuelta a Groldan Forjahierro.",
+    ["T"] = "El Alijo de Groldan",
+  },
+  [41855] = {
+    ["D"] = "Me llamo Kegg Botapiedra, y he sido capataz de las minas Sal\'Galaz durante unos buenos treinta años... Todo iba bien, mejor que bien, en realidad. Las minas son ricas, llenas de hierro y carbón.$B$BPero entonces... entonces desenterramos esa maldita gema. Desde el momento en que la sacamos a la luz, los troggs comenzaron a salir de grietas y túneles como una plaga. Nos invadieron en un santiamén.$B$BPor la gracia de los Creadores, la mayoría de los mineros logró escapar, pero la mina en sí, ¡está perdida! Y con la amenaza de los Faucedraco acechando, el consejo de la ciudad no puede enviar ni un solo soldado para ayudarnos a recuperarla.$B$BPor favor, $r, te lo suplico, ayúdame. Mata a 10 Troggs Huesorrotos y a 10 Rompehuesos Huesorrotos en la cantera. Es nuestra única oportunidad de recuperar lo que es nuestro!",
+    ["O"] = "Mata 10 troggs Partedientes y 10 quebrantahuesos Partedientes en las minas Sal\'Galaz para el capataz Kegg Botas de Roca.",
+    ["T"] = "Recuperando Sal\'Galaz",
+  },
+  [41856] = {
+    ["D"] = "Tengo un favor más que pedirte, $r.$B$BLa cantera puede estar libre de troggs por ahora, pero la verdadera fuente de la infestación yace más profundo, en las minas mismas. Si queremos retomar el lugar de una vez por todas, tendrás que adentrarte en las minas y lidiar con la amenaza en su núcleo.$B$BMata al menos a 10 Machacacráneos Huesorrotos y a 10 Geománticos Huesorrotos. Con suerte, eso será suficiente para frenar la marea... por ahora.",
+    ["O"] = "Mata 10 martilladores Partedientes y 10 geomantes Partedientes en las minas Sal\'Galaz para el capataz Kegg Botas de Roca.",
+    ["T"] = "Recuperar Sal\'Galaz",
+  },
+  [41857] = {
+    ["D"] = "¡Bah! ¿Troggs al este, Faucedraco al norte, fantasmas al sur y ahora múrlocs? ¡A este paso, no me sorprendería si un Portal Oscuro se abriera en mi propio patio trasero!$B$BEn cualquier caso, esos malditos múrlocs reunidos cerca del Río Grimwater se están convirtiendo en un verdadero problema. Sus números están creciendo, y si no los reducimos pronto, serán un peligro para nuestros pescadores.$B$BTráeme doce escamas de múrloc como prueba de tu hazaña, $r. ¡Recordémosles a esos pececillos en cuyas aguas están entrando!",
+    ["O"] = "Entrega 12 escamas de Miregill al mariscal Rorin Pálido en Dun Kithas.",
+    ["T"] = "Distracción Branquia de Pantano",
+  },
+  [41858] = {
+    ["D"] = "Para ahora, sin duda habrás notado esa cueva considerable en la orilla sur de Grimwater. Hace algún tiempo, los múrlocs Aleta Cenagosa se apoderaron de ella, y ahora no podemos explotar sus recursos por culpa de ellos.$B$BNecesitamos atacar y expulsarlos de esa cueva de una vez por todas. Se ha demostrado que la mejor manera de deshacerse de los múrlocs es cortar la cabeza, matar a su líder.$B$BUn múrloc llamado Gargill comanda a esta miserable banda, pero nuestros pescadores lo conocen por otro nombre: el Carnicero. Ha matado a muchos de los nuestros y matará a muchos más si no lo detenemos.$B$BTu tarea es simple, $r, mata a Gargill y a 8 múrlocs y moradores del cenagal Miregill. ¡Eso debería ser suficiente para echarlos de la cueva para siempre!",
+    ["O"] = "Mata 8 murlocs Miregill, 8 moradores Miregill y a su líder, Gargill el Carnicero.",
+    ["T"] = "Gargill el Carnicero",
+  },
+  [41859] = {
+    ["D"] = "<La pequeña caja está oxidada y solo se abre bajo mucha fuerza. El olor penetrante a moho y tierra húmeda escapa, mostrando que el contenido no es más que una nota doblada y un colgante desaliñado. Con sumo cuidado, desdoblas el delicado papel, revelando letras de una tipografía antigua:$B$B\"Wolram, nunca tuve la oportunidad de agradecerte por todo o incluso disculparme por lo que hice. No ha pasado mucho desde que falleciste, y trato de seguir adelante, pero la culpa todavía me desgarra. Siempre me dijiste que mirara hacia adelante con convicción y propósito en mi corazón, y pretendo seguir tu consejo. Lo que hice en Grand Hamlet fue mi mayor arrepentimiento, y pagaste con tu vida por ello. Expiaré mis fechorías continuando tu legado, lo juraré sobre el colgante de mi padre. Por favor, cuídalo hasta que haya cumplido este juramento, para que pueda colocarlo sobre su tumba libre de dudas.$B$B- Edrin\"$B$BMiras el colgante y te preguntas dónde estará esa tumba.>",
+    ["O"] = "Busca pistas sobre el enigmático Edrin en Viento Norte y cumple su último deseo.",
+    ["T"] = "Después de Todo Este Tiempo",
+  },
+  [41860] = {
+    ["D"] = "$N, es bueno verte. No hace mucho, un extraño estaba buscando tu presencia. Les dije que podía transmitir un mensaje, después de lo cual me dijeron lo siguiente:$B$B\"Reúnanse con nosotros en la madriguera del archidruida. Esperaremos su llegada.\"$B$BMisterioso, pero no había malicia en ellos. Estoy seguro de que no tienes nada que temer.",
+    ["O"] = "Reúnete con el extraño en Claro de la Luna.",
+    ["T"] = "Llamada Esmeralda",
+  },
+  [41861] = {
+    ["D"] = "Vemos que nuestro mensaje te ha llegado, $N. Las noticias de tus hazañas han viajado lejos, incluso hasta los verdes parajes del Sueño Esmeralda. Tu heroico servicio a Malorne no ha pasado desapercibido. Sus hermanos, los Dioses Salvajes, y su querida amiga Ysera te deben mucho por salvarlo de las garras de la Pesadilla. Una vez que recupere su forma, tendremos otro poderoso aliado contra la entidad oscura dentro de la miasma de la Pesadilla.$B$BNuestra madre Ysera nos envió al sagrado Claro de la Luna en busca del druida que se opuso de frente a la Pesadilla. Para recompensarlo por sus acciones en Hyjal y el Soto del Crepúsculo. Eso haremos. Sin embargo, una prueba primero. Sabemos de lo que eres capaz: tu ingenio, fuerza y perseverancia no tienen igual. Pruébanos una vez más el alcance de tus habilidades y te concederemos más poder a la bendición que el Vigía del Camino te otorgó.$B$BNo nos detendremos; prepárate para enfrentar el poder del Vuelo Verde.",
+    ["O"] = "Domina el desafío que Rethevus te impone.",
+    ["T"] = "El Desafío del Soñador",
+  },
+  [41862] = {
+    ["D"] = "Bienvenido a Dun Kithas, amigo. Me encantaría hablar de la historia y el orgullo de nuestro pueblo, pero ahora no es el momento para historias.$B$BComo habrás notado, estamos en una situación sombría. El clan Faucedraco ha resurgido, y estamos hasta las rodillas en un conflicto que estamos perdiendo constantemente.$B$BTu llegada, junto con las pocas fuerzas de la Alianza que lograron llegar tan lejos, me da un rayo de esperanza. Quizás todavía haya una posibilidad de que veamos el sol salir sobre estas montañas nuevamente.$B$BMi comandante más confiable, el Montañero Viento de Acero, mantiene su posición en el Puesto de la Cresta del Este, al norte del Muro de Baggoth. Está liderando el esfuerzo contra los Faucedraco y podría usar cualquier mano capaz que podamos enviar. Dirígete allí de inmediato e infórmale.",
+    ["O"] = "Reporta al montañés Viento de Acero en el puesto avanzado de la Cresta Este.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41863] = {
+    ["D"] = "Están por todas partes.$B$BEn los caminos, en nuestras antiguas fortalezas, en las cuevas y esparcidos por las colinas. Cada caravana necesita una docena de montañeros solo para llegar a su destino, y aun así, los Faucedraco atacan más a menudo de lo que no lo hacen.$B$BEsto es una desgracia para la memoria de Baggoth... y una mancha en mi propio honor.$B$BYa hemos soportado suficiente. Es hora de que los Faucedraco aprendan que los enanos de los Grim Reaches no tolerarán esta humillación.$B$BContraatacamos. Los emboscamos. Les mostramos quién gobierna realmente estas montañas.$B$BMata a tantos como puedas y tráeme veinte de sus sigilos como prueba. Que sepan lo que significa cruzarse con un Martillo Salvaje.",
+    ["O"] = "Mata orcos Faucedraco en las Tierras Sombrías y trae 20 estandartes Faucedraco al montañés Viento de Acero como prueba de tus victorias.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41864] = {
+    ["D"] = "Hay una cosa que no puedo soportar: dejar atrás el estandarte de un verdadero héroe enano.$B$BCuando los Faucedraco invadieron el Baluarte de Baggoth, nos vimos obligados a retirarnos más rápido de lo que me gustaría admitir. En el caos, nuestro estandarte, el estandarte personal del Comandante Baggoth, quedó atrás en lo alto de la torre central.$B$BEs más que un trozo de tela. Ese estandarte resistió una docena de batallas y lleva el orgullo de cada enano que sirvió bajo él. Dejarlo en manos orcas es un insulto que no podemos tolerar.$B$BSube al baluarte, lucha contra la escoria Faucedraco y recupera ese estandarte. Tráelo de vuelta intacto. Por Baggoth. Por los Reaches.",
+    ["O"] = "Recupera la bandera de Baggoth desde lo alto de la Muralla de Baggoth y regresa con el montañés Viento de Acero.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41865] = {
+    ["D"] = "Has demostrado ser más que capaz, y ahora es el momento de asestar un golpe real.$B$BAl norte se encuentra el Bastión Stolgaz, o lo que queda de él. Una vez fue un puesto avanzado orgulloso, construido piedra por piedra por las manos de enanos que conocían el significado de la resistencia.$B$BAhora no es más que una ruina destrozada, infestada de escoria Faucedraco. Pero no dejes que su estado actual te engañe, el bastión aún tiene valor estratégico. Si lo recuperamos, tendremos un punto de apoyo para avanzar más en las colinas.$B$BTe necesito para liderar el ataque. Entra allí y acaba con ellos. Mata a doce Invasores Faucedraco, diez Renegados y diez de esos malditos Vinculallamas.$B$BY una cosa más: su líder, un bruto llamado Grathok Manollamas, comanda la banda de guerra desde el santuario interior del bastión. Ese orco es responsable de la destrucción del cuartel y la quema de nuestros almacenes de suministros.$B$BAcaba con él. Por los caídos. Por Stolgaz.",
+    ["O"] = "Mata a 12 invasores Faucedraco, 10 renegados Faucedraco, 10 atadores de llamas Faucedraco y al líder de la banda de guerra, Grathok Mano Llama.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41866] = {
+    ["D"] = "La familia Redbrand tiene influencia en gran parte de Khaz Modan, mi padre, Nazgrim, pretende asegurarse de que la gente lo recuerde.$B$BQuiere que ayudemos a la gente aquí en Dun Kithas, echar una mano en el esfuerzo de guerra y todo eso. El único problema es... que no soy exactamente del tipo combativo.$B$BAún así, no estaría mal que corriera la voz de que yo, Garlin Redbrand, hice una contribución real a la causa.$B$BAl norte de aquí se encuentra Geth\'kar, una fortaleza Faucedraco que se ha convertido en una espina en el costado de los Martillo Salvaje. Más importante aún, es su principal depósito de suministros. Si pudieras colarte y robar algunas de sus cajas de suministros, digamos ocho de ellas, causaría un verdadero daño a su esfuerzo de guerra.$B$BY bueno... digamos que también se vería bien para el nombre de los Redbrand.",
+    ["O"] = "Roba 8 cajas de suministros Faucedraco de Geth\'kar y llévalas a Garlin Marca Roja.",
+    ["T"] = "Asalto a Geth\'kar",
+  },
+  [41867] = {
+    ["D"] = "Desde que mi equipo y yo pusimos un pie en los Grim Reaches, he tenido esta sensación persistente en el fondo de mi estómago. Hay algo mal en este lugar, algo antinatural. La tierra misma se siente... enferma. Los árboles, las bestias, incluso el viento, todo está tocado por una extraña corrupción.$B$BPeor aún, la he visto tomar forma. Estas sustancias viscosas, sombrías y viles, están saliendo de las colinas como una infección de una herida. Dondequiera que van, propagan esa misma podredumbre a la tierra a su alrededor.$B$BNecesito entender con qué estamos lidiando aquí. Si te encuentras con alguna de esas sustancias viscosas, ¿te importaría... recolectar algunas muestras para mí? Solo, eh, trata de no mancharte. Haré que valga la pena.",
+    ["O"] = "Recolecta 5 muestras malditas por la sombra de los lodos corruptos y llévalas a Dorthas Read.",
+    ["T"] = "Manchas en la Tierra",
+  },
+  [41868] = {
+    ["D"] = "No plantamos nuestras tiendas donde el viento nos llevó. Hay una razón por la que estamos aquí.$B$BJusto detrás de nosotros hay una cueva antigua, más como un túnel, en realidad. ¿Y a dónde lleva? A Grim Batol. O lo que queda de él. No entres en pánico, sin embargo, la ciudad principal está bloqueada. Los pasillos más profundos colapsaron hace siglos. Lo que podemos alcanzar es solo un puesto olvidado, parte de las ruinas exteriores.$B$BIntentamos husmear, pero no llegamos lejos. Los espectros nos hicieron retroceder, probablemente espíritus Martillo Salvaje caídos durante la Batalla por Grim Batol. Solo que... hay algo raro en ellos. No solo están inquietos. Están contaminados, como esas sustancias viscosas que encontraste.$B$BNecesito más pruebas. Si estás dispuesto a bajar allí, pon esos espíritus a descansar y tráeme cualquier cosa que encuentres, muestras, residuos malditos, lo que sea. Creo que finalmente podremos armar lo que está pasando aquí.",
+    ["O"] = "Recolecta 10 residuo maldito por la sombra de los espectros corruptos en los túneles del puesto cercano a Grim Batol.",
+    ["T"] = "Maldición de las Sombras",
+  },
+  [41869] = {
+    ["D"] = "¡Bah! ¡Que el Vacío Abisal se lleve al magistrado y sus malditas excusas!$B$B¡Todo lo que les importa son los malditos orcos Faucedraco, mientras esas bestias Escama Gris corretean salvajes y destrozan a los viajeros como muñecos de paja!$B$B¡Se quedaron de brazos cruzados mientras mi único hijo era destrozado ahí fuera! ¡Mi hijo! ¡Muerto, porque se sentaron sobre sus manos!$B$BNo puedo traerlo de vuelta... pero puedo asegurarme de que esto no le pase a otro hijo de enano.$B$BSal a esas colinas. Caza a ocho de esos Raptores Escama Gris y a sus chillones primos. Acaba con ellos, hasta el último. Luego vuelve a mí, y veremos si queda algo de justicia en este mundo.",
+    ["O"] = "Mata a 8 raptores Escama Sombría y 8 chilladores Escama Sombría para Harfig Cejapiedra en Dun Kithas.",
+    ["T"] = "Muerte a Escamagris",
+  },
+  [41870] = {
+    ["D"] = "Así que... mataste a los pequeños. Bien. Pero eso fue solo el comienzo. Solo la superficie sangrienta.$B$BEl verdadero nido, donde se vuelven grandes, fuertes y mortales, está al norte del Lago Kithas. Una meseta maldita allá arriba, plagada de lo peor de ellos. Los Desgarradores Escama Gris. Viciosos, astutos, rápidos como un rayo. Ahí es donde se reproducen. Ahí es donde el corazón de esta inmundicia se encona.$B$BEl magistrado lo llama un ciclo natural. ¡Bah! No hay nada natural en ver a tu hijo gritar mientras las bestias lo destrozan y estás demasiado lejos para hacer algo al respecto.$B$BSi matas suficientes de ellos, tal vez, solo tal vez, la patrulla de la montaña sacará la cabeza de su trasero y terminará el trabajo.$B$BMátalos. Hazlo por mí. Hazlo por mi muchacho. Hazlo para que ningún otro enano tenga que enterrar a su propia carne y sangre.$B$BCabalgaría contigo si pudiera, pero estos huesos viejos apenas pueden balancear una jarra, y mucho menos una espada.",
+    ["O"] = "Mata a 14 desechos Escama Sombría para Harfig Cejapiedra en Dun Kithas.",
+    ["T"] = "Venganza Escamagris",
+  },
+  [41871] = {
+    ["D"] = "¡Sí, una nueva cara en Dun Kithas!$B$BBienvenido a nuestro hogar montañoso. Puede que no sea tan grandioso como Grim Batol, pero no dejes que la modesta piedra te engañe, los enanos aquí somos tan resistentes y orgullosos como las montañas mismas.$B$BSin embargo... las cosas no han sido fáciles últimamente. Los orcos Faucedraco han regresado con toda su fuerza, y aunque nuestros guerreros son tan fuertes como cualquiera que pueda blandir un martillo, estamos terriblemente superados en número.$B$BEl Magistrado Hurdam Toughhand está liderando nuestros esfuerzos. Ha ordenado que cualquier aventurero capaz, como tú, se reporte directamente con él. Lo encontrarás en el Salón del Magistrado, justo arriba del camino detrás de mí. Un gran edificio de piedra, difícil de pasar por alto. Generalmente está en la planta baja, en el Salón del Consejo.$B$BAdelante, muchacho. Dun Kithas podría usar otro brazo fuerte.",
+    ["O"] = "Reporta al magistrado Hurdam Manodura en el edificio del magistrado en Dun Kithas.",
+    ["T"] = "Preparativos para la Guerra",
+  },
+  [41872] = {
+    ["D"] = "¡El Muro de Baggoth sigue en pie! Pero déjame decirte, no se sostiene con barrigas llenas...$B$BEsta guerra con los perros Faucedraco ha sido dura para nuestra gente. El campo está plagado de amenazas, y nuestros agricultores, que los dioses los bendigan, están atrincherados en Dun Kithas, sus campos abandonados.$B$B¡Hemos estado masticando raíces, bayas y legumbres viejas y duras durante meses! Y déjame decirte, esta no es una dieta para un enano adecuado. Necesito un buen flanco de jabalí, asado lentamente en cerveza, con pan grueso y mantequilla para absorber los jugos...$B$B¡Ejem! Pero más que antojos, es la moral. Mis muchachos en este muro luchan día y noche, y no han visto carne en semanas. No podemos dejar nuestros puestos, pero tú... tú pareces tener piernas fuertes y buena puntería.$B$BSal a las colinas y trae lomos frescos de jabalíes Piel de Piedra. Tanto el muro como Dun Kithas te lo agradecerán.",
+    ["O"] = "Entrega 15 costillas de jabalí Piel de Piedra al montañés Botas Ligeras. Está apostado en la Muralla de Baggoth.",
+    ["T"] = "Provisiones para la Guerra",
+  },
+  [41873] = {
+    ["D"] = "<El diario está encuadernado en cuero desgastado y agrietado. La mayor parte de su contenido detalla las rutinas mundanas de un granjero enano trabajador: reportes del clima, ciclos de cultivo, notas sobre el ganado. Sin embargo, hacia las páginas finales, la caligrafía comienza a temblar, las líneas se vuelven erráticas... y las palabras, más oscuras.>$B$BElla me dice que me quede aquí, sí. Me dice que me quede.$B$BEl magistrado... quieren quitármela.$B$BNo me iré, no. La mantendré a salvo. Sí.$B$BEscucho voces. Oh, las escucho.$B$BEllas me dicen que me quede.$B$BDebo hacerlo.$B$BLo haré.",
+    ["O"] = "Encuentra a alguien en Dun Kithas que pueda estar interesado en este diario.",
+    ["T"] = "El Diario de Brangar",
+  },
+  [41874] = {
+    ["D"] = "Fortaleza Stolgaz... ese nombre aviva brasas de orgullo antiguo y pena reciente.$B$BAntes fue un bastión orgulloso del Clan Martillo Salvaje, sosteniendo una posición crítica en la defensa de las Páramos Lóbregos. Pero eso fue antes de que los orcos Faucedraco la invadieran. Ha permanecido en manos enemigas por años  —  profanada, corrompida, pero aún en pie.$B$BLo que realmente duele no es solo la pérdida de la fortaleza... sino lo que había dentro. La fortaleza albergaba algunos de nuestros registros históricos más valiosos. Linajes, decretos reales, diarios de héroes ya muertos  —  volúmenes enteros que narraban el ascenso de nuestro pueblo.$B$BDudo que los Faucedraco tengan el ingenio o el cuidado para destruir libros. Probablemente ni siquiera sepan lo que tomaron. Si logras llegar a los salones interiores de Stolgaz, mantén los ojos abiertos. Cualquier tomo que recuperes podría restaurar una parte de nuestra historia.$B$BHazlo, y me aseguraré de que recibas una buena recompensa.",
+    ["O"] = "Recupera 6 libros del archivo Martillo Salvaje en la Fortaleza Stolgaz y entrégaselos a Sorgan Agarraconfianza en Dun Kithas.",
+    ["T"] = "Los Archivos Perdidos",
+  },
+  [41875] = {
+    ["D"] = "El Muro de Baggoth ha resistido más asaltos de los Faucedraco de los que quiero contar. Pero la piedra no se repara sola, y tras años de asedio y abandono... está empezando a ceder.$B$BGrietas recorren las almenas, el mortero se ha desmoronado, y he visto una bala de cañón goblin atravesar un parapeto como si nada. Y para empeorar las cosas, los envíos de piedra desde el sur están retrasados — como siempre.$B$BPero los Páramos siempre se han construido sobre los huesos del pasado. Ruinas de antiguos bastiones y puestos de vigilancia enanos están esparcidos por la región, sus ladrillos aún firmes bajo el musgo y el lodo. Con algo de trabajo, servirán para reparar el muro.$B$BEncuentra ladrillos resistentes o piedras talladas que puedan reutilizarse. Viejas ruinas, puestos abandonados, incluso fortalezas colapsadas — recoge lo que pueda servir. Cada piedra que traigas ayuda a mantener las hojas de los Faucedraco fuera de Dun Kithas.",
+    ["O"] = "Recolecta 20 ladrillos de piedra de las ruinas en las Tierras Sombrías y entrégalos al montañés Botas Ligeras en la Muralla de Baggoth.",
+    ["T"] = "Reparando el Muro de Baggoth",
+  },
+  [41876] = {
+    ["D"] = "Bienvenido a la Forja de Barbahierro — donde saltan chispas, cantan martillos y el acero mantiene la línea.$B$BLlevamos generaciones equipando a los montañeses aquí. Armaduras, hachas, virotes de ballesta — cada pieza forjada con orgullo. Pero últimamente... el orgullo no mantiene la forja encendida. El esfuerzo de guerra exige más de lo que podemos ofrecer, y estamos casi sin hierro.$B$BNormalmente enviaría a mi hijo a Dun Kithas a averiguar sobre el próximo envío de mineral. Pero apenas tengo tiempo para respirar, y él martilla como un loco.$B$B¿Podrías hacernos un favor? Ve a Dun Kithas y pregúntale al Magistrado Manodura cuándo podemos esperar más mineral de las minas Sal’Galaz. Si no llega pronto, ¡estaremos forjando acero con cucharas...!",
+    ["O"] = "Habla con el magistrado Hurdam Manodura en Dun Kithas sobre el envío de mineral para la forja de Barba Pizarra.",
+    ["T"] = "El Mineral Debe Fluir",
+  },
+  [41877] = {
+    ["D"] = "Aunque logremos recuperar las minas Sal’Galaz — y créeme, estoy trabajando en ello — tomará semanas despejar los túneles, restaurar los andamios y reanudar los envíos regulares de mineral.$B$BPero no tenemos semanas. Cada momento perdido es una espada sin afilar y un escudo sin reparar.$B$BEs hora de cobrar un viejo favor.$B$BHay un enano en Forjaz — el Lord Nazgrim Barbarrubí. Un nombre poderoso, lo sé. Pero me debe una, y más importante aún, tiene el oído del Gremio de Mineros.$B$BViaja a Forjaz y habla con Nazgrim. Dile que yo te envié y explícale nuestra situación. Si nos ayuda, la forja podría brillar intensamente antes de que acabe la semana.",
+    ["O"] = "Habla con Lord Nazgrim Marca Roja en Forjaz sobre el suministro de mineral de emergencia para Dun Kithas.",
+    ["T"] = "El Mineral Debe Fluir",
+  },
+  [41878] = {
+    ["D"] = "El mineral llegará.$B$BHaré que mis hombres en el Gremio de Mineros de Forjaz redirijan algunos envíos a partir de hoy. Tal vez retrase otros proyectos, pero Dun Kithas lo necesita más. Hurdam hizo bien en actuar rápido.$B$BAhora ve — regresa con él y dile que Forjaz apoya a Dun Kithas. Y hazle saber que con esto estamos a mano.",
+    ["O"] = "Regresa con el magistrado Hurdam Manodura en Dun Kithas e infórmale del apoyo de Lord Marca Roja.",
+    ["T"] = "El Mineral Debe Fluir",
+  },
+  [41879] = {
+    ["D"] = "Mi padre es uno de los mejores herreros de todos los Páramos Lóbregos, y todos lo saben. Llevo años intentando ganarme su respeto, pero no importa lo que haga, nunca parece suficiente comparado con lo que hace Margella. Ella simplemente es... mejor.$B$BPero he estado trabajando en algo especial — algo que podría cambiar eso. Una maza, una verdadera obra maestra mía. Aún no está terminada. Le falta algo raro, algo poderoso que la haga resaltar entre todas las armas del muro.$B$BHe oído que en lo profundo de las Ruinas Tormentosas en Balor, hay cristales rojos brillantes — Cristales Tormentosos. Dicen que contienen un poder increíble, y si logro incrustar uno en la cabeza de la maza, tal vez por fin demuestre que también soy un herrero digno.$B$BSi vas a Balor, ¿podrías traerme uno?",
+    ["O"] = "Encuentra un cristal forjado en tormenta para Grukson Barba Pizarra en la forja Barba Pizarra.",
+    ["T"] = "Impresión Cristalina",
+  },
+  [41880] = {
+    ["D"] = "Ha llegado el momento de golpear el corazón de la presencia Faucedraco en los Páramos Lóbregos.$B$BLa Fortaleza Zarm\'geth se alza en los territorios salvajes del norte — una fortaleza tallada en piedra y hierro, repleta de trampas, murallas y orcos de los más letales. Guerreros de élite, campeones curtidos en batalla, y sin duda su cruel líder comandan desde allí.$B$BEsto no será una pelea para un solo hombre. Necesitarás camaradas a tu lado si esperas romper sus líneas y reclamar la victoria.$B$BTu objetivo es claro: mata a diez Faucedraco de élite y diez Campeones Faucedraco. Eliminar a tantos de sus guerreros de élite sin duda quebrará su espíritu.$B$BAbátelos, y habrás dado un golpe que resonará por las montañas.",
+    ["O"] = "Mata a 10 élites Faucedraco y 10 campeones Faucedraco en la fortaleza Zarm\'geth.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41881] = {
+    ["D"] = "Ahora, tenemos carne en el estómago... pero la carne sola no sostiene una línea. Lo que realmente necesitamos es pan: duradero, sustancioso, comida enana adecuada.$B$BPodría haber una solución, pero es arriesgada...$B$BAl noreste se encuentra la granja de Brangar. Bueno, lo que queda de ella. La gente ahora la llama la Locura de Brangar. Brangar fue alguna vez el granjero más rico de todas las Tierras Sombrías, dueño de interminables campos dorados.$B$BCuando llegaron los Faucedraco, se negó a irse. Dijo que moriría antes de ceder su tierra. Y así lo hizo.$B$BAlgunos dicen que enloqueció en esos últimos días... otros susurran que ocultaba algo más oscuro. No le doy mucha credibilidad a los cuentos, pero una cosa es segura: nadie reclamó el grano en sus graneros. Y si algo sigue bueno, lo usaremos antes que la podredumbre o algo peor se lo lleve.$B$BSal y ve qué puedes encontrar. Diez cajas de grano deberían ser suficientes para comenzar un buen stock.",
+    ["O"] = "Recupera 10 cajas de grano de Brangar de la Locura de Brangar y regresa con el montañés Botas Ligeras en la Muralla de Baggoth.",
+    ["T"] = "La Locura de Brangar",
+  },
+  [41882] = {
+    ["D"] = "Después de toda la sangre derramada y el acero empuñado, solo queda una cosa por hacer — llevar noticias de nuestras arduas victorias al Magistrado en Dun Kithas.$B$BNo puedo pensar en un mejor $r para portar este honor que tú, amigo. Fue gracias a tu mano y la fuerza de los tuyos que abatimos a los Faucedraco y protegimos los Páramos Lóbregos — al menos por ahora.",
+    ["O"] = "Reporta al magistrado Hurdam Manodura en Dun Kithas.",
+    ["T"] = "La Guerra de los Faucedraco",
+  },
+  [41883] = {
+    ["D"] = "<Se descubre una carta desgastada sobre el cadáver de Zuluhed. Parece estar dirigida a él, escrita con una letra tosca que dice:$B$B<¿Así que por fin has regresado? ¿Cuánto tiempo ha pasado desde que desapareciste para perseguir tu artefacto mientras el resto de nosotros luchábamos con uñas y dientes por sobrevivir? Abandonaste al Clan Faucedraco por tu propia gloria estúpida, y ahora que has vuelto, ¿esperas que todos los caudillos se unan sin remordimientos ni rencor?$B$BNo esperes que sea tan ingenuo como los demás, Zuluhed. Puedes esconderte en las entrañas de Grim Batol todo lo que quieras. Yo lideraré a nuestro clan hacia una victoria gloriosa y grandiosa aquí, en el suelo de los Páramos Lóbregos, no acobardándome en cavernas como Rend y los suyos. Algunos de nosotros conocemos la verdad del Roca Negra, y no deseamos ocultar los hechos detrás de nociones de una gloriosa “Horda Oscura”... Tu orden queda rechazada, viejo amigo.$B$BKorlag Cantapérdida, Clan Faucedraco.>",
+    ["O"] = "Lleva la carta a alguien de alta autoridad en las Tierras Sombrías.",
+    ["T"] = "Carta de Korlag Cantooscuro",
+  },
+  [41884] = {
+    ["D"] = "Esta carta confirma algunos de los rumores que han estado circulando: el Clan Faucedraco no estaba completamente unido.$B$BAhora que Zuluhed ha caído, solo queda uno que contienda por el título de caudillo: el Comandante Korlag Cantapérdida. Los enanos hemos estado en conflicto con los Faucedraco desde hace más de lo que recordamos, y ahora es el momento de dar el golpe final.$B$BReúne a todos los aliados que puedas y viaja hacia el norte, a las profundidades de la Fortaleza Zarm\'geth. Allí encontrarás a Korlag Cantapérdida, el último líder de los Faucedraco. Mátalo, y líbranos de esta guerra perpetua.",
+    ["O"] = "Mata a Korlag Canta Destino dentro de la fortaleza Zarm\'geth y lleva su cabeza al magistrado Hurdam Manodura en Dun Kithas dentro de las Tierras Sombrías.",
+    ["T"] = "Destrucción de los Faucedraco",
+  },
+  [41885] = {
+    ["D"] = "<El enano observa el lago, murmurando para sí mismo. Huele intensamente a pescado y humo de pipa.>$B$B¡Ellos están ahí afuera... esperando. ¡Dientes como dagas, ojos como perlas malditas! ¿Crees que es seguro pescar en el Lago Kithas? ¡Estás equivocado! ¡Muy equivocado!$B$B¡Esos malditos crocoliscos colmillotajo siguen mordiendo mis líneas — casi me arrancaron la mano la semana pasada! ¡No son solo una molestia para pescar, son monstruos, te digo!$B$BTienes un arma, ¿no? Entra a ese lago maldito y elimina a algunos. Ocho deberían ser suficientes para que el resto se lo piense dos veces antes de meterse con Nudrew otra vez.$B$B¡Te lo recompensaré, lo prometo! Y si no... ¡los crocs me llevarán antes de que la culpa lo haga!",
+    ["O"] = "Mata a 8 crocoliscos Dientefilo en el lago Kithas y regresa con el pescador Nudrew.",
+    ["T"] = "Mordedores en el Agua",
+  },
+  [41886] = {
+    ["D"] = "Escucha, no me asusto fácilmente... pero hay algo extraño en el Hueco Lóbrego. El aire es espeso, los árboles crujen incluso cuando no hay viento, y juro que las sombras se mueven cuando no las estás mirando.$B$BY las arañas — por la Piedra, las arañas. No son los típicos bichos de cueva. Estas son enormes, y tienen un hambre en la mirada. Las llaman Reclusas Pardas Mayores, y están invadiendo los senderos del pantano como si les pertenecieran.$B$BSi no reducimos su número, acabaremos envueltos en telaraña mientras dormimos. Se te ve con coraje — sal ahí afuera y elimina al menos a doce de esas bestias. Yo estaré aquí... vigilando el perímetro.",
+    ["O"] = "Mata a 12 reclusos marrones mayores en los pantanos de Grim Hollow.",
+    ["T"] = "Problemas Reptantes",
+  },
+  [41887] = {
+    ["D"] = "Si buscas conocer nuestros elixires más vitales y raros, has llegado al lugar indicado. Por tus esfuerzos en Hyjal, puedo otorgarte el conocimiento de mis antepasados. La Poción de la Mangosta Esmeralda es una mezcla alquímica bastante potente y poderosa.$B$BPodría usarse para cambiar el rumbo de un conflicto a tu favor.",
+    ["O"] = "Reúne 25 Fragmentos de Sueño Brillantes para Evandil Brisanocturna en Nordanaar, Hyjal.",
+    ["T"] = "La receta de la Poción de la Mangosta Esmeralda",
+  },
+  [41888] = {
+    ["D"] = "Nuestros exploradores han reportado un incremento de actividad en las fortalezas enemigas: Salas Inferiores de Karazhan, Zul\'Gurub y Ahn\'Qiraj.$B$BNecesitamos campeones probados que atraviesen estos nidos de corrupción y regresen con pruebas de sus hazañas. Tráeme Crestas del Heroísmo, obtenidas solo al triunfar sobre estos formidables enemigos.",
+    ["O"] = "Recolecta 10 Crestas del Heroísmo de jefes de banda en Karazhan Inferior, Ruinas de Ahn\'Qiraj y Zul\'Gurub.",
+    ["T"] = "Llamado a las armas: Purga de la corrupción",
+  },
+  [41889] = {
+    ["D"] = "La misma tierra bajo nuestros pies tiembla de ira. En lo profundo del Núcleo de Magma, antiguos enemigos se agitan una vez más. Nuevos tenientes de la llama se alzan en nombre de Ragnaros, amenazando con encender otra era de fuego.$B$BNo podemos permitir que fortalezcan sus fuerzas. Cázalos. Tráeme pruebas de su destrucción: una escama fundida de Incindis, y el anillo de sello arrancado de la mano del mismísimo Thane-Hechicero. Que todos los que sirven al Señor del Fuego sepan: la Alianza no se quema.",
+    ["O"] = "Recolecta la Escama Fundida de Incindis y el Sello de Thaurissan del Thane-Hechicero Thaurissan en el Núcleo de Magma.",
+    ["T"] = "Llamado a las armas: Asalto Fundido",
+  },
+  [41890] = {
+    ["D"] = "La amenaza tras las puertas se vuelve más audaz. Nuestros exploradores reportan una creciente agresión y coordinación entre los comandantes enemigos dentro de sus mazmorras más fortificadas.$B$BDebemos atacar ahora, mientras permanecen confiados. Tráeme las Crestas del Valor tomadas de sus líderes caídos. Demuéstrales que la Horda no duda — aplastamos a quienes se nos oponen.",
+    ["O"] = "Recolecta 25 Crestas del Valor de jefes de mazmorra.",
+    ["T"] = "Llamado a las armas: Incursión en Mazmorras",
+  },
+  [41891] = {
+    ["D"] = "Nuestros exploradores han reportado un incremento de movimiento dentro de las fortalezas enemigas — Salas Inferiores de Karazhan, Zul\'Gurub y Ahn\'Qiraj.$B$BEstos lugares hierven con magia oscura y amenazas ancestrales. Necesitamos campeones probados que se infiltren, purguen la corrupción y regresen con trofeos de conquista. Tráeme Crestas del Heroísmo, obtenidas solo al triunfar sobre estos formidables enemigos.",
+    ["O"] = "Recolecta 10 Crestas del Heroísmo de jefes de banda en Karazhan Inferior, Ruinas de Ahn\'Qiraj y Zul\'Gurub.",
+    ["T"] = "Llamado a las armas: Purga de la corrupción",
+  },
+  [41892] = {
+    ["D"] = "La misma tierra bajo nuestros pies tiembla de ira. En lo profundo del Núcleo de Magma, antiguos enemigos se agitan una vez más. Nuevos tenientes de la llama se alzan en nombre de Ragnaros, amenazando con encender otra era de fuego.$B$BNo podemos permitir que fortalezcan sus fuerzas. Cázalos. Tráeme pruebas de su destrucción: una escama fundida de Incindis, y el anillo de sello arrancado de la mano del mismísimo Thane-Hechicero. Que todos los que sirven al Señor del Fuego sepan: la Horda no se quema.",
+    ["O"] = "Recolecta la Escama Fundida de Incindis y el Sello de Thaurissan del Thane-Hechicero Thaurissan en el Núcleo de Magma.",
+    ["T"] = "Llamado a las armas: Asalto Fundido",
+  },
+  [41893] = {
+    ["D"] = "<The old, withered book before you appears to account the creation of the lower reserve mine itself, as well as the many notable Wildhammer dwarves that oversaw its construction. Many mentions to Dun Kithas within the Grim Reaches can be seen within its pages as a pivotal, and key source for the mining achievements of the mine itself. There must be someone that may find this text valueable.>",
+    ["O"] = "Bring the Ancient Wildhammer Tome to someone who may find use of it.",
+    ["T"] = "The Ancient Wildhammer Tome",
+  },
+  [41894] = {
+    ["D"] = "You there, looking to help an aspiring exiled downtrodden goblin regain some of his lost riches and make his way back properly into the DLU?$B$BWell, it looks like you may have stumbled into the right place. I\'ve been assigned to this backwater as a punishment for mucking up some of the operations on Blackstone Island...$B$BThat\'s the last thing I want to get into- look, I need you to pull a heist for me. Down to the southwest and across the river is the main Wildhammer town of Dun Kithas. Overlooking its eastern cliff-face is a small workshop dedicated to repairing broken steamtanks. I need you to get in, recover a \'Chromatic Servo-Motor\' and bring it to me. My source says there should be one lying around somewhere.",
+    ["O"] = "Recover a Chromatic Servo-Motor from the repair yard of Dun Kithas for Razzo Copperfume at his camp just south of Shatterblade Post in the Grim Reaches.",
+    ["T"] = "The Chromatic Servo-Motor",
+  },
+  [41895] = {
+    ["D"] = "The local Forest Spiders have been seen creeping around Elwynn for what seems like an eternity. Their ichor has always fetched a pretty penny and I know someone who is looking for some. You can find them all around Goldshire itself, lurking both to the south, and to the west.$B$BBring me 3 Forest Ichor, and I shall reward you with a handsome price!...a handsome price.",
+    ["O"] = "Gather 3 Forest Ichor from the local Forest Spiders around Elwynn Forest for Remy \"Two Times\" in Goldshire.",
+    ["T"] = "Forest Ichor Exchange",
+  },
+  [41896] = {
+    ["D"] = "I be hearing of a dark and magical corruption gripping the far away lands of the Grim Reaches on the far edges of the Eastern Kingdoms. A murloc tribe going by the name \'Miregill\' has been corrupted by the intense dark magic that has been rotting the land itself...$B$BI be seeking to harness this magic, and use it as a ward to protect myself from the shadow. Travel there, and gather from the murlocs of the corrupted swamps their fins, once they are collected, bring them to me.",
+    ["O"] = "Gather 6 Corrupted Miregill Fins from the murlocs in the Grim Hollow for Selja at Shadowprey Village in Desolace.",
+    ["T"] = "The Shadowed Hollow",
   },
   [50000] = {
     ["D"] = "El profesor Malkovich es un viejo amigo mío. Me dijo que le enviara a alguien interesado en la anatomía.$B$BEncuéntralo en el fondo del Apothecarium en Entrañas.",
@@ -29653,13 +30948,13 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "El Gran Proyecto de Energía",
   },
   [55019] = {
-    ["D"] = "Mi hermano ha sido enviado recientemente a los confines de nuestra fuerza y asignado dentro del campamento de Stonard.$B$BNo es para mí cuestionar los deseos del Jefe de Guerra, pero aún me preocupa la seguridad de mi hermano allí, incluso si es fuerte y está en buena salud.$B$BHan pasado meses desde la última vez que nos vimos con todos los despliegues, de uno a otro, y ahora ¿el Pantano de las Penas de todos los lugares?$B$BLa única cosa que me da paz es que ha sido ascendido a una posición de cierto poder dentro de la guarnición allí.$B$BEs bueno saber que tal vez no está en la primera línea de combate y en su lugar está al mando de sus hombres.$B$BEs algo extraño ver a un hermano menor volverse más importante que tú, pero, bueno, el deber llama y todos debemos hacer nuestra parte.$B$BPor favor, encuentra a Zuul en Stonard, en el Pantano de las Penas, y entrégale esta carta.",
-    ["O"] = "Entrega la Carta de Rugnar a Zuul en Stonard.",
+    ["D"] = "Mi hermano ha sido enviado recientemente a los confines de nuestra fuerza y asignado dentro del campamento de Rocal.$B$BNo es para mí cuestionar los deseos del Jefe de Guerra, pero aún me preocupa la seguridad de mi hermano allí, incluso si es fuerte y está en buena salud.$B$BHan pasado meses desde la última vez que nos vimos con todos los despliegues, de uno a otro, y ahora ¿el Pantano de las Penas de todos los lugares?$B$BLa única cosa que me da paz es que ha sido ascendido a una posición de cierto poder dentro de la guarnición allí.$B$BEs bueno saber que tal vez no está en la primera línea de combate y en su lugar está al mando de sus hombres.$B$BEs algo extraño ver a un hermano menor volverse más importante que tú, pero, bueno, el deber llama y todos debemos hacer nuestra parte.$B$BPor favor, encuentra a Zuul en Rocal, en el Pantano de las Penas, y entrégale esta carta.",
+    ["O"] = "Entrega la Carta de Rugnar a Zuul en Rocal.",
     ["T"] = "Sangre Perdida",
   },
   [55020] = {
     ["D"] = "Bueno, esto es un poco embarazoso, parece que mis embellecimientos podrían haber llegado a las manos equivocadas y llegaron antes que yo.$B$BSiempre he querido tener más éxito a los ojos de mi hermano, y aunque él ha hecho una buena vida como comerciante, yo he servido a Orgrimmar durante años solo para seguir siendo un Grunt.$B$B<Zuul suspira.>$B$BSupongo que debería ser honesto, es el honor lo que dicta que sea sincero, especialmente con aquellos de mi propia sangre.$B$BMentir para intentar aparentar es lo que harían los diplomáticos de la Alianza, no los hijos de Durotar.$B$BPor mucho que desee ir y disculparme en persona, no puedo. Tengo demasiadas tareas que hacer en tan poco tiempo.$B$BHabla con mi comandante y hazle saber que deseo un permiso para ir a Durotar por un corto tiempo.",
-    ["O"] = "Habla con el Comandante de Despachos Ruag en Stonard.",
+    ["O"] = "Habla con el Comandante de Despachos Ruag en Rocal.",
     ["T"] = "Honor Perdido",
   },
   [55021] = {
@@ -29768,9 +31063,9 @@ pfDB["quests"]["esES-turtle"] = {
     ["T"] = "¡Trabajador Perdido!",
   },
   [55045] = {
-    ["D"] = "Mira, tenía la intención de conseguirle el mineral, lo prometo. Simplemente ha sido un día bastante estresante golpear un pico contra la roca, siento que puedo hacer cosas mejores, ¿sabes?$B$B¿Te importaría hacerme un favor y encontrarme 10 minerales de cobre? Hay montones por esta región si puedes minar, o si conoces a alguien que pueda. ¡Eso me pondría al día con mis envíos y deudas e incluso me dejaría un poco adelantado!$B$BRealmente podría usar la ayuda. Siempre está la casa de subastas si no conoces a nadie y no puedes minar tú mismo.",
-    ["O"] = "Lleva 10 Mineral de Cobre a Big Fraggle para el Minero Axel.",
-    ["T"] = "Minerales a Tiempo",
+    ["D"] = "Mira, tenía la intención de conseguirle el mineral, lo prometo. Simplemente ha sido un día bastante estresante golpear un pico contra la roca, siento que puedo hacer cosas mejores, ¿sabes?$B$B¿Te importaría hacerme un favor y encontrarme 10 menas de cobre? Hay montones por esta región si puedes minar, o si conoces a alguien que pueda. ¡Eso me pondría al día con mis envíos y deudas e incluso me dejaría un poco adelantado!$B$BRealmente podría usar la ayuda. Siempre está la casa de subastas si no conoces a nadie y no puedes minar tú mismo.",
+    ["O"] = "Lleva 10 Menas de Cobre a Big Fraggle para el Minero Axel.",
+    ["T"] = "Menas a Tiempo",
   },
   [55046] = {
     ["D"] = "En las Tierras Inhóspitas, cerca del Fin de Agmond, hay un tipo especial de mineral que ha sido presionado por los elementales allí durante algún tiempo. Es único y bastante difícil de encontrar.$B$BPuede usarse para muchas cosas, pero me gustaría pensar que podría probarse para usar en un taladro quizás.$B$BEn el Fin de Agmond, un pequeño campamento de enanos fue invadido hace algún tiempo por troggs.$B$BNo creo que los enanos estuvieran cerca de conseguir todo el mineral y algún trogg debe tener algo de él. Dirígete allí y mátalos hasta que encuentres un pedazo, luego tráelo de vuelta.",
@@ -30569,7 +31864,7 @@ pfDB["quests"]["esES-turtle"] = {
   },
   [80204] = {
     ["D"] = "Ahora estás menos verde, lo cual es bueno.$B$BLas alimañas que has derrotado son solo una molestia en comparación con otras cosas que acechan en este valle. Algunos de los refugiados recientes que llegaron anoche informaron haber visto una figura de baja estatura con ojos rojos brillantes en el bosque mientras acechaba el área.$B$BAlgunos lo descartaron como fatiga por el largo viaje, pero creo que puede ser el explorador avanzado de una banda de asalto Forjatiniebla.$B$BLos Forjatiniebla son uno de los clanes Hierro Negro. Son enanos de ojos rojos corruptos que están en desacuerdo con el reino de Forjaz. Investiga el área al oeste donde ocurrió el avistamiento, pero no te acerques demasiado al sitio de excavación. Está infestado de troggs mucho más fuertes que esas alimañas con las que luchaste antes.$B$BRecuerda: no te enfrentes. Si encuentras algo, confirma tu avistamiento y regresa inmediatamente aquí.",
-    ["O"] = "Investiga el área al suroeste del Refugio del Errante.",
+    ["O"] = "Investiga el área al suroeste del Refugio de los Exploradores Lejanos.",
     ["T"] = "Recopilando Información",
   },
   [80205] = {
