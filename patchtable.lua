@@ -14,6 +14,14 @@ local function patchtable(base, diff)
   end
 end
 
+-- Detect a typo from old clients and re-apply the typo to the zones table
+-- This is a workaround which is required until all clients are updated
+for id, name in pairs({GetMapZones(2)}) do
+  if name == "Northwind " then
+    pfDB["zones"]["enUS-turtle"][5581] = "Northwind "
+  end
+end
+
 local loc_core, loc_update
 for _, db in pairs(dbs) do
   if pfDB[db]["data-turtle"] then
