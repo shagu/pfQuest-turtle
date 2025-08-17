@@ -13,4 +13,7 @@ do -- units/npcs
 end
 
 do -- quests
+  -- Add "Dark Iron Gunpowder Keg" to objectives of "Vile Dwarven Pigs"
+  -- The extractor scripts did not catch those, as the objetive is filled via a Gossip on use.
+  pfDB["quests"]["data-turtle"][41682]["obj"]["O"] = { 2020173 }
 end
