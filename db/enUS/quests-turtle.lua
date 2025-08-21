@@ -11117,6 +11117,11 @@ pfDB["quests"]["enUS-turtle"] = {
     ["O"] = "Gather 6 Corrupted Miregill Fins from the murlocs in the Grim Hollow for Selja at Shadowprey Village in Desolace.",
     ["T"] = "The Shadowed Hollow",
   },
+  [41897] = {
+    ["D"] = "The threat beyond the gates only grows bolder. Our scouts report intensified activity among the commanders of the enemy forces. We must take the fight to them.$B$BStrike down their leaders, recover their crests, and bring them back to me. Show them that we do not falter. Show them the might of the Alliance.",
+    ["O"] = "Collect 25 Crests of Valor from dungeon bosses.",
+    ["T"] = "Call to Arms: Dungeon Delving",
+  },
   [50000] = {
     ["D"] = "Professor Malkovich is an old friend of mine. He told me to send him someone interested in anatomy.$B$BFind him at the bottom of the Apothecarium in Undercity.",
     ["O"] = "Talk to Professor Malkovich at the bottom of the Apothecarium in Undercity.",
@@ -11155,7 +11160,7 @@ pfDB["quests"]["enUS-turtle"] = {
   [50230] = {
     ["D"] = "Come here, adventurer!$B$BI see that you are a capable person so I\'ll teach you something useful since fate brought us together.$B$BYou could benefit from out here in the jungle!$B$BIf you bring me a tight rope from Jaquilina there, some oil from the goblins of Booty Bay and a thick club you will find around the camp, then I will let you in on a unique way on how to construct a proper torch in no time that you could use in your travels for either a night\'s exploration or to safeguard yourself against wild animals.$B$BSee the ones near our camp? They never go out!",
     ["O"] = "Bring a rope from Jaquilina, oil from Booty Bay and a club from around the camp to Nesingwary\'s Expedition for S. J. Erlgadin.",
-    ["T"] = "Night\'s Exploration",
+    ["T"] = "[Deprecated] Night\'s Exploration",
   },
   [50305] = {
     ["D"] = "What now? Ah, it\'s you again. What eggs?$B$BOh, right. Tail lashers. So you want to cook something else besides eggs? I guess I can teach you something.$B$BDo you know where the Southfury River ends its course? This is where you\'ll have to go. Why? I\'m intending to heighten the stakes here, whelp! Get me those crocolisks\' meat and I\'ll teach you how to cook it properly! You\'ll find them all over the river so you better get movin\' right away!",

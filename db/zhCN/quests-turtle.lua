@@ -65,6 +65,16 @@ pfDB["quests"]["zhCN-turtle"] = {
     ["O"] = "萨尔玛·萨丁需要3块秃鹫肉条、3只血牙野猪的头、3颗鱼人的眼睛和3棵秋葵。",
     ["T"] = "杂味炖肉",
   },
+  [40] = {
+    ["D"] = "$N，艾尔文森林又遇到新的威胁了！鱼人正陆续从艾尔文森林东部的河流里游过来，把鱼都给吓跑了，而且它们还攻击平民！$B$B我已经向治安官杜汉发出过警告，不过他显然更担心那些豺狼人和强盗，而且他不相信鱼人能对我们构成威胁。$B$B请你和杜汉谈谈吧，最好能说服他向东部派遣更多部队！",
+    ["O"] = "二道贩子雷米要你去和闪金镇的治安官杜汉谈一谈。",
+    ["T"] = "鱼人的威胁",
+  },
+  [47] = {
+    ["D"] = "这一带的狗头人有时会带着金砂出来活动。我真的很需要这些金砂……给我找一些来，我会以镇子里最高的收购价格买下来——最高的价格！",
+    ["O"] = "为闪金镇的二道贩子雷米收集10袋金砂，这种东西可以从艾尔文森林的狗头人身上找到。",
+    ["T"] = "金砂交易",
+  },
   [56] = {
     ["D"] = "作为守夜人的指挥官，我发过誓要保卫夜色镇人民的安全。暴风城已经把他们驻守在这里的部队撤了回去，现在我们只能依靠自己了。$B$B如果你觉得可以胜任，就请帮助我们吧！到夜色镇南部的静谧花园去，杀掉8个骷髅战士和6个骷髅法师。我们必须尽量减轻亡灵所能够带来的压力！",
     ["O"] = "夜色镇的指挥官阿尔泰娅·埃伯洛克要你去杀掉8个骷髅战士和6个骷髅法师。",
@@ -2915,6 +2925,16 @@ pfDB["quests"]["zhCN-turtle"] = {
   },
   [1460] = "_",
   [1461] = "_",
+  [1462] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "大地灵契",
+  },
+  [1463] = {
+    ["D"] = "",
+    ["O"] = "",
+    ["T"] = "大地灵契",
+  },
   [1464] = {
     ["D"] = "",
     ["O"] = "向泰尔夫·祖拉姆再要一个火焰灵契。",
@@ -3205,7 +3225,7 @@ pfDB["quests"]["zhCN-turtle"] = {
   },
   [1794] = {
     ["D"] = "",
-    ["O"] = "和铁炉堡的贝尔杜克·凝眉说话",
+    ["O"] = "",
     ["T"] = "勇气之书",
   },
   [1795] = {
@@ -5060,7 +5080,7 @@ pfDB["quests"]["zhCN-turtle"] = {
   },
   [7900] = {
     ["D"] = "",
-    ["O"] = "将5个破损的熊皮带给暗月马戏团的亚布·尼比盖尔",
+    ["O"] = "",
     ["T"] = "破损的熊皮",
   },
   [7904] = "_",
@@ -7168,9 +7188,9 @@ pfDB["quests"]["zhCN-turtle"] = {
     ["T"] = "血色十字军的恶臭",
   },
   [20006] = {
-    ["D"] = "Tracks whether player has disarmed war mode.",
+    ["D"] = "追踪玩家是否解除了战争模式。",
     ["O"] = "",
-    ["T"] = "Disabled Warmode",
+    ["T"] = "禁用战争模式",
   },
   [39000] = {
     ["D"] = "来吧，伙计们，看，维兹鲁的魔力——嗯哼……雾机！$B$B$B$呸，潜在客户！你一定是从世界各地来看我的机器创造的奇迹。$B$B否？哦，好吧，没关系。那一定是缘分！或者你所信仰的神把你带到我面前。听着，这台机器可以创造奇迹，孩子。它可以扩展你的身体和精神能力。$B$B而且您只需在其中插入黄金即可使其正常工作！那么，你怎么说？支付10金激活它。当然，我还需要340个金币，因为……材料，是的，材料！",
@@ -16380,7 +16400,7 @@ pfDB["quests"]["zhCN-turtle"] = {
   [41866] = {
     ["D"] = "红标家族掌控着卡兹莫丹的大部分地区——我的父亲纳兹戈林想要让人们记住这一点。$B$B他想让我们帮助丹基塔斯的人民，为战争出一份力。唯一的问题是……我可不是那种好斗的人。$B$B不过，如果能传扬开来，说我，加林·红标，为这项事业做出了真正的贡献，那也无妨。$B$B此处以北是盖斯卡尔，一座龙喉要塞，已经成为蛮锤部族的眼中钉。更重要的是，它是兽人们的主要补给站。如果你能潜入并偷走他们的补给箱——比如八个——那对他们的战争成果将造成真正的损害。$B$B而且，嗯……这么说吧，这对红标家族来说也是一件好事。",
     ["O"] = "从盖斯卡尔窃取8个龙喉补给箱，并将其带还给加林·红标。",
-    ["T"] = "突袭盖斯卡",
+    ["T"] = "突袭盖斯卡尔",
   },
   [41867] = {
     ["D"] = "自从我和我的团队踏入冷酷海岸以来，我的胃里就一直有一种挥之不去的预感。这地方有点不对劲——某种不自然的东西。这片土地本身就感觉……恶心。树木、野兽，甚至风——都被一种奇怪的腐烂所侵蚀。$B$B更糟糕的是，我亲眼目睹了它成形。这些泥怪——阴暗、邪恶的东西——正从山里爬出来，就像伤口感染一样。无论它们走到哪里，都会把同样的腐烂蔓延到周围的土地上。$B$B需要了解我们在这里面对的是什么。如果你遇到任何泥怪，介意……帮我收集一些样本吗？只是，呃，尽量别沾染上任何东西。我会让你觉得值得的。",
@@ -16513,24 +16533,29 @@ pfDB["quests"]["zhCN-turtle"] = {
     ["T"] = "武装的召唤：熔火突袭",
   },
   [41893] = {
-    ["D"] = "<The old, withered book before you appears to account the creation of the lower reserve mine itself, as well as the many notable Wildhammer dwarves that oversaw its construction. Many mentions to Dun Kithas within the Grim Reaches can be seen within its pages as a pivotal, and key source for the mining achievements of the mine itself. There must be someone that may find this text valueable.>",
-    ["O"] = "Bring the Ancient Wildhammer Tome to someone who may find use of it.",
-    ["T"] = "The Ancient Wildhammer Tome",
+    ["D"] = "<你面前这本干巴巴的旧书似乎记载了下层储备矿井的建造过程，以及监督其建造的众多著名蛮锤矮人。书中多次提到了冷酷海岸的丹基塔斯，是了解矿井采矿成就的关键资料。肯定有人会觉得这本书很有价值。>",
+    ["O"] = "古代蛮锤书籍交给可能需要它的人。",
+    ["T"] = "古代蛮锤书籍",
   },
   [41894] = {
-    ["D"] = "You there, looking to help an aspiring exiled downtrodden goblin regain some of his lost riches and make his way back properly into the DLU?$B$BWell, it looks like you may have stumbled into the right place. I\'ve been assigned to this backwater as a punishment for mucking up some of the operations on Blackstone Island...$B$BThat\'s the last thing I want to get into- look, I need you to pull a heist for me. Down to the southwest and across the river is the main Wildhammer town of Dun Kithas. Overlooking its eastern cliff-face is a small workshop dedicated to repairing broken steamtanks. I need you to get in, recover a \'Chromatic Servo-Motor\' and bring it to me. My source says there should be one lying around somewhere.",
-    ["O"] = "Recover a Chromatic Servo-Motor from the repair yard of Dun Kithas for Razzo Copperfume at his camp just south of Shatterblade Post in the Grim Reaches.",
-    ["T"] = "The Chromatic Servo-Motor",
+    ["D"] = "你是想帮助一个被流放、受压迫的地精找回他失去的财富，让他重返杜隆塔尔工会联盟吗？$B$B好吧，看来你来对地方了。我被派到这片偏僻之地，作为对黑石岛搞砸了某些事的惩罚……$B$B这些是我最不想插手的事——听着，我需要你帮我策划一次抢劫。往西南走，过河就是蛮锤矮人的主要城镇丹基塔斯。俯瞰着东边的悬崖峭壁，有一间专门修理破损蒸汽坦克的小车间。我需要你进去，找到一台“多彩传动电机”并把它带给我。我的线人说，应该就有一台在那附近。",
+    ["O"] = "从丹基塔斯的修理厂为拉佐·铜烟找到一台多彩传动电机,并带回他在冷酷海岸碎刃哨岗南边的营地。",
+    ["T"] = "多彩传动电机",
   },
   [41895] = {
-    ["D"] = "The local Forest Spiders have been seen creeping around Elwynn for what seems like an eternity. Their ichor has always fetched a pretty penny and I know someone who is looking for some. You can find them all around Goldshire itself, lurking both to the south, and to the west.$B$BBring me 3 Forest Ichor, and I shall reward you with a handsome price!...a handsome price.",
-    ["O"] = "Gather 3 Forest Ichor from the local Forest Spiders around Elwynn Forest for Remy \"Two Times\" in Goldshire.",
-    ["T"] = "Forest Ichor Exchange",
+    ["D"] = "有人看到当地的森林蜘蛛在艾尔文附近爬行，似乎已经很久了。它们的毒液总是能卖个好价钱，我知道有人在求购这东西。你可以在闪金镇周围找到它们，潜伏在南边和西边。$B$B给我带三瓶森林毒液来，我会给你丰厚的报酬！……丰厚的报酬。",
+    ["O"] = "从艾尔文森林周围的森林蜘蛛那里收集3份森林毒液，交给闪金镇的二道贩子雷米。",
+    ["T"] = "森林毒液交易",
   },
   [41896] = {
-    ["D"] = "I be hearing of a dark and magical corruption gripping the far away lands of the Grim Reaches on the far edges of the Eastern Kingdoms. A murloc tribe going by the name \'Miregill\' has been corrupted by the intense dark magic that has been rotting the land itself...$B$BI be seeking to harness this magic, and use it as a ward to protect myself from the shadow. Travel there, and gather from the murlocs of the corrupted swamps their fins, once they are collected, bring them to me.",
-    ["O"] = "Gather 6 Corrupted Miregill Fins from the murlocs in the Grim Hollow for Selja at Shadowprey Village in Desolace.",
-    ["T"] = "The Shadowed Hollow",
+    ["D"] = "我听说，一股黑暗魔法的腐化正在吞噬东部王国边缘的冷酷海岸。一个名为“沼腮”的鱼人部落已被强烈的黑暗魔法所腐蚀，这股黑暗魔法正在侵蚀着这片土地……$B$B 我想要掌控这股魔法，并将其作为一道屏障，保护自己免受暗影的侵袭。前往那里，收集被腐化的沼泽中的鱼人的鱼鳍，收集到后带给我。",
+    ["O"] = "从冷酷谷的鱼人那里收集6片腐化沼腮鱼人鳍，交给凄凉之地葬影村的塞尔雅。",
+    ["T"] = "暗影空洞",
+  },
+  [41897] = {
+    ["D"] = "大门外的威胁只会更加大。我们的斥候报告称，敌方指挥官的活动有所增强。$B$B我们必须将战斗带给他们。打倒他们的首领，夺取他们的纹章，带回给我。让他们知道我们不会退缩。让他们见识到联盟的力量。",
+    ["O"] = "从地下城首领那里收集25个勇气纹章。",
+    ["T"] = "武装的召唤：地下城探索",
   },
   [50000] = {
     ["D"] = "马尔科维奇教授是我的老朋友，他让我推荐一个对解剖学感兴趣的人给他。$B$B在幽暗城炼金房的底部找到他。",

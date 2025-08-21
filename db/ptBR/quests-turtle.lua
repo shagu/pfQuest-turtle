@@ -21328,9 +21328,9 @@ pfDB["quests"]["ptBR-turtle"] = {
     ["T"] = "O mau cheiro da Cruzada Escarlate",
   },
   [20006] = {
-    ["D"] = "Tracks whether player has disarmed war mode.",
+    ["D"] = "Registra se o jogador desativou o modo de guerra.",
     ["O"] = "",
-    ["T"] = "Disabled Warmode",
+    ["T"] = "Modo de Guerra Desativado",
   },
   [39000] = {
     ["D"] = "Subam, pessoal, e vejam, a máquina mágica de Vizlow - ahem... MIST!$B$B<Vizlow avalia vocês de cima a baixo.>$B$BAh, um cliente em potencial! Você deve ter vindo de todo o mundo para ver as maravilhas que minhas máquinas fazem.$B$BNão? Bem, isso não importa. Então deve ser o destino! Ou qualquer divindade em que você acredita que o trouxe até mim. Ouça, esta máquina pode fazer maravilhas, garoto. Ele pode expandir suas capacidades físicas e mentais!$B$BE tudo que você precisa fazer é inserir ouro nele para que funcione! Então, o que você diria? Pague dez ouro para ativá-lo. Claro, vou precisar de 340, para... aham... materiais, sim, materiais!",
@@ -30673,24 +30673,29 @@ pfDB["quests"]["ptBR-turtle"] = {
     ["T"] = "Chamado às Armas: Assalto Ígneo",
   },
   [41893] = {
-    ["D"] = "<The old, withered book before you appears to account the creation of the lower reserve mine itself, as well as the many notable Wildhammer dwarves that oversaw its construction. Many mentions to Dun Kithas within the Grim Reaches can be seen within its pages as a pivotal, and key source for the mining achievements of the mine itself. There must be someone that may find this text valueable.>",
-    ["O"] = "Bring the Ancient Wildhammer Tome to someone who may find use of it.",
-    ["T"] = "The Ancient Wildhammer Tome",
+    ["D"] = "<O velho e ressecado livro diante de você parece relatar a criação da mina da reserva inferior, assim como os muitos anões Martelo Feroz notáveis que supervisionaram sua construção. Há muitas menções a Dun Kithas dentro dos Confins Sombrios como uma fonte pivotal e chave para as conquistas mineradoras da própria mina. Deve haver alguém que ache este texto valioso.>",
+    ["O"] = "Leve o Antigo Tomo Martelo Feroz para alguém que possa lhe dar utilidade.",
+    ["T"] = "O Antigo Tomo Martelo Feroz",
   },
   [41894] = {
-    ["D"] = "You there, looking to help an aspiring exiled downtrodden goblin regain some of his lost riches and make his way back properly into the DLU?$B$BWell, it looks like you may have stumbled into the right place. I\'ve been assigned to this backwater as a punishment for mucking up some of the operations on Blackstone Island...$B$BThat\'s the last thing I want to get into- look, I need you to pull a heist for me. Down to the southwest and across the river is the main Wildhammer town of Dun Kithas. Overlooking its eastern cliff-face is a small workshop dedicated to repairing broken steamtanks. I need you to get in, recover a \'Chromatic Servo-Motor\' and bring it to me. My source says there should be one lying around somewhere.",
-    ["O"] = "Recover a Chromatic Servo-Motor from the repair yard of Dun Kithas for Razzo Copperfume at his camp just south of Shatterblade Post in the Grim Reaches.",
-    ["T"] = "The Chromatic Servo-Motor",
+    ["D"] = "Ei você, quer ajudar um goblin exilado e oprimido a recuperar parte de suas riquezas perdidas e voltar adequadamente para a DLU?$B$B...",
+    ["O"] = "Recupere um Servomotor Cromático do pátio de reparos de Dun Kithas para Razzo Copperfume em seu acampamento ao sul de Shatterblade Post nos Confins Sombrios.",
+    ["T"] = "O Servomotor Cromático",
   },
   [41895] = {
-    ["D"] = "The local Forest Spiders have been seen creeping around Elwynn for what seems like an eternity. Their ichor has always fetched a pretty penny and I know someone who is looking for some. You can find them all around Goldshire itself, lurking both to the south, and to the west.$B$BBring me 3 Forest Ichor, and I shall reward you with a handsome price!...a handsome price.",
-    ["O"] = "Gather 3 Forest Ichor from the local Forest Spiders around Elwynn Forest for Remy \"Two Times\" in Goldshire.",
-    ["T"] = "Forest Ichor Exchange",
+    ["D"] = "As aranhas da floresta locais são vistas rondando Elwynn desde tempos imemoriais. Seu ichor sempre valeu uma boa grana e eu conheço alguém que está procurando por isso. Você pode encontrá-las ao redor de Vila d\'Ouro, à espreita tanto ao sul quanto ao oeste.$B$B...",
+    ["O"] = "Colete 3 Ichor da Floresta das aranhas locais ao redor da Floresta de Elwynn para Remy \'Duas Vezes\' em Vila d\'Ouro.",
+    ["T"] = "Troca de Ichor da Floresta",
   },
   [41896] = {
-    ["D"] = "I be hearing of a dark and magical corruption gripping the far away lands of the Grim Reaches on the far edges of the Eastern Kingdoms. A murloc tribe going by the name \'Miregill\' has been corrupted by the intense dark magic that has been rotting the land itself...$B$BI be seeking to harness this magic, and use it as a ward to protect myself from the shadow. Travel there, and gather from the murlocs of the corrupted swamps their fins, once they are collected, bring them to me.",
-    ["O"] = "Gather 6 Corrupted Miregill Fins from the murlocs in the Grim Hollow for Selja at Shadowprey Village in Desolace.",
-    ["T"] = "The Shadowed Hollow",
+    ["D"] = "Ouvi falar de uma corrupção sombria e mágica afetando as terras distantes dos Confins Sombrios nos limites orientais dos Reinos do Leste. Uma tribo de murlocs chamada \'Miregill\' foi corrompida pela intensa magia sombria que tem apodrecido a própria terra...$B$B...",
+    ["O"] = "Colete 6 Barbatanas de Miregill Corrompidas dos murlocs na Clareira Sombria para Selja na Vila Casco Sangrento em Desolace.",
+    ["T"] = "A Clareira Sombria",
+  },
+  [41897] = {
+    ["D"] = "A ameaça além dos portões só fica mais ousada. Nossos batedores relatam atividade intensificada entre os comandantes das forças inimigas. Devemos levar a luta até eles.$B$B...",
+    ["O"] = "Colete 25 Brasões de Valor dos chefes de masmorra.",
+    ["T"] = "Chamado às Armas: Investida em Masmorras",
   },
   [50000] = {
     ["D"] = "O professor Malkovich é um velho amigo meu. Ele me disse para enviar a ele alguém interessado em anatomia.$B$BEncontre-o no fundo do Boticário na Cidade Baixa.",

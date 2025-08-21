@@ -22260,7 +22260,7 @@ pfDB["quests"]["deDE-turtle"] = {
   [41834] = {
     ["D"] = "When I was sent to this island, I believed the Warchief—like most—saw only an old orc, ready to die. He ordered me to serve as a commander, not a warrior. Were it not for Eitrigg\'s counsel and Saurfang\'s mocking words, I doubt I would have played my part. But I trusted my friends, and they trusted the Warchief.$B$BA Frostwolf heart beats in his chest. He is wise beyond his years, much like Drek\'thar and Orgrim. It seems he was right about me. Though I longed to fight at your side, to stain this island red with my axe, I have learned something else.$B$BI am the last chieftain of the Bleeding Hollow, elder of the Horde, and with these hands, I will guide the next generation. Go now, with victory in your heart, to Grommash Hold. Present our triumph to the Warchief, and tell him I will soon return. Perhaps I will visit Hellscream\'s memorial when I do.",
     ["O"] = "Report to Thrall in Grommash Hold, the Valley of Wisdom, Orgrimmar.",
-    ["T"] = "Storm\'s End",
+    ["T"] = "Ende des Sturms",
   },
   [41835] = {
     ["D"] = "While they already occupy most of the island, it seems they have not truly bathed in their own arrogance. As if expecting both Alliance and Horde to come, a great number of demons have been summoned. I can feel their echoing presence from this far. Whether it is for protection or invasion, I know not.$B$BNor does it truly matter, since you will thwart their plans. You can find these demons in a cave near the south west end of the island. Just past the ruined battlefields west of Stormwrought castle. While the imps may not prove a real challenge, you will have to deal with felhunters and succubi.$B$BI do wonder—will you succumb to the fire of an imp, the gluttony of the felhunter, or perhaps the lust of the succubi? I truly hope not, for your role here has yet to end. I will offer you a healthstone—not that I don’t trust you, but it is best to have the means to heal when the unexpected strikes, is it not?",
@@ -22566,6 +22566,11 @@ pfDB["quests"]["deDE-turtle"] = {
     ["D"] = "I be hearing of a dark and magical corruption gripping the far away lands of the Grim Reaches on the far edges of the Eastern Kingdoms. A murloc tribe going by the name \'Miregill\' has been corrupted by the intense dark magic that has been rotting the land itself...$B$BI be seeking to harness this magic, and use it as a ward to protect myself from the shadow. Travel there, and gather from the murlocs of the corrupted swamps their fins, once they are collected, bring them to me.",
     ["O"] = "Gather 6 Corrupted Miregill Fins from the murlocs in the Grim Hollow for Selja at Shadowprey Village in Desolace.",
     ["T"] = "The Shadowed Hollow",
+  },
+  [41897] = {
+    ["D"] = "The threat beyond the gates only grows bolder. Our scouts report intensified activity among the commanders of the enemy forces. We must take the fight to them.$B$BStrike down their leaders, recover their crests, and bring them back to me. Show them that we do not falter. Show them the might of the Alliance.",
+    ["O"] = "Collect 25 Crests of Valor from dungeon bosses.",
+    ["T"] = "Call to Arms: Dungeon Delving",
   },
   [50000] = {
     ["D"] = "Professor Malkovich is an old friend of mine. He told me to send him someone interested in anatomy.$B$BFind him at the bottom of the Apothecarium in Undercity.",
