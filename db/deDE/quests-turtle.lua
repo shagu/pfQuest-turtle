@@ -484,7 +484,7 @@ pfDB["quests"]["deDE-turtle"] = {
   },
   [123] = {
     ["D"] = "Bei der Notiz handelt es sich um eine Tabelle mit Daten und Zeiten, zu denen jemand, der in der Notiz nur als \"der Sammler\" bezeichnet wird, je eine Lieferung Gold aus den Minen des Waldes von Elwynn erhalten soll.$B$BAus dem Plan geht hervor, dass sich der Sammler anscheinend in der Nähe von Brackbrunns Kürbisbeet in Ost-Elwynn aufhält.$B$BDas klingt, als sei es wichtig. Ihr solltet Marschall McCree im Holzfällerlager des Osttals davon berichten.",
-    ["O"] = "Begebt Euch zu Marschall McCree ins Holzfällerlager des Osttals und gebt ihm den Zeitplan des Sammlers.",
+    ["O"] = "Begebt Euch zu Marschall Dughan in Goldhain und gebt ihm den Zeitplan des Sammlers.",
     ["T"] = "Der Sammler",
   },
   [124] = {
@@ -16788,7 +16788,7 @@ pfDB["quests"]["deDE-turtle"] = {
     ["T"] = "Der nächste Schritt",
   },
   [40719] = {
-    ["D"] = "Well, we great goblins here at Mudsprocket have managed to do a little digging. We gathered some of the ash from nearby the burned down inn, and are looking to study it to see if the fire was truly cause by dragons.$B$BTo do so, we need some materials, we will need to construct a Gizz-matic Scope, a personal creation of mine to look deep into the ashes properties.$B$BI would also like to gather a Pristine Flame Sac, from the nearby whelps in the region, it will give us good insight into what exactly we are dealing with!",
+    ["D"] = "Well, we great goblins here at Mudsprocket have managed to do a little digging. We gathered some of the ash from nearby the burned down inn, and are looking to study it to see if the fire was truly caused by dragons.$B$BTo do so, we need some materials, we will need to construct a Gizz-matic Scope, a personal creation of mine to look deep into the ashes properties.$B$BI would also like to gather a Pristine Flame Sac, from the nearby whelps in the region, it will give us good insight into what exactly we are dealing with!",
     ["O"] = "Bring 5 Whirring Bronze Gizmo, 1 Standard Scope, and 1 Pristine Flamesac to Gizzix at Mudsprocket in Dustwallow Marsh.",
     ["T"] = "Feinste Goblintechnik",
   },
@@ -21588,7 +21588,7 @@ pfDB["quests"]["deDE-turtle"] = {
     ["T"] = "Schreckliche Neuigkeiten",
   },
   [41700] = {
-    ["D"] = "Our helmsman Verix steered us over this island, not realizing we\'d be flying directly into a hornet\'s nest of thunderstorms. I would be cursing him to the slums of Undermine, but if there is anyone to blame it would be me for allowing him to sway the course. That\'s exactly why it is my duty to get us all off this wretched island. Without my compass however, we have little chance of escaping this harsh weather and returning to Booty Bay!$B$B1The slimy snake Verix took it with him, practically holding us hostage. It seems he knows this island, as he blabbered about endless treasure sleeping in its ruins. Frankly, if our situation were not so dire, I would accompany him, but the survival of my crew is top priority. His journal says something about a crypt full of gold, go find him and bring me back my compass!",
+    ["D"] = "Our helmsman Verix steered us over this island, not realizing we\'d be flying directly into a hornet\'s nest of thunderstorms. I would be cursing him to the slums of Undermine, but if there is anyone to blame it would be me for allowing him to sway the course. That\'s exactly why it is my duty to get us all off this wretched island. Without my compass however, we have little chance of escaping this harsh weather and returning to Booty Bay!$B$BThe slimy snake Verix took it with him, practically holding us hostage. It seems he knows this island, as he blabbered about endless treasure sleeping in its ruins. Frankly, if our situation were not so dire, I would accompany him, but the survival of my crew is top priority. His journal says something about a crypt full of gold, go find him and bring me back my compass!",
     ["O"] = "Find Helmsman Verix and return Yunie\'s Compass to her on the island north of Balor.",
     ["T"] = "Die Gold Erfahrung",
   },
@@ -23105,7 +23105,7 @@ pfDB["quests"]["deDE-turtle"] = {
   [60007] = {
     ["D"] = "Lulu is staring at the wolves surrounding the farm warily. You think you can hear her poor little heart thudding in dread. The wolves are licking their chops, biding their time until they get a chance to strike.$B$BAn innocent, adorable thing like her shouldn\'t look so terrified in her own home. It\'s up to you to ease Lulu\'s distress.",
     ["O"] = "Slay 15 Mangy Wolves around Elwynn Forest, then return to Lulu in Goldshire.",
-    ["T"] = "[VERALTET] Lulu lockt die Lupinen",
+    ["T"] = "Lulu lockt die Lupinen",
   },
   [60008] = {
     ["D"] = "My ma used to make a mean set of mittens that warmed us up in the chillier months. Each day gets a little colder without her, but she taught me everything she knew about making woolen garments.$B$BAs you can see, the farm\'s been losing sheep left and right. There\'s plenty out in the forest though, but it\'s too dangerous for me. Papa can\'t lose me and Ma both—then he\'d be stuck with poor ol\' Lulu.$B$BGather a few bundles of wool so that I can make Papa warm clothes for the season, and I\'ll craft up a lil\' something for you, too.",

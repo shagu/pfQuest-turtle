@@ -389,7 +389,6 @@ pfDB["zones"]["ptBR-turtle"] = {
   [717] = "A Prisão",
   [718] = "Cavernas Uivantes",
   [720] = "Ilha da Briga",
-  [722] = "Razorfen Downs",
   [736] = "Clareira de Ban\'ethil",
   [796] = "Monastério Scarlet",
   [797] = "Atracadero de Jerod",

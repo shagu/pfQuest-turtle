@@ -30082,6 +30082,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 14387 },
     },
+    ["event"] = 172,
     ["lvl"] = 60,
     ["min"] = 55,
     ["obj"] = {
@@ -31516,6 +31517,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 14387 },
     },
+    ["event"] = 172,
     ["lvl"] = 60,
     ["min"] = 55,
     ["obj"] = {
@@ -55928,6 +55930,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 61616 },
     },
+    ["event"] = 171,
     ["lvl"] = 60,
     ["min"] = 1,
     ["obj"] = {
@@ -56031,6 +56034,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 61616 },
     },
+    ["event"] = 171,
     ["lvl"] = 60,
     ["min"] = 1,
     ["obj"] = {
@@ -63693,7 +63697,7 @@ pfDB["quests"]["data-turtle"] = {
       ["U"] = { 62299 },
     },
     ["lvl"] = 34,
-    ["min"] = 34,
+    ["min"] = 21,
     ["obj"] = {
       ["I"] = { 41675, 41752 },
     },
@@ -65880,6 +65884,7 @@ pfDB["quests"]["data-turtle"] = {
     ["obj"] = {
       ["I"] = {},
     },
+    ["race"] = 589,
     ["start"] = {
       ["I"] = { 41954 },
     },
@@ -71025,6 +71030,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 61616 },
     },
+    ["event"] = 171,
     ["lvl"] = 60,
     ["min"] = 1,
     ["obj"] = {
@@ -71038,6 +71044,7 @@ pfDB["quests"]["data-turtle"] = {
     ["end"] = {
       ["U"] = { 61616 },
     },
+    ["event"] = 171,
     ["lvl"] = 60,
     ["min"] = 1,
     ["obj"] = {

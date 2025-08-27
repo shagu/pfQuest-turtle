@@ -5338,7 +5338,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Next Course of Action",
   },
   [40719] = {
-    ["D"] = "Well, we great goblins here at Mudsprocket have managed to do a little digging. We gathered some of the ash from nearby the burned down inn, and are looking to study it to see if the fire was truly cause by dragons.$B$BTo do so, we need some materials, we will need to construct a Gizz-matic Scope, a personal creation of mine to look deep into the ashes properties.$B$BI would also like to gather a Pristine Flame Sac, from the nearby whelps in the region, it will give us good insight into what exactly we are dealing with!",
+    ["D"] = "Well, we great goblins here at Mudsprocket have managed to do a little digging. We gathered some of the ash from nearby the burned down inn, and are looking to study it to see if the fire was truly caused by dragons.$B$BTo do so, we need some materials, we will need to construct a Gizz-matic Scope, a personal creation of mine to look deep into the ashes properties.$B$BI would also like to gather a Pristine Flame Sac, from the nearby whelps in the region, it will give us good insight into what exactly we are dealing with!",
     ["O"] = "Bring 5 Whirring Bronze Gizmo, 1 Standard Scope, and 1 Pristine Flamesac to Gizzix at Mudsprocket in Dustwallow Marsh.",
     ["T"] = "Exquisite Goblin Engineering",
   },
@@ -10138,7 +10138,7 @@ pfDB["quests"]["enUS-turtle"] = {
     ["T"] = "Harrowing News",
   },
   [41700] = {
-    ["D"] = "Our helmsman Verix steered us over this island, not realizing we\'d be flying directly into a hornet\'s nest of thunderstorms. I would be cursing him to the slums of Undermine, but if there is anyone to blame it would be me for allowing him to sway the course. That\'s exactly why it is my duty to get us all off this wretched island. Without my compass however, we have little chance of escaping this harsh weather and returning to Booty Bay!$B$B1The slimy snake Verix took it with him, practically holding us hostage. It seems he knows this island, as he blabbered about endless treasure sleeping in its ruins. Frankly, if our situation were not so dire, I would accompany him, but the survival of my crew is top priority. His journal says something about a crypt full of gold, go find him and bring me back my compass!",
+    ["D"] = "Our helmsman Verix steered us over this island, not realizing we\'d be flying directly into a hornet\'s nest of thunderstorms. I would be cursing him to the slums of Undermine, but if there is anyone to blame it would be me for allowing him to sway the course. That\'s exactly why it is my duty to get us all off this wretched island. Without my compass however, we have little chance of escaping this harsh weather and returning to Booty Bay!$B$BThe slimy snake Verix took it with him, practically holding us hostage. It seems he knows this island, as he blabbered about endless treasure sleeping in its ruins. Frankly, if our situation were not so dire, I would accompany him, but the survival of my crew is top priority. His journal says something about a crypt full of gold, go find him and bring me back my compass!",
     ["O"] = "Find Helmsman Verix and return Yunie\'s Compass to her on the island north of Balor.",
     ["T"] = "The Gold Experience",
   },
